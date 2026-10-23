@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T1164,
+      
+      <p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_top"><span style=" font-weight: bold; font-size: 1.17em;">Postscript</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">I</span><span style=" font-size: 1.00em;"> </span><span style=" font-size: 0.80em;">WAS CASUALLY THINKING</span><span style=" font-size: 1.00em;"> about the advantages of living in Tokyo the other day. You see so many restaurants
+            in the media—I thought maybe I should go eat at one of them myself. But there’s probably
+            been more than a few occasions when a place is shown on TV, and right after, becomes
+            so popular that you can’t even get in. Even worse, the prices get way too steep…</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Oh, hey there. It’s been a while. It’s the guy who felt like Volume 8 had only just
+            been released yesterday, but now realizes we’re already at the release of Volume 9:
+            Kinugasa. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I just can’t help but feel concerned about my health these days. Because of the nature
+            of my occupation, I spend almost two-thirds of my day sitting down. My blood circulation
+            is getting worse and worse and my back is hurting more. When I was young, I could
+            push through somehow, thanks to my physical prowess. But now I can’t really fake it
+            to get by anymore. I’ve been going in for regular checkups and everything, but I kind
+            of feel like…you know, as long as there’s no way to really address the root of the
+            problem, the future doesn’t hold much hope.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Anyway, the story of Volume 9 focuses on Valentine’s Day and the time leading up to
+            the year-end exam. The protagonist has gradually started to become surrounded by more
+            and more girls. I’ve been wondering if there’s a chance that he might actually make
+            some progress with a girl, deepen his relationship with her, in his second year of
+            school.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The story also focused on Ichinose, who hadn’t really had much time in the spotlight
+            so far in the series. There were no special exams this time around, so the story unfolded
+            in a relatively peaceful (?) way, but it’s getting to be more serious. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Finally, the first-year arc will come to an end with the special exam featured in
+            the next installment, Volume 10. There have been times where I’ve thought to myself…
+            “They’re still in their first year, even though it’s been close to </span><span style=" font-style: italic; font-size: 1.00em;">four</span><span style=" font-size: 1.00em;"> years since the series started?” So, from here on out, things may start to develop
+            a little bit faster…maybe. (I still don’t know yet.)</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The words my editor said to me at the time I started this series are still in my mind,
+            even now.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m glad that this is a work where time always moves forward.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">No matter how long it takes, the end will eventually come. I laughed at first when
+            I heard that, but now I’m convinced it’s true. I have a pretty serious look on my
+            face as I think about it now. I’m thinking I’d like to show you how the class points
+            and the main character’s private points are coming along in the next volume, if possible.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Anyway. Let’s meet again in Volume 10, everyone.</span></p>
+      
+   
+      
+      <div class="p.P_Centre">
+         
+         <p/>
+         
+         0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Epilogue: Postscript","volumeId":"v9","chapterIndex":16,"prevChapter":{"volumeId":"v9","chapter":15,"title":"Chapter 9: Return"},"toc":[{"label":"Table of Contents","href":"TableOfContents.html#tableofcontents","index":2},{"label":"Character Gallery","href":"section-0001.html#auto_bookmark_toc_top","index":3},{"label":"Table of Contents Page","href":"section-0002.html#auto_bookmark_toc_top","index":4},{"label":"Title Page","href":"section-0003.html#auto_bookmark_toc_top","index":5},{"label":"Copyrights and Credits","href":"section-0004.html#auto_bookmark_toc_top","index":6},{"label":"Chapter 1 - Prologue : Ichinose Honami’s Soliloquy","href":"section-0005.html#auto_bookmark_toc_top","index":7},{"label":"Chapter 2: The Student Council President’s Inclination","href":"section-0006.html#auto_bookmark_toc_top","index":8},{"label":"Chapter 3: Changing Relationships","href":"section-0007.html#auto_bookmark_toc_top","index":9},{"label":"Chapter 4: Unchanging Intent","href":"section-0008.html#auto_bookmark_toc_top","index":10},{"label":"Chapter 5: Ichinose’s Secret, Kamuro’s Secret","href":"section-0009.html#auto_bookmark_toc_top","index":11},{"label":"Chapter 6: Rumors Running Rampant","href":"section-0010.html#auto_bookmark_toc_top","index":12},{"label":"Chapter 7: Ambiguous Things","href":"section-0011.html#auto_bookmark_toc_top","index":13},{"label":"Chapter 8: All the Tricks","href":"section-0012.html#auto_bookmark_toc_top","index":14},{"label":"Chapter 9: Return","href":"section-0013.html#auto_bookmark_toc_top","index":15},{"label":"Epilogue: Postscript","href":"section-0014.html#auto_bookmark_toc_top","index":16}],"volumeTitle":"Light Novel Volume 9","detailsLink":"/select/year-1/v9","returnLink":"/select","currentSpineIndex":16,"nextVolumeLink":"/select/year-1/v10","nextVolumeTitle":"Light Novel Volume 10"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

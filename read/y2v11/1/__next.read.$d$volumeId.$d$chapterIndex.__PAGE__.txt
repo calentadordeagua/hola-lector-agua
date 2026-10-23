@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+4:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T580,
+        <div>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 1159 1651" preserveAspectRatio="none">
+                <image width="1159" height="1651" xlink:href="cover.jpeg"/>
+            </svg>
+        </div>
+    
+<style>
+    body {
+        color: #e5e5e5 !important;
+        background-color: transparent !important;
+    }
+    .P_Prose_Formatting {
+        font-family: serif; /* Match standard LN feel */
+        font-size: 1.08em;
+        text-align: justify;
+        text-indent: 1.50em; /* Standard indent */
+        line-height: 1.4;
+        margin-top: 0.42em;
+        margin-bottom: 0.42em;
+        color: inherit; /* Essential: Inherit theme color (white in dark mode) */
+    }
+    .P_TEXTBODY_CENTERALIGN {
+        font-size: 1.00em;
+        text-align: center;
+        text-indent: 0;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        display: block;
+    }
+    .chapter-title {
+        font-family: serif;
+        font-weight: bold;
+        font-size: 1.8em;
+        text-align: center;
+        margin-top: 1.5em;
+        margin-bottom: 1.5em;
+        page-break-before: always;
+        color: inherit;
+    }
+    a { color: inherit; text-decoration: none; }
+    img { 
+        max-width: 100%; 
+        height: auto; 
+        display: block; 
+        margin: 0 auto;
+    }
+</style>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Illustrations","volumeId":"y2v11","chapterIndex":1,"nextChapter":{"volumeId":"y2v11","chapter":2,"title":"Prologue: Miki Yamamura’s Monologue"},"toc":[{"label":"Illustrations","href":"index_split_000.html#illustrations","index":1},{"label":"Prologue: Miki Yamamura’s Monologue","href":"index_split_000.html#prologue","index":2},{"label":"Chapter 1: The Elusive Two-Party Interview","href":"index_split_001.html#chapter-1","index":3},{"label":"Chapter 2: The Exchange Training Camp","href":"index_split_002.html#chapter-2","index":4},{"label":"Chapter 3: Request from Horikita & Request from Ayanokōji","href":"index_split_002.html#chapter-3","index":4},{"label":"Chapter 4: A Strange Discomfort","href":"index_split_003.html#chapter-4","index":5},{"label":"Chapter 5: The One Who Watches, The One Being Watched","href":"index_split_004.html#chapter-5","index":6},{"label":"Chapter 6: A Peaceful Resolution","href":"index_split_005.html#chapter-6","index":7},{"label":"Chapter 7: A Settled Night","href":"index_split_006.html#chapter-7","index":8},{"label":"Chapter 8: The Courage to Move Forward","href":"index_split_007.html#chapter-8","index":9},{"label":"Epilogue: Who is the Challenger?","href":"index_split_007.html#epilogue","index":9},{"label":"Epilogue: Postscript","href":"index_split_007.html#postscript","index":9}],"volumeTitle":"Light Novel 2nd Year Volume 11","detailsLink":"/select/year-2/y2v11","returnLink":"/select","currentSpineIndex":1,"nextVolumeLink":"/select/year-2/y2v12","nextVolumeTitle":"Light Novel 2nd Year Volume 12"}],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

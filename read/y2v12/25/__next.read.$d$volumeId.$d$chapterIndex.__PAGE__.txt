@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:Tbd8,
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_24"><span class="C_Current__And__Times_New_Roman">“I’ve probably been watching you more closely than anyone else over these past two years. I know your weaknesses and your strengths, all of it,” I told her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Horikita tried to object, but the words didn’t come out. Suddenly, I felt like she could endure, that feeling being transmitted to me along with her body heat.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You have allies,” I added. “Don’t forget that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Allies…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s right. You’ll probably experience something similar to this in the future too. When that happens, don’t keep it to yourself, but make sure to rely on your classmates. They will surely be of great help to you,” I said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As I said this, I gently let go of Horikita and started walking away.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji-kun… Ichinose-san is…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For Horikita, who was anxious about the outcome of the exam, there was probably only one statement that could reassure her most right now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You can leave the rest to me. I have no intention of letting your class lose,” I told her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">From the moment I had decided to participate in the special exam, the outcome was set in stone. Horikita’s class would win, and Ichinose’s class would lose. It was with that thought in mind that I was standing here, and I walked onward to arrive at the battlefield where Ichinose was waiting for me. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I wondered how Ichinose was feeling as she waited for me on the other side of the door. I was sure that she was a little nervous, and also, probably…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I opened the door.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">What immediately jumped out to me in my field of view was Ichinose’s warm smile, just as I had expected.</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_05" src="/hola-lector-agua/images/books/y2v12/OEBPS/Images/INTERIORIMAGES_05.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 7: Bitter Tears","volumeId":"y2v12","chapterIndex":25,"prevChapter":{"volumeId":"y2v12","chapter":19,"title":"Chapter 7: Bitter Tears"},"nextChapter":{"volumeId":"y2v12","chapter":27,"title":"Chapter 8: Ayanokouji’s Scheme"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Hoshinomiya Chie’s Soliloquy","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: The Unusual End-of-Year Special Exam","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: What Ought to Be Finished","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: The End-of-Year Special Exam Begins","href":"Text/section-0013.html#auto_bookmark_toc_13","index":14},{"label":"Chapter 5: The Battle of the Vanguards","href":"Text/section-0014.html#auto_bookmark_toc_14","index":15},{"label":"Chapter 6: Katsuragi’s Counterattack","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 7: Bitter Tears","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 8: Ayanokouji’s Scheme","href":"Text/section-0026.html#auto_bookmark_toc_26","index":27},{"label":"Chapter 9: An Awaited Opponent","href":"Text/section-0029.html#auto_bookmark_toc_29","index":30},{"label":"Chapter 10 - Epilogue : The Truth Is…","href":"Text/section-0036.html#auto_bookmark_toc_36","index":37},{"label":"Postscript","href":"Text/section-0039.html#auto_bookmark_toc_39","index":40}],"volumeTitle":"Light Novel 2nd Year Volume 12","detailsLink":"/select/year-2/y2v12","returnLink":"/select","currentSpineIndex":25,"nextVolumeLink":"/select/year-2/y2v12.5","nextVolumeTitle":"Light Novel 2nd Year Volume 12.5"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

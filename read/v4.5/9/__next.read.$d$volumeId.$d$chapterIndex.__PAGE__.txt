@@ -1,0 +1,782 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T25b68,
+<p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_top"><span style=" font-weight: bold; font-size: 1.17em;">Chapter 3:<br/>Katsuragi Kouhei is<br/>Surprisingly Troubled</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">A</span><span style=" font-size: 1.00em;">lthough most Japanese people aren’t typically mindful of religion, Christianity has influenced them strongly through events such as Christmas and birthday celebrations. You could say that was a result of people’s faith, but also that it came from clever marketing luring them in. The recent trend of celebrating Halloween could be chalked up to the same influence.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">What I’m trying to say is that birthdays were rather significant events at this school. The convenience stores, shopping malls, and other campus facilities had special kiosks set up for that single purpose.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">This particular story began one week before Ibuki and I ended up stuck in an elevator, when I received a message from Kushida, the class sweetheart. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The message read, </span><span style=" font-style: italic; font-size: 1.00em;">Next Wednesday is Inogashira-san’s birthday. Would you care to celebrate with us?</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">She had sent the message to our group chat. Inogashira was a somewhat quiet, plain girl from Class D, rather like Sakura. She didn’t have many friends, so the idea seemed to be to help her make some. Of course, Ike jumped at the invitation, for a blatantly obvious reason: he liked Kushida and wanted to be in her good graces. He’d probably use this event as a way to get closer to her.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He messaged us. </span><span style=" font-style: italic; font-size: 1.00em;">You got a message from Kikyou-chan too, right? Let’s get some presents for Kokoro-chan!</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Yamauchi’s response was slow in coming. </span><span style=" font-style: italic; font-size: 1.00em;">Well, I don’t got any money. I should be getting some next month, though</span><span style=" font-size: 1.00em;">.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was right—the Class D students were basically broke. We’d netted good results in the last special exam, and certain students had been promised rather large amounts of private points. Sadly, those points wouldn’t be deposited until September 1. By that time, the elevator incident had happened, so I’d used up a lot of points on the fortune-teller and had almost nothing left.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I would be finishing summer vacation as a poor man. Did these guys plan on buying individual gifts? If this were a close friend’s birthday, that’d be one thing. But none of my friends were close with Inogashira.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Isn’t it all right if the guys just pool their points and buy her one present? In that case, we should be able to buy her a proper gift</span><span style=" font-size: 1.00em;">, </span><span style=" font-style: italic; font-size: 1.00em;">even if it’s just 500 points,</span><span style=" font-size: 1.00em;"> I proposed.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I thought Yamauchi would agree to that, but apparently his financial situation was dire. He was just barely scraping by, living a life of poverty. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">We had been awarded 8,700 private points at the start of August. Compared to an average high schooler’s allowance, that was a little unsatisfactory, but you could get by on it by if you were smart. Fortunately, the school provided a free meal plan, and water was free. So, if you were frugal, it was possible to get by without spending a single yen. Still, most students ran out of money once the end of the month approached, just like when we’d started school there and received 100,000 points in that first month. If people had money, they liked to spend it. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In the end, all three of them agreed with my proposition. We decided to go out and buy the present together.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.1</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">A</span><span style=" font-size: 1.00em;">s I felt the boiling heat on my skin, I wiped sweat off my forehead.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But…why is Kikyou-chan not here?! Huh, Ayanokouji?! She’s the most important person!” shouted Ike.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The first thing out of Ike’s mouth when we met was his concern regarding Kushida’s absence. I wished he wouldn’t turn to me for an explanation. I wasn’t in charge of Horikita and Kushida’s schedules. Perhaps Ike found me easy to vent to, but I was honestly getting sick of it. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Try to calm down. Remember, Kushida never said that she’d go with us.” Kushida had seemingly invited her other girlfriends shopping, rather than spend time with a bunch of overheated boys. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m not convinced! If Kikyou-chan isn’t here, there’s no point!” Ike shouted.</span></p>
+ <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was going too far. I wished he'd stop trying to reject the entire gathering.</span></p>   
+    
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Now I have to shop for a present I don’t even care about with a bunch of assholes!” Yamauchi complained.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I understood why he wanted to shout, but it wasn’t like </span><span style=" font-style: italic; font-size: 1.00em;">I </span><span style=" font-size: 1.00em;">wanted to hang out with a bunch of dumb guys, either. Well, I supposed I was enjoying this a little. It was the first time I’d hung out with other guys during summer vacation, besides the special tests. Normal people generally do things like shop or go the movies with their friends.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s pretty lame to go shopping for a birthday present when it’s just us three assholes, huh? Haruki, I’ll leave the rest to you. Go ahead and pick something Kokoro-chan would like,” said Ike.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Screw that. You wanted to go, so you should do the shopping!” countered Yamauchi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The two of them bickered until I stepped in.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“How about you two calm down? It’ll be better if we shop together, right? Sudou’s also entrusted us with his share of the points,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s true, but I don’t think it’s necessary for the three of us to go,” Ike whined.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We’ve come all this way. Let’s hurry up, buy the present, and head back,” I replied. “We’re wasting time and energy just standing here and complaining in this heat, don’t you agree?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Enough, I get it already. Let’s just buy it and head back. Ah, this is so boring!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In contrast to the other two guys, I was a little excited as we headed to the store. Passing all the shops lined up on campus, we came to a store that girls frequented. The clerk was an older beauty, and the interior was completely pink. Frivolous objects like stuffed animals and cell phone accessories lined the shelves. It felt as though the shop was trying to squeeze private points out of the students.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, since the school gave us points in the first place, it’s not really a loss,” I murmured.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What are you muttering about? Come on, help us pick what we should buy,” said Ike. The two of them should have been ashamed of themselves. They were ogling the beautiful store clerk and the other girls as they shopped, clearly having a good time. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">We split up and hunted around the store to find a birthday present. Of course, I’d never intended to pick it myself. I had no idea what to choose.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Something Kokoro-chan would like, huh? Honestly, I have no clue,” I murmured.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">This was my first time giving someone a birthday present, but I wasn’t sure whether I could categorize this as an individual “first” for me, since the present was supposed to come from the three of us. At any rate, I had no experience with birthday-present shopping. The only ideas I came up with were things like a bouquet of roses, or a ring, which were hardly sensible. Those weren’t even birthday gifts; they were what you’d bring to propose marriage. I wanted to find something safe. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">After circling the shop, I met up with Yamauchi again. He held a small, white stuffed bear. I, meanwhile, had a cell phone case. When Yamauchi saw that, he grimaced.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Just put that phone case away. Kokoro-chan definitely has one already. Besides, it’s so completely different from what she likes, I think it’d just cause trouble, honestly,” he said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. Well, how about this screen protector?” I showed him what I’d picked out as a backup plan. Yamauchi frowned even more deeply.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, no, no. She doesn’t need something like that. You really have no sense when it comes to this stuff, Ayanokouji.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But wouldn’t stuffed animals just clutter her room?” I asked. It wasn’t like a stuffed animal would be useful. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sure, it might be in the way, but she can use it to decorate. It matches her interior. Kokoro-chan likes the white bear series, so she should be happy with this present. Besides, I don’t want to hear any sass from the guy who picked out a screen protector,” Yamauchi snapped.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">When he made fun of me like that, it really came as a shock. Still, I was honestly impressed that he’d researched the tastes of the gift’s recipient. I had enough trouble just trying to remember Inogashira’s name and face. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, where’s Kanji?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I wonder…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">We found Ike standing completely still over by the keychain section. He looked strangely serious, so we approached quietly. Ike was holding some kind of object with an orange character motif. He also held a cloth with the white bear character Yamauchi had mentioned on it.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, Kanji.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wha—?! D-don’t surprise me like that! Jeez!” Flustered, Ike dropped the keychain. Then, for some reason, he immediately put it back on the shelf, as if trying to hide it.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“D-did you already decide?” Yamauchi asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah, I thought we’d buy this white bear towel. Ha ha ha,” Ike replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Not that. Why were you looking at keychains?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? It’s not like I have an ulterior motive or anything. Anyway, let’s see what’s over there.” Ike tried to change the subject. Yamauchi eyed him suspiciously. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wait. If I remember correctly, didn’t Shinohara like that orange character?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I certainly hadn’t expected to hear Shinohara’s name. She was a girl from Class D. During the test on the uninhabited island, she’d clashed with Ike numerous times. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“R-really? That so? No, I was just wondering what Kikyou-chan would think, is all,” Ike bluffed. Despite his words, he was obviously shaken. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wait a minute. You’re not thinking about Shinohara, are you?” Yamauchi inquired.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh?! What?! No way in hell, dude! That ugly chick? No way!” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was certainly true that you might say Shinohara was plain, compared to Kushida. But she was plenty cute in her own right. She had a somewhat forbidding personality, but even that could be thought of as appealing. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you for real? Something seems super suspicious here, don’t you think, Ayanokouji?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, that certainly didn’t seem like a typical Ike reaction,” I answered. Even though Ike was generally thrilled to see any and all girls, he seemed to openly dislike Shinohara. Perhaps he thought about her more than he was letting on, and didn’t want to admit to it. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Look, don’t get the wrong idea!” Ike shouted. “Shinohara isn’t cute at all, and she has too much attitude! If I went out with a girl like her, I’d be too embarrassed to show my face anywhere!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ah.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Yamauchi and I had both noticed another presence in the store. We frantically tried to get Ike to change the subject.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sure, sure. We got it. We understand what you’re saying. Let’s go pick out Kokoro-chan’s birthday present,” urged Yamauchi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, you </span><span style=" font-style: italic; font-size: 1.00em;">don’t </span><span style=" font-size: 1.00em;">get it. You want to know how ugly I think Shinohara is? Listen up. It’s not just her face, her personality is ugly too, you know? Not to mention she’s practically a stick—she has, like, no curves. Even among other ugly chicks, she’s probably the ugliest!” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“A-all right, we get it already. Knock it off, Kanji! Look behind you!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike slowly turned. Shinohara stood behind him, looking as though she was about to start breathing fire. Glancing around the store, I saw her friends, including Kushida, some distance away. I supposed that was only natural. They were probably at the shop to pick out a birthday present for Inogashira, like us.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You can just go ahead and die, Ike!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">With those heated words, Shinohara stormed out of the store. Ike watched her leave, seemingly unable to respond. He just stood there, dumbfounded, looking at Shinohara as she left. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wh-what does she mean, ‘die’? That’s rich, coming from an uggo. R-right, guys?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Despite his shock, Ike tried to pretend he was still composed. We couldn’t really do anything, so we just nodded.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“H-hey, check it out, Ayanokouji! The baldy is here!” Yamauchi grabbed my shoulder.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He clearly wanted to change the subject. I immediately knew who he meant. A giant man whose forbidding appearance contrasted starkly with this cute store looked at a shelf lined with goods. His back was turned to us.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was Katsuragi from Class A. He meandered around, wearing an intensely stern expression.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You think he’s gonna shoplift?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I really doubted that. Still, I hid without thinking, and watched him with Ike and Yamauchi. I was concerned by his appearance. Wearing a heavy student uniform in this kind of heat? Why would he do something so pointless? Katsuragi’s expression remained unchanged, but he glanced around as if worried about something. He certainly looked like someone thinking about stealing.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I unconsciously grabbed my phone. If I caught Katsuragi in the act, that could be useful later… No. I rejected that idea.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Why would I think something like that?” I asked myself.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? What’d you say, Ayanokouji?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nothing.” If Katsuragi tried to shoplift, that had nothing to do with me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“H-hey. What’s baldy got there?!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Yamauchi and Ike were anxious to witness a crime, almost as if they were anti-shoplifting undercover cops. However, Katsuragi returned the thin box to the shelf. He took down a similar item, then went through the same motions again. It looked less like he wanted to steal anything, and more like he was just confused about what to buy. Ike noticed the discrepancy as well, and looked puzzled.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Maybe he doesn’t want anyone to see what he’s buying?” Ike suggested.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah, you’re probably right.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">So, Katsuragi came here to buy a present for someone. He seemed to be nearing a decision. Eventually, he picked a box off the shelf and made his way to the counter, moving cautiously, as if he didn't want the people around him to know.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><img alt="" height="100%" id="ClassroomElite-Vol4_5_INTERIORILLUSTRATIONS_2" src="/hola-lector-agua/images/books/v4.5/OPS/ClassroomElite-Vol4.5_INTERIORILLUSTRATIONS_2.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></p>
+<div style="page-break-before: always;"/>
+<p class="P_Prose_Formatting__And__Page_Break"><span style=" font-size: 1.00em;">Ike and Yamauchi rushed over to where Katsuragi had selected his present. The boxes looked like thin boards. They grabbed one, turned it over, and glanced at the product information.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“This is…chocolate.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike and Yamauchi trembled, as if something had fired them up.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“W-wait, don’t tell me that baldy already has a girlfriend?!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Seriously?! So, </span><span style=" font-style: italic; font-size: 1.00em;">that’s</span><span style=" font-size: 1.00em;"> the power of Class A?!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike and Yamauchi were evidently trembling with jealous rage over something so trivial. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It might just be a present for a friend, right?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Who gives a present with such cute wrapping paper to a friend?! Would </span><span style=" font-style: italic; font-size: 1.00em;">you</span><span style=" font-size: 1.00em;">?! No, you wouldn’t!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I guess not.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was certainly difficult to imagine giving such a cute little box, adorned with ribbons, to a friend. At the very least, I couldn’t imagine that you’d give it to someone of the same sex. It had to be for a girl Katsuragi was intimate with. That </span><span style=" font-style: italic; font-size: 1.00em;">did</span><span style=" font-size: 1.00em;"> suggest that he probably had a partner. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike and Yamauchi glanced at Katsuragi again as they hid behind the shelves, collecting information.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is this a birthday present for someone?” the clerk asked Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Would you like to include a birthday card?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, please. The birthday is August 29.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi answered the clerk’s questions. Who in the world was the present for? Ike and Yamauchi started whispering.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Did you hear that? Which girl has a birthday on the twenty-ninth?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I-I have no idea. I mean, today’s Sunday, the twenty-first, so…her birthday would be Monday next week, right? Do </span><span style=" font-style: italic; font-size: 1.00em;">you</span><span style=" font-size: 1.00em;"> know who it might be, Ayanokouji?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No clue.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If those two didn’t know, there was no way I did.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.2</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">“H</span><span style=" font-size: 1.00em;">ey. I guess I’ve already brought this up, but why exactly are we in my room?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">For some reason, part of our usual group had gathered in my room after dinner that night. Ike and Yamauchi were there, as they’d promised. Kushida also came, as did Sudou, after he finished his club activities. If Horikita had been here, too, it would’ve been perfect.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kikyou-chan, do you know the other girls’ birthdays?” asked Ike.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. I think I’ve memorized the birthdates of everyone who’s told me, more or less. Whose birthday did you want to know?” she answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, the thing is, it might not be someone from Class D,” Ike added.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If it’s an upperclassman, I don’t know most of them, to be honest. But if it’s a first year, I’d probably know them,” said Kushida, just as I’d expected.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Which girls have birthdays on the twenty-ninth of this month?” asked Ike.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“A girl whose birthday is on the twenty-ninth? Hold on just a minute,” said Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">She pulled out her phone and went through what had to be a birthday list. After she scrolled for a little while, she looked back up at us.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sorry, but it doesn’t seem like anyone I know has a birthday then.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I think it’s probably a girl from Class A.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Class A? Hmm… I know all their birthdays, though.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">However, Kushida didn’t seem to know one girl’s birthday, which was the day after tomorrow.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If it’s a first-year girl, I should know everyone, but I can’t think of anyone who fits,” mused Kushida. If even her overwhelming social network couldn’t produce a name for us, it probably meant that the girl was from a different class. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Does this mean it’s probably an upperclassman?” said Ike, throwing his arms up in defeat and collapsing onto his back.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What’s the matter with the girl born on the twenty-ninth?” asked Kushida. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike responded matter-of-factly. “Just listen to this! You know that baldy in Class A, Katsuragi?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. Katsuragi-kun is famous. He’s the class leader. I was in the same group as him during the test on the ship,” answered Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, that baldy is giving someone a birthday present on the twenty-ninth. Even though he’s bald!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike kept repeating the word “baldy," causing Kushida to give him a word of warning. “Katsuragi-kun lost his hair completely when he was young, due to illness. You really shouldn’t make fun of him."</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Uh…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Scolded, Ike fell silent. He should’ve been fully aware that mocking the ill was shameful. Doing so for a cheap laugh made him less likable.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay, so, from now on, you’ll address him properly, won’t you?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“O-of course. I’m sorry, Kikyou-chan.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s okay, as long as you understand now.” There was a brief pause. It seemed like Kushida had one more thing she wanted to talk about. “Also, about what happened today with Shinohara-san…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Uh…” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike had apparently forgotten about the incident, but Kushida hadn’t. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You understand what you should do about it, right?” She didn’t touch on the subject directly, but simply asked that question in a gentle manner.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ll apologize,” Ike answered sullenly. He looked dissatisfied, but he sounded genuine. He glared at Yamauchi, who was chuckling. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Good. If you do that, I think Shinohara-san will forgive you.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike might actually have matured a little bit, thanks to Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you were talking about Katsuragi-kun giving someone a birthday present?” asked Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, yeah, yeah. I was wondering if you might know something about that, Kikyou-chan.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kushida seemed to be mentally scanning her social network, but couldn’t come up with anything. “Hmm. I never got the impression that Katsuragi-kun was the romantic sort,” she mused. “At least, not before.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Could the gift be for an upperclassman?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I suppose so. There’s still a lot I don’t know, after all.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It would be pretty impressive if Katsuragi had started going out with an upperclassman just a short while after beginning school. I genuinely admired the leader of Class A. That said, should we really be narrowing our search at this stage? We seemed to have already decided he had a girlfriend. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Since it’s come to this, let’s locate Katsuragi’s girlfriend at any cost!” Ike urged.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I felt badly for interrupting when they were in such high spirits, but felt I ought to point out another possibility. “Should we really conclude that Katsuragi was shopping for a senior girl?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kikyou-chan said she doesn’t know any girl with a birthday on the twenty-ninth, so there aren’t other options, are there? Or am I missing something? It couldn’t possibly be Horikita-san, could it?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was a completely baseless assumption, but I couldn’t exclude that possibility.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I guess that’s possible.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? Come on, you’re messing with me, right?” Sudou, who’d been listening quietly to our conversation, suddenly grabbed Ike by the collar and glared at me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Guh! C-come on. I just said ‘possibly’!” Ike shouted, panicking.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, Ayanokouji. When is Suzune’s birthday?” Sudou growled.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Dunno,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The hell, dude? You’re worthless,” he barked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I still didn’t know when Horikita’s birthday was.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t really think anyone at our school knows her birthday,” I replied. The only person who might know was her older brother Horikita Manabu, the student council president.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. Yeah, I guess you got a point. Just because I don’t know, and Ayanokouji doesn’t know, don’t mean that </span><span style=" font-style: italic; font-size: 1.00em;">he</span><span style=" font-size: 1.00em;"> knows, I guess.” Sudou shrugged.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I know Horikita-san’s birthday. It’s on February 15. I don’t think that has anything to do with this,” Kushida announced. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Just as we’d expect of you, Kushida,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d praised her without thinking. I hadn’t expected even Kushida to obtain information about stubborn loners like Horikita and Ibuki, especially Horikita. I was one of the few who knew that Kushida hated Horikita, and Horikita hated Kushida. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I hadn’t thought they were on such good terms that they’d tell each other their birthdays. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“February 15, huh? Sounds like I’ve snagged some good info,” Sudou chuckled. He wore a wide grin. Ike, still in a headlock, tried to tap out as his face turned blue. “Oh, sorry. My bad. Kinda forgot about you.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ken, you really gotta be more careful. You’re stupidly strong!” Ike groaned, wheezing. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You asked for it,” Sudou answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Then you should’ve done that to Ayanokouji, too! Why’d you only hurt me?!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“‘Cause you were closest.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You single-celled organism!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sudou moved to grab Ike by the collar again, and Ike panicked and put distance between them. I wished they wouldn’t cause a ruckus in someone else’s room. Or at least, not in my room.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, the conversation kind of got off track, but I have a different idea. There are other potential candidates for Katsuragi’s present as well. It could be for a teacher, or one of the Keyaki Mall workers. I mean, the people we saw while we were shopping today were all beautiful, right?” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I-I see. When you put it like that, you have a point.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Who knew whether an adult would even consider dating a first-year high school student? From a legal and moral perspective, there was almost no way they could become a couple. I was sure that Katsuragi understood that, too. However, we couldn’t exclude the possibility. We had to be careful not to arbitrarily decide it was an upperclassman.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I wanted Ike and Sudou to understand that it was probably best just to leave things alone.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“How about we quit while we’re ahead, and not get too carried away looking for whoever Katsuragi’s partner might be, okay?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you seriously okay with that?! Even if that baldy has a girlfriend with huge boobs, who’s also really into him, even though she’s older?!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I mean, he’s in Class A. It wouldn’t be strange if he’s popular with older girls.” And if he did have this idealized girlfriend, I didn't wish him ill because of it. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">We, on the other hand, were from Class D. Just being slightly attractive or having a good personality weren’t enough to make us popular. That said, Hirata was popular with both our class and upperclassmen. Kouenji seemed to have a degree of widespread popularity, too.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In the end, the one thing I had in common with Ike and the other guys was that we weren’t exactly popular.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I absolutely hate the idea of Katsuragi beating me!” Ike whined.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Look, there’s nothing we can do, right?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That ain’t true! Just because we’ll probably lose to him doesn’t mean we don’t have a chance of winning!” Sudou shouted.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He peered at us, slapping his shorts-clad thighs.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“In basketball, you can use plays that are just barely allowed. You can even commit a foul, if it’s absolutely necessary to win. A strong desire for victory is what really matters. If Katsuragi giving a present to some girl will bring them closer, then we gotta stop him from doing it,” Sudou continued. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was high-handed. In an athletic competition, Sudou's logic might have made sense, but what he was saying right now wasn't coming from a place of jealousy, not rationality. It wasn’t good, although Sudou seemed fiercely motivated.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That reminds me, your tournament’s coming up soon,” Yamauchi told Sudou. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. It’s on Thursday. I don’t know if I’ll get put in the game, but I’ll be ready, for sure,” Sudou replied. </span><span style=" font-style: italic; font-size: 1.00em;">Smack</span><span style=" font-size: 1.00em;">! He slammed his right fist into his open left hand.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“All right, that’s it! I’m gonna get in his way!” Ike jumped on board with Sudou’s plan to interfere with Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kushida, please say something to him,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kanji-kun, you can’t interfere,” she said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? But… Kikyou-chan, you’re interested in knowing who Katsuragi’s girlfriend is, too, aren’t you?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course I’m curious, but getting in the way is not okay.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Just like that, Kushida extinguished Ike’s excitement like she was dousing a fire. Ike looked disappointed. He turned toward me, perhaps dissatisfied that Kushida had rejected his scheme to interfere, or remembering what had happened with Shinohara before.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay. You, then, Ayanokouji. You find out the mystery person’s identity. Find out who Katsuragi is giving the gift to.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Impossible.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You gotta do it. I mean, you got free time, right?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I couldn’t deny that, but I preferred that Ike just investigate the matter himself.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay, sure, you want me to find this person. But I’m not even in the same class as Katsuragi, and we’re not friends, either,” I answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Trying to investigate someone whose name I didn’t even know, let alone gain their contact information and room number, was going to be a Herculean task.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I have Katsuragi-kun’s contact information. Do you want me to give it to you?” Kushida asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…………”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It wasn’t strange that she’d know Katsuragi’s contact information. Kushida was a beautiful girl with a huge social network. She even knew when Horikita’s birthday was, after all.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“How do you know Katsuragi’s number?” I asked her.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We were placed in the same group during the last special exam, remember? I asked him for it.” To casually exchange contact information like that was honestly amazing. “So, you want me to tell you?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, that’s okay. If I suddenly contacted him, I think even Katsuragi would be surprised,” I reasoned. He might just ignore an incoming call from a number he didn’t recognize. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You stopped me from interfering in Katsuragi’s plans, so you gotta take responsibility,” Ike told me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay, but even if you tell me to take responsibility…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m curious, too. You gotta investigate,” added Sudou, giving me a rather high-handed order.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t you think you should do it yourselves?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? I have a big tournament on Thursday. I don’t got any free time until after. I only got a few more days left to practice, you know?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">When I remained silent, Sudou glared. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Should I force you?” he asked. He swung his arms around, starting to wind up. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It looked as though he intended to put me into a headlock. There’d be no escape if he decided to make an example of me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay, I understand. I’ll do some digging tomorrow. Just don’t expect too much. I have no idea how this is going to go,” I told them.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">For the time being, I supposed it was better to just grin and bear their request. If I reported back to Ike and Sudou later, and said I couldn’t find anything, that would be the end of it.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.3</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">“I</span><span style=" font-size: 1.00em;">t’s so hot. It’s so hot, I feel like I could die…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The next day, I parked myself at the crossroads connecting the paths to the various dorms, choosing a spot under the trees that lined the road. The crossroads were unavoidable if you wanted to meet up with a senior student. They also intersected with the path to the Keyaki Mall and the school building. No matter where Katsuragi decided to go, I wouldn’t miss him. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It would’ve been better to wait in the cool lobby, but unfortunately, some girls from another class had decided to get together and have tea there. Discovering that had felt like entering a restaurant and finding no spots readily available. I wasn’t confident enough to try to slip into the lobby, then sit down and relax when a seat opened up. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Of course, all the students were dressed casually. That made me think of Katsuragi yesterday, still wearing his uniform. No rule stated that you couldn’t wear your uniform over summer vacation, but even if you didn’t care much about fashion, the uniforms did get extremely hot. Katsuragi had even worn the long-sleeved uniform shirt, rather than the short-sleeved summer one.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Since I was typically low on points, I’d been unaware until recently that summer clothes were sold at rather high prices. There were girls in our class who wanted them, but had to do without. There were definitely reasons why people might purposely wear their school uniforms —and not just people like Katsuragi, though he was the first my mind went to. Quite a few people other than him seemed to prefer it, too. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">A couple walked out of the upperclassmen’s dorms—a guy and a girl. When they saw me, they changed directions and walked toward me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey. It’s been a while.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I was just wondering who would wear their school uniform in this insane heat. I guess the answer is Horikita’s brother,” I muttered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Unlike Katsuragi, these two wore summer uniforms. Still, I couldn’t help feeling like something was out of place.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Whoa. President, this student really has a sour look on his face,” said the girl next to Student Council President Horikita Manabu. She spoke in a loud, exaggerated manner. She was a third-year student, Secretary Tachibana.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The girls’ uniforms looked as though they didn’t get as intensely hot as the boys’. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The student council seems rather busy, even during summer vacation,” I said. Secretary Tachibana was holding a notebook. For a moment, I almost had the impression that the second semester had already begun. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We decided to do some reorganizing work in the student council room,” explained Secretary Tachibana.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You know, that was a really stupid response. You should be careful what you say, you know? Do you even know who you’re talking to?This is the fearsome student council president!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Yeah, I knew that. I also knew Horikita Manabu probably wielded an incredible degree of influence. I’d considered using a more respectful tone, but discarded the idea. Horikita’s older brother didn’t seem to expect it of me, anyway.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Meanwhile, Secretary Tachibana was quite different from how I’d imagined her to be. I'd taken her for a more serious person, but she was actually rather soft.</span></p>  
+    
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Do you want to penalize me? Because I’m really running low on points.” I shrugged off what Secretary Tachibana said. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d thought that Horikita’s older brother wouldn’t give someone like me the time of day. But the student council president narrowed his eyes and said, “Ayanokouji, if you have no prior engagements, I’d like you to accompany me.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“P-President?” Secretary Tachibana was caught off guard by the invitation. So was I. But…</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ve got a packed schedule. Sorry.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh?! </span><span style=" font-style: italic; font-size: 1.00em;">You’re</span><span style=" font-size: 1.00em;"> turning </span><span style=" font-style: italic; font-size: 1.00em;">him</span><span style=" font-size: 1.00em;"> down?!” Secretary Tachibana sounded completely flabbergasted.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Whenever you’re free is fine. I don’t mind finding a time that works for you, even if it’s after the semester begins,” Horikita said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Apparently, he had no intention of giving up. Avoiding the problem would not help. I didn’t want to waste my time later on. It might be more convenient to get his request out of the way.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“All right. Let’s just do this now. I have time before my next engagement, anyway,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But didn’t you just say you had a packed schedule?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I ignored Secretary Tachibana.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Where were you planning to go? I don’t mind changing my schedule to accommodate yours,” Horikita said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Uh, I was waiting for someone. If at all possible, I’d prefer not to move.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But isn’t it really hot here? This spot isn’t suitable for a meeting.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m well aware of that.” I didn't mind a little suffering. If I might be allowed to toot my own horn a bit, I thought that was even kind of bad-ass.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I suppose we can just talk here. If you feel uncomfortable, you can head back to the dorms ahead of me,” the president told Tachibana.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No. My instinct says not to leave you alone with this boy, President!” Secretary Tachibana gave him a salute, as if she were his bodyguard.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Horikita turned back to me. “The student council has received reports of the results from the island test, and the test on the ship. Were they difficult?” he asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The student council really has a lot of pull, huh? I mean, to think you’d be able to get those results,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I don’t know how detailed the reports really are. The individual actions taken during the tests remain unclear.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m glad.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re glad that the president hasn’t discovered your failure, I bet,” Tachibana muttered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Secretary Tachibana really didn’t seem to like me. Perhaps that was understandable, given how casually I talked back to the student council president.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“One way or another, some information always ends up leaked. I know that you outsmarted the other classes on the island, and that Class D’s VIP in the Rabbit group successfully avoided detection,” said President Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He’d said that things were unclear, but it sounded as though he knew quite a bit. I suspected collusion.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Horikita continued, “The name Horikita Suzune came up after the island test. I heard that she became her class’s true leader and outsmarted everyone. However, I think that you were responsible.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Aren’t you overestimating me?” I muttered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“In the end, the leader’s name was changed to yours. How do you explain that?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You even know about all that, huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The special examination committee and I are the only ones who know this. Well, and now Secretary Tachibana. The homeroom teachers don’t have this information, so you can relax.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Just how much pull did this guy have? Student organizations were usually decorative. They had no real authority. For them to have access to information the teachers didn’t? Unthinkable.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What exactly </span><span style=" font-style: italic; font-size: 1.00em;">is</span><span style=" font-size: 1.00em;"> the student council?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The student council itself has no power. The abilities of the person seated at the top are paramount.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wow, that’s an impressive statement. You really are in Class A, aren’t you?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Isn’t that obvious?!” snapped Tachibana.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But there’s something I still don’t understand. I mean, the difference between Horikita and me is vast. If you examine the data, Horikita is far superior. Why would you bother with some Class D loser like me?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You misunderstand. I don’t consider the people in Class D stupid. This school doesn’t just shove all the students with superior abilities into Class A,” he replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Um, President? You might have said too much,” Tachibana said. “Aren’t you going a little too far?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There’s no problem. I’m sure this young man understands that already.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The student council president had seemed hyper-focused on me ever since our first encounter. Just how long did he plan to keep this up?</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“In that case, why do you reject Horikita? Isn’t it because she’s in Class D?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I know everything there is to know about my little sister’s capabilities. She’s a failure who belongs in Class D. Nothing more, nothing less,” he replied. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He clearly viewed his younger sister in an incredibly harsh light.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Everything was Horikita’s idea. Your sister doesn’t have any friends except for me, so she had to employ me to play the necessary parts,” I answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s not true. She’d never think of something like that.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It seemed as though he had a perfect understanding of Horikita, perhaps because they grew up together. Even so, I now understood something. This guy probably had his eye on me for the same reason as Chabashira-sensei.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If the president had noticed that I scored exactly 50% on all my entrance examinations, he might also have noticed the difference between my resume and my student report.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Stop fishing for information about my personal life. I just want to spend my days here quietly,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In response, the student council president pushed up his glasses and said something completely astounding.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I asked you once before. Will you join the student council?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Secretary Tachibana’s eyes widened in shock. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wow, that sounds super easy. What, there are still positions that haven’t been filled or something?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“P-President?” Secretary Tachibana stammered. “Didn’t we just accept a first-year girl onto the student council the other day? We’ve also gotten new appointments from the second-year classes. All the seats should be filled.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There’s still one open position, isn’t there?” he asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“One? Y-you can’t mean—?!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ayanokouji, if you wish, I’ll appoint you vice president,” the president said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“W-wait a minute!” Secretary Tachibana seemed to recover her resolve in an instant. An interesting person. “This is completely unprecedented! He’s a first year, and from Class D to boot! We can’t suddenly appoint this rude boy to the vice presidency!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ve said this already, but I refuse any position,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“And on top of that, he just refuses!” Tachibana wailed.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">This was all rather odd. I couldn’t imagine that the president was joking; his evaluation of me seemed honest. Horikita’s older brother certainly did have access to information, and I could understand why he’d choose me, rather than people like Ike and Yamauchi (no offense to those guys). But he should’ve started with people like Katsuragi and Ichinose, or even Hirata. There were also other candidates with strong latent abilities, like Kouenji.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The president had no motive to fixate on me. There had to be a reason why.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t know that this is for me to say, but starting next year, the school will change dramatically. Not for the better. When the time comes, I’ll need the power to combat that change. It might already be too late. The need grows stronger every day.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“President, you’re talking about what’ll happen when Nagumo-kun is elected president, right? I can’t imagine he’d change the school that much for the worse,” Tachibana said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d never heard the name “Nagumo” from any first-year students. If the president said that the change was coming next year, that probably meant Nagumo was a second-year student.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There can be two student council vice presidents. There is typically only one in any given year, but if you wanted the position, it wouldn’t be impossible,” he told me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“N-no, no no no, President! That’s impossible…! There’s no way Nagumo-kun would permit something like that,” Secretary Tachibana interjected.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Look, I don’t know about vice presidents, or this Nagumo guy, or whatever. I’m not doing it. Besides, you’re going to graduate, right? There’s no need for you to worry about the students left behind. Or is there?” I paused for a moment, using that brief silence to stress the importance of what came next. “Well, if you want me to help you because you’re worried about your sister, I might be able to squeeze you in for a consultation.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Horikita Manabu seemed to have given up on me. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sorry for taking up your time. Please feel free to stop by the student council whenever you like. I would be happy to offer you tea,” he said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Even someone like the student council president was wrestling with his own anxieties, I mused. I wanted to go back to the dorms, but I couldn’t. I had to wait for Katsuragi.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.4</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">T</span><span style=" font-size: 1.00em;">hirty minutes after I’d spoken with Horikita’s older brother, I watched Katsuragi approach. He wore the same thing he’d had on yesterday and held some kind of shopping bag. Perhaps it contained his purchase.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">What’s this all about?</span><span style=" font-size: 1.00em;"> I wondered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">There was still some time left before the twenty-ninth. But if Katsuragi was carrying the gift with him now, that probably meant he planned on handing it over immediately. Right? </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">At any rate, I still wanted to know why he was wearing his uniform. Maybe he planned to meet with this person in formal wear, but I honestly couldn’t imagine doing something so important while wearing a uniform in the heat. I held my breath as I watched Katsuragi arrive at the crossroads.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He didn’t take the path toward the upperclassmen’s dorms. Unbelievably, he headed in a direction I hadn’t expected: towards the school. I followed, taking care that he didn’t notice me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s why he’s wearing his uniform, huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I finally understood. He wasn’t doing so because he liked the uniform—it was to enter the school building. Katsuragi walked straight through the main entrance, and I couldn’t just follow. Entering the school building while wearing casual clothes was forbidden.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Did you meet Katsuragi?!</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">My cell phone vibrated with a rather thoughtless chat message, undoubtedly sent by someone back in their room. I deliberately put my phone away, then changed my plan of attack. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I headed toward the shop where Katsuragi had picked out the present yesterday at the Keyaki Mall. Curious about the kinds of things sold in the other stores, I initially entered a shop that catered specifically to girls, but couldn’t understand the difference between the items on sale. In the end, I returned to the shop where Katsuragi had been the other day. I stood before the stacks of chocolate boxes and tried to picture him buying the gift for a man, but it didn’t seem very likely. The boxes had flourishes such as hearts and other designs that would appeal primarily to girls.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ha ha ha! I know, right?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Some boisterous female students passed behind me. I felt a light thump on my back.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oof.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Reflexively, my elbow brushed the stacks of boxes. The chocolates came tumbling down in an avalanche. The girls, completely absorbed in their conversation, did not notice the tragedy that had just unfolded. They kept on walking.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Jeez,” I muttered. I'd like them to notice me at least a little…</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What are you doing?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Geh!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">As I frantically tried to re-shelve the boxes, a giant man called out to me. It was Katsuragi. He looked extremely perplexed.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I came here to buy…a birthday present,” I stammered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was the only answer I could come up with. Katsuragi looked down at the scattered boxes, then bent and started picking them up.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ah, it’s okay. I can do that,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t worry about it. I think this mess might make other customers uncomfortable. It’s best we clean up quickly. Two are better than one.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">There wasn’t any hint of dislike in his voice. I’d probably only spent around thirty minutes in the mall. I wondered if Katsuragi had finished his business at school so quickly. However, he still held his gift bag. I stealthily peeked inside and saw a thin, gift-wrapped box. The present. He hadn’t given it away yet.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">We finished cleaning up before we knew it. Fortunately, neither the clerks nor the other customers had noticed us tidying.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Thanks a lot.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi was a good guy. Even on the uninhabited island, he’d shown a strange goodwill toward us when we discovered the corn. I didn’t expect him to be merciful if push came to shove, but he didn’t appear to be a bad person.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you giving your girlfriend a present?” he asked me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? Uh, no, I don’t have a girlfriend. The present is just for a classmate. I think I’ll buy something next time, though,” I answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I moved farther from the shelves. Katsuragi, as if in sync with me, also moved backward. I decided I’d try to extract more information.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you buying a birthday present?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hmm? Why would you think that?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re holding a bag from this store,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. Well, yes, you’re certainly right. I suppose I didn’t think about it,” Katsuragi mused.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">His eyes met mine.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I couldn’t find what I wanted. The selection’s not great. What did you buy?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nothing major. One of the boxes of chocolates. I don’t think the selection in this store is bad at all, but I suppose it comes down to individual preference. I ought to look around elsewhere,” he replied. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi walked toward the door, and I followed him. We left the store together before I could ask who the gift was for.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Why are you wearing your uniform?” I inquired. I wouldn’t have broached the topic yesterday, but he’d been wearing it for two days straight. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re required to wear your uniform if you enter the school,” he replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you went to the school?” Of course, I knew that already. What I really wanted to ask was who the present was for. I’d thought the information would be easy to obtain, but unfortunately, it didn’t seem like things were going my way. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Uh, well, I’ve various private matters to attend to,” he replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Although Katsuragi was being vague, he seemed to have something on his mind. He glanced in the direction of the school briefly.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, have you ever thought about the disadvantages of attending this school?” he asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Disadvantages?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. I don’t mean being divided into classes. I mean something that affects all students equally.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I considered his mysterious question. The class system had its downsides, of course, but the problems it created mostly affected the lower classes—like Class D’s current points shortage. It was hard to imagine Class A in a similar situation. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Since Katsuragi said the disadvantage applied to all students equally, that probably wasn’t it. But then, what in the world was he talking about? Nothing came to mind. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You know. The stipulation that you can’t contact anyone on the outside,” he explained.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ah, I see.” I personally considered that an advantage, but it was probably bad from a normal person’s perspective.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t you want to contact your parents or siblings?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Eh. Well, I </span><span style=" font-style: italic; font-size: 1.00em;">do</span><span style=" font-size: 1.00em;"> get the feeling that lots of students would agree with you,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Quite a few girls, in particular, said they felt lonely. The school was strict about controlling the flow of information, so it forbade communication with the outside world. Breaking that rule could mean expulsion.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But the benefits you get from the school are tremendous. That one disadvantage isn’t enough to make you feel dissatisfied, right?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“True. Both the points system, and the quality of the facilities here, are things that ordinary students can only dream of,” he replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">On top of that, Katsuragi would also graduate from Class A. Wait, why was I talking so casually with Katsuragi? And during summer vacation, no less.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re close with Horikita, aren’t you?” he asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is that misconception making the rounds or something?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Misconception? I saw you working together earlier.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, it’s just one of those things. It’s not exactly what either of us wanted, but we were kind of forced into a partnership, I think. We really only talk because we’re seated next to each other,” I explained.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi seemed to understand. He nodded. “Ah, so that’s how it is. Well, despite seeming like I know a lot about other classes, there’s quite a bit I don’t know. If I offended you, please forgive me. I had no ill intent,” he replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nah, I get that a lot. Don’t worry about it. Horikita’s pretty active, and she does a lot,” I answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It does appear that way.” Katsuragi didn’t seem as though he was going to elaborate any further. Instead, he changed the subject. “To tell you the truth, this is the third time I’ve visited this store. I’m the kind of person who tends to agonize over things. Even if it’s just a single present, I can’t make a snap decision when someone’s feelings are involved.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Someone he agonized over giving a present to? Who in the world could that be? I decided to try digging a little deeper.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re a really sincere person. I mean, to go out and buy someone a birthday present,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is it strange to celebrate someone’s birthday?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Looking at the giant chrome dome in front of me, I did feel like his forbidding appearance contradicted his kind actions. But that was entirely my own bias. I mean, the world even contained delinquents who’d save a cat left out in the pouring rain.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay, I’ll just ask straight out. Who’s the gift for?” I asked. Questioning Katsuragi in a roundabout way would get us nowhere.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Who am I giving it to?” He seemed perplexed. “It’s personal. It’s not for you to hear.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He’d dodged the question. If we’d been best friends, I might have been able to push further, but as it was, I couldn’t do much. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Please excuse me,” he added. With that, Katsuragi headed back toward the dormitory.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d managed to solve the mystery of why he was wearing his uniform, but more mysteries had sprung up in its wake. Why was Katsuragi going to the school building? Why had he returned to the store? I had no idea at all.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.5</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">“H</span><span style=" font-size: 1.00em;">ey, Ike. I investigated the Katsuragi case.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Whoa, seriously? Man, way to go, Ayanokouji! I’m seeing you in a new light!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike slapped my shoulder as he complimented me. Had I really done something that warranted him reevaluating his opinion of me? Maybe he hadn’t thought much of me to begin with.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Unfortunately, I couldn’t find out who the present was for,” I explained.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">To be more precise, I couldn’t find a girl who fit the bill. As I said before, no one in our grade level had that birthdate. I couldn’t think of any student from another year whose birthday was the twenty-ninth, either. Therefore, the person in question might not be a student at all. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Yamauchi looked up with wide eyes. “Oh man, no way. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I know what’s going on. Whom Katsuragi wants to give that present to.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Rather than looking overjoyed, he had a sorrowful expression. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, Kanji. Didn’t you think that Valentine’s was hell, back in junior high?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wh-what the hell are you asking me for? Well, sure. Yeah, it was tough. What about it?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I think this is basically an extension of that. I think he actually bought the gift for himself,” said Yamauchi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No way, that—n-no, wait, I guess it </span><span style=" font-style: italic; font-size: 1.00em;">is</span><span style=" font-size: 1.00em;"> possible. I can’t imagine that baldy is very popular…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The pair of them seemed convinced. I hadn’t considered that possibility, so doubts popped into my mind. “You’re saying that he bought the present for himself? For his own birthday?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You think it’s for something else then, Ayanokouji?” They glared at me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">People didn’t normally buy themselves birthday presents, did they? Maybe if you thought of the present as a reward—like when you treated yourself to something delicious, or went out and bought something for yourself. This was different, however. Katsuragi specifically purchased chocolates with girlish packaging, and had them gift-wrapped. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If he had a sweet tooth, there were probably other ways he could treat himself. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You seriously don’t get it?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Unfortunately, no.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay. Katsuragi doesn’t seem popular with the ladies, right? But right now, he </span><span style=" font-style: italic; font-size: 1.00em;">is</span><span style=" font-size: 1.00em;"> the leader of Class A.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I refrained from commenting on that.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“He’s got a lot of pride. He’d definitely want people to think that he’s popular. It’s all an act.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, he’s going to play this off like someone else bought the chocolates for him?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike and Yamauchi must’ve felt pretty sure of this conclusion, because they both nodded in agreement. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I did the same thing, back in junior high,” Ike said. “Made it look like I got a present from the cutest girl in school.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“When you put it like that, it sounds hollow.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, yeah, of course. But, that way, you’re saved from the absolute despair of not getting any gifts!” Ike sounded angry. Apparently, he considered Valentine’s Day and birthdays to be significant events.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Besides, you’re the same as me,” he added. “Right, Haruki?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? No, no way. I was popular with the ladies. Didn’t you know?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well then, why would you come to a conclusion like that? It’s because you thought Katsuragi was doing the same things you did!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nah, that’s not true. In junior high, there was a really unpopular guy like you, Kanji. I knew about him. That’s it.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Yamauchi was obviously bluffing, but I didn’t have time to prove it. “Aren’t you just speculating?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No! That’s definitely what’s going on!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">They seemed to like this theory, and they didn’t appear to have any intention of debating further.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, Haruki. Maybe we misunderstood the bald—I mean, Katsuragi. You think?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. We treated him like an enemy from Class A, but I suddenly feel closer to him.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you were an unpopular dude who bought himself presents, huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wrong. He just reminded me of my classmate. I felt sorry for him.” Yamauchi stubbornly denied Ike’s jabs.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, do you want to help me out?” Ike asked me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was a sudden shift. “Help with what?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We’re going to get him a birthday present.” Ike’s newfound sympathy for Katsuragi appeared genuine. “It’s better when you get something from a girl, but that’s impossible in this case. I suppose getting a birthday present from anyone would be a blessing, wouldn’t it?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That logic seemed strange, but I couldn’t completely deny it. People would rather receive a present from someone else than buy something for themselves. That said, they might not appreciate pity. If Katsuragi really had bought himself a gift, would it be a good idea for these two to “help” him out? </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike and Yamauchi had already started discussing what to buy, but doubt still nagged at me. There weren’t any girls with a birthday tomorrow. However, we hadn’t eliminated all the other possibilities. There were still the teachers and other academic staff, as well as quite a few campus employees. If we broadened our idea of who the girl might be, plenty of candidates remained.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Besides, if Katsuragi </span><span style=" font-style: italic; font-size: 1.00em;">did </span><span style=" font-size: 1.00em;">buy the present for himself, why had he purchased it so openly? He had been wearing his uniform in the middle of summer vacation. He had clearly stood out. It was easy to imagine people feeling suspicious if they saw him. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ayanokouji, you contribute some points, too. If we put about 1,500 points together, then we should be able to get something good.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d had this conversation yesterday, though. My expenses were going to double. A thousand points wasn’t a small amount.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ayanokouji, this might be a little fast, but let’s celebrate Katsuragi’s birthday tomorrow.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike and Yamauchi acted almost as if a switch had been flipped. They went from hating Katsuragi to liking him in two seconds.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you really buying something?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course. Don’t you want to save a lonely, unpopular man?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">This was getting troublesome. I realized I’d better not refuse them. We decided to meet up the next day, and dispersed.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.6</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">W</span><span style=" font-size: 1.00em;">hen we gathered the following afternoon, Kushida was there, too.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hello, Ayanokouji-kun,” she said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“O-oh, hey,” I responded. Why was she there? </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike answered my unasked question. “You see, I had a chat with Kikyou-chan yesterday. When I told her that we were going to buy a present for Katsuragi, she said she definitely wanted to help. She was like, ‘Please let me help,’ and all. Anyway, Katsuragi would probably be happier to have a girl celebrate with him, rather than a bunch of guys.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike blabbered on and on about what a good person Kushida was, but he probably just wanted an opportunity to get together with her. Also, in her eyes, this would probably make him look like a good guy—the type who cares about his friends.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Katsuragi-kun has done quite a bit for me, too. I’ll help out with the present’s cost, of course,” added Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike looked at her lovingly. Yamauchi also seemed happier with her around. Kushida’s charms affected him, too, even though he was aiming for Sakura.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“By the way, Ayanokouji-kun, why are you wearing your uniform?” asked Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Meh. No reason.” I’d taken off my jacket because it was hot, but the uniform still made me stand out, unfortunately. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Come on, let’s get going!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike and Yamauchi walked on either side of Kushida, while I followed behind. Moments after we started walking, they managed to get a conversation blossoming. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">As we walked, I saw someone I didn’t usually see outside.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, sorry. Could you guys go on ahead? I want to stop here for a sec,” I told them.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sure, but don’t keep Kikyou-chan waiting too long,” Ike replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I left them and approached Horikita.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><img alt="" height="100%" id="ClassroomElite-Vol4_5_INTERIORILLUSTRATIONS_3" src="/hola-lector-agua/images/books/v4.5/OPS/ClassroomElite-Vol4.5_INTERIORILLUSTRATIONS_3.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></p>
+<div style="page-break-before: always;"/>
+<p class="P_Prose_Formatting__And__Page_Break"><span style=" font-size: 1.00em;">“Don’t you look carefree? Are the four of you just casually going shopping? Even after we suffered so much at Ryuuen-kun’s hands?” she said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, that just means that Class C did something right. There’s no use worrying about it now.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I suppose not. But I’m still uneasy about certain things.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Such as?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Never mind.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">She turned away with complete disinterest, like a haughty actress.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“When are we? Right now?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I mean, at what point in the school year are we now? Do you know? The month?” I continued.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What are you talking about?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Look, we just finished the first semester of our first year. We don’t need to ricochet between happiness and despair, with nothing in the middle, simply because they’ve got a small lead on us now.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But, even so, we suffered a severe loss. If we don’t think of a way—”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Although you can’t see what’s directly beneath your feet, you’re always looking far ahead. If we’re talking academics, then you’re certainly peerless. But when it comes to unusual tests, well, you just kind of run in circles. That’s my impression, anyway.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I know that,” she replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you’re aware? I think that it’s preferable for you to fall until you hit rock bottom,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you mean?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was good to be thoroughly beaten down from time to time, as long as you eventually crawled back up. I thought Horikita had the potential to do that.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There’s an order to things. It’s probably better for you not to panic, but to take things slowly. Right?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You say there’s an order to things, but if that’s true, why did you go to all that trouble back on the island? Isn’t that contradictory?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah, probably.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It made sense that Horikita found that confusing. She had no clue about my dealings with Chabashira-sensei. During the test on the island, I was forced to show off my abilities. I’d had no choice but to act. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Of course, I had no pawns at my disposal during the test on the cruise ship, which made it extremely challenging. Various other methods had been available to me, but no good could come of overexerting myself and getting sloppy, so I’d refrained from employing them. I was fundamentally disinterested in things like class rankings. By giving Chabashira-sensei only a partial display of my abilities, I’d bought some time without making too much of a splash. From that perspective, the tests had been hugely successful.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“More importantly, don’t you have any questions about the way I look?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I think your clothes are ill-suited to this weather, but I don’t really care,” Horikita replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">She wasn’t interested in others, as usual. “What are you reading today?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“None of your business.” Apparently, she didn’t intend to show me the book’s title.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, whatever. I’m keeping Ike and the others waiting. Do you want to come?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re kidding, right? I refuse.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d known all along that that would be her answer.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.7</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">“W</span><span style=" font-size: 1.00em;">hat are you</span><span style=" font-size: 0.80em;"> </span><span style=" font-size: 1.00em;">all doing?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi, usually so calm, couldn’t hide his surprise when Ike and the others surrounded him. Kushida quickly spoke up. After the last test, Katsuragi would be most familiar with her.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sorry for bothering you, Katsuragi-kun. Do you have a moment?” she asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kushida? What’s going on?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“To be honest, I heard about all this from Ike-kun and the others. Isn’t it your birthday today, Katsuragi-kun?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, yes, but…I’m surprised you found out.” Katsuragi wore a slightly puzzled expression, as if he couldn’t remember telling anyone his birthday. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The four of us wanted to celebrate with you, Katsuragi-kun,” explained Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, that’s all right. There’s no need for you to do anything special.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Far from being welcoming, Katsuragi appeared guarded. That was to be expected. He probably thought this was a trap laid by Class D. The fact that he hadn’t immediately shot us down was likely due to Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Do you have plans today?” asked Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, no. Not exactly.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kushida clapped her hands and smiled, almost as if she were saying, “I’m happy to hear it!” If an ordinary guy saw that smile, he would’ve been smitten right then and there. Katsuragi, the leader of Class A, probably wasn’t quite as easy a target.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m terribly sorry to be rude, but we’re not exactly close friends. If you have an ulterior motive, please tell me,” he said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, we don’t have an ulterior motive. We really just wanted to celebrate your birthday, Katsuragi,” said Ike, wearing a serious look. He probably felt genuine sympathy.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hrm.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi’s mouth tightened, and it looked like he was about to turn us down. Then I realized that he still held the birthday present bag from yesterday. He’d purchased it two days ago; why was he was still walking around with it? Ike and the others didn’t seem to share my suspicions (or pretended not to).</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m sorry, but I have some business in the school building. Excuse me,” Katsuragi said. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“School? You know, that reminds me. You’ve been wearing your uniform a lot recently. What’s going on?” asked Ike. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you mean by that?” Katsuragi asked. His expression changed, as if he had switched into battle mode.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? What do you mean, what do I mean?” Ike looked startled.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“How did you know I’ve been wearing my uniform?” Katsuragi glared so intently, it was like he was devouring Ike.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? Well, no. That’s not—” Ike gulped reflexively.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“After you and I talked yesterday, I met up with Ike and the others. I told them. Was that bad?” I asked. Given no other choice, I offered Katsuragi an explanation. “I thought it was rather unusual to wear that uniform during summer vacation.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. Well, when you put it that way, I suppose you’re right,” Katsuragi answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. That’s what I was getting at, dude,” added Ike.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, why are you going to school?” I asked. I’d successfully changed the topic, at least for the time being.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s personal. Nothing to do with you,” he replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, maybe I’m prying too much, but is something bothering you?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you mean?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You were also carrying that bag around yesterday, weren’t you? It’s a bit unnatural to take that with you to school. You’ve been holding it since we met at the store yesterday. I think I must’ve seen you with it at least three times so far. Right?” I asked. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I have some business with the student council. That’s all,” he said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Once again, a certain organization’s name had come up.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Were you wearing your uniform yesterday because you were going to the student council room?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s right. However, they were out,” answered Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If I remember correctly, the student council room was being renovated until yesterday. It should’ve been unusable,” I told him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi looked surprised. He asked how I knew.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I happen to have a slight connection to the student council president,” I told him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re an acquaintance of his?” Katsuragi asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I wouldn’t say we’re really well-acquainted, but…something like that.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ah, I see. Horikita from Class D is the president’s little sister, hmm?” Katsuragi had arrived at that conclusion rather quickly. “In that case, it might be better for you to accompany me, if time permits. Would you mind?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">With that, I more or less understood what Katsuragi was after.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What a coincidence. I also happen to have some business with the student council,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is that why you’re wearing your uniform?” he asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Of course, I’d only worn it to discover Katsuragi’s intentions. Now, however, I thought I should be able to slip into the student council room easily and get close. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi nodded. Leaving the others behind, we headed toward the school building.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Pardon the intrusion,” said Katsuragi in a loud, clear voice, as he knocked on the council room door. Student council president Horikita Manabu and Secretary Tachibana greeted us. The older Horikita immediately noticed my presence.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It would seem we have some unexpected visitors.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I bowed slightly in greeting. Secretary Tachibana looked disgusted.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I came here today with a request. I heard that student requests go through the student council,” began Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Apparently, you stopped by yesterday. The day before, as well. We were absent because the room was being renovated. I apologize,” explained the elder Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh no, it’s quite all right. It’s summer vacation. The fault is mine. However, I’m glad to meet with you today. I was afraid I’d have to go directly to your dormitory to find you,” Katsuragi continued.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Why did Katsuragi want to come to the student council office in the middle of summer vacation? What exactly was he after? </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The school forbids students to establish contact with anyone on the outside while we’re enrolled here. I’ve come to inquire further into that.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It sounds as though you’ve looked through the school regulations. No, outside contact is not allowed, unless there is a compelling reason such as severe illness or injury.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Right. However, I’d like to send a package and message to my family off-campus. Of course, I don’t expect a reply,” said Katsuragi. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He was describing one-sided communication, then?</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Even if communication is one-sided, it’s still not permitted,” the president replied, in a very professional manner. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">However, Katsuragi wouldn’t have come to the student council room if he could be discouraged that easily. “I heard that the rules about cutting off contact don’t apply to packages. Surely, if what is sent doesn’t include any text, information, or communication, that wouldn’t break the rules, would it?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The rules prohibit it. The restrictions exist for a reason. When the school was founded, the rules weren’t quite as strict as they are now,” the elder Horikita explained. He looked at Secretary Tachibana and nodded.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s just as the president says. Originally, shipping a package would’ve been permitted. However, several students broke their promises. They hid letters in their packages without first seeking permission. So, such contact is now completely banned,” she said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“And there you have it,” added the elder Horikita, dashing Katsuragi’s hopes with complete and utter rejection. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi wasn’t ready to back down. Even though he was a first year, he was still tasked with leading Class A. He immediately reassessed the situation and composed himself.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I must ask you once again. Please allow me to request direct shipping at the store itself. I will pay for the package to be sent to an address of my choosing, and nothing else. I won’t even touch the item. Under those restrictions, there’s no way for me to commit fraud.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But that still violates the rules—”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Violates the rules? This school is all about fostering one’s abilities. I’ve heard that you can do anything, with enough points. You can buy test scores, or even trade with other students. Points have many uses. Am I wrong?” he asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Clearly, this birthday present was of great importance to Katsuragi.</span></p>    
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That makes things slightly different.” Katsuragi’s words changed Horikita’s brother’s attitude. “Before we discuss an expenditure of points, can you tell me whom you’d like to send this to?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“My twin sister. Since we’re orphans, I’m the only one who celebrates her birthday,” replied Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That reason was entirely different from the sleazy theories we’d passed around earlier. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I must make one correction to your theory. The point system is not all-powerful. It’s certainly possible to use points to buy test scores or barter with other students, but those things are never explicitly mentioned in the rules. The things that </span><span style=" font-style: italic; font-size: 1.00em;">are</span><span style=" font-size: 1.00em;"> explicitly prohibited can’t be easily altered using points. Without the school’s permission, it’s just impossible,” Horikita explained.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">A tricky situation. Let’s use test scores as an example. I’d used points to buy a point on a test score for Sudou a while back, an act that was not illegal in and of itself. You were allowed to buy test scores with points. Trying to cheat on an exam, however, was against the rules, and could not be made legal through the use of points.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The school rules must be upheld.”</span></p> 
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, that’s odd. If that’s true, the rules are full of holes.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There’s nothing odd. The school purposefully made rules that allow for loopholes,” Horikita responded immediately, as if this were easy to understand.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…………”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The president was a tricky opponent, even for a quick-witted man like Katsuragi. The difference in their positions was stark. Horikita, who was a third year, in Class A, and the student council president, had no weaknesses.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you’re saying that there’s nothing I can do?” asked Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Correct. If school rules forbid something, you cannot circumvent them, even with points.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi had probably been prepared to spend a large sum, but this looked like the end of the line.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you’re finished, please leave.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. I understand. Well then, if you’ll please excuse me.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi glanced over at me just once. When I gestured that I was going to stay behind, he quietly left the room.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re not going?” asked Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Earlier, you were talking about what happens when a rule violation is exposed, right?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you mean?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Do you remember an incident that occurred a while ago? Sudou, from our class, fought with some students from Class C.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Horikita nodded. It’d been a huge deal, after all.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Back then, the case went to trial precisely because the Class C students appealed to the school. Katsuragi, on the other hand, hasn’t done anything wrong. He only wanted to ask about doing something that could potentially break the rules. Only you two, Katsuragi, and I are aware of this. Shouldn’t you be able to overlook this particular instance?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I chose my words carefully, but I was sure they understood what I was getting at. Say you committed a traffic violation; you’d be questioned by a police officer, but you could bribe the officer to overlook the issue.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Shipping a package would normally be difficult, but it’s probably a simple matter for you. Right?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. You want to resolve everything without involving the school,” Horikita replied. Someone as upstanding as Katsuragi would probably never think of using such a loophole.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Violating the rules! What a terrible delinquent you are,” Secretary Tachibana cried. I did my best to ignore her.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“How did you arrive at this conclusion?” asked Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The school rules state that violent acts are forbidden. However, when we first met, you showed no mercy, did you? You proved that, as long as the school doesn’t know, you can get away with anything,” I answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">President or not, Horikita definitely shouldn’t have raised his hand to strike someone in public.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s right. There’s only one way to contact someone on the outside. But Katsuragi didn’t realize that, and he missed his chance,” admitted Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Will you help him now?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Not at all. I won’t violate the rules for his sake.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re pretty strict.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you think so, you should have told Katsuragi about the loophole before he left. But you didn’t.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Dealing with such a clever guy was a pain. He saw through me completely. He understood that I had avoided warning Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I’m done cooling off. I’m gonna head back,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I could ask Tachibana to prepare some tea, if you like?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No thanks. I have no idea what you’ll put in it, anyway.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wh-what an incredibly rude first-year student!” Tachibana stammered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">For some reason, as I left, Horikita’s brother accompanied me to the exit.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Officially, I didn’t meet with Katsuragi today. Even if you act behind the scenes, I won’t investigate. Do what you will,” he said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t really feel like doing anything, though.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m simply telling you that I won’t get involved.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I had the go-ahead to deceive the school as best I could. Horikita’s gaze cut right through me. He probably saw everything. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Jeez, the president is shrewd,” I muttered.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.8</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">W</span><span style=" font-size: 1.00em;">hen I returned to the dorm lobby, Katsuragi was sitting there, looking depressed. He immediately noticed me coming and stood.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m sorry for involving you in such a strange errand,” he said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ah, don’t worry. I insisted on tagging along. Sorry I couldn’t help,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh no, not at all. It was hopeless, anyway,” said Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It seemed Katsuragi had given up. He’d wanted to get the present to his sister, no matter what, but the school regulations deterred him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Here. Eat these with your friends. I don’t really care for sweets,” he said, handing over the present. However, I didn’t take it.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s wasted on me.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. I suppose you wouldn’t be happy with a secondhand gift.” Katsuragi bowed slightly and began to head back to his room.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Katsuragi.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I stopped him in his tracks.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What’s the matter?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Maybe I can help. I’ve thought of a way to deliver the present to your sister.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But the student council rejected me. I can’t imagine there’s a solution.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s because you don’t want to break the rules,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m not going to do something that risky,” answered Katsuragi flatly.</span></p>
+ <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I supposed that was too much for someone like Katsuragi, the Class A leader, to accept. Especially if it were coming from someone like me.</span></p>   
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I think it’s worth hearing me out. Especially if giving your sister that present is important.” Katsuragi had gone repeatedly to the student council room during summer vacation to get permission. This clearly wasn’t trivial to him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is this something we should be discussing in public?” Katsuragi looked around at the people and security cameras. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I suppose you’re right. Want to come to my room?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">People waltzed in and out of my room all the time, anyway. Fortunately, we didn’t encounter any students as we made our way there. I opened the door and turned on the lights.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Come on in.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You have quite a clean room. Or, rather, I should say it’s spartan. It looks the same as when we first arrived at the school,” mused Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I get that a lot.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">After he sat, I turned on the air conditioner and poured some tea.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Earlier, you said something about the school rules?” asked Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Let’s say that you wanted to send a package from school. Since that’s generally prohibited, it’s not a simple thing to do. You probably wouldn’t be able to go through the post office, either.” There </span><span style=" font-style: italic; font-size: 1.00em;">was</span><span style=" font-size: 1.00em;"> a post office on campus, but it was mainly for teacher use. Students didn’t go there. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But then, there’s nothing I can do. Or are you saying that there’s another means of delivery?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There is. If you just carry the present off campus, you’ll be fine.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t be ridiculous. Who could do something like that? You’re not thinking about a campus employee, are you?” asked Katsuragi. Only employees at the various campus shops were allowed to freely come and go. “The people who work here are employed under strict regulations. They wouldn’t take a risk like that for a mere student. They might report us to the school.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If they did, Katsuragi would be punished severely. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s not going to happen. I don’t think there’s anyone we could trust to act as a go-between.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wait. You’re not saying </span><span style=" font-style: italic; font-size: 1.00em;">we</span><span style=" font-size: 1.00em;"> should leave the school grounds without permission, are you?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course not. The punishment would be incredibly severe.” The entrances and exits were rigorously monitored. We’d be expelled if discovered. “You’re right that we can’t use an employee. However, a student is a different story. There are several we can trust.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“A student? That’s even more unlikely, though. Students aren’t allowed to leave without a compelling reason.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Aren’t there exceptions related to those ‘compelling reasons’?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Exceptions? If the student could leave the campus, then… No, it couldn’t be!” Katsuragi quickly arrived at the conclusion I’d been leading him toward. “Club tournaments, hmm?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s right.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">During club tournaments, the school had to allow certain students to leave the school grounds and travel to outside venues.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re certainly right. In a situation like that, it </span><span style=" font-style: italic; font-size: 1.00em;">would </span><span style=" font-size: 1.00em;">be possible. However, the school would definitely anticipate that kind of thing. There will be bag inspections,” reasoned Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course. But there are ways to get past those, aren’t there? It’s not like the Olympics testing athletes for steroids. They wouldn’t search every square inch of your body.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s true, but…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi appeared to be seriously considering the idea.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That would be a huge risk for the student. However, judging by what you’ve said, Ayanokouji, you have a talented, trustworthy individual in mind. Yes?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yep, that’s right. However, you need to trust me if we want this to work.”</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.9</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">A</span><span style=" font-size: 1.00em;">n hour later, I contacted Sudou as he returned from club activities. He was participating in a tournament the day after tomorrow, and Katsuragi and I needed his help.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? Don’t give me that bullshit. Seriously, who in their right mind would want to do something like that?” huffed Sudou. He rejected the proposal so strongly that he practically spit out the words. Of course, if someone discovered that he’d violated the rules, there was no telling what penalty he’d face.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Besides, I ain’t obliged to listen to a request from baldy over here,” he added.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What now?” Katsuragi didn’t seem to trust Sudou. He still appeared generally skeptical of the plan.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Putting aside whether you’ll do it, I want to ask you something, Sudou. What kind of inspections does the school perform?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Dunno,” he replied flippantly. Sudou didn’t appear to grasp the situation yet.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Depending how things go, Katsuragi might give you a reward,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“A reward?” echoed Sudou.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s right. I knew that I would need to pay, of course,” replied Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sudou began to give the matter serious thought.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“They check our bags in the morning, before we get on the bus to the tournament. After that, they confiscate our phones. When we get to the stadium, we get changed and head onto the court. As for meals, we eat there, when the tournament’s over. I don’t know more exact details, though,” Sudou explained.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What about the changing area? And the bags?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Normally, we use the lockers n’ stuff. When we change, there ain’t any teachers around, but they do keep a strict watch on us. We even have separate bathrooms, so we can’t talk to students from another school,” Sudou continued.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi listened intently.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That all sounds quite strict. I doubt it’s a good idea to even bring bags with you in the first place,” he reasoned.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is it okay to bring food?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah, if we want. Some people do,” Sudou replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If that’s true, then it actually sounds reasonably simple to transport the gift.” I grabbed a lunchbox and water bottle from my shelf, then returned to my seat. “I’ll put it inside the lunchbox. It should just about fit. As for the bag, I’ll roll it up and put it in the water bottle. That way, no one should find out.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The teachers wouldn’t go so far as to check the contents of someone’s lunch.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wait. Even if I bring the gift along, how am I gonna send it? I ain’t got any money or time,” Sudou pointed out.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you’re worried about money, don’t be. Just use this.” I handed him an invoice I’d picked up from the post office. “Watch for an opening, and then use that opportunity to mail it.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You say that like it’s easy. That’s the hardest part, right?” Sudou retorted.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, the risks are potentially great,” said Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Not only would Katsuragi be violating school rules, he’d involved Sudou. Normally, Katsuragi would have backed out by now, but this must’ve been too important. That spoke to just how meaningful his sister was to him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Unfortunately, I can’t trust anyone in my class to handle something like this. Would you help?” Katsuragi asked Sudou.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sudou, I know you wouldn’t normally do this. But it has significant benefits, don’t you think?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Benefits? You mean the reward?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi nodded. “I’ll pay you 100,000 points if you succeed.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was quite an amazing offer. Sudou stiffened. For someone who struggled day to day on about 1,000 or 2,000 points, 100,000 was an incredible amount.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Why do you want to go so far to deliver a package?” asked Sudou. The reward made him wary.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I have a twin sister. Ayanokouji knows that much,” said Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I did. The rest of the reason, however, was far weightier than I expected. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“My sister is sickly. Because our parents and grandparents have passed, our relatives currently care for her. I’m something of a substitute parent. If I don’t celebrate her birthday, who will?” asked Katsuragi. “I understood the school rules when I enrolled, but I thought I’d be able to send a package. That was my mistake. However, I still want to give my sister a gift, no matter what.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Well, I hadn’t seen anything specifically addressing that in the school regulations. It’d just mentioned that leaving school grounds without permission wasn’t allowed. No details on how communication with the outside world was forbidden.</span></p>  
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, that’s why you came to me, huh?” Sudou grabbed my shoulder, whispering in a loud enough voice that Katsuragi could hear. “What am I gonna do if you decide to betray me? I don’t want something to happen, like with Class C, you know?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was right. Sudou had fallen into a trap, and as a result, was almost kicked out of the basketball club.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There’s no need to worry. I’m sure he’s already thought about that,” I told Sudou.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi nodded.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ll offer you 20,000 points now, as advance payment. I will pay the remaining 80,000 points as a reward after you complete the task.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The 20,000-point payment would prove that Katsuragi was complicit in the act. If either party betrayed the other, they’d both suffer the consequences. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, 20,000 as an advance? But…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Even though that was a large sum, I understood why Sudou would hesitate. He was thinking about his future in basketball. If the school learned he’d violated the rules during basketball activities, he might even be struck from the team. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I think it’s a perfect plan. Obviously, if you are discovered, I would also suffer greatly,” said Katsuragi. The school would probably punish him just as harshly as Sudou. This plan wouldn’t work unless Katsuragi had the resolve to see it through, but I believed he did. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, the issue is just whether I get found out, huh?” Sudou weighed his options, thinking about the high number of points involved. What would he do? </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">His eyes briefly flickered toward me. He appeared to have decided.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“All right. All I gotta do is take a package? I guess I’m someone who’ll take that risk,” he said. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you sure?” asked Katsuragi. Sudou had become his unanticipated savior. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I mean, since you told me about your sickly sister and all, it’s kinda hard for me to turn ya down.” Sudou scratched his head, looking sympathetic.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">However, Katsuragi showed no sign of joy. He stood there in silence, crossing his arms and looking stern.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The hell? I already told you I’d do it. Is there something else?” asked Sudou.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Maybe he still has doubts. Maybe he’s wondering whether we’ll betray him,” I pointed out.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Seriously? Katsuragi’s the one who came asking for help, and now he doubts </span><span style=" font-style: italic; font-size: 1.00em;">me</span><span style=" font-size: 1.00em;">?” Sudou balked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi was the type to prioritize playing it safe. Maybe it was just his nature to grow more and more suspicious the longer things went well. Of course, I already knew that. Unfortunately, it was needless anxiety. Sudou wasn’t a duplicitous person. Really, the same went for me, too. I’d never once thought about laying a trap for Katsuragi during all this. I genuinely believed there was value in having Katsuragi owe us one.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Besides, even if Katsuragi betrayed us, we could take him down as well. I’d introduced Sudou as an intermediary after reaching that conclusion. I hadn’t known how many points Katsuragi was going to offer, but 100,000 points was quite tasty.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Just to be safe, I won’t transfer the points directly to Sudou. Instead, they’ll go to Ayanokouji. I’m sorry, Ayanokouji, but I’d like you to transfer the points to Sudou after he succeeds,” explained Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Why do we need to go through all this trouble?” asked Sudou.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Insurance, I guess,” I answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If someone from the school saw Sudou taking out or mailing the gift, and the school then saw a large number of points deposited into his account, they’d naturally be suspicious. However, if the points went through another person, they wouldn’t be traced back to Katsuragi. Sudou looked a little irritated, but gave his consent.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There’s one more thing. I want ironclad proof you aren’t lying to me,” said Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? The hell?” Sudou huffed.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I can’t be certain whether you’ll deliver the gift.” Katsuragi was still worried that Sudou was playing him. Because he couldn’t contact his family on the outside, he’d have to wait until he graduated to find out if his sister had received the present. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d thought of several ways to provide “proof.” The simplest and most reliable method would be photographic evidence via cell phone. However, mentioning that gave me pause. I didn’t want to mess up and get Katsuragi’s attention for the wrong reasons.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The hell, dude? Ain’t no way I’d lie ’bout it. You dumb or something?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course I want to believe you. But we haven’t established that kind of relationship yet,” explained Katsuragi. He crossed his arms. “How about you use your phone? I’d like you to record a video the moment you send the package.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Apparently Katsuragi and I were of one mind.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Dude, didn’t you listen to me? I already told you the team’s phones get confiscated,” Sudou snapped.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course. That’s why I would like your cooperation in this matter as well, Ayanokouji.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Meaning?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There’s still space in the water bottle. Put your phone inside. If we do that, Sudou can take it with him without being discovered,” Katsuragi explained.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">As a general rule, each student was assigned one phone. If Sudou handed his over during the bag search, there wouldn’t be any further suspicion. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course, I intend to offer you a reward, too,” Katsuragi added.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He said he’d pay me 10,000 points. Not a bad deal.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I understand. I’ll do it.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You sure, Ayanokouji?” Sudou asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. I can help, so I’ll do it. Besides, the points’ll be useful to me, too.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I leave everything to you, then,” said Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He bowed deeply and gratefully before leaving the room.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Man, now I’m nervous,” Sudou sighed.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You okay, Sudou?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“This is my second time participating in a tournament. I think I got the hang of things, but…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I understood why he’d be a little resistant to the idea of helping by breaking the rules. That said, Sudou’s delinquent history gave him a comparatively flexible attitude to this whole ordeal.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, when do ya want me to take your phone?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh. Well, it’ll be easy for the school to trace things back to me, since a lot of points will be deposited into my account. If at all possible, I’d like to use a third party’s phone,” I told him. The best option would be a phone belonging to someone completely unrelated, like Ike or Yamauchi. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No way anyone’s gonna lend you their phone, though,” said Sudou.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If I say I’ll pay them 5,000 points, they’ll lend me anything I want.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You know, you’re a surprisingly shady guy.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sudou and I prepared to deliver the package. To make a long story short, he successfully avoided the school’s detection, passed the bag check without incident, and mailed the gift. He also managed to take a video of the delivery, and to send the file to Katsuragi before deleting it. I don’t know whether Katsuragi’s sister received her present, but the parts we controlled went well. Sudou handled everything perfectly.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I wondered if Horikita’s older brother had a hand in that. He must have been aware that we were going to try something. Being the student council president, he should’ve been able to make the necessary arrangements. On the flip side, he also could have observed the exact moment Sudou violated the school rules.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Maybe I was imagining things, but I wanted to know the truth. If the president’s involvement was a possibility, a greater truth might emerge one day.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.10</span></p>
+<p class="P_Prose_Formatting"> </p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">A</span><span style=" font-size: 1.00em;">fter Katsuragi left</span><span style=" font-size: 0.80em;"> </span><span style=" font-size: 1.00em;">Ayanokouji’s room, he used the elevator to head back to his floor. When he arrived, two male students stood outside his room, seemingly waiting for him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What are you doing?” Katsuragi asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh! You’re finally back, Katsuragi! Jeez, you’re late. Jerk!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hmm? You’re Class D students, aren’t you?” Katsuragi had his doubts about these two, even though he seemed to remember them from somewhere.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Meh, that’s not important! Anyway, congratulations!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Pop</span><span style=" font-size: 1.00em;">! Katsuragi was assaulted by party poppers.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wh-what’s going on?!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you mean? Your birthday’s coming up soon, right?! So, we came to celebrate!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Celebrate? But you’re from Class D. Why? You don’t have any reason to.” Katsuragi grew flustered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We’ve got a reason. I mean, we’re all virgins here, so let’s be friends. Right?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi flinched at Ike’s vulgar language as Ike handed over a birthday present.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Here, eat this. Our idol, Kushida Kikyou-chan, chose this birthday cake!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“B-but I can’t accept…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Dude, it’s all right, it’s all right!” Ike forcefully shoved the box into Katsuragi’s hands.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Welp, see ya!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">With that, the Class D students ran away. All that remained were the party popper remnants and the cake.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“They said it was a cake, but it’s actually rather warm,” muttered Katsuragi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He opened the box to see a room-temperature chocolate ice cream cake, which had melted into viscous sludge.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is this some new form of harassment?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Katsuragi imagined it was.</span></p>
+<div style="page-break-before: always;"/>
+<p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><img alt="" height="100%" id="ClassroomElite-Vol4_5_INTERIORILLUSTRATIONS_4" src="/hola-lector-agua/images/books/v4.5/OPS/ClassroomElite-Vol4.5_INTERIORILLUSTRATIONS_4.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></p>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 3: Katsuragi Kouhei is Surprisingly Troubled","volumeId":"v4.5","chapterIndex":9,"prevChapter":{"volumeId":"v4.5","chapter":8,"title":"Chapter 2: Ibuki Mio has Surprisingly Good Sense"},"nextChapter":{"volumeId":"v4.5","chapter":10,"title":"Chapter 4: Dangers Lurk in Everyday Life"},"toc":[{"label":"Table of Contents","href":"TableOfContents.html#tableofcontents","index":2},{"label":"Character Gallery","href":"section-0001.html#auto_bookmark_toc_top","index":3},{"label":"Table of Contents Page","href":"section-0002.html#auto_bookmark_toc_top","index":4},{"label":"Title Page","href":"section-0003.html#auto_bookmark_toc_top","index":5},{"label":"Copyrights and Credits","href":"section-0004.html#auto_bookmark_toc_top","index":6},{"label":"Chapter 1 - Prologue : Summer Vacation is Nearly Over","href":"section-0005.html#auto_bookmark_toc_top","index":7},{"label":"Chapter 2: Ibuki Mio has Surprisingly Good Sense","href":"section-0006.html#auto_bookmark_toc_top","index":8},{"label":"Chapter 3: Katsuragi Kouhei is Surprisingly Troubled","href":"section-0007.html#auto_bookmark_toc_top","index":9},{"label":"Chapter 4: Dangers Lurk in Everyday Life","href":"section-0008.html#auto_bookmark_toc_top","index":10},{"label":"Chapter 5: A Day of Girl Troubles and Disaster: A Devil Smiles Like an Angel","href":"section-0009.html#auto_bookmark_toc_top","index":11},{"label":"Chapter 6: A Gathering Between Classes","href":"section-0010.html#auto_bookmark_toc_top","index":12},{"label":"Chapter 7: Ike, Yamauchi, and Sudou’s Summer Vacation (Extra Stories)","href":"section-0011.html#auto_bookmark_toc_top","index":13},{"label":"Epilogue: Postscript","href":"section-0012.html#auto_bookmark_toc_top","index":14},{"label":"About the Author and Illustrator","href":"section-0013.html#auto_bookmark_toc_top","index":15}],"volumeTitle":"Light Novel Volume 4.5","detailsLink":"/select/year-1/v4.5","returnLink":"/select","currentSpineIndex":9,"nextVolumeLink":"/select/year-1/v5","nextVolumeTitle":"Light Novel Volume 5"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

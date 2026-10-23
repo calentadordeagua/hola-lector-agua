@@ -1,0 +1,439 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[98168,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js"],"default"]
+4:I[37457,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+5:I[36768,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/b7415f7eaafec72a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+6:I[43880,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js"],"Analytics"]
+8:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[32268,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+c:I[5789,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+d:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","style"]
+:HL["/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","style"]
+:HL["/hola-lector-agua/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/8c2eb9ceedecfc8e-s.p.21935807.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/ce62453a442c7f35-s.p.124b2306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"xTs_Uh3z_t9CBVjB8m3b9","c":["","read","y2v11","5",""],"q":"","i":false,"f":[[["",{"children":["read",{"children":[["volumeId","y2v11","d"],{"children":[["chapterIndex","5","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":["$","body",null,{"suppressHydrationWarning":true,"className":"inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG__variable merriweather_b1e99710-module__84TlHG__variable roboto_4304287d-module__gQrF4G__variable lora_c06265ab-module__hGs1mq__variable font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{"children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]],"notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},[["$","$Lb","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false]},null,false,false]},null,false,false]},[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+12:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+13:T9e82,
+<h1 id="chapter-4" class="chapter-title">Chapter 4: A Strange Discomfort</h1>
+
+<p class="P_Prose_Formatting">THE MORNING OF the second day. </p>
+<p class="P_Prose_Formatting">The time was still before 6 a.m. </p>
+<p class="P_Prose_Formatting">It was getting a little brighter, but it was hard to say that there was sufficient visibility. </p>
+<p class="P_Prose_Formatting">I moved a short distance away from the building to avoid being seen. </p>
+<p class="P_Prose_Formatting">Even without worrying, there wouldn't be many people who would come out at this time. </p>
+<p class="P_Prose_Formatting">Soon, as promised, Horikita and Ibuki appeared. </p>
+<p class="P_Prose_Formatting">“Yawn..  I'm sleepy. And it's cold.” </p>
+<p class="P_Prose_Formatting">Ibuki yawned and stretched, shivering. </p>
+<p class="P_Prose_Formatting">“If you don't like it, you can just go back to your room.” </p>
+<p class="P_Prose_Formatting">“You're kidding. I can't let you get revenge on your own.” </p>
+<p class="P_Prose_Formatting">Rather than against Amasawa, it seemed that the main driving force wasn’t wanting to let Horikita have her way. </p>
+<p class="P_Prose_Formatting">“It seems she was happy to accept the rematch.” </p>
+<p class="P_Prose_Formatting">“Yes. She agreed immediately. But I faced unexpected resistance.” </p>
+<p class="P_Prose_Formatting">“Unexpected?” </p>
+<p class="P_Prose_Formatting">“I asked for the morning of the fourth day as promised with you, but she negotiated to change it to the morning of the third day.” </p>
+<p class="P_Prose_Formatting">“She wanted to move it up a day earlier.” </p>
+<p class="P_Prose_Formatting">“Of course, since the condition for you to cooperate was the morning of the fourth day, I told her I couldn't compromise. In the end, she gave in, but it didn’t seem like she was any less inconvenienced. I wonder if she had some plans.” </p>
+<p class="P_Prose_Formatting">“In the early morning? It's hard to say. Since she accepted it, isn't it okay to ignore it?” </p>
+<p class="P_Prose_Formatting">If you hate getting up early, there wasn’t much difference between the third and fourth day. </p>
+<p class="P_Prose_Formatting">“Since I was the one asking, I didn't dig too much into it since it was a private matter. There might be some problems unique to girls, so if you understand, could you give us permission to change it to the third day?” </p>
+<p class="P_Prose_Formatting">Indeed, there was a cycle that could potentially be disadvantageous for women due to their physical structure. </p>
+<p class="P_Prose_Formatting">But that was the same for Horikita and Ibuki, and I didn't think Amasawa would use that as an excuse. </p>
+<p class="P_Prose_Formatting">“If the other party has agreed despite the inconvenience, we should proceed as planned. We should not reduce the number of special training sessions.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p101"></a><img src="/hola-lector-agua/images/books/y2v11/index-101_1.png" loading="lazy" decoding="async" alt="Image 112" /></p>
+<p class="P_Prose_Formatting">“You're relentless.” </p>
+<p class="P_Prose_Formatting">“The morning of the fourth day is the decisive day. If you can't follow that, I can't accompany you in the special training.” </p>
+<p class="P_Prose_Formatting">“. .I understand. I feel a bit guilty, but let's stick with the current plan. Is that okay?” “Don't think about holding back out of consideration for the other party.” </p>
+<p class="P_Prose_Formatting">Horikita seemed to be troubled by something. </p>
+<p class="P_Prose_Formatting">“I understand. She probably doesn't think she's going to lose at all. She's even worried about me.” </p>
+<p class="P_Prose_Formatting">She didn't seem to like that, but there was nothing she could do about it since she was on the side that wanted revenge. </p>
+<p class="P_Prose_Formatting">“I'm going to beat her to a pulp.” </p>
+<p class="P_Prose_Formatting">Ibuki was fanning the flames of revenge next to me. </p>
+<p class="P_Prose_Formatting">It was up to the individual to fan the flames, but going too far could be a big problem. </p>
+<p class="P_Prose_Formatting">“Don't injure her face, okay? It's a hassle if the fight gets out.” </p>
+<p class="P_Prose_Formatting">“Huh? If it's a weak point, I'll aim anywhere. Actually, the first thing I should do is kick Amasawa in the face, right?” </p>
+<p class="P_Prose_Formatting">Even if I warned her here, she would probably still kick mercilessly when the time came. </p>
+<p class="P_Prose_Formatting">“It's good that you're motivated.” </p>
+<p class="P_Prose_Formatting">For now, I decided to leave it at that, as she was showing a positive attitude. </p>
+<p class="P_Prose_Formatting">“Could you tell me the additional conditions for accepting the offer?” </p>
+<p class="P_Prose_Formatting">“Yeah. There's only one more condition left. Promise to fight two against one if you judge it's difficult to win. Don’t hesitate.” </p>
+<p class="P_Prose_Formatting">When I conveyed what I had decided in advance, neither Horikita nor Ibuki seemed to be able to swallow it immediately. </p>
+<p class="P_Prose_Formatting">“I'm sorry. What do you mean by two against one—” </p>
+<p class="P_Prose_Formatting">“Of course, you and Ibuki are the two I’m referring to. If you can't accept that, then I'm not willing to cooperate.” </p>
+<p class="P_Prose_Formatting">When I told them again, Ibuki kicked the ground and thrusted her fist at me. </p>
+<p class="P_Prose_Formatting">“Huh!? What's this two-against-one in a match? That's so lame. It's impossible.” </p>
+<p class="P_Prose_Formatting">“I'm not saying you shouldn't do one-on-one. I said, ‘if you judge it's difficult,’ didn't I?” </p>
+<p class="P_Prose_Formatting">“It sounds like you don’t think we’d win on our own.” </p>
+<p class="P_Prose_Formatting">“I'd like to sugarcoat it, but yeah, that's about it. I'm sorry, but the chances of beating Amasawa one-on-one are almost zero. I'm not going to go along with something that's just a waste of time.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p102"></a><img src="/hola-lector-agua/images/books/y2v11/index-102_1.png" loading="lazy" decoding="async" alt="Image 113" /></p>
+<p class="P_Prose_Formatting">Honestly, even if they managed to make it two against one, there'd be a higher chance of it turning out like last time. </p>
+<p class="P_Prose_Formatting">“I don't like it. I can't accept that condition.” </p>
+<p class="P_Prose_Formatting">“I don't like it either. But from the way you talk, it seems you know exactly how strong Amasawa-san is, don't you?” </p>
+<p class="P_Prose_Formatting">“That's right. To be honest, it's not exactly a match, but I've seen her strength.” </p>
+<p class="P_Prose_Formatting">“. .And you think there's that much of a gap between us and her?” </p>
+<p class="P_Prose_Formatting">When I nodded, Ibuki seemed to be even more upset and looked away with a click of her tongue. </p>
+<p class="P_Prose_Formatting">“I can't do this. I don't need Ayanokōji's help, I'll do it alone. In fact, you should do the same.” </p>
+<p class="P_Prose_Formatting">“Indeed..  you've put forward an unexpectedly hard-to-swallow condition.” </p>
+<p class="P_Prose_Formatting">She must’ve been planning to accept most things without hesitation before coming here. </p>
+<p class="P_Prose_Formatting">It was no wonder she was wavering now, but it was meaningless to receive special training without a purpose. </p>
+<p class="P_Prose_Formatting">“If that's the case, that's fine. It's easier for me if I don't have to cooperate.” </p>
+<p class="P_Prose_Formatting">“Let me ask you again. You understand Amasawa-san's strength, don't you?” </p>
+<p class="P_Prose_Formatting">“I think I understand it better than you or Ibuki, at least. Although it's only for reference, I can also fight by estimating Amasawa's strength.” </p>
+<p class="P_Prose_Formatting">Horikita probably just wanted a simple match, but if she could fight against an opponent of similar strength, she couldn't help but find it appealing. </p>
+<p class="P_Prose_Formatting">“—I understand. I'm fine with that condition. But what if Ibuki-san refuses?” </p>
+<p class="P_Prose_Formatting">“This conversation is over. It’s only possible if the two of you cooperate.” </p>
+<p class="P_Prose_Formatting">“Will you judge after seeing my improved strength?” </p>
+<p class="P_Prose_Formatting">“That's right. Let's give it a try then.” </p>
+<p class="P_Prose_Formatting">I slowly pulled my foot back and drew a small circle on the ground, about one meter in diameter. Then, standing at the center of the circle, I positioned my left hand forward and my right hand back. </p>
+<p class="P_Prose_Formatting">“I won't move from here. And I'll only attack with my left hand.” </p>
+<p class="P_Prose_Formatting">“Huh?” </p>
+<p class="P_Prose_Formatting">“If you can make me struggle in this state, you should be able to put up a good fight against Amasawa.” </p>
+<p class="P_Prose_Formatting">“Are you mocking me?” </p>
+<p class="P_Prose_Formatting">“You're free to interpret it however you wish, but you're the one who asked me to show you, right?” </p>
+<p class="P_Prose_Formatting">“Funny. Well, I'll burn that arrogance to ashes first.” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">What an interesting way to put it. </i> </p>
+<p class="P_Prose_Formatting">Ibuki, like the last time we faced off, fought mainly with kicks. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p103"></a><img src="/hola-lector-agua/images/books/y2v11/index-103_1.png" loading="lazy" decoding="async" alt="Image 114" /></p>
+<p class="P_Prose_Formatting">Her sharpness might’ve improved, but honestly, it was a negligible difference. </p>
+<p class="P_Prose_Formatting">I quickly determined the direction of her foot and dodged. </p>
+<p class="P_Prose_Formatting">“How cheeky! If I can grab your left arm, it's my game!” </p>
+<p class="P_Prose_Formatting">Apparently, Ibuki intended to grab my left arm to prevent me from attacking. </p>
+<p class="P_Prose_Formatting">If that was what she wanted, I'd let her grab it to her heart's content. </p>
+<p class="P_Prose_Formatting">When I deliberately held my left hand in an easy-to-reach position, she seized the opportunity and grabbed my left wrist. Immediately after, I spread the fingers of my left hand and took a big step with my left foot, placed right behind Ibuki. While drawing my captured hand in an arc from left to right, I used my left foot to step out and free myself. </p>
+<p class="P_Prose_Formatting">Ibuki, who was brushed off, was left in a defenseless state with her back fully exposed in front of me before she realized it. </p>
+<p class="P_Prose_Formatting">“Eh—!?” </p>
+<p class="P_Prose_Formatting">I thrusted my clenched left fist into Ibuki's back, who was still catching up on what happened, and lightly tapped it. </p>
+<p class="P_Prose_Formatting">“W-What the hell. .!?” </p>
+<p class="P_Prose_Formatting">“It's a kind of Aikido. The result won't change no matter how many times you try.” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">(TL NOTE: Aikido (</i> 合気道 <i class="calibre3">) A type of Japanese martial art. The use of</i> <i class="calibre3">twisting and throwing techniques and in its aim of turning an attacker's strength</i> <i class="calibre3">and momentum against themselves.)</i> </p>
+<p class="P_Prose_Formatting">In a one-on-one fight, the difference in ability couldn’t be overridden no matter how many times you fought. </p>
+<p class="P_Prose_Formatting">To have a chance, you needed to accept a two-on-one and outnumber your opponent. </p>
+<p class="P_Prose_Formatting">“Could you switch with me, Ibuki-san?” </p>
+<p class="P_Prose_Formatting">“Do you have to experience it to understand it?” </p>
+<p class="P_Prose_Formatting">“That's not it. Even with the short exchange just now, I could fully recognize the extent of your strength. That's why I want Ibuki-san to see it objectively. There wouldn’t be any progress if you don't know what happened.” </p>
+<p class="P_Prose_Formatting">She seemed to want to let Ibuki gain experience on her own. </p>
+<p class="P_Prose_Formatting">“Similarly, I'll also bind your left hand. But I don't intend to let it go down the same way.” </p>
+<p class="P_Prose_Formatting">“That's better. It's foolish to come and purposely get defeated in the same manner.” </p>
+<p class="P_Prose_Formatting">I let Ibuki step back and now Horikita stood in front of me. </p>
+<p class="P_Prose_Formatting">“You can start anytime.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p104"></a><img src="/hola-lector-agua/images/books/y2v11/index-104_1.png" loading="lazy" decoding="async" alt="Image 115" /></p>
+<p class="P_Prose_Formatting">“I intend to.” </p>
+<p class="P_Prose_Formatting">I thought she might take a moment to breathe, but she started moving immediately. </p>
+<p class="P_Prose_Formatting">She quickly tried to grab not my left wrist, but further down. </p>
+<p class="P_Prose_Formatting">I guess she wanted to test my instincts before she said anything else. </p>
+<p class="P_Prose_Formatting">However, by skillfully adjusting myself and pulling my arm, I forced her to grab my wrist. </p>
+<p class="P_Prose_Formatting">“Kuh...!” </p>
+<p class="P_Prose_Formatting">Instead of grabbing me, she ended up being grabbed herself. Even if Horikita recognized this, she had already started the motion and couldn't stop halfway. Even though she understood in her head that it was a disadvantageous position, she moved in the exact same way Ibuki did. </p>
+<p class="P_Prose_Formatting">Instead of letting her latch onto where she aimed, I forced her to take hold of what she didn't want to. </p>
+<p class="P_Prose_Formatting">The human mind is a strange thing, and even if you knew you shouldn't grab it, your brain would still judge it would be better than to not do so. </p>
+<p class="P_Prose_Formatting">It was because she hadn't accumulated the experience that not grabbing could turn the situation to her advantage. </p>
+<p class="P_Prose_Formatting">“So the pattern I was caught in was the same as just now.. ” </p>
+<p class="P_Prose_Formatting">“That's right.” </p>
+<p class="P_Prose_Formatting">“. .I wasn’t going to let the same thing happen to me, but before I knew it, I was forcibly taken.. ” </p>
+<p class="P_Prose_Formatting">While oozing frustration, Horikita's eyes stared at me intensely. </p>
+<p class="P_Prose_Formatting">“This is the difference in ability between us and Amasawa-san right now, isn't it?” </p>
+<p class="P_Prose_Formatting">“Yeah. At least, unless you can make me break the rules I set for myself, I don’t see any chance of winning.” </p>
+<p class="P_Prose_Formatting">Whether to drive me out of the circle or make me use my right arm. </p>
+<p class="P_Prose_Formatting">Challenging for revenge without achieving either of those would only be laughable. </p>
+<p class="P_Prose_Formatting">“Are you convinced now? How reckless it is to fight Amasawa one-on-one?” Horikita was still keeping her expression in check, but Ibuki was clearly showing her frustration. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Let's assume that she’s stopped boasting about defeating her and made some</i> <i class="calibre3">progress in understanding her situation. </i> </p>
+<p class="P_Prose_Formatting">“How much is it…?” </p>
+<p class="P_Prose_Formatting">“What do you mean?” </p>
+<p class="P_Prose_Formatting">“The difference between me and Amasawa. Can't you tell me in a way that’s easier for me to understand, like with numbers?” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p105"></a><img src="/hola-lector-agua/images/books/y2v11/index-105_1.png" loading="lazy" decoding="async" alt="Image 116" /></p>
+<p class="P_Prose_Formatting">Indeed, just having a vague feeling of it might not be enough to maintain future motivation. </p>
+<p class="P_Prose_Formatting">“If we talk about physical ability, if we treat you two as equals and give you a score of 50, then Amasawa would be 60, so a difference of about 10.” </p>
+<p class="P_Prose_Formatting">When I answered like that, both of them looked at each other, perhaps surprised that the difference was less than they thought. </p>
+<p class="P_Prose_Formatting">“However, if we include technical skills, it's a different story. You two focus on one style of martial arts, while Amasawa focuses on a wider variety of them. </p>
+<p class="P_Prose_Formatting">Taking that into account, the difference becomes even bigger.” </p>
+<p class="P_Prose_Formatting">I used numbers as a rough estimate, but this was just a guideline. </p>
+<p class="P_Prose_Formatting">The outcome could change due to the conditions of the day, unpredictable events, misreading, and luck. But the greater the skill difference, the more trials would be needed. </p>
+<p class="P_Prose_Formatting">“From now on, you two will fight me at the same time.” </p>
+<p class="P_Prose_Formatting">“I don't like it.” </p>
+<p class="P_Prose_Formatting">“I agree with you, Ibuki-san. But you understand why it's necessary, don't you?” “I'll definitely make him use both hands. Okay?” </p>
+<p class="P_Prose_Formatting">“I wonder about that. I think it's easier to drive him out of the circle, don't you?” “I don't care. You should adapt to me.” </p>
+<p class="P_Prose_Formatting">They started arguing about how to fight before they even started. </p>
+<p class="P_Prose_Formatting">Horikita and Ibuki were like oil and water. They probably didn't have any intention of cooperating from the very start. </p>
+<p class="P_Prose_Formatting">For now, I'd let them do as they pleased without mentioning it. </p>
+<p class="P_Prose_Formatting">“We can't adjust to each other. Fine, let's attack as we please.” </p>
+<p class="P_Prose_Formatting">“I agree.” </p>
+<p class="P_Prose_Formatting">It seemed they weren’t going to compromise, but rather attack at the same time, each doing their own thing. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p106"></a><img src="/hola-lector-agua/images/books/y2v11/index-106_1.png" loading="lazy" decoding="async" alt="Image 117" /></p>
+
+
+<p class="P_Prose_Formatting">“Shall we stop here?” </p>
+<p class="P_Prose_Formatting">Both of them were greatly exhausted, partly because they were forced to fight as an unfamiliar pair. When I called it a day, they both sat down at about the same time. </p>
+<p class="P_Prose_Formatting">“Even if we do this for another day, it won't make much difference, but it should be somewhat better.” </p>
+<p class="P_Prose_Formatting">If they had challenged Amasawa for revenge without receiving any guidance, they wouldn't have any hopes of winning. </p>
+<p class="P_Prose_Formatting">“How did you become so strong.. ?” </p>
+<p class="P_Prose_Formatting">“I've been learning martial arts since I was little. That's all there is to it.” </p>
+<p class="P_Prose_Formatting">“I've been doing the same. I've been trying not to lose to those around me, with karate as my main focus.” </p>
+<p class="P_Prose_Formatting">Maybe I was a little too harsh.  <i class="calibre3">Did I damage Horikita's confidence? </i> It seemed to have been backed by her experience. </p>
+<p class="P_Prose_Formatting">I was thinking of inserting some mental care in a hurry, but it seemed that there was no need to worry about that. </p>
+<p class="P_Prose_Formatting">“But I've decided to think of you as an exception. The fact that my brother recognized you is now a great source of support for me.” </p>
+<p class="P_Prose_Formatting">“Hmm...” </p>
+<p class="P_Prose_Formatting">Unlike Horikita, Ibuki, who was still grumbling, stood up and turned her back away. </p>
+<p class="P_Prose_Formatting">“I'll definitely make you use both hands tomorrow.” </p>
+<p class="P_Prose_Formatting">Leaving those words behind, she stomped on the ground and returned to the camp. “She really is a sore loser.” </p>
+<p class="P_Prose_Formatting">It wasn’t a bad thing, but it was a shame that her vision was narrowed because of it. </p>
+<p class="P_Prose_Formatting">I wasn’t sure if she was able to absorb all the moves and fighting styles. </p>
+<p class="P_Prose_Formatting">“It's okay. I'll have a talk with her later and review today's experience. Even if I have to force it upon her.” </p>
+<p class="P_Prose_Formatting">That was reassuring. </p>
+<p class="P_Prose_Formatting">I walked back to the camp with Horikita. </p>
+<p class="P_Prose_Formatting">“I didn't think you would cooperate so much. I thought you would hold back more, or stay within a safe range. .” </p>
+<p class="P_Prose_Formatting">There were several reasons stacked up, but the main reason for not revealing too much of my hand was that I had judged it to be too harsh for the future Horikita. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p107"></a><img src="/hola-lector-agua/images/books/y2v11/index-107_1.png" loading="lazy" decoding="async" alt="Image 118" /></p>
+<p class="P_Prose_Formatting">“Sometimes I do charity work.” </p>
+<p class="P_Prose_Formatting">“It's suspicious. I can't help but suspect there's something behind it.” </p>
+<p class="P_Prose_Formatting">“There's no choice but to be prepared for when it happens.” </p>
+<p class="P_Prose_Formatting">When I said that, with deliberate implications, Horikita narrowed her eyes in disbelief. </p>
+<p class="P_Prose_Formatting">“Right. Let's be patient with each other.” </p>
+<p class="P_Prose_Formatting">After she accepted it, I parted ways with Horikita in front of the building and decided to return to my room separately. </p>
+<p class="P_Prose_Formatting">It would be better if Amasawa didn't know that I was teaching them. </p>
+<p class="P_Prose_Formatting">And by the time I returned to my shared room, it was just before seven o'clock. </p>
+<p class="P_Prose_Formatting">It was just then when Hashimoto was waking up and sitting in his bed. </p>
+<p class="P_Prose_Formatting">As we were quietly conversing, the first-year students were also waking up from their shallow sleep, and soon after, everyone in the shared room woke up. </p>
+<p class="P_Prose_Formatting">“Alright. Then I'll leave for the morning bath. What about you guys?” </p>
+<p class="P_Prose_Formatting">I decided to join Hashimoto and enjoy the bath. </p>
+<p class="P_Prose_Formatting">“Oh, is Ayanokōji-senpai going too!?” </p>
+<p class="P_Prose_Formatting">“That's the plan—” </p>
+<p class="P_Prose_Formatting">“Yanagi, Kobayashi, Kozumi, let's go too!” </p>
+<p class="P_Prose_Formatting">“Huh? No, we. .” </p>
+<p class="P_Prose_Formatting">“Just come! Ayanokōji-senpai is calling for us!” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">No, I'm not calling for anyone at all. </i> </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">I would appreciate it if you didn't say anything that could be misunderstood</i> <i class="calibre3">as power harassment. </i> </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p108"></a><img src="/hola-lector-agua/images/books/y2v11/index-108_1.png" loading="lazy" decoding="async" alt="Image 119" /></p>
+
+
+<p class="P_Prose_Formatting">After we finished bathing, Kiryūin’s group, at Hashimoto's command, gathered all the remaining members, including the girls. </p>
+<p class="P_Prose_Formatting">Then, during breakfast, we exchanged ideas about today's exchange meeting. </p>
+<p class="P_Prose_Formatting">That being said, more than half of the conversation was from Hashimoto, and the rest were little bits from the other students. </p>
+<p class="P_Prose_Formatting">“I don't really understand, but the boys’ unusual excitement..  it's creepy.” </p>
+<p class="P_Prose_Formatting">Morishita, who was whispering next to me, spewed venom. </p>
+<p class="P_Prose_Formatting">“Really? I thought it was kind of cute.” </p>
+<p class="P_Prose_Formatting">Hiyori's remark seemed to neutralize it. </p>
+<p class="P_Prose_Formatting">Having heard the conflicting comment of calling it cute, Morishita stared at the first-year boys again. </p>
+<p class="P_Prose_Formatting">Regardless of whether they were cute or not, it was true that they were unusually excited. They were mostly shrinking in front of their senpais when they gathered as a group yesterday, but that had completely disappeared. </p>
+<p class="P_Prose_Formatting">Rather, they were making incomprehensible gestures with their hands and even bursting into laughter. </p>
+<p class="P_Prose_Formatting">“Is it cute?” </p>
+<p class="P_Prose_Formatting">“I think it's cute.” </p>
+<p class="P_Prose_Formatting">“I'm sorry, but it's still creepy. Shiina Hiyori is strange.” </p>
+<p class="P_Prose_Formatting">“Is that so?” </p>
+<p class="P_Prose_Formatting">Watching such an exchange nearby, I felt that Hiyori had changed a lot since we met. </p>
+<p class="P_Prose_Formatting">She used to be a student who didn't show her heart and was less emotional. </p>
+<p class="P_Prose_Formatting">No, rather than saying that her personality had changed from the bottom up, it might’ve been more accurate to say that she started to reveal her true self. </p>
+<p class="P_Prose_Formatting">“Ayanokōji-kun, is something wrong?” </p>
+<p class="P_Prose_Formatting">Because I was unreservedly observing her, Hiyori noticed my gaze. </p>
+<p class="P_Prose_Formatting">“It's nothing. Don't worry about it.” </p>
+<p class="P_Prose_Formatting">“Is that so?” She tilted her head slightly but showed a smile without suspecting anything. </p>
+<p class="P_Prose_Formatting">“Ayanokōji-senpai! Can I join you in the bath again tonight!?” </p>
+<p class="P_Prose_Formatting">“Huh? Oh, I don't mind at all.” </p>
+<p class="P_Prose_Formatting">While feeling a strange pressure, given that it wasn’t a bother, I agreed. </p>
+<p class="P_Prose_Formatting">Then, just with that, the first-year students bubbled up again. </p>
+<p class="P_Prose_Formatting">“In less than a day, you've tamed the first-year students so well. What kind of magic did you use?” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p109"></a><img src="/hola-lector-agua/images/books/y2v11/index-109_1.png" loading="lazy" decoding="async" alt="Image 120" /></p>
+<p class="P_Prose_Formatting">Kiryūin, who had finished her meal early, leaned on the table and muttered with interest. </p>
+<p class="P_Prose_Formatting">“Honestly, I'm also confused. I haven't done anything special.” </p>
+<p class="P_Prose_Formatting">“Do you intend to hide it from me too?” </p>
+<p class="P_Prose_Formatting">It seemed that she thought I was keeping a secret, but in reality, I didn't understand. </p>
+<p class="P_Prose_Formatting">“Do you not get why your kōhais respect you?” </p>
+<p class="P_Prose_Formatting">Hashimoto, who had been eavesdropping on our conversation, chimed in. </p>
+<p class="P_Prose_Formatting">“I might not understand it myself, but there's a part of me that admires you—or rather, fears you.” </p>
+<p class="P_Prose_Formatting">“Fear?” </p>
+<p class="P_Prose_Formatting">Fear was the feeling of terror towards someone with overwhelming power. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Though, I don't remember using any form of intimidation like Ryūen or</i> <i class="calibre3">Hōsen.. </i> </p>
+<p class="P_Prose_Formatting">“I was surprised too. You're really a man among men..  It's not surprising that the first-years would act this way once they found out about ‘that.’” </p>
+<p class="P_Prose_Formatting">“Huh? I don't quite understand, but it sounds very interesting. What is </p>
+<p class="P_Prose_Formatting">‘that’?” </p>
+<p class="P_Prose_Formatting">“Sorry, but it's a secret between men. I can't tell you about it.” </p>
+<p class="P_Prose_Formatting">“Hmm, a secret between men. That's not so bad.” </p>
+<p class="P_Prose_Formatting">For some reason, Kiryūin seemed satisfied with that explanation and stood up from her chair. </p>
+<p class="P_Prose_Formatting">As she was about to pick up her empty tray, Hashimoto stopped her. </p>
+<p class="P_Prose_Formatting">“We'll clean up. You don't have to worry about it, Senpai.” </p>
+<p class="P_Prose_Formatting">“I appreciate the thought, but I can clean up after myself. Let's meet again at the next exchange meeting.” </p>
+<p class="P_Prose_Formatting">With that, she picked up her tray and walked towards the return counter. </p>
+<p class="P_Prose_Formatting">“Whether it's easy or hard to deal with, she's a difficult senpai to understand.” </p>
+<p class="P_Prose_Formatting">Hashimoto voiced his thoughts on the departing Kiryūin. </p>
+<p class="P_Prose_Formatting">In terms of choosing the right person to match his description, he was right. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p110"></a><img src="/hola-lector-agua/images/books/y2v11/index-110_1.png" loading="lazy" decoding="async" alt="Image 121" /></p>
+
+
+<p class="P_Prose_Formatting">“Good morning, Ayanokōji-kun.” </p>
+<p class="P_Prose_Formatting">After finishing my meal and passing through the lobby, I found Sakayanagi sitting alone on a sofa. </p>
+<p class="P_Prose_Formatting">“Good morning. You look a bit sleepy.” </p>
+<p class="P_Prose_Formatting">She seemed to be a bit out of it, so I probed her. She nodded without denying it. </p>
+<p class="P_Prose_Formatting">“Yes. It seems I'm not good at sharing a room, so I couldn't sleep well. I decided to take a short break after I had a light meal.” </p>
+<p class="P_Prose_Formatting">Even if she wasn't exactly dozing off, closing her eyes might’ve had some effect. “I see. There's no guarantee that you'll be able to relax even if you return to your shared room.” </p>
+<p class="P_Prose_Formatting">“Usually, I get eight hours of sleep a day. It seems I'll struggle for a few days.” Considering her personality, it was possible that she slept exactly eight hours. “Did you get along with your group members?” </p>
+<p class="P_Prose_Formatting">“I don't think there's a need to get used to them, but I'm in charge of Class A. </p>
+<p class="P_Prose_Formatting">Without me doing anything, they approach me, so I’m not having trouble getting into conversations with them.” </p>
+<p class="P_Prose_Formatting">It seemed she wasn't having any problems in that regard, so that was good. </p>
+<p class="P_Prose_Formatting">“How about you? Are you having any problems with sharing a room with unfamiliar people?” </p>
+<p class="P_Prose_Formatting">“Well, I’m having a good time.” </p>
+<p class="P_Prose_Formatting">“Ayanokōji-kun, you're in the same group as Hashimoto-kun and Morishita-san. How is Hashimoto-kun doing?” </p>
+<p class="P_Prose_Formatting">“He's acting as usual, but he seemed to be scared of something.” </p>
+<p class="P_Prose_Formatting">“Speaking of him, there's a strange rumor going around. Something about him betraying the class. I'd appreciate it if you could warn him to be careful.” </p>
+<p class="P_Prose_Formatting">“I don't think a warning would help.” </p>
+<p class="P_Prose_Formatting">“Hehe.” </p>
+<p class="P_Prose_Formatting">Sakayanagi laughed a little, but she didn't seem as confident or relaxed as usual. “Are you getting along with your group?” </p>
+<p class="P_Prose_Formatting">“This isn't a special exam, just an exchange meeting, so I'm not doing anything special.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p111"></a><img src="/hola-lector-agua/images/books/y2v11/index-111_1.png" loading="lazy" decoding="async" alt="Image 122" /></p>
+<p class="P_Prose_Formatting">“That's a bit different from the information I got. Hashimoto said you'd aim to win in any way.” </p>
+<p class="P_Prose_Formatting">“You're not usually one to take things at face value, Ayanokōji-kun. It's probably just one of the excuses he used to have you scout me.” </p>
+<p class="P_Prose_Formatting">Hashimoto's statement might have been a bit exaggerated, but it wasn't completely off the mark. </p>
+<p class="P_Prose_Formatting">“Certainly, right after Masumi-san left, there was unexpected damage. You know that too, Ayanokōji-kun. But, I won't dwell on it for long.” </p>
+<p class="P_Prose_Formatting">Sakayanagi answered with such composure. </p>
+<p class="P_Prose_Formatting">“If there's a reason why I didn't do anything at this exchange meeting, it might be because I'm focusing on identifying someone who can become my new hands and feet.” </p>
+<p class="P_Prose_Formatting">Indeed, Kamuro had been a significant presence as an assistant until recently. </p>
+<p class="P_Prose_Formatting">It was certain that her absence would make it difficult to move. </p>
+<p class="P_Prose_Formatting">“The person I keep close to me must be someone I can trust as much as possible.” </p>
+<p class="P_Prose_Formatting">“What about Kitō?” </p>
+<p class="P_Prose_Formatting">“His loyalty is unmatched in the class, but naturally, I’m reluctant to involve someone of the opposite sex. Yet, even among the girls, no suitable candidate has emerged.” </p>
+<p class="P_Prose_Formatting">The only girls in Class A that I interacted with were Yamamura and Morishita. Both of them had their strengths, but they weren’t suitable for taking care of Sakayanagi. </p>
+<p class="P_Prose_Formatting">“Have you decided on a successor?” </p>
+<p class="P_Prose_Formatting">“Not yet. So I’m expecting to be on my own for a while. I am prepared to accept this as a consequence of my own misjudgment.” </p>
+<p class="P_Prose_Formatting">It seemed more like she wasn't seriously looking for a replacement, rather than that she couldn't find one. </p>
+<p class="P_Prose_Formatting">It might’ve been an exaggeration to call it a punishment for losing Kamuro, but she seemed to be choosing to live a life of inconvenience for a while. </p>
+<p class="P_Prose_Formatting">That was also Sakayanagi's choice, but there was another problem that needed to be resolved. </p>
+<p class="P_Prose_Formatting">Suddenly, I felt a presence behind me and turned around to see Kitō </p>
+<p class="P_Prose_Formatting">approaching with a scary (as usual?) look on his face. </p>
+<p class="P_Prose_Formatting">“Good morning.” </p>
+<p class="P_Prose_Formatting">“. .There doesn’t seem to be any problems.” </p>
+<p class="P_Prose_Formatting">Ignoring my greeting, Kitō spoke those words to Sakayanagi. </p>
+<p class="P_Prose_Formatting">“There is no problem at all. Thank you for your concern.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p112"></a><img src="/hola-lector-agua/images/books/y2v11/index-112_1.png" loading="lazy" decoding="async" alt="Image 123" /></p>
+<p class="P_Prose_Formatting">Watching their exchange, I understood that Kitō had approached Sakayanagi out of concern for her. </p>
+<p class="P_Prose_Formatting">At a time when she was unstable after losing Kamuro, not only would it be reasonable to be sensitive to contact from Hashimoto, but from foreign existences outside the class as well. </p>
+<p class="P_Prose_Formatting">“Don't take it the wrong way, Ayanokōji-kun.” </p>
+<p class="P_Prose_Formatting">“I understand. It's probably best to be suspicious right now.” </p>
+<p class="P_Prose_Formatting">“Good morning!” </p>
+<p class="P_Prose_Formatting">As I was confronting Sakayanagi and Kitō, Amasawa slid into the gap between us. </p>
+<p class="P_Prose_Formatting">“Good morning, Amasawa-san. You seem to be in good spirits this morning.” </p>
+<p class="P_Prose_Formatting">“Being energetic is one of my strengths, you know.” </p>
+<p class="P_Prose_Formatting">Kitō stepped back from Sakayanagi a bit, but kept his mouth shut so as not to interrupt the conversation. </p>
+<p class="P_Prose_Formatting">“I thought I'd give you a little encouragement before the second day of the exchange meeting starts. It seems like Ayanokōji-senpai has been winning all along, but..  you lost three times on the first day, Arisu-senpai. I'm worried that you might be in a pinch already.” </p>
+<p class="P_Prose_Formatting">“Unfortunately, I am not in command this time. I have left it all to the third-year.” “Hmm? So if you lose, it can't be helped? I was hoping for a little bit of interaction with other years this time, as it's a valuable opportunity.” </p>
+<p class="P_Prose_Formatting">“There's no need to set limitations within constraints. If you wish to challenge me, I am always ready to accept, so please rest assured.” </p>
+<p class="P_Prose_Formatting">Ignoring the exchange meeting, Sakayanagi conveyed that she was ready to take on any challenge at any time. </p>
+<p class="P_Prose_Formatting">However, upon hearing this, Amasawa laughed it off instead of getting excited. </p>
+<p class="P_Prose_Formatting">“You're bluffing. I've heard that you lost in the previous special exam and ended up at the bottom.” </p>
+<p class="P_Prose_Formatting">She seemed to have thoroughly collected information about the second-year students and confronted Sakayanagi without hesitation. </p>
+<p class="P_Prose_Formatting">And then, the moment Amasawa tried to touch Sakayanagi as if to tease her, Kitō grabbed her wrist mercilessly, demonstrating his role as a shield. </p>
+<p class="P_Prose_Formatting">“What are you doing, Kitō-senpai? Isn't this something you should do to Ryūen-senpai or someone?” </p>
+<p class="P_Prose_Formatting">She portrayed herself as a weak woman, but Kitō didn’t loosen his grip. </p>
+<p class="P_Prose_Formatting">“Whether it's Ryūen or anyone else, I'll act if necessary. Of course, I won't choose the means to do so. Be prepared for that.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p113"></a><img src="/hola-lector-agua/images/books/y2v11/index-113_1.png" loading="lazy" decoding="async" alt="Image 124" /></p>
+<p class="P_Prose_Formatting">Kitō made such a statement against Amasawa, who was smiling but showing hostility. </p>
+<p class="P_Prose_Formatting">“You're like a knight protecting a princess, but it's interesting. I don't mind even if you're violent against a girl..  Maybe I went too far with my joke.” </p>
+<p class="P_Prose_Formatting">Amasawa apologized, indicating that she had no real intention of doing anything. As soon as Kitō loosened his grip, she backed away. </p>
+<p class="P_Prose_Formatting">“I'll play with you again next time. Please be ready to give it your all, Arisu-senpai!” </p>
+<p class="P_Prose_Formatting">Amasawa hopped away, turning around and waving her hand several times. </p>
+<p class="P_Prose_Formatting">“The calm atmosphere has been ruined.” </p>
+<p class="P_Prose_Formatting">“Maybe so.” </p>
+<p class="P_Prose_Formatting">After a little bit of that exchange, I decided to leave. </p>
+<p class="P_Prose_Formatting">I didn't want to draw unnecessary attention to Sakayanagi by hanging around too much. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p114"></a><img src="/hola-lector-agua/images/books/y2v11/index-114_1.png" loading="lazy" decoding="async" alt="Image 125" /></p>
+<div class="calibre4" id="calibre_pb_6"></div>
+
+<style>
+    body {
+        color: #e5e5e5 !important;
+        background-color: transparent !important;
+    }
+    .P_Prose_Formatting {
+        font-family: serif; /* Match standard LN feel */
+        font-size: 1.08em;
+        text-align: justify;
+        text-indent: 1.50em; /* Standard indent */
+        line-height: 1.4;
+        margin-top: 0.42em;
+        margin-bottom: 0.42em;
+        color: inherit; /* Essential: Inherit theme color (white in dark mode) */
+    }
+    .P_TEXTBODY_CENTERALIGN {
+        font-size: 1.00em;
+        text-align: center;
+        text-indent: 0;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        display: block;
+    }
+    .chapter-title {
+        font-family: serif;
+        font-weight: bold;
+        font-size: 1.8em;
+        text-align: center;
+        margin-top: 1.5em;
+        margin-bottom: 1.5em;
+        page-break-before: always;
+        color: inherit;
+    }
+    a { color: inherit; text-decoration: none; }
+    img { 
+        max-width: 100%; 
+        height: auto; 
+        display: block; 
+        margin: 0 auto;
+    }
+</style>
+7:["$","$L12",null,{"content":"$13","title":"Chapter 4: A Strange Discomfort","volumeId":"y2v11","chapterIndex":5,"prevChapter":{"volumeId":"y2v11","chapter":4,"title":"Chapter 2: The Exchange Training Camp"},"nextChapter":{"volumeId":"y2v11","chapter":6,"title":"Chapter 5: The One Who Watches, The One Being Watched"},"toc":[{"label":"Illustrations","href":"index_split_000.html#illustrations","index":1},{"label":"Prologue: Miki Yamamura’s Monologue","href":"index_split_000.html#prologue","index":2},{"label":"Chapter 1: The Elusive Two-Party Interview","href":"index_split_001.html#chapter-1","index":3},{"label":"Chapter 2: The Exchange Training Camp","href":"index_split_002.html#chapter-2","index":4},{"label":"Chapter 3: Request from Horikita & Request from Ayanokōji","href":"index_split_002.html#chapter-3","index":4},{"label":"Chapter 4: A Strange Discomfort","href":"index_split_003.html#chapter-4","index":5},{"label":"Chapter 5: The One Who Watches, The One Being Watched","href":"index_split_004.html#chapter-5","index":6},{"label":"Chapter 6: A Peaceful Resolution","href":"index_split_005.html#chapter-6","index":7},{"label":"Chapter 7: A Settled Night","href":"index_split_006.html#chapter-7","index":8},{"label":"Chapter 8: The Courage to Move Forward","href":"index_split_007.html#chapter-8","index":9},{"label":"Epilogue: Who is the Challenger?","href":"index_split_007.html#epilogue","index":9},{"label":"Epilogue: Postscript","href":"index_split_007.html#postscript","index":9}],"volumeTitle":"Light Novel 2nd Year Volume 11","detailsLink":"/select/year-2/y2v11","returnLink":"/select","currentSpineIndex":5,"nextVolumeLink":"/select/year-2/y2v12","nextVolumeTitle":"Light Novel 2nd Year Volume 12"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+14:I[27201,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+a:null
+10:[["$","title","0",{"children":"Classroom of the Elite Reader"}],["$","meta","1",{"name":"description","content":"A premium reader experience for Classroom of the Elite light novels."}],["$","meta","2",{"property":"og:title","content":"Classroom of the Elite Reader"}],["$","meta","3",{"property":"og:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","4",{"property":"og:url","content":"https://classroom-of-the-elite-reader.vercel.app"}],["$","meta","5",{"property":"og:site_name","content":"COTE Reader"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Classroom of the Elite Reader Preview"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Classroom of the Elite Reader"}],["$","meta","14",{"name":"twitter:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","link","16",{"rel":"icon","href":"/hola-lector-agua/icon.svg?icon.ae5abf30.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","17",{}]]

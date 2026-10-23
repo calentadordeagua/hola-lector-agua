@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[98168,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js"],"default"]
+4:I[37457,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+5:I[36768,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/b7415f7eaafec72a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+6:I[43880,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js"],"Analytics"]
+8:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[32268,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+c:I[5789,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+d:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","style"]
+:HL["/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","style"]
+:HL["/hola-lector-agua/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/8c2eb9ceedecfc8e-s.p.21935807.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/ce62453a442c7f35-s.p.124b2306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"xTs_Uh3z_t9CBVjB8m3b9","c":["","read","y2v12.5","42",""],"q":"","i":false,"f":[[["",{"children":["read",{"children":[["volumeId","y2v12.5","d"],{"children":[["chapterIndex","42","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":["$","body",null,{"suppressHydrationWarning":true,"className":"inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG__variable merriweather_b1e99710-module__84TlHG__variable roboto_4304287d-module__gQrF4G__variable lora_c06265ab-module__hGs1mq__variable font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{"children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]],"notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},[["$","$Lb","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false]},null,false,false]},null,false,false]},[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+12:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+13:T343e,
+  <p class="P_Chapter_Header" id="auto_bookmark_toc_41"><span>Chapter 12:<br/>The Curtain Rises Once Again</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">O</span><span style=" font-size: 0.80em;">NCE THE OPENING CEREMONY </span><span class="C_Current__And__Times_New_Roman">had finished, the teachers gathered in the faculty office for a brief conference before making their way to their classrooms, where their students would be waiting for them.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Let’s walk together part of the way, Sae-chan.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was the first time that Hoshinomiya had approached Chabashira since they met in Mashima’s room during spring vacation. She even left the faculty office slightly ahead of the other teachers.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“S-sure,” replied Chabashira, clutching her tablet and hurrying to follow after her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sure you’re wondering what I’m going to do from here on,” said Hoshinomiya.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Obviously,” replied Chabashira. “Does that mean you’ve given it some thought, and you’ll tell me, then…?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Of course. I’m not changing,” Hoshinomiya stated. “I will never allow you to graduate from Class A, Sae-chan.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Ayanokouji isn’t just a simple student. Perhaps he will come up with a solution. </span><span class="C_Current__And__Times_New_Roman">While Chabashira had held onto such faint hopes, they turned out to be mere hopes after all. Well, she supposed that it was only natural that he couldn’t do anything. This wasn’t a problem between students. It had escalated past that and was a problem between teachers. That’s what she thought.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Then, does that seriously mean you’re going to sully your hands by cheating?” asked Chabashira.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, that reminds me. Yeah, I suppose there is that,” Hoshinomiya mused. “Wait a second. I’ll simply come straight out and tell you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Chabashira braced herself. If Hoshinomiya said that she was going to resort to that, Chabashira was going to have to strike first and report her to the school. She was determined to put a stop to it before anything happened.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“About what I said before, that I would stop you from reaching Class A, even if it meant cheating: I take that all back,” said Hoshinomiya.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Contrary to what Chabashira had been bracing for, Hoshinomiya said something that made it sound like she was reformed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I-is that really true? You must be lying just because I’m standing here,” snapped Chabashira.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s understandable that you would doubt me, but it’s the truth. I promise,” she said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Promise. Hoshinomiya made that declaration firmly. However, Chabashira was more surprised and upset than she was happy to hear it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Does that…” Chabashira hesitated. “Does that mean you’re going to try to coerce me into something, in exchange?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No way,” answered Hoshinomiya. “You should continue facing forward seriously, together with everyone in your class, just as you have been until now. There is no way I would impose any kind of conditions on you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I know what you’re getting at. ‘But why did you change your mind?’ Right?” asked Hoshinomiya.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Chabashira nodded deeply to confirm a perfectly natural question.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji-kun persuaded me,” said Hoshinomiya. “I was convinced, and I accepted.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji did…?” Chabashira wondered. “Is that really true?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s true,” Hoshinomiya confirmed. “He really is an incredible student. Not only does he easily influence who wins and loses between the classes, but he even manipulates my feelings, which gradually turned into a deep-seated grudge. He really is like the joker, huh?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In the midst of a conversation that kept throwing her off-balance, Chabashira couldn’t help but think of the fact that Hoshinomiya had previously made the same comparison; of Ayanokouji to a joker, the deck’s wild card.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re wondering how he persuaded me, right?” prompted Hoshinomiya.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah,” said Chabashira. “To be honest, I’m not sure that I believe it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, I suppose not,” Hoshinomiya answered. “But that’s fine. I think that you’ll soon realize that it’s the truth, Sae-chan.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In a brief time, the two of them were walking up the steps and approaching the corridor where the third-year classrooms were located.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because…” began Hoshinomiya.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As they climbed the last step and then turned the corner, the hallway opened into view, and Hoshinomiya flashed the cruelest possible smile at Chabashira.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because your hand no longer has the joker that you need to win, Sae-chan.”</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t have the joker…? What does that…?” sputtered Chabashira as she tried to understand what Hoshinomiya was getting at.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s right,” Hoshinomiya continued. “And if the joker were added to my hand, the tide of the battle would change greatly once more. If that happens, even I would have a chance to win, wouldn’t I? So then, for the next year, let’s fight fair and square.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Hoshinomiya had a fearless grin on her face as she placed her hand on the first door in the hall, the door to the room for Class 3-D.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Go on, then. Why don’t you go to your own classroom and see for yourself?” urged Hoshinomiya.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“See for myself?” Chabashira asked. “Chie, what in the world are you talking about?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Doubt. Then, immediately, a thought that Chabashira would never normally have flashed through her mind.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ah ha ha ha. I can’t wait to see that look on your face change into one of despair,” said Hoshinomiya as she entered her own classroom, then slammed the door forcefully behind her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">It couldn’t possibly be</span><span class="C_Current__And__Times_New_Roman">, thought Chabashira. With a scenario that should’ve been less than 1 percent likely filling her thoughts, Chabashira reached the classroom that was furthest along the hallway and was greeted by a shock that made her want to start running. The nameplate of the room, which said 3-A, was something she had been dreaming of. She hadn’t dreamt of a faculty member running up to her in a frenzy.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Chabashira-sensei, it’s just been decided, literally, as of just now, that a student of your class will be transferring!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The faculty member continued to explain things after that, but the words barely reached Chabashira’s ears.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>12.1</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">T</span><span style=" font-size: 0.80em;">HE HOMEROOM INSTRUCTOR </span><span class="C_Current__And__Times_New_Roman">for this class was stopped by a faculty member just as she was about to enter the classroom. She looked at me as I stood next to the faculty member and was astonished when she heard the details. After we each finished reconciling our perception of each other, the two of us entered the classroom together.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After the opening ceremony, it would normally be time to begin homeroom. Students who had gone on waiting, only to be disappointed. Unfamiliar sights. A nervous, almost bitter smile appeared on the face of a student. A student who looked at me with a stern expression, sizing me up. A student welcoming me, smiling at me. A classroom that smelled somehow new yet different.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Though some students were looking at me like they found something peculiar, no one was really taken aback. That was because they had been told in advance that I would be appearing at this time and place. Only the homeroom teacher, who had not heard the details, had yet to fully accept it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I know that we’ve just had the opening ceremony, but allow me to introduce myself: I’m Ayanokouji Kiyotaka, and I just transferred to this class by using twenty million Private Points,” I said. “Of course, I cannot replace Sakayanagi, who has voluntarily withdrawn from school. However, if all of you, my new classmates, still have the will to fight, then I am confident that I can help in breaking us out of this situation, even after the major setback this class has suffered.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">All the Private Points I had available were Private Points that Hashimoto had been saving for a transfer. Then the remaining number of needed Private Points was raised equally by all the members of this class with their consent, which brought the total up to twenty million. Thanks to that, my transfer to this class was made a reality. With this class of highly capable students, I figured they would do the work for me, without any extra effort on my part, in controlling the board in numerous ways. The scramble for Class A, which I had originally envisioned as all four classes locked in equal rivalry in our third year—in the truest sense, this might not have been the ideal setup for that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Nevertheless, the preparations were now complete.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In this new class, my final year was beginning.</span></p>
+7:["$","$L12",null,{"content":"$13","title":"Chapter 12: The Curtain Rises Once Again","volumeId":"y2v12.5","chapterIndex":42,"prevChapter":{"volumeId":"y2v12.5","chapter":38,"title":"Chapter 11: Goals"},"nextChapter":{"volumeId":"y2v12.5","chapter":43,"title":"Postscript"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Behind the Curtain","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Checking Each Answer","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Another Time","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: Vacant Throne","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 5: Anticipating","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 6: Illusion","href":"Text/section-0019.html#auto_bookmark_toc_19","index":20},{"label":"Chapter 7: Even After Graduation","href":"Text/section-0021.html#auto_bookmark_toc_21","index":22},{"label":"Chapter 8: Parent and Child, Child and Parent","href":"Text/section-0024.html#auto_bookmark_toc_24","index":25},{"label":"Chapter 9: Celebration","href":"Text/section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 10: The Promised Night","href":"Text/section-0030.html#auto_bookmark_toc_30","index":31},{"label":"Chapter 11: Goals","href":"Text/section-0037.html#auto_bookmark_toc_37","index":38},{"label":"Chapter 12: The Curtain Rises Once Again","href":"Text/section-0041.html#auto_bookmark_toc_41","index":42},{"label":"Postscript","href":"Text/section-0042.html#auto_bookmark_toc_42","index":43}],"volumeTitle":"Light Novel 2nd Year Volume 12.5","detailsLink":"/select/year-2/y2v12.5","returnLink":"/select","currentSpineIndex":42,"nextVolumeLink":"$undefined","nextVolumeTitle":"$undefined"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+14:I[27201,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+a:null
+10:[["$","title","0",{"children":"Classroom of the Elite Reader"}],["$","meta","1",{"name":"description","content":"A premium reader experience for Classroom of the Elite light novels."}],["$","meta","2",{"property":"og:title","content":"Classroom of the Elite Reader"}],["$","meta","3",{"property":"og:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","4",{"property":"og:url","content":"https://classroom-of-the-elite-reader.vercel.app"}],["$","meta","5",{"property":"og:site_name","content":"COTE Reader"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Classroom of the Elite Reader Preview"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Classroom of the Elite Reader"}],["$","meta","14",{"name":"twitter:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","link","16",{"rel":"icon","href":"/hola-lector-agua/icon.svg?icon.ae5abf30.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","17",{}]]

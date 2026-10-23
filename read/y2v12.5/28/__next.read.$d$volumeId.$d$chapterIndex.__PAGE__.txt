@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T6b48,
+  <p class="P_Chapter_Header" id="auto_bookmark_toc_27"><span>Chapter 9:<br/>Celebration</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">A</span><span style=" font-size: 0.80em;">S I WAS CHECKING</span><span class="C_Current__And__Times_New_Roman"> the news on my phone after getting dressed, the sound from my rice cooker announcing that my rice had finished cooking reached my ears. I had been skipping cooking meals for the past week, eating out or picking up stuff from the convenience store, but I was starting to cook meals for myself again as of today. When I opened the lid of my rice cooker, the aroma of cooked rice gently wafted out. This appetite-arousing smell was caused by something called carbonyl compound, produced by the reaction between the amino acids resulting from the decomposition of the proteins contained in the rice, and the sugars resulting from the decomposition of the starch.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I picked up a rice bowl in my left hand and a paddle in my right. Then, I put a standard serving of rice into a bowl and placed that on the tray. </span><span class="C_Current__And__Times_New_Roman__And__Italic">Next, another rice bowl and a small portion of—</span><span class="C_Current__And__Times_New_Roman"> I unconsciously gripped the empty air with my left hand.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I suppose that’s no longer necessary,” I thought aloud.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It appeared that there were still vestiges of the habits that had been drilled into me over these past few months. I put some side dishes and miso soup on the tray and then carried it to the living room table. Thinking back, my room had become considerably more barren compared to just a few days ago. Over the course of our relationship, the amount of Karuizawa’s personal belongings in my room had increased little by little, day by day. It wasn’t surprising then that once all of her things suddenly disappeared, the room went back to how it was originally.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">A few of Karuizawa’s friends—Satou, Sonoda, and Ishikura—had come to pick up the personal effects that had accumulated in my room. Karuizawa probably didn’t feel like she could bring herself to meet me face-to-face yet, but it was good that she had friends who could help her. Among them, Satou seemed like she was still particularly concerned about whether Karuizawa had really been the one to dump me, but even so, the cover story had remained unchanged. The pick-up ended with repeated explanations that I was the one who was dumped.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I’m sure Satou knew that it would be insensitive to strongly, repeatedly deny it. This was the best choice. Karuizawa Kei was a girl who, while having an awkward side, was blessed with good looks, good friends, and a good position in the class. I, on the other hand, was more of a social outcast. For someone like Karuizawa, it would be nothing but a stain on her future if either of us said that I had been the one to break up with her. In fact, Karuizawa hadn’t done anything wrong. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As I was eating breakfast with the television on, my phone’s screen lit up.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Good morning. If you can spare some time today, could we meet?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That message appeared on the screen. Just when I thought about actually opening the message so the status would be changed to “read” by the time I finished eating, another one arrived.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Your girlfriend dumped you, so your schedule should be wide open, right?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I guess word reached Horikita’s ears too, huh?” I remarked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I had thought that the news would’ve taken a little longer to spread since it happened during spring break, when there was no school, but…it seemed that the girls’ gossip network rivaled the speed of light. Since it appeared I had no other choice, I picked up my phone and typed an answer.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“I can meet any time after 10.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Okay then, let’s meet in the café in Keyaki Mall at 11.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With just a few simple replies back and forth, it was decided that we would be meeting up.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>9.1</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">I</span><span style=" font-size: 0.80em;"> MET UP WITH HORIKITA, </span><span class="C_Current__And__Times_New_Roman">who had been waiting for me at the entrance of Keyaki Mall, and we went to the café. Unfortunately, the café was bustling today, and all of the seats were taken, with several people waiting.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Guess we’re out of luck,” sighed Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“We can wait or go somewhere else. I’m fine either way,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When I asked Horikita if she wanted to put our names on the waiting list, she gestured like she was unsure.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay then. Let’s go somewhere else. Would a random bench somewhere be fine?” suggested Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I told her that I didn’t mind, so we left the café to look around. We soon spotted an unoccupied bench by the vending machines, near the restrooms on the second floor, and sat down together.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’ll treat you to something,” said Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, is that so?” I asked. “I would want to get treated at the café, though, if I have the option. Let’s head back.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m not treating you at the café. Still want to head back?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see,” I replied after a pause.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay then, what do you want? Of course, I won’t stop you if you intend to buy something with your own money.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’ll have an unsweetened coffee. Hot.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If I gave her any back talk, she wasn’t going to treat me to anything, so I figured I’d just come out and make my request. To be honest, I wanted to make every single yen count, because I could sense that I was going to be low on money in the future. Horikita bought two identical cans from the vending machine and handed me one of them.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Take it while it’s hot,” said Horikita. “This should warm your lonely heart.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Was that meant as consolation, or instigation?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hm, I wonder…” replied Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I pondered for a moment, but, no…that was most definitely meant as instigation. After staring at me for a moment, Horikita tilted her head in blatant curiosity.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is it true that you and Karuizawa-san broke up?” she asked. “I honestly can’t believe it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t really have anything to hide, so I’ll answer: Yes, it’s true. Where’d you hear it from anyway?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Kushida-san told me, in rather high spirits, that you got dumped. Kicked to the curb. Should I tell you specifically what she said?” asked Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sure, if only for my own reference,” I replied. I wanted to confirm how this information was being spread, so that I could keep my story straight in the future.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“She said things like you were desperately clinging to Karuizawa-san’s leg while bawling your eyes out, saying that you didn’t want to break up, and so on,” answered Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I felt like that was a bit of a stretch. No, scratch that, I felt like that was some real embellishment…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I would find it hard to believe, since you’re always so calm and collected, but I guess it could be true,” said Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, that’s—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m kidding,” Horikita said. “I don’t think even Kushida-san knows what happened when you two actually broke up.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I had chosen to go to a private karaoke room to avoid any chance of being seen. Of course, if Karuizawa was explaining it that way, I would have no other choice but to go along with it. Still, I felt relieved that it was a joke, because I had felt the urge to deny that part of the narrative. Although I was prepared to deal with it to a certain extent, there were limits. Truly, she was helping me learn about myself.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“In any case, I wasn’t a good fit for her,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Really? I don’t know, I didn’t really get that impression, though. I thought that Karuizawa-san cared for you a great deal,” said Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Women are good actresses, I guess. Or it’s possible that she could’ve found a better partner,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I guess I can’t rule out such a possibility, but…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What? You’ve got a strange look in your eye.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I was kind of looking forward to seeing you all depressed, but you seem like you’re completely fine.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If that was all, then a text message or a phone call would’ve sufficed. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So you went through the trouble of asking me to meet with you just to see the look on my face?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes,” replied Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She could be so mean-spirited sometimes.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, I’ll just leave it at that then, since it would be boorish of me to say anything on the matter of relationships between men and women,” said Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please do,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Then, Horikita finally got down to business. “What I wanted to talk about was, well, right after the special exam ended, there was the matter of Maezono-san, and it didn’t feel like we could honestly be happy about how things played out, right? Even now, I feel like everyone’s kind of walking on eggshells.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You might be right,” I answered. “They’re only concerned about how things are rough for the other classes.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After all, it would have been strange if they had been unreservedly jubilant over that kind of victory, but now, all everyone was talking about was what was going on in the lower-ranked classes.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes,” she replied, “Which is why I wanted to have a little promotion celebration with everyone in class, before we move up to our third year.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“A promotion celebration?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s what I’m calling it, but it’s just a simple thing. Like, we would all get together and say cheers, or something. With how things are, it’s kind of difficult for other students to come out and say anything, right?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah,” I replied as I considered the idea, since it sounded like she wanted my opinion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">This time, Maezono had been expelled from school, which was ostensibly the price we paid for winning. This somewhat awkward, prickly vibe continued to hang over the class, even as we approached spring vacation. Horikita thought that if she could eliminate that, or even just reduce it, then that would be ideal.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s not a bad idea…” I mused. “No, actually, it’s a good idea. But where are you going to do it?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, if we’re going to have close to forty people getting together, it’s possible we could disturb others if we pick the wrong place, right? Which is why I’m thinking of having it in the school classroom on one of our holidays. As for money, there’d just be the cost of drinks. What do you think about having it next Friday?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Since there were no club activities on that day, it would be the perfect time and place to meet. All that remained was to see whether the school would agree to it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I can get behind that,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Will you come?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t have any reason to refuse.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. That’s good to hear.” She seemed relieved at that, but then her expression darkened a little. “However, there is one more thing—the reason I called you here. You might think I’m being audacious, though.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Horikita was silent for a few seconds after that little introduction, but then she spoke once again, apparently with some difficulty.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I was a little worried, about whether your heart was okay,” she said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“My heart?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You prioritized winning for the sake of the class. As a result, Maezono-san was expelled. You’ve been burdened with a lot of responsibility for that, in making that decision.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m the one who said I wanted to take the position of general. It’s not really necessary for you to worry about it, Horikita.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It wasn’t just this time, either. You’ve helped the class before by taking on burdensome roles that no one else would take, like with what happened with Sakura-san, right?” Horikita looked at me, and I thought her eyes were quivering, albeit only slightly. “I’ve always been putting a tremendous burden on you, all because I’m weak…” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“All of those were things I just went ahead and did on my own. There’s no need for you to feel responsible at all,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I do feel responsible,” she said. “I can’t help but feel responsible. Yet I also understand that I’m not capable enough. In that case, I want to at least support your heart. If you’re feeling pain, I want you to talk about it honestly with me, and let me care for you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It wasn’t like I couldn’t understand what she was trying to say. It was certainly true that many other students would likely be emotionally distressed if they did the same things as I did. Unfortunately, such feelings did not exist within me. What was efficient and what was inefficient? Who to eliminate and who to keep? I made decisions like a machine. It wasn’t necessary for Horikita to understand such feelings, nor did I think I wanted her to. Well, I figured that even if I did actually tell her the truth here, she would probably decide that I was just putting up a tough front.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I understand what you’re trying to say, but I’m fine,” I said. “However, if things do get tough, I’ll be sure to talk to you about it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Really?” said Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry for making you worry,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, not at all, it’s…” she paused for a long moment. “I just wanted to be useful to you is all.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s a statement that could potentially lead to misunderstandings.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…Misunderstandings?” she repeated, cocking her head to the side, as if to say that she didn’t understand what that was supposed to mean.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I thought it sounded kind of like you were asking me out or something.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“E-excuse me?” blinked Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Like, now that I’m officially on the market again, you were putting yourself out there as a potential girlfriend candidate. Like that?” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">By laying it out in plain terms, Horikita finally seemed to understand what I was trying to say, prompting a weary sigh. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You went and said something incredibly stupid,” huffed Horikita, glaring at me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That came out of me acting tough, to hide the heartache I feel over being dumped, rather than all the business about expulsion and such. Forgive me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It sure didn’t look that way, which is what I don’t understand,” she sighed once more.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">We continued chatting after that, even after the last drops of our cans of coffee had been drunk.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>9.2</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After parting ways with Ayanokouji, who was going to stop by the bookstore, Horikita headed back to the dormitory alone. A warm spring breeze suddenly blew past, ruffling her long hair.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“A potential girlfriend candidate, huh?” Horikita thought aloud.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">While she thought that it was an incredibly ridiculous joke, she once again reflected on the past. She realized that it had already been two years since she had met Ayanokouji. It wasn’t so surprising then that they had become friends who could frivolously banter without it feeling unnatural. Even so, there was still something that bothered her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He’s the only one I’ve become able to talk to like that,” she murmured.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was because Horikita couldn’t talk to anyone else the way she was able to with Ayanokouji. The same was true for Kushida, Ibuki, and the rest. There was a part of her that didn’t let her fully drop her guard. She realized that there was something in Ayanokouji that didn’t apply to her other classmates and friends: that he was closer to her than anyone else, and he continued to watch over her. Also, that over these past two years, she had broken down those walls she had, but only with him.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s not like that makes us boyfriend and girlfriend,” she huffed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">That’s ridiculous</span><span class="C_Current__And__Times_New_Roman">. Right when that thought crossed her mind, Horikita felt a slight uptick in her heartbeat. It was a minor physical sensation that likely would’ve gone unnoticed if her surroundings had been noisy.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What was that just now…?” she wondered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Something she had never experienced before: a feeling in her chest, a feeling that something was off. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Anxiety?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That question popped up in her mind, but she quickly brushed it away, telling herself that wasn’t it. In that case, what was making her heart beat faster now? She thought back to the words that Ayanokouji, now out of sight, said earlier when he was trying to act tough.</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_06" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_06.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_29"><span class="C_Current__And__Times_New_Roman__And__Italic">“Like, you were putting yourself out there as a potential girlfriend candidate. Like that?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">A condescending, arrogant attitude that was incomprehensible. Moreover, why should she put herself forward as a candidate to go out with someone she didn’t even like? What did ‘like’ even mean? What did ‘not liking’ someone mean? Horikita wondered if she even understood those things, as someone who had never really been conscious of the opposite sex before now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Come on now, it was a joke to start with, so there’s no point in thinking about it seriously. It’s just bizarre,” said Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Horikita tried to shake off those impure thoughts from her mind, but she couldn’t get rid of them, nor the sort of hazy, uncertain feeling that she couldn’t properly describe.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No. Let’s stop thinking about this,” said Horikita, trying to empty her mind to stop herself from spinning her wheels.</span></p>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 9: Celebration","volumeId":"y2v12.5","chapterIndex":28,"prevChapter":{"volumeId":"y2v12.5","chapter":25,"title":"Chapter 8: Parent and Child, Child and Parent"},"nextChapter":{"volumeId":"y2v12.5","chapter":31,"title":"Chapter 10: The Promised Night"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Behind the Curtain","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Checking Each Answer","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Another Time","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: Vacant Throne","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 5: Anticipating","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 6: Illusion","href":"Text/section-0019.html#auto_bookmark_toc_19","index":20},{"label":"Chapter 7: Even After Graduation","href":"Text/section-0021.html#auto_bookmark_toc_21","index":22},{"label":"Chapter 8: Parent and Child, Child and Parent","href":"Text/section-0024.html#auto_bookmark_toc_24","index":25},{"label":"Chapter 9: Celebration","href":"Text/section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 10: The Promised Night","href":"Text/section-0030.html#auto_bookmark_toc_30","index":31},{"label":"Chapter 11: Goals","href":"Text/section-0037.html#auto_bookmark_toc_37","index":38},{"label":"Chapter 12: The Curtain Rises Once Again","href":"Text/section-0041.html#auto_bookmark_toc_41","index":42},{"label":"Postscript","href":"Text/section-0042.html#auto_bookmark_toc_42","index":43}],"volumeTitle":"Light Novel 2nd Year Volume 12.5","detailsLink":"/select/year-2/y2v12.5","returnLink":"/select","currentSpineIndex":28}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

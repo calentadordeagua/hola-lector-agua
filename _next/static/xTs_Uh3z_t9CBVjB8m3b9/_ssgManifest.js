@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fread\u002F[volumeId]\u002F[chapterIndex]","\u002Fselect\u002Fyear-1\u002F[volumeId]","\u002Fselect\u002Fyear-2\u002F[volumeId]","\u002Fselect\u002Fyear-3\u002F[volumeId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

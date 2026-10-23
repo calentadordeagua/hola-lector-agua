@@ -1,0 +1,389 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[98168,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js"],"default"]
+4:I[37457,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+5:I[36768,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/b7415f7eaafec72a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+6:I[43880,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js"],"Analytics"]
+8:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[32268,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+c:I[5789,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+d:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","style"]
+:HL["/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","style"]
+:HL["/hola-lector-agua/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/8c2eb9ceedecfc8e-s.p.21935807.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/ce62453a442c7f35-s.p.124b2306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"xTs_Uh3z_t9CBVjB8m3b9","c":["","read","y2v12.5","16",""],"q":"","i":false,"f":[[["",{"children":["read",{"children":[["volumeId","y2v12.5","d"],{"children":[["chapterIndex","16","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":["$","body",null,{"suppressHydrationWarning":true,"className":"inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG__variable merriweather_b1e99710-module__84TlHG__variable roboto_4304287d-module__gQrF4G__variable lora_c06265ab-module__hGs1mq__variable font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{"children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]],"notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},[["$","$Lb","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false]},null,false,false]},null,false,false]},[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+12:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+13:T97a0,
+  <p class="P_Chapter_Header" id="auto_bookmark_toc_15"><span>Chapter 4:<br/>Vacant Throne</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">A</span><span style=" font-size: 0.80em;"> FEW DAYS HAD ALREADY</span><span class="C_Current__And__Times_New_Roman"> passed since the start of the spring vacation. The zeal brought on by the End-of-Year Special Exam was nowhere to be seen, and many of the students, regardless of grade level or class, were likely enjoying their spring vacation to the fullest right about now. However, some classes had less to celebrate: Ichinose’s class, which had lost to Horikita’s class, and Sakayanagi’s class, which had lost to Ryuuen’s class.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With only one year remaining, the students from both of those classes would need to carefully prepare for the battles ahead, steeling themselves for the challenges awaiting them rather than spending their spring vacation aimlessly. If they didn’t, their future prospects would likely be bleak. This was a particularly big problem for Sakayanagi’s class, who had only just learned that their leader was going to be withdrawing from school voluntarily. Once that fact had become public knowledge, I decided to call on certain people to meet up so that I could get a grasp of the situation in Class A.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Those certain two people were Morishita and Yamamura. The appointed time was ten o’clock in the morning, and the meeting place was near the dormitory.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In other words, none other than this place, where I was standing right now. However, even after five, and then ten minutes of waiting, there was no sign of either of the people I was waiting for. I was sure that they hadn’t forgotten, as they had definitely read the message that I had sent them just after eight o’clock this morning. Even supposing that, hypothetically, something had happened, like one of them fell back asleep, it was hard to imagine that it would happen to both of them at the same time. I waited for another five minutes or so, but when neither showed, I tried calling Morishita. The phone rang, but she didn’t pick up.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“All right then. Guess I’ll try Yamamura,” I thought aloud.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I didn’t want to put too much mental strain on Yamamura, who was extremely shy, but I had no choice. I called her number even though I felt sorry for her. It started to ring, then I heard a panicked voice through the phone.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“U-um sorry we’re late!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Before I could say anything, I could hear her talking to someone else.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Huh? H-hang…the phone? B-but…time, it’s…late, so…um, I…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Yamamura sounded flustered, her words choppy and scattered when I could hear them at all.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is Morishita with you, by any chance?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Y-yes. Um, well… Wait, come to the back side of the dormitory? Ah! My phone, don’t—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The call suddenly cut off what sounded like a bit of a struggle.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What in the world?” I wondered aloud.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I didn’t really understand what that was all about, but she said something about behind the dormitory. Since I had at least heard that, I figured I’d head over there. It was only a two- or three-minute walk away.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>4.1</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">I</span><span style=" font-size: 0.80em;"> ARRIVED AT THE BACK</span><span class="C_Current__And__Times_New_Roman"> of the dormitory like Yamamura had mentioned. And when I did, I immediately spotted Yamamura looking flustered and panicking. Morishita was there too, down on the ground on all fours for some reason. The things she did were inexplicable, like that time at camp when she put her hand to a large tree and said something about the voice of the forest. Although that time, it was a lie, meant to tease me, so I couldn’t deny the possibility that this was just an extension of that kind of behavior. However, it was also true that Morishita was not a normal student…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I figured that the only way to find out for sure was to talk to them directly. As I approached, I saw that Yamamura’s mouth was flapping open and shut, like she wanted to call out to me, but no sound was coming out.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What are you doing here?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">At my question, Morishita whipped her head back toward me and glared fiercely.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Shh! You’re too loud,” Morishita shushed me. “Please quiet down immediately. I am in the middle of observing insects.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…I said, what are you doing?” I repeated, asking her again more quietly so as not to make her angry.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I told you, observing insects,” she replied. “Have you become hard of hearing in the brief time that we have been apart from each other? Perhaps, Ayanokouji Kiyotaka, you are—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">What she said after that was so vile that it’s probably best only heard by myself and Yamamura, who was holding her head in her hands.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s not that I didn’t hear you,” I corrected her. “It’s just that I couldn’t understand you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Yamamura silently and repeatedly bowed her head to me, apologizing. She was implicitly saying, </span><span class="C_Current__And__Times_New_Roman__And__Italic">“Sorry we’re late!” </span><span class="C_Current__And__Times_New_Roman">Well, no, actually, she was saying, </span><span class="C_Current__And__Times_New_Roman__And__Italic">“I’m sorry that we couldn’t meet up with you.”</span><span class="C_Current__And__Times_New_Roman"> </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I responded with a wave of my hand to tell her that it was Morishita’s fault no matter how you looked at it, so she shouldn’t worry. For the time being, I decided to wait until Morishita finished crawling on all fours.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As for Morishita, she didn’t seem to care at all about things like our scheduled appointment. She was too busy down on all fours to observe insects with her magnifying glass in hand. I had thought perhaps Morishita was just doing this as part of a gag, but she ended up making us wait for about ten minutes. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Phew! Okay. That’s it for now,” declared Morishita as she stood up with a satisfied look, her casual clothes magnificently stained with dirt. She didn’t even try to wipe it off as she put her magnifying glass away.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“How long has she been at that?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“For over thirty minutes now,” Yamamura sighed in response, without any of her usual hesitation, perhaps suddenly overwhelmed by exhaustion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">What an incredible ordeal it must’ve been, accompanying Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Am I not free to decide what I do with my own time?” huffed Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, if you don’t have a commitment, then sure, it’s fine,” I replied. “But if you do, then don’t you think that you should do that another time?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What cumbersome phrasing. You should really study Japanese more,” answered Morishita, pointing a finger at me as though I was the one being inconsiderate. “I am quite fond of creatures.”</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_02" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_02.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_17"><span class="C_Current__And__Times_New_Roman">“Huh?” I blinked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is rude of you to doubt me,” she continued. “I bought an observation kit during summer vacation last year, and I became utterly engrossed in raising shield shrimp. Yes, I remember, those were some spectacular days.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“H-huh… I-is that so? I guess, I’m not sure that I can believe that…” said Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Seemed like it wasn’t just me; Yamamura was just as confused as I was.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Unbelievable?” asked Morishita. “What do you mean by ‘unbelievable,’ Yamamura Miki? I would much prefer you lack presence than belief.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, I, um, I mean, it’s not that I was doubting… I guess, it’s just, I was surprised is all…” stammered Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There is no point in trying to backtrack now after what you said. Very well. If that is how you are going to behave, then I will show you the notes I have recorded in the past,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Morishita, not liking the fact that Yamamura and I were both suspicious of her, began fiddling with her phone. She then thrust the screen before Yamamura’s eyes.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please observe closely,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I-it’s too close, I can’t see anything,” Yamamura whined. “Also, it’s way too bright!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That is because I have set the screen to maximum brightness,” said Morishita. “It is a way to blind someone rather easily.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Her behavior was becoming harder and harder to understand, and I couldn’t even tell whether she actually wanted to show us the screen or not. Actually, no, not becoming. Maybe this was normal because she always did things that were difficult to understand. Perhaps Morishita took it as a show of remorse when she saw Yamamura looking like she was about to cry, because she pulled her phone away. Then, less aggressively, she once again showed her notes to Yamamura. I was interested enough that I decided to take a little peek for myself.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 1:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The tap water needs to be left sitting for a day to remove calcium hypochlorite; this is a depressing start.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 2:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Tossed in about 30 eggs.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The early ones (3) hatched in about 6 hours.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">They’re really small.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 3:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">6 more hatched. Since their bodies are transparent, I can see food passing through the larger ones when they eat the chlorella powder.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 4:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I observed 6 moving individuals. The 3 largest (ergo oldest) are still alive. I could not confirm remains of dead ones.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 5:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">2 more have hatched now. I’m worried whether they’ll be eaten. Number of unhatched eggs has gone from 6 ® 5.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 6:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The 2 from yesterday are safe, 5 total are alive.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 7:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The 2 from yesterday ® now 1, and the 5 ® now 4.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 8:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">5 are alive, but there are 2 that are clearly moving about much better than others, and I’m worried they will eat the others.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 9:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">3 confirmed.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 10:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Found the shell after molting.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It also smells like a living thing.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 11:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Large one over 1 cm in length.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">3 are alive.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 12:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For a moment, I thought they got eaten when they dived down into the sand. I gave them a cucumber. They weren’t able to bite into it with their mouthparts, so I ate it instead.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 13:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I gave them a carrot. They didn’t nibble at it much. But I hate carrots, so I didn’t eat it. I gave them some grains of rice, but they didn’t really eat it. I’ll eat those. I found about 4 molted shells. I’ll try to change out about 1/3 of the water.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 14:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I gave them bread. They nibbled a lot of it. They’re about 1.5 to 2 cm now. They’re getting richer in color and significantly more unpleasant looking.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 15:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">1 wasn’t moving well in the morning. I have a bad feeling. 2 were dead in the evening.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Day 16:</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The last one stopped moving. I’m sad. I have the impression that the largest individual had survived until the end. I think it was a good thing that I used the properly decalcified water from the water purifier for at least half a day. It was probably a good thing that I properly cleaned up the leftovers from their daily feedings using a dropper. I wonder if changing out the water or giving them bread was bad. I guess I shouldn’t have given them sweet bread with fresh cream in it. Maybe I should have given them French bread, which has simple ingredients. </span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">—That was where the diary ended.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Morishita wasn’t lying; it looked like she had been keeping and observing the animals more thoroughly than I had thought. Rather, if anything, it showed that she was more enthusiastic about it than I had imagined. Even so, I still couldn’t help but wonder as to why exactly she was showing me this for so long…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, what do you think?” Morishita asked. “I imagine that you two would like to try raising shield shrimp yourself, yes?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Um. Well, sure, I guess I might be a little interested,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think I’ll, um, pass…” said Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Very well, Ayanokouji Kiyotaka. I will gift you a breeding set. I bought two last year, so I can give you one. For the listed retail price, of course,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You intend to take my money,” I remarked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Naturally,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I appreciate the offer, but let me put that on hold. I’m in a position where I really need to cut costs anywhere I can right now,” I replied. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, dear. Well, that’s all right,” she said. “However, please give me your answer by this summer, because if you do not need them, then I will hatch them myself and observe them.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I had to say, Morishita was, in every way, the same as usual. Normally, it wouldn’t be surprising if someone’s expression clouded over a bit in response, as was the case with Yamamura. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I turned my attention toward Yamamura, who was probably feeling down right about now, and called out to her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s a shame that Sakayanagi’s withdrawing from school, just when you two were finally starting to become close,” I remarked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“To be honest, I still haven’t fully taken it all in yet…” replied Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">At one time, she was simply being used by Sakayanagi. However, they later reached a mutual concession and became friends. If things went on like normal, they could have spent their last year at school as real friends. Unfortunately, something unexpected occurred, something that you could say was unique to this school. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You wouldn’t even dream of someone making a bet like that outside of the school rules,” I remarked, meaning it as a compliment, and Yamamura gave a small nod.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There’s an unbelievably heavy atmosphere in the class, too,” said Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">To be honest, while I hadn’t observed that myself, it wasn’t hard to imagine. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, that’s not unreasonable,” Morishita calmly interjected. “I can honestly say that, thanks to this whole debacle, our chances of graduating from Class A are absolutely zero.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I-I wouldn’t go so far as to say that, though,” Yamamura stammered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You have to say it,” Morishita said. “There are some students who say things like they are ‘going to show the pride of the former Class A’ or that we are going to turn things around somehow, but that is simply because they do not fully grasp our situation.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do they not blame Sakayanagi’s selfishness for causing this?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is certainly a bit problematic that she gambled with her own withdrawal from the school without consulting the class. However, if someone were to bring that topic up, it would only expose the fact that we had been piggybacking off of her,” said Morishita, acknowledging the undeniable fact that Class A’s status had been maintained by Sakayanagi carrying them. “We have no choice but to accept it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What do you think your class should do from here on out?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t know,” Yamamura answered with a shake of her head, as if to say she had absolutely no idea what the future might hold. “I think that we…we’ll probably have to give up on Class A.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That is correct,” said Morishita. “Now that things have come to this, we will have to steer the class toward a policy of accumulating Private Points and send a few individuals to the official Class A by the end of the third year to finish things there. Because even students such as Yamamura Miki can be rescued if they are blessed with positive growth.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“S-students like me, wha…” Yamamura stammered, then went quiet as she thought it over. “No, I suppose I can’t deny that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although Yamamura accepted that comment, because of her low self-esteem, it sounded like it still hurt her a bit. Class A had maintained a large number of Class Points thus far, so they’d all probably be reasonably well-off financially. Besides, while the loss they suffered was significant, it was still possible for them to accumulate Private Points moving forward. It was a practical, businesslike decision, but one of the best moves they could make.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But I’m sure that some students won’t give up so easily,” I remarked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That is a problem,” Morishita said. “I am sure there is a cheap pride over having maintained our position as Class A thus far, but we cannot keep dreaming forever. The Class Points that we lost due to our class’s defeat and then Sakayanagi Arisu’s voluntary withdrawal were far too painful. We must understand that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, that reminds me. What’s the penalty for voluntary withdrawal?” I asked. “We in the other classes haven’t been given that information.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Perhaps Sakayanagi’s classmates were deliberately withholding that information. Once April arrived, everyone would know regardless, but there was nothing to be gained by letting that information get out now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Apparently, it varies depending on the circumstances,” Morishita replied. “But in this instance, Sakayanagi Arisu’s withdrawal was treated totally as a self-inflicted act, and so we suffered the heaviest penalty. We have lost three hundred Class Points.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">There was no guarantee that their penalty would be as I imagined, but it sounded like my expectations were spot-on. Morishita and her class were left with approximately eight hundred points, then. While it would appear that they could just barely stay in the fight, they had lost their leader. The emotional wound inflicted was more painful than the Class Points lost. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The chances we have of being able to turn things around in the time we have left are—” said Morishita, before stopping abruptly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Th-the chances are?” repeated Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“</span><span class="C_Current__And__Times_New_Roman__And__Italic">Brrrrrrrrrrrrr</span><span class="C_Current__And__Times_New_Roman">,” Morishita trilled in reply.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What? What is that face you’re making?” asked Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, uh…” Yamamura stammered. “I mean, did you just, uh, go ‘brrr’?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is the sound of the Ai-chan Computer making calculations. Can’t you even understand that much, Yamamura Miki?” Morishita asked. “This is why people around you call you a pessimistic downer, or a gloomy person, or say that your presence is more transparent than a sheet of tracing paper.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“P-people say those things about me?” asked Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“At the very least, I certainly do,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I think that was completely Morishita’s personal opinion, not the voices of those around Yamamura, but that itself was only my personal opinion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“At any rate, please do not disturb me. </span><span class="C_Current__And__Times_New_Roman__And__Italic">Brrrrrrrr—DING</span><span class="C_Current__And__Times_New_Roman">!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It seemed she had finished her calculations, because Morishita nodded once, with a “Yes,” and her eyes widened.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The probability of our class becoming Class A with our own strength is approximately 10 percent,” reported Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I figured that some students might be surprised by those odds, not thinking that could be the case for a class that had been defending its position of Class A tooth and nail until the End-of-Year Special Exam, but in truth, even 10 percent was probably a naively optimistic estimate. That just showed how small a chance Morishita and her classmates had at present.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“As Paper-Thin Yamamura Miki herself has said earlier, everyone is in a dark place now, as though they were attending a vigil,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I bet,” I replied. “It would be a pretty strange problem if the mood was light right now.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“U-um, excuse me, but Paper-Thin…?” sputtered Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s cool, isn’t it? Like a street name,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“H-huh…? B-but it doesn’t feel like that at all…” said Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You wish for me to stop?” asked Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you could, then yes, please,” she replied. Surprisingly, even Yamamura seemed to care about such things. “B-but, even though Ichinose-san’s class has the same amount of Class Points, everyone has a smile on their face. It’s like, they’re all so positive, but is their situation really so different from ours?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. You are saying that things are much the same for them regardless of whether Ichinose Honami is even there. You spewed venom in the middle of your statement,” said Morishita, nodding with admiration and giving Yamamura a thumbs-up.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As for Yamamura, she probably didn’t intend to imply such a thing, given that she hastily denied it, flustered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Supposing we are hypothetically in the same situation, so what?” Morishita posed. “Are you saying that because they have a positive attitude, there is a possibility they’ll reach Class A? Let me be clear. An incompetent ally is more terrifying than a competent adversary. If you ask me, there is no tomorrow for those who are still thinking in such a flippant manner in this situation.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Yamamura recoiled in the face of Morishita’s unceasingly, aggressive verbal assault, but Morishita was speaking the truth. Right now, you could say that those who could make normal judgments were indispensable to the class.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What are you going to do now?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I thought that as long as Sakayanagi Arisu stood at the helm and gave the orders, I wouldn’t need to meaninglessly stand out, but…” Morishita trailed off with a somber expression, looking like she was brooding, lost in thought. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“By any chance, are you saying that you’ll lead the class from now on, Morishita-san?” murmured Yamamura, bracing herself for the answer.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That is impossible,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I-it’s impossible?” repeated Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Unfortunately, I am not the type to lead people from the forefront,” answered Morishita. “Which is why, though it will be bothersome, we will need to select a new leader during the spring vacation. If possible, I would have liked for that to have all been completed before Sakayanagi Arisu leaves the school. All I can do now is offer guidance in that process and, afterward, guide the conversation toward saving Private Points.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was certainly true that someone needed to be cold and get the others to give up on Class A. It sounded like Morishita was willing to handle that much. Just then, Morishita glanced at me disapprovingly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think that is enough idle chitchat,” she said. “I think it is about time that you tell me the reason you have called us here today.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She said that like I was the one who had wasted a lot of time here, even though we had spent most of the conversation talking about her insect observation and the decline of her shield shrimp.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You didn’t call us here to mock us over our present situation, did you? Ayanokouji Kiyotaka, of the new Class A,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m not trying to mock you. I was just curious about that situation is all,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If that is the case, then you could simply ask the traitor,” Morishita said. “I’m sure he will tell you everything. He might even blab about the things you do not need to know.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“U-um, Morishita-san? Uh, isn’t ‘traitor’ a little harsh?” asked Yamamura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Forgive my rudeness. It was a mere slip of the tongue. At any rate, our current situation is just as I told you moments ago,” said Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Seems that way,” I answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although Morishita marched to the beat of her own drum, she seemed to be giving her class due consideration. However, it sounded as though Sakayanagi hadn’t taken any kind of action for her classmates, who were currently lost. Although most of the conversation we just had was irrelevant, I could call it successful since I had fulfilled my minimum required objective of gathering information.</span></p>
+7:["$","$L12",null,{"content":"$13","title":"Chapter 4: Vacant Throne","volumeId":"y2v12.5","chapterIndex":16,"prevChapter":{"volumeId":"y2v12.5","chapter":13,"title":"Chapter 3: Another Time"},"nextChapter":{"volumeId":"y2v12.5","chapter":19,"title":"Chapter 5: Anticipating"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Behind the Curtain","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Checking Each Answer","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Another Time","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: Vacant Throne","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 5: Anticipating","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 6: Illusion","href":"Text/section-0019.html#auto_bookmark_toc_19","index":20},{"label":"Chapter 7: Even After Graduation","href":"Text/section-0021.html#auto_bookmark_toc_21","index":22},{"label":"Chapter 8: Parent and Child, Child and Parent","href":"Text/section-0024.html#auto_bookmark_toc_24","index":25},{"label":"Chapter 9: Celebration","href":"Text/section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 10: The Promised Night","href":"Text/section-0030.html#auto_bookmark_toc_30","index":31},{"label":"Chapter 11: Goals","href":"Text/section-0037.html#auto_bookmark_toc_37","index":38},{"label":"Chapter 12: The Curtain Rises Once Again","href":"Text/section-0041.html#auto_bookmark_toc_41","index":42},{"label":"Postscript","href":"Text/section-0042.html#auto_bookmark_toc_42","index":43}],"volumeTitle":"Light Novel 2nd Year Volume 12.5","detailsLink":"/select/year-2/y2v12.5","returnLink":"/select","currentSpineIndex":16,"nextVolumeLink":"$undefined","nextVolumeTitle":"$undefined"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+14:I[27201,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+a:null
+10:[["$","title","0",{"children":"Classroom of the Elite Reader"}],["$","meta","1",{"name":"description","content":"A premium reader experience for Classroom of the Elite light novels."}],["$","meta","2",{"property":"og:title","content":"Classroom of the Elite Reader"}],["$","meta","3",{"property":"og:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","4",{"property":"og:url","content":"https://classroom-of-the-elite-reader.vercel.app"}],["$","meta","5",{"property":"og:site_name","content":"COTE Reader"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Classroom of the Elite Reader Preview"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Classroom of the Elite Reader"}],["$","meta","14",{"name":"twitter:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","link","16",{"rel":"icon","href":"/hola-lector-agua/icon.svg?icon.ae5abf30.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","17",{}]]

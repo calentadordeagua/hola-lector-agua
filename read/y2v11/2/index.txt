@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[98168,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js"],"default"]
+4:I[37457,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+5:I[36768,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/b7415f7eaafec72a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+6:I[43880,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js"],"Analytics"]
+8:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[32268,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+c:I[5789,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+d:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","style"]
+:HL["/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","style"]
+:HL["/hola-lector-agua/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/8c2eb9ceedecfc8e-s.p.21935807.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/ce62453a442c7f35-s.p.124b2306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"xTs_Uh3z_t9CBVjB8m3b9","c":["","read","y2v11","2",""],"q":"","i":false,"f":[[["",{"children":["read",{"children":[["volumeId","y2v11","d"],{"children":[["chapterIndex","2","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":["$","body",null,{"suppressHydrationWarning":true,"className":"inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG__variable merriweather_b1e99710-module__84TlHG__variable roboto_4304287d-module__gQrF4G__variable lora_c06265ab-module__hGs1mq__variable font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{"children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]],"notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},[["$","$Lb","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false]},null,false,false]},null,false,false]},[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+12:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+13:T1743,
+<p class="P_Prose_Formatting"><a id="p1"></a><img src="/hola-lector-agua/images/books/y2v11/index-1_1.png" loading="lazy" decoding="async" alt="Image 1" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-1_2.jpg" loading="lazy" decoding="async" alt="Image 2" /></p>
+<p class="P_Prose_Formatting">F </p>
+
+
+<p class="P_Prose_Formatting"><a id="p2"></a><img src="/hola-lector-agua/images/books/y2v11/index-2_1.png" loading="lazy" decoding="async" alt="Image 3" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-2_2.jpg" loading="lazy" decoding="async" alt="Image 4" /></p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p3"></a><img src="/hola-lector-agua/images/books/y2v11/index-3_1.png" loading="lazy" decoding="async" alt="Image 5" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-3_2.jpg" loading="lazy" decoding="async" alt="Image 6" /></p>
+
+
+<p class="P_Prose_Formatting"><a id="p4"></a><img src="/hola-lector-agua/images/books/y2v11/index-4_1.png" loading="lazy" decoding="async" alt="Image 7" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-4_2.jpg" loading="lazy" decoding="async" alt="Image 8" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p5"></a><img src="/hola-lector-agua/images/books/y2v11/index-5_1.png" loading="lazy" decoding="async" alt="Image 9" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-5_2.jpg" loading="lazy" decoding="async" alt="Image 10" /></p>
+
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p6"></a><img src="/hola-lector-agua/images/books/y2v11/index-6_1.png" loading="lazy" decoding="async" alt="Image 11" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-6_2.jpg" loading="lazy" decoding="async" alt="Image 12" /></p>
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p7"></a><img src="/hola-lector-agua/images/books/y2v11/index-7_1.jpg" loading="lazy" decoding="async" alt="Image 13" /></p>
+<p class="P_Prose_Formatting"><a id="p8"></a><img src="/hola-lector-agua/images/books/y2v11/index-8_1.png" loading="lazy" decoding="async" alt="Image 14" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-8_2.png" loading="lazy" decoding="async" alt="Image 15" /></p>
+
+
+<p class="P_Prose_Formatting"><a id="p9"></a><img src="/hola-lector-agua/images/books/y2v11/index-9_1.png" loading="lazy" decoding="async" alt="Image 16" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-9_2.png" loading="lazy" decoding="async" alt="Image 17" /></p>
+
+
+<p class="P_Prose_Formatting"><a id="p10"></a><img src="/hola-lector-agua/images/books/y2v11/index-10_1.png" loading="lazy" decoding="async" alt="Image 18" /></p>
+<h1 id="prologue" class="chapter-title">Prologue: Miki Yamamura’s Monologue</h1>
+<p class="P_Prose_Formatting">I REALIZED THAT I was alone. </p>
+<p class="P_Prose_Formatting">It wasn't that anyone particularly disliked me. </p>
+<p class="P_Prose_Formatting">I just didn't catch anyone's eye. </p>
+<p class="P_Prose_Formatting">I was inconspicuous, lacking presence. </p>
+<p class="P_Prose_Formatting">Before anyone could like me, they couldn't even hate me. </p>
+<p class="P_Prose_Formatting">That was why I was always alone. </p>
+<p class="P_Prose_Formatting">It was the same in kindergarten, elementary school, and junior high. </p>
+<p class="P_Prose_Formatting">I didn't have any friends, and I spent a lot of time by myself. </p>
+<p class="P_Prose_Formatting">I couldn't develop the ability to talk to people, so I remained invisible. </p>
+<p class="P_Prose_Formatting">Even after becoming a high school student, nothing changed. </p>
+<p class="P_Prose_Formatting">But I thought that was okay. </p>
+<p class="P_Prose_Formatting">I forced myself to believe that it was my strength… </p>
+<p class="P_Prose_Formatting">I thought it would be okay to live quietly alone even as an adult. </p>
+<p class="P_Prose_Formatting">Even so, I am certainly here. </p>
+<p class="P_Prose_Formatting">“. .After all..  I don’t think losing suits Sakayanagi-san...” </p>
+<p class="P_Prose_Formatting">“Why don't you try telling her? No one has the right to criticize your actions.” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">What is this sensation, this emotion that is seeping into my heart? </i> </p>
+<p class="P_Prose_Formatting">I didn't know. </p>
+<p class="P_Prose_Formatting">I just didn't know. </p>
+<p class="P_Prose_Formatting">—Until this day. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p11"></a><img src="/hola-lector-agua/images/books/y2v11/index-11_1.png" loading="lazy" decoding="async" alt="Image 19" /></p>
+<div class="calibre4" id="calibre_pb_0"></div>
+
+<style>
+    body {
+        color: #e5e5e5 !important;
+        background-color: transparent !important;
+    }
+    .P_Prose_Formatting {
+        font-family: serif; /* Match standard LN feel */
+        font-size: 1.08em;
+        text-align: justify;
+        text-indent: 1.50em; /* Standard indent */
+        line-height: 1.4;
+        margin-top: 0.42em;
+        margin-bottom: 0.42em;
+        color: inherit; /* Essential: Inherit theme color (white in dark mode) */
+    }
+    .P_TEXTBODY_CENTERALIGN {
+        font-size: 1.00em;
+        text-align: center;
+        text-indent: 0;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        display: block;
+    }
+    .chapter-title {
+        font-family: serif;
+        font-weight: bold;
+        font-size: 1.8em;
+        text-align: center;
+        margin-top: 1.5em;
+        margin-bottom: 1.5em;
+        page-break-before: always;
+        color: inherit;
+    }
+    a { color: inherit; text-decoration: none; }
+    img { 
+        max-width: 100%; 
+        height: auto; 
+        display: block; 
+        margin: 0 auto;
+    }
+</style>
+7:["$","$L12",null,{"content":"$13","title":"Prologue: Miki Yamamura’s Monologue","volumeId":"y2v11","chapterIndex":2,"prevChapter":"$undefined","nextChapter":{"volumeId":"y2v11","chapter":3,"title":"Chapter 1: The Elusive Two-Party Interview"},"toc":[{"label":"Illustrations","href":"index_split_000.html#illustrations","index":1},{"label":"Prologue: Miki Yamamura’s Monologue","href":"index_split_000.html#prologue","index":2},{"label":"Chapter 1: The Elusive Two-Party Interview","href":"index_split_001.html#chapter-1","index":3},{"label":"Chapter 2: The Exchange Training Camp","href":"index_split_002.html#chapter-2","index":4},{"label":"Chapter 3: Request from Horikita & Request from Ayanokōji","href":"index_split_002.html#chapter-3","index":4},{"label":"Chapter 4: A Strange Discomfort","href":"index_split_003.html#chapter-4","index":5},{"label":"Chapter 5: The One Who Watches, The One Being Watched","href":"index_split_004.html#chapter-5","index":6},{"label":"Chapter 6: A Peaceful Resolution","href":"index_split_005.html#chapter-6","index":7},{"label":"Chapter 7: A Settled Night","href":"index_split_006.html#chapter-7","index":8},{"label":"Chapter 8: The Courage to Move Forward","href":"index_split_007.html#chapter-8","index":9},{"label":"Epilogue: Who is the Challenger?","href":"index_split_007.html#epilogue","index":9},{"label":"Epilogue: Postscript","href":"index_split_007.html#postscript","index":9}],"volumeTitle":"Light Novel 2nd Year Volume 11","detailsLink":"/select/year-2/y2v11","returnLink":"/select","currentSpineIndex":2,"nextVolumeLink":"/select/year-2/y2v12","nextVolumeTitle":"Light Novel 2nd Year Volume 12"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+14:I[27201,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+a:null
+10:[["$","title","0",{"children":"Classroom of the Elite Reader"}],["$","meta","1",{"name":"description","content":"A premium reader experience for Classroom of the Elite light novels."}],["$","meta","2",{"property":"og:title","content":"Classroom of the Elite Reader"}],["$","meta","3",{"property":"og:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","4",{"property":"og:url","content":"https://classroom-of-the-elite-reader.vercel.app"}],["$","meta","5",{"property":"og:site_name","content":"COTE Reader"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Classroom of the Elite Reader Preview"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Classroom of the Elite Reader"}],["$","meta","14",{"name":"twitter:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","link","16",{"rel":"icon","href":"/hola-lector-agua/icon.svg?icon.ae5abf30.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","17",{}]]

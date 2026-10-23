@@ -1,0 +1,157 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T49b6,
+  <p class="P_Chapter_Header" id="auto_bookmark_toc_37"><span>Chapter 11:<br/>Goals</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">I</span><span style=" font-size: 0.80em;">T WAS MONDAY</span><span class="C_Current__And__Times_New_Roman"> at last, marking the start of a new semester, the first of our final year. Horikita and I were the first to arrive in the classroom of Class 2-B, where students clad in their uniforms were beginning to gather. Apparently, we were allowed to use the classroom for just one hour, on the condition that we were strictly forbidden to dirty the room or leave any garbage. There were thirty-nine seats in the room.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The room had been rearranged to meet the specifications of the new Class 2-B, which was short by one student due to Yagami’s expulsion. The students were told to take care of their own drinks, but it seemed that Sudou had borrowed a tank-shaped thermal container called a ‘water cooler’ from his basketball club, and was freely offering the tea it contained. Several girls also brought pots, in which they prepared hot cocoa, cold black tea, and other drinks for everyone, out of the goodness of their hearts.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Soon afterward, I saw Satou with some other girls who were close with Karuizawa, but she didn’t make her way over to me, even after we made eye contact. I figured that meant </span><span class="C_Current__And__Times_New_Roman__And__Italic">“I’m not going to rain on your parade during a victory celebration.” </span><span class="C_Current__And__Times_New_Roman">However, it was clear that we had taken a significant step back in regards to our relationship. That was just how much she cared about her friend, and how much they shared their feelings. I couldn’t disapprove of such an inclination.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Aside from her, some of my other classmates were acting as though they were concerned about me. They were getting a strange feeling from me—like something was off—that they had never noticed until now. They were the ones who had gotten a glimpse of my true abilities. Eventually, the scheduled start time arrived, and in the end, a total of thirty-five people had gathered. Karuizawa and Kouenji did not show up. The victory celebration was about to begin, with or without all of our classmates present.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It looks like Karuizawa-san isn’t going to attend, but…she’s really the one you dumped you, right?” asked Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She must have suspected that if Karuizawa had been the one to do the dumping, then she should have been attending without a care. She must have also noticed that Satou and the others were looking at me somewhat coldly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Maybe she just had plans, or she’s not feeling well?” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah,” said Horikita, “That could be true.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Yousuke, who had been paying attention to me, approached once he heard Karuizawa’s name mentioned.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Um, excuse me, but could I have a minute?” Yousuke asked. “About the situation with Karuizawa-san, well…I heard about it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Horikita immediately stepped back and silently, but physically, demonstrated that her stance was to not get in the way of our conversation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sorry for not measuring up to your expectations after all the help you’ve given me, Yousuke,” I told him.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There’s nothing for you to apologize for. It’s a shame that your relationship ended, but for this issue, well, there’s pretty much nothing that can be done,” he assured me. Since Horikita was right there listening, he spoke as though he had also been dumped by Karuizawa, even though it had just been camouflage. “I mean, I can’t really speak up about it myself, either.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Have you heard anything about how she’s doing?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’ve heard that Satou-san invited her out, but I guess that must’ve been a no-go. I don’t know what I can do for Karuizawa-san in the future, but I intend to lend a helping hand whenever she’s in trouble. And that doesn’t just go for Karuizawa-san, either. I’ll take care of my classmates so that we can all walk forward, without hesitation. So don’t worry,” said Yousuke.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even if we were to ignore the matter of Karuizawa, I was sure that Yousuke must’ve had a grudge or two he wanted to bring up with me right here. The fact that he wasn’t pleased with my having gotten Maezono expelled was plain as day in his words. However, he already knew that he couldn’t just complain, which was why he made up his mind to protect the class once again. </span><span class="C_Current__And__Times_New_Roman__And__Italic">So don’t worry.</span><span class="C_Current__And__Times_New_Roman"> Yousuke included his own condition when he said that. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You too, Ayanokouji-kun. If you’re ever having any doubts, I want you to come talk to me,” he said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Horikita said something similar to me,” I replied. “Thanks, Yousuke.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay. Well, I’m going to go chat with everyone else for a bit,” said Yousuke, before flashing a smile that wasn’t quite his usual one, and heading off.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He really does understand too,” said Horikita. “He knows the choice you made was the correct one.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There’s no need for anyone to force themselves to accept it as the correct choice, though, is there?” I asked. “It’s just that the world doesn’t spin on pretty words alone. Not to mention, people don’t mature that easily. There’s no clear solution, so it’s okay for people to worry about it as much as they want.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In this class, they should desperately, frantically struggle to find an answer that’s even closer to the correct one.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re really strong,” remarked Horikita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m simply blunt,” I replied. “I don’t mind being condemned, but I don’t care if I’m not being praised either.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It wasn’t necessary for me to have my accomplishments recognized by others. I was the one who analyzed and understood the person known as “me” better than anyone else could.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I suppose…” she conceded. “But I am grateful to you. I wanted to make sure that I said that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Even though I had gotten Maezono expelled?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It was an exam where we couldn’t have won if you hadn’t done that. Besides, in the end, it’s not your problem, it’s mine. I need to grow up more. I need to be able to make more choices for myself. I have to become strong enough to win without getting anyone else expelled,” said Horikita, pausing for a moment as a bitter smile appeared on her face, before she added one more thought. “I keep thinking that way, but it just doesn’t seem to work out very well.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, yeah,” I replied. “Even if someone says that years have already gone by, that’s only a fraction of our lives. You haven’t had enough time to get good enough to make everything go well yet.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, I suppose so,” she said, and then headed over to the podium as her classmates called her over.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>11.1</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">T</span><span style=" font-size: 0.80em;">HE VICTORY PARTY </span><span class="C_Current__And__Times_New_Roman">had just begun, and it was already almost time for it to end. I watched the final wave of excitement from the back of the classroom, just a short distance away. Then Ayanokouji-kun came over and handed me a paper cup, with the sweet smell of cocoa wafting from it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Thanks,” I said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Then, we stood side by side and observed our classmates. Right now, everyone in class was talking about their respective goals for the coming year, and at that particular moment, it was Ike-kun’s turn to speak. I had thought he was going to do something stupid again to get attention, but apparently, that wasn’t the case.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, I…um. I thought about this for a long time over spring break. I was wondering about Maezono, well, y’know, if she’ll be able to handle everything okay after being expelled.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, Kanji, are you really plannin’ on standing there and saying stuff that’s gonna be a downer?” asked Sudou-kun, warning Ike-kun not to drag that discussion up again, in his own way.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, dude, that’s not it,” Ike-kun shook his head as he continued. “It’s just that, well, it just, like, came outta nowhere, y’know? Plus it’s like, it coulda happened to anyone of us, not just Maezono. It wouldn’t be surprisin’ if one of us were next. I realized that goin’ through your day-to-day like nothin’ matters, well, that’s wrong.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, yeah, it is important to be prepared for anything,” said Yukimura-kun, speaking up to agree with Ike-kun.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’ve never really given any, like, serious thought to my future path. Not even once,” said Ike-kun.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">At the end of the day, all the fuss over getting expelled was because one’s entire future was at stake. We should always look ahead and act accordingly, so that even if we were tossed out of school tomorrow, we would be okay. It seemed like Ike-kun had realized just how important that was.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s not easy to grow into the sort of person who can do the things that need to be done,” Yukimura said to him, sounding like a teacher offering advice to a student. “But realizing that is the first step toward becoming that person. Don’t forget it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After that, students took turns stepping up to the podium to speak, one after another.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It looks like a lot of students have matured a little, like we saw with Ike when he stepped up to speak,” remarked Ayanokouji-kun.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes, that’s true,” I replied. “It’s a world of difference compared to when he first started here.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What’s your goal?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Me? I…” I began.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I felt like if I gave it serious thought, I might’ve hesitated, so I decided to just give in to spontaneity.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“To believe in myself and to believe in my classmates, I think. If I do that, then I’m absolutely certain that we can graduate from Class A,” I declared.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">A small declaration of resolve. It was a statement that I was sure would come back to torment me in the future. Even so, I wanted to be prepared to sever Ayanokouji-kun’s path of retreat by making sure that he heard it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“A good goal,” was his reply.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Y-you think so? I mean, I would say that it’s an incredibly obvious one, though…” I answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sure, but it’s often unexpectedly difficult to actually do the obvious thing that needs to be done,” he answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah… You’re right.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">To do the obvious thing that needed to be done was rarely a simple task. That was true.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What’s your goal?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m not telling you now,” he answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh? Wait, hold on, that’s not fair!” I exclaimed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Annoyed by the fact that I was the only one who was forced to say something, I pressed up against Ayanokouji-kun. His face was so close that I felt somehow embarrassed, and I hurriedly pulled away to put some distance between us again.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well…it’s fine. In that case, you can tell me another time,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Another time, huh?” he answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I let my gaze wander to the window in order to escape from his cocky stare. There were many, many things I didn’t like about him, but Ayanokouji-kun’s presence was truly reassuring. It was an undeniable fact that he was a source of support for me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After looking at the scenery outside and calming down, I remembered that I had one more goal. Something welled up within me, and I spontaneously followed up, appending that goal to the simple one I had already stated.</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_10" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_10.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_39"><span class="C_Current__And__Times_New_Roman">“One more year to go. Once again, I want to become a classmate that you will recognize,” I added. “I’m not saying that I want you to help me with everything. I just want you to stand by me the whole time, and watch—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">While feeling self-conscious of my cheeks heating up, I turned to look at Ayanokouji-kun standing next to me. However, despite having been there only moments ago, Ayanokouji-kun…had disappeared.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…Ayanokouji-kun?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even when I looked around the classroom, I didn’t see him anywhere. Normally, I would’ve just assumed that he had gone to the restroom, or something. Yet strangely enough, I felt an odd sensation, something sad and painful.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even by the time the end of the victory party was announced, he hadn’t come back to the classroom.</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_11" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_11.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 11: Goals","volumeId":"y2v12.5","chapterIndex":38,"prevChapter":{"volumeId":"y2v12.5","chapter":31,"title":"Chapter 10: The Promised Night"},"nextChapter":{"volumeId":"y2v12.5","chapter":42,"title":"Chapter 12: The Curtain Rises Once Again"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Behind the Curtain","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Checking Each Answer","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Another Time","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: Vacant Throne","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 5: Anticipating","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 6: Illusion","href":"Text/section-0019.html#auto_bookmark_toc_19","index":20},{"label":"Chapter 7: Even After Graduation","href":"Text/section-0021.html#auto_bookmark_toc_21","index":22},{"label":"Chapter 8: Parent and Child, Child and Parent","href":"Text/section-0024.html#auto_bookmark_toc_24","index":25},{"label":"Chapter 9: Celebration","href":"Text/section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 10: The Promised Night","href":"Text/section-0030.html#auto_bookmark_toc_30","index":31},{"label":"Chapter 11: Goals","href":"Text/section-0037.html#auto_bookmark_toc_37","index":38},{"label":"Chapter 12: The Curtain Rises Once Again","href":"Text/section-0041.html#auto_bookmark_toc_41","index":42},{"label":"Postscript","href":"Text/section-0042.html#auto_bookmark_toc_42","index":43}],"volumeTitle":"Light Novel 2nd Year Volume 12.5","detailsLink":"/select/year-2/y2v12.5","returnLink":"/select","currentSpineIndex":38}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

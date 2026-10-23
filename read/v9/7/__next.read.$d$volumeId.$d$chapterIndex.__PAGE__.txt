@@ -1,0 +1,216 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T3f7c,
+      
+      <p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_top"><span style=" font-weight: bold; font-size: 1.17em;">Chapter 1 - Prologue:<br/>Ichinose Honami’s Soliloquy</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">I</span><span style=" font-size: 0.80em;">’VE NEVER REALLY THOUGHT</span><span style=" font-size: 1.00em;"> of myself as a good person, never thought of myself as a bad person. I suppose I’ve
+            managed to become an honest person, just like my mother would’ve wanted.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Things were fine in elementary school and in junior high. I had lots of friends, guys
+            and girls—everybody. I had a little trouble handling sports, sure, but I pushed myself
+            just like I did with my studies. By my third year of junior high, I’d managed to become
+            student council president, something I’d always aspired to. I’d even managed to get
+            into a private high school as a scholarship student.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">A nice school life.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">A nice home life.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But I…I made a mistake. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Something that never should’ve happened. An unforgivable “mistake” that I never should’ve
+            made.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The angry look on my ailing mother’s face as she lay sick in bed. Her tears. The look
+            of heartbreak on my little sister’s face, hurt and distant as she was, retreating
+            into herself, shutting herself away… I can’t ever forget it. It comes to me even now.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">My trembling fingers.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">My trembling body. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The creeping blackness spreading across my heart.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I tossed my third-year of junior high in the trash. For about half a year, I shut
+            myself away.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But…one day, that all came to an end.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">When I learned about this school, I knew I needed to put an end to it. I’d …bring
+            smiles back to the faces of my mother and little sister again. I wouldn’t run away
+            from my own “sin.” No, I’d face it head-on.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Or so I swore.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But…</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I enrolled in this school with a dream, but an ordeal awaited me. When I found the
+            letter, I completely froze, and all around me, my classmates turned to watch curiously.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I read the letter over and over. But no matter how many times I read it, the words
+            refused to change.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">“Ichinose Honami is a criminal.”</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><img alt="" height="100%" id="ClassroomElite-Vol9_INTERIORIMAGES_" src="/hola-lector-agua/images/books/v9/OPS/ClassroomElite-Vol9_INTERIORIMAGES_.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">1.1</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">L</span><span style=" font-size: 0.80em;">ONG, LONG BEFORE THAT INCIDENT,</span><span style=" font-size: 1.00em;"> she’d been in the student council office on a day when school was off, feeling incredibly
+            nervous.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ichinose Honami from first-year, Class B, right?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes,” she managed to squeeze out. Ichinose Honami faced Student Council Vice President
+            Nagumo, her nerves clear on her face.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">This was a special one-on-one interview. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What did the Student Council President say to you?” he asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“He said that now still wasn’t the time…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose had wished to join the student council right from the start. She’d come knocking
+            at their door right after enrolling, but Student Council President Horikita had rejected
+            her request after interviewing her, leaving her dejected. However, Vice President
+            Nagumo reached out to her as soon as he heard what happened.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Why? Three reasons: First, she belonged to Class B, just like him. Second, her grades
+            were excellent. Finally, she was quite attractive, which Nagumo always appreciated
+            from the fairer sex.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">And Ichinose easily met that last and most important requirement. The first two reasons
+            were, after all, just icing on the cake. She had aesthetic value to him, which made
+            her a valuable piece of property to be kept by his side. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I heard that you were on the student council when you were in junior high,” said
+            Nagumo. “The president, in fact. Is that right?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes. That’s why I wanted to join the one here.” Ichinose told the truth. But also
+            a lie.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, your homeroom teacher, Hoshinomiya-sensei, told me. It sounds like you had excellent
+            scores on your entrance exam, too,” said Nagumo.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Thank you very much,” she said humbly, though she didn’t meet Nagumo’s eyes.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You are, honestly, quite exceptional.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, but…Student Council President Horikita didn’t acknowledge any of it,” said Ichinose
+            with a bitter smile. Shame nipped at her, shame that she hadn’t managed to secure
+            the position she knew she deserved. Even so, that faint hint of a smile remained.
+            She wouldn’t be able to make a good impression if she came in here looking all down
+            in the dumps.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, President Horikita’s quite strict. Frankly, he probably passed on you because
+            you weren’t placed in Class A. He’s a real stickler for position, you see.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see,” said Ichinose. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Of course, Nagumo was lying.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">At first glance, Horikita Manabu </span><span style=" font-style: italic; font-size: 1.00em;">looked</span><span style=" font-size: 1.00em;"> like the sort who would fixate and fuss about position. In truth, he was the very
+            opposite. He looked deep within a person and saw the core of who they were. He knew
+            the exceptional when he witnessed it, whether they were in Class D or Class A. But
+            to Ichinose, still stung by his rejection, what Nagumo said felt like the truth.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose sighed. “I guess I have no choice but to get to Class A if I want to join
+            the student council.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t know about that. Even if you do make it to Class A, President Horikita may
+            never acknowledge you. The fact is, Ichinose, that you were never considered a thoroughbred
+            from the moment you entered this school. No matter how hard you work from here on,
+            President Horikita will never accept a student who was placed in Class B,” said Nagumo.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">With one cruel statement, the faint smile on Ichinose’s face vanished.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“B-but, you’re in Class B, Nagumo-senpai. And you’re vice president, so—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo immediately dashed whatever faint hopes she had left.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“In my case, there were two reasons. You see, I joined the student council before
+            Horikita-senpai became president. Back then, it was a different third-year student
+            who served as president. Horikita-senpai was the Vice President, and the sole person
+            on the student council to object to my appointment. He fought until the bitter end.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose’s expression grew sadder. Seeing that filled Nagumo’s heart with joy. He
+            decided that he definitely needed her on the student council, to toy with as his personal
+            plaything.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The other thing,” he continued, “is that I </span><span style=" font-style: italic; font-size: 1.00em;">know </span><span style=" font-size: 1.00em;">myself. I know my high potential. Rightfully, I </span><span style=" font-style: italic; font-size: 1.00em;">should </span><span style=" font-size: 1.00em;">have been placed in Class A. When I expressed my desire to join the student council,
+            I confessed the full truth behind why they’d assigned me to Class B. I told them everything
+            right away.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Confessed…?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Indeed. I had proven that in terms of ability, I wasn’t willing to play second fiddle
+            to Class A. That’s what led to my current position.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nagumo-senpai,” said Ichinose, “what…were those things you confessed?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo bit back a smile. “Now, now, Ichinose. Aren’t you the one being questioned?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“M-Me?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m not quite convinced of something. See…normally, it would’ve been perfectly reasonable
+            for you to be placed in Class A. Your grades are excellent, and your communication
+            skills are nothing to scoff at. And if you take into account your track record as
+            student council president…well, why would you wind up in Class B? There must be some
+            reason.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose couldn’t hide her embarrassment at his deduction, but this was an inevitable
+            outcome. Nagumo had made his conclusions based on information he’d obtained from Ichinose’s
+            homeroom teacher, Hoshinomiya-sensei, ahead of time.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Tell me,” he continued, “here and now, what you think the reason is. If you can convince
+            me that you are a student worthy of Class A, then I shall take responsibility for
+            bringing you onto the student council.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is that… possible?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“President Horikita’s authority is absolute, certainly. But what will happen after
+            Horikita-senpai graduates? If first-years don’t join the student council, it will
+            be impossible for us to train future members. Imagine the trouble that would cause
+            for the next student council president—namely, me. Do you understand?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I…suppose I do, yes…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Someone who can’t seize this chance isn’t qualified to join the student council.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose’s secret gnawed at her from deep inside. Memories of spending half of her
+            third year of junior high cooped up in her room came rushing back. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What I say here—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Will be confidential. Your secrets are ours to keep, and ours alone.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The past that she’d thought she could live with. The past that she’d thought she could
+            conceal forever. But how could she move forward without trusting others? She’d lost
+            that trust…so maybe confiding in people would help her to trust again. Would help
+            others to trust her.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…I… I—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">And so, Ichinose told him everything.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">She told him about her “mistake.”</span></p>
+      
+   0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 1 - Prologue : Ichinose Honami’s Soliloquy","volumeId":"v9","chapterIndex":7,"nextChapter":{"volumeId":"v9","chapter":8,"title":"Chapter 2: The Student Council President’s Inclination"},"toc":[{"label":"Table of Contents","href":"TableOfContents.html#tableofcontents","index":2},{"label":"Character Gallery","href":"section-0001.html#auto_bookmark_toc_top","index":3},{"label":"Table of Contents Page","href":"section-0002.html#auto_bookmark_toc_top","index":4},{"label":"Title Page","href":"section-0003.html#auto_bookmark_toc_top","index":5},{"label":"Copyrights and Credits","href":"section-0004.html#auto_bookmark_toc_top","index":6},{"label":"Chapter 1 - Prologue : Ichinose Honami’s Soliloquy","href":"section-0005.html#auto_bookmark_toc_top","index":7},{"label":"Chapter 2: The Student Council President’s Inclination","href":"section-0006.html#auto_bookmark_toc_top","index":8},{"label":"Chapter 3: Changing Relationships","href":"section-0007.html#auto_bookmark_toc_top","index":9},{"label":"Chapter 4: Unchanging Intent","href":"section-0008.html#auto_bookmark_toc_top","index":10},{"label":"Chapter 5: Ichinose’s Secret, Kamuro’s Secret","href":"section-0009.html#auto_bookmark_toc_top","index":11},{"label":"Chapter 6: Rumors Running Rampant","href":"section-0010.html#auto_bookmark_toc_top","index":12},{"label":"Chapter 7: Ambiguous Things","href":"section-0011.html#auto_bookmark_toc_top","index":13},{"label":"Chapter 8: All the Tricks","href":"section-0012.html#auto_bookmark_toc_top","index":14},{"label":"Chapter 9: Return","href":"section-0013.html#auto_bookmark_toc_top","index":15},{"label":"Epilogue: Postscript","href":"section-0014.html#auto_bookmark_toc_top","index":16}],"volumeTitle":"Light Novel Volume 9","detailsLink":"/select/year-1/v9","returnLink":"/select","currentSpineIndex":7,"nextVolumeLink":"/select/year-1/v10","nextVolumeTitle":"Light Novel Volume 10"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

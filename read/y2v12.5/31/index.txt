@@ -1,0 +1,1187 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[98168,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js"],"default"]
+4:I[37457,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+5:I[36768,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/b7415f7eaafec72a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+6:I[43880,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js"],"Analytics"]
+8:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[32268,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+c:I[5789,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+d:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","style"]
+:HL["/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","style"]
+:HL["/hola-lector-agua/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/8c2eb9ceedecfc8e-s.p.21935807.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/ce62453a442c7f35-s.p.124b2306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"xTs_Uh3z_t9CBVjB8m3b9","c":["","read","y2v12.5","31",""],"q":"","i":false,"f":[[["",{"children":["read",{"children":[["volumeId","y2v12.5","d"],{"children":[["chapterIndex","31","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":["$","body",null,{"suppressHydrationWarning":true,"className":"inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG__variable merriweather_b1e99710-module__84TlHG__variable roboto_4304287d-module__gQrF4G__variable lora_c06265ab-module__hGs1mq__variable font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{"children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]],"notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},[["$","$Lb","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false]},null,false,false]},null,false,false]},[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+12:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+13:T25cfc,
+  <p class="P_Chapter_Header" id="auto_bookmark_toc_30"><span>Chapter 10:<br/>The Promised Night</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">N</span><span style=" font-size: 0.80em;">OW, WE GO BACK</span><span class="C_Current__And__Times_New_Roman"> in time a little bit, from the beginning of April to the end of March. On this day, since I had to spend some time in the morning to take care of something, I started the day’s activities before 7 a.m. Once eight o’clock rolled around, a news program came on the television that was on in the room. With the news playing like background music in my room, I sent a message off to Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“I’ll be out until three this afternoon, but I would like you to come to my room any time you want after that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The message didn’t contain any specific details. There was a promise that I didn’t mention, because I didn’t need to explain it in detail at this point, after it had been reiterated several times since being made last year. Of course, it was true that the situation had changed significantly before and after the End-of-Year Special Exam. Ichinose apparently got a fever after the exam and entered spring without even making an appearance at the closing ceremony. She hasn’t been seen outside even once since then. This damage I had dealt her was great, and that deep wound was still healing, even now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The message I sent her didn’t show up as read. Was she sleeping? Or was she awake and pretending not to notice? Or was it something else altogether? I decided to call her to make sure, but the phone didn’t even ring. All I got was a standardized voice message, the kind that played if the phone wasn’t turned on or if it didn’t get any signal.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Get in touch with me once you see this.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I decided to send that short message as an addition. Ichinose most definitely understood that today was the day. On top of that, if it seemed like I wouldn’t be hearing from her at all today, then I would probably have to make the decision to end this on my own. Glancing over at the television, I saw that the weather report was on, proclaiming that it would be sunny in the afternoon but that heavy rain was expected to continue through the night and until dawn. While I was busying myself by cleaning my room for a while, I received a phone call. For a moment, I thought that it was Ichinose calling me back, but apparently not.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hello?” I began.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“’Sup, Ayanokouji! Hey, come on out now, buddy! Let’s hang!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ishizaki spoke in such a loud voice that I couldn’t help but hold my phone away from my ear.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Right now?” I replied. “It’s still only a little past eight, though?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“C’mon, dude, who cares what time it is? It’s spring break, man. I got stuff I wanna talk to you ’bout.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, sure, I guess… I can spare about an hour or so. Where are we going?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He pondered my question on the other end of the line for a moment, as if he hadn’t yet decided on where we’d actually be meeting.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“An hour’s fine. As for where, uh, I guess just outside for now. Outside, yeah.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was such a sloppy, lackadaisical invitation that I suspected there wasn’t actually any reason for us to meet.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“At least decide an actual location.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“</span><span class="C_Current__And__Times_New_Roman__And__Italic">Aw, hell, dude. Okay, uh, then, outside the dorm…err, wait, yeah, I got it, man. Let’s meet at Keyaki Mall!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Keyaki Mall? Well, naturally, it would be closed at this time of day, so no one could enter. However, that would make it a surprisingly appropriate place for students to have a confidential chat, since no one would be there.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Got it,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Hell yeah! Okay, think I’ll get there in like ten minutes. Later, dude.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With that, Ishizaki one-sidedly ended the call. He was almost frighteningly excited for how early in the morning it was. Well, I figured I’d learn what this was about once I got there.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>10.1</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">S</span><span style=" font-size: 0.80em;">INCE THERE WASN’T MUCH</span><span class="C_Current__And__Times_New_Roman"> time until we were supposed to meet, I immediately left the dormitory and headed to Keyaki Mall, as designated by Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Now then…” I muttered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Cell phone in hand, I searched the area for Ishizaki, but I couldn’t see anyone yet. Even after another five minutes had passed, there was still no sign of the person who had called me here, and just when I was wondering whether I should try contacting him or continue to wait in silence, my thoughts were interrupted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I was approached by none other than Shiina Hiyori. To my knowledge, the only thing she had in common with Ishizaki was that they belonged to the same class.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Good morning. This is quite a coincidence,” she said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sure is,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although I answered in agreement to go along with it, I wondered if it really was a coincidence. Running into a classmate of the person who had invited me to meet at Keyaki Mall, at this time of day? I couldn’t imagine something like that was highly probable.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Um, well, to tell you the truth, I received a call from Ishizaki-kun… I don’t quite understand what is going on, but I was just wondering, did you perhaps get a call from him too, Ayanokouji-kun?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yep,” I replied easily, since it seemed like we were on the same page. “I just got a call from him earlier. He didn’t tell me what this was about though.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, same here,” she brought her palms together, looking pleased, or perhaps relieved. “I wonder what in the world this is all about.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’d </span><span class="C_Current__And__Times_New_Roman__And__Italic">like</span><span class="C_Current__And__Times_New_Roman"> to think it’s nothing bad, but…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whoa! Damn, you guys’re fast!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">While Hiyori and I exchanged looks, Ishizaki approached with that cheery declaration.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I thought you were the one who said you’d be here in ten minutes,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, man, it’s like, I went out with just one shirt on, and I was like, wow, damn, it’s pretty cold. So I went back inside, but then, I ran into a buddy o’ mine on the way, and…well…” Ishizaki paused briefly. “Anyway, who cares ’bout all that. No biggie. I’m here, it’s all cool.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s ‘no biggie,’ huh?” I replied. “Well, I guess you’re right about that, sure.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Fundamentally speaking, it was usually the person arranging the meeting that would be on time or earlier. Perhaps I was just too accustomed to that idea and was a little overly sensitive to it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Right?” said Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Looking at Ishizaki as he nodded with a smile, I suddenly had a thought. Relationships between people may change day by day, but I became increasingly accustomed to them over time… Well, rather, I felt like I had become closer, on more intimate terms. I had experienced similar emotions in the past when dealing with Ishizaki, but what was interesting was that I was surprised to recall the ways our relationship had changed. I didn’t know if that was something that happened to everyone, or if it was ­something unique to me, as I had never established something that could be called a friendship before now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Good morning, Ishizaki-kun,” said Hiyori, giving him a proper greeting after having warmly observed his and my conversation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, yeah, morning!” he exclaimed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, why exactly did you call us here?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When I urged him to get on with it, he deliberately paused, holding back his words, and then proceeded to laugh so hard that I recoiled. Then, he clenched his fist tightly and held it out in front of me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Now’s the time to become one of us!” he shouted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">His voice reverberated throughout the early morning air around Keyaki Mall. Perhaps it was because his shout was so loud that it created an echo, but one of the birds that had been perched on a nearby tree flew away.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sorry. I think maybe I don’t understand because I still haven’t quite gotten into the swing of things here yet, but what on earth are you talking about?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Without anything even remotely resembling an explanation, Ishizaki’s words and actions remained incomprehensible to me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Come on, dude, you gotta know what I mean! When I say become one of us, I mean change classes, dude! Transfer!” replied Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You wanted to talk about that? This early in the morning, without any warning?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, man. It’s almost April, so I thought I’d try to ask you again today,” said Ishizaki, crossing his arms and nodding with self-satisfaction.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think that it’s wonderful of you to offer, Ishizaki-kun, but Ayanokouji-kun has been promoted to Class A. Unfortunately, I don’t think he would go down to a lower-level class,” said Hiyori, gentry trying to convey the current situation to her classmate.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But we ain’t that far apart in terms of Class Points, right?” Ishizaki asked, unconvinced. “Ryuuen-san’s gonna rocket us way past ya, at a breakneck pace. ’Sides, if our class and yours swap places in the rankings, then folks won’t think too highly of ya if you move to our class after that, right, Ayanokouji? In that case, it’s better if ya come on over while we’re still below ya.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ishizaki was spouting all this off very casually, without much thought, but I could see that he had a point. Normally, the standard thinking would be that a student would transfer to a new class only after that class had gotten a stable position as Class A. However, in terms of timing, this would be a bad choice for your image. In truth, I was planning to transfer to another class—just not Ryuuen’s class.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“’Sides, if I didn’t ask ya right now, you might get snatched up by somebody else, y’know?” said Ishizaki. Perhaps his instincts had somehow picked up on the transfer that I </span><span class="C_Current__And__Times_New_Roman__And__Italic">was</span><span class="C_Current__And__Times_New_Roman"> planning for. “So that’s why I’m askin’ ya to transfer to our class right now, Ayanokouji. I know I said this a bunch o’ times, but, man, if you and Ryuuen-san teamed up, then you two’d be the strongest, y’know? Right? Right?!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It didn’t really matter no matter how many times Ishizaki said “Right?” But still, the pressure he was putting on was incredible. Hiyori even looked a little impressed, perhaps somewhat convinced by his argument.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry, but that’s not going to happen. Or rather, there’s no need for it,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whaddya mean, no need?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I was trying to think of the best way to convince him honestly, and I figured that the best method would likely be…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“This time, Ryuuen beat Sakayanagi and moved significantly closer to Class A. Which means that there’s a good chance that you can win even without my help. Besides, like you said yourself, Ryuuen is going to be making great strides from here on out. In that case, there’s no need for you to shore up your class any further, is there? Or are you saying that Ryuuen won’t be able to win without me as an ally?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Ryuuen heard that, he would definitely get angry.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, that’s not what I meant, I—!” he protested, easily able to imagine Ryuuen’s fury.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s how this comes off</span><span class="C_Current__And__Properties__And__Times_New_Roman">,</span><span class="C_Current__And__Times_New_Roman">” I replied, cutting him off. “You’re someone close to Ryuuen, so don’t doubt him. Just trust in his abilities. Besides, once you brought Katsuragi into the fold, the hole in your class was as good as filled.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Now, Ishizaki wouldn’t be able to push the issue any further.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But… But I…” he sputtered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ishizaki showed some resistance and choked back his words, but he would probably realize that he couldn’t continue to carelessly solicit me. Since it was unthinkable that Ryuuen would choose to partner up with me in the future, you could even say that Ishizaki’s invitation here was going against his leader’s wishes.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But that…that’s not the only reason, dude!” he wailed, with a pained look on his face that showed he wasn’t going to let this go so easily. “It’s just that I like you, man! But in the future, we’re gonna be fightin’ each other from different classes, right? And on top of that, it’s gonna be, like, close competition, yeah? Which means we’re gonna totally be enemies, dude. Doesn’t it? That’ll mean that we’ll have zero chance to hook up. On the other hand, if we do this right now, then we got Ryuuen-san, we got you, Ayanokouji, and we got Albert, and we got Shiina…we can all be friends, is what I’m sayin’. And I want all of us to have fun times together, y’know? Dude, if you just nod your head yes for me, I’m even prepared to let Ryuuen-san punch me real good!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Despite supporting Ryuuen more than anyone else, Ishizaki was saying that, in his heart of hearts, my skills weren’t the only reason he continued to invite me even at the risk of being reprimanded.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The fact that you’re saying all that, well, it’s not a bad feeling,” I replied. “For my part, it’s not as though I dislike spending time with you and Hiyori. Actually, the truth is that in some ways, I feel more at ease with you two than I do with Horikita’s class.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Y-ya mean it?!” exclaimed Ishizaki with sparkling eyes.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, I couldn’t just keep getting his hopes up forever.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s just that, it’s not like you can transfer classes just because of friendships,” I continued “Besides, the hurdle of coming up with the Private Point cost associated with transferring is a high bar to clear, and there’s the question of whether your classmates other than Ryuuen would accept it. There would naturally be opposition to it. For example, Ibuki would definitely be against it, wouldn’t she?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, man, if it’s just Ibuki, I’ll shut ’er up!” shouted Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ibuki was just one example. Moreover, a transfer just suddenly happening out of the blue like this is going to attract suspicion. If things went wrong, some of your classmates might think that I’m an assassin sent from Horikita’s class to destroy your class from the inside once I’d transferred over,” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was precisely because of how close they were to becoming Class A that they’d likely react very strongly to something like that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Also, just like Hiyori said at the start of this conversation, Horikita’s class has now been promoted to Class A. I would have strong reservations about going down to a lower class, since that would mean taking on a lot of big risks,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s… O-okay, then! We’ll do it this way!” shouted Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do what which way now?” I asked in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I had been trying to steer him toward giving up, but apparently, he was still persisting. I didn’t know what kind of idea he had come up with, but whatever it was, it would be pointless. That was because I had no plans to transfer to Ryuuen’s class at all, even aside from any number of concerns I might have.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you come to our class, you can date Shiina! How ’bout that?!” asked Ishizaki as he grabbed both my hand and Hiyori’s hand and forcefully brought them together.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“H-huh?!” sputtered Hiyori.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even Hiyori, who had been smiling warmly as she watched Ishizaki make his thoughtless pitch, was shocked by the surprise change in tactics, as one would expect.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What kind of proposal is that?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The fact that Ishizaki hadn’t considered for a second the feelings of the two people actually involved was the very definition of audacity.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What you don’t got in your class, you got in ours! Get it?” said Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You do know I have a girlfriend, right?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ah hell, dude,” said Ishizaki. “Ya just gotta break up with Karuizawa then, when ya change classes, right?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s nonsensical,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, you don’t like Shiina?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t dislike her, no,” I replied, figuring that I would give a firm answer on the points where I could.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Then there ain’t no problem now, is there?” asked Ishizaki. “I mean, Shiina, you like Ayanokouji, dontcha?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh?!” blinked Hiyori.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You shouldn’t say things that make people uncomfortable, Ishizaki,” I told him.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Nah, dude, I ain’t tryin’ to make anyone uncomfortable,” he said. “Y’know, it’s like, they say it’s better to be honest, and just come out and say things straight, with stuff like this. When it comes to these things, it’s only good if you both love each other, right? It’s one of those win-win situations, or whatever they call it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was an imposed interpretation, and no matter how you looked at it, this was a matter that Ishizaki should not be sticking his nose into.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t think you should make Ayanokouji-kun uncomfortable,” said Hiyori in an attempt to get Ishizaki to settle down, even while our hands were still forcibly linked together.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s cause I’m the kinda guy who, when I like a girl, I just go for it, with everythin’ I got! Come on, dudes! Let’s friggin’ go!!” exclaimed Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, because…” Hiyori paused. “Ayanokouji-kun has a lovely girlfriend.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Then what about if he broke up with Karuizawa, huh? What then, Shiina?” asked Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh?!” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ain’t that what this is all about? Yer sayin’ that you won’t make a move ’cause he’s got a girlfriend, right?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think it’s about time you knock it off, Ishizaki,” I chided. “You shouldn’t embarrass Hiyori. It’s awful to make her say whether she likes someone when she’s right in front of them. Only a small handful of people would be able to say that they dislike someone to that person’s face.”</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_07" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_07.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_32"><span class="C_Current__And__Times_New_Roman">“Shiina’s the type of person who says exactly what she wants to say, though,…” said Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Hiyori, who wasn’t typically very expressive, could not hide her bewilderment and embarrassment over Ishizaki’s series of tactless comments. I could feel that our hands, which were still joined together, were quickly growing warmer. It was certainly true that my impression of Hiyori had changed since we first met.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Um…I think that’s enough,” I said, trying to put a stop to the situation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She seemed to be trying to somehow get free from the hand that was grasping hers, but she couldn’t shake Ishizaki off. It looked like she wasn’t putting that much oomph into her attempts to shake free, but I imagined that she couldn’t do it because she would have to shake him off very forcefully. So, after politely announcing that enough was enough, I proceeded to forcibly move Ishizaki’s hand away, which allowed Hiyori and I to pull our hands apart. I loosened my grip on Hiyori’s hand so that I could let go, but for some reason, she put a little more force into her grip now than before, when we were being forcefully brought together.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…Hiyori?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Um, may I just say one thing? I thought that I would ask, since trying couldn’t do any harm,” she said as she gazed up at me with what seemed like a determined expression.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“N-no way, bruh! She’s gonna ask you out?!” exclaimed Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ignoring Ishizaki poking fun at her, Hiyori paused to take a breath, and then opened her mouth to speak.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you could come to our class, Ayanokouji-kun, you would be most welcome,” she said. “But I suppose…that’s not possible, right?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I had explained the reasons why I couldn’t accept the offer to transfer, in a way that even Ishizaki would understand. In Hiyori’s case, she should’ve understood without me even needing to explain, and yet she had the courage to come out and invite me anyway.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh! Nice, Shiina!” exclaimed Ishizaki. “If you’re the one doin’ the inviting, that’s way more likely to work!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Come to think of it, both Ishizaki and Hiyori—and I supposed Albert would have too, if he were here—were conveying more strongly than ever before that they would welcome me warmly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I kinda feel like this is too good for me,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That’s right. It seemed like, if I didn’t have to think about anything serious, a transfer to Ryuuen’s class would be the most fun. Not getting involved in the business of class wins and losses, just spending the last year surrounded by good friends. That was what I had been looking for the most when I had originally enrolled in this school, and it was probably this, right here in front of me. If I just said, “Sure, thanks,” I’m sure Ishizaki and the others would give me their full support.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I appreciate the sentiment, but I just can’t accept,” I declared.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes,” said Hiyori, relaxing her grip with a disappointed look. “I suppose not. Actually, I’m sorry. I ended up making an unreasonable request of you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Damn, man, no good, huh? Yeah, I figured. I bet you love yer current class, too. I thought you were the kind of person who wouldn’t get swept up in that kinda thing, though!” said Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After Hiyori’s attempt to persuade me fell through, which Ishizaki had counted on as his ultimate weapon, even he had no other choice but to give up.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Again, thank you for the invitation, though,” I replied. “Perhaps by this time next year, I’ll come to regret not taking you up on your offer.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">One more year. At this point, no one knew which class would be victorious. Even Ishizaki and Hiyori standing before me had a good chance of winning. The same was true for Horikita’s class, and hopefully, the two other classes that had been pushed down from the top would be able to do the same. That’s what I wanted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I wanted to have the fight continue, leaving every class with a chance. What I needed for that was hope. If there was hope, the students would be able to push forward with all their strength until the end. That was precisely why I needed to build things up, to make that a reality. How could I keep them competing?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The answer to that would soon be clear…</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>10.2</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">A</span><span style=" font-size: 0.80em;">FTER I POLITELY </span><span class="C_Current__And__Times_New_Roman">declined the invitations from Ishizaki and Hiyori, the three of us talked for a while rather than just going our separate ways right away. The rejection must’ve been a shock to them, but they didn’t touch on the topic of transferring classes after that, and they seemed to genuinely enjoy just chatting about nothing. They invited me to join them again for tea once Keyaki Mall opened, but I regretfully declined the offer, as I had other business today. We split up and I returned to the dormitory at nine o’clock that morning, but I still hadn’t gotten any word from Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Then, I headed to Keyaki Mall at 10 a.m. as planned, met up with the person I had arranged to meet, and afterward spent some time together with them. By the time I returned to my room, it was past 2 p.m., and I nonchalantly passed the time for the next couple of hours. I didn’t send any additional messages or make any phone calls; I simply continued to wait in my room for a response. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">How was I going to spend this day? The right to choose was Ichinose’s, because this was the day that would determine her fate. I wanted to leave the final move for Ichinose to make, not me. I decided to take care of cleaning my room and doing some light organizing. Then, I prepared dinner and finished eating quietly, alone. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">By the time that curfew rolled around at eight o’clock, there was still no indication of any response coming my way. I saw that my messages were still not read. Even so, a final decision wasn’t made, even as the curfew arrived. The reason being that, while it was forbidden for me to visit the floor where the girls lived, the rules still allowed Ichinose to come and visit me herself. Of course, that wasn’t actually explicitly stated in writing, and in truth, if Ichinose was seen heading to the room of someone of the opposite sex in the middle of the night, she’d receive a warning. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Well, actually, from my time spent dating Karuizawa, I knew that all that stuff was kind of a gray area, as things like matters of prudence or the restrictions placed on men and women were formalities. There were four hours to go until the promised day was over, so I leisurely took a shower and then enjoyed some television. The morning news had been quite interesting, but I still couldn’t get into the late-night variety shows, and honestly, I just couldn’t enjoy them. By the time I finished brushing my teeth, it was past nine o’clock.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Less than three hours to go,” I muttered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For students who were early risers, this was the time they’d probably be getting ready for bed. However, the chances that Ichinose was already asleep were about as close to 0 percent as you could possibly get. She was definitely awake and racking her brain. Time passed, and it was getting later and later. By the time 9:30 p.m. came and went, I could hear the soft sound of raindrops hitting my window, but when I gently opened the window to take a look, the rain turned heavy in the blink of an eye.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Come to think of it, I recalled that today’s forecast called for heavy rains to continue through the night, until dawn. Even when I closed the window, the sound of the rain reverberated quite loudly inside my room, and the rainfall was likely to get heavier still. It was now nearly ten o’clock. Everything that I needed to take care of in my room today had been completed. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">So, at last, just two hours left until the day ended, huh?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I turned on my phone and checked my messages to Ichinose. There was no reply. However, I saw that something vital was different now about the messages I had sent.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“I’ll be out until three this afternoon, but I want you to come to my room any time you like after that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Get in touch with me once you see this.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I saw that both of those messages, which I had sent to her in succession, were now marked as read. I knew it. Ichinose was awake after all, and she had read my messages. I then waited another ten, then twenty minutes, for her to respond.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, she wasn’t getting in touch with me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose was free to alter the promised day, but her answer was…not to answer? Well, I supposed that all things considered, it was possible for her to respond that way, but honestly, I had thought she would take some kind of action. Had I simply been expecting too much? If she had chosen silence, that meant that the decision that needed to be made was already provided. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I figured I should conclude that I had given Ichinose enough time to think about it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I slowly got up, lifting my hips off of the bed I had been sitting on. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">I want to check with her directly, in person, after all.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For the past year, I have been continuously influencing Ichinose for my own sake, so it was only natural for me to want to see the results. It was fine to reject it, but I just wanted to know how she was. That desire naturally welled up in me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Even if it means making a compromise on my side at the very last minute…let’s go and find out the answer.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>10.3</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">O</span><span style=" font-size: 0.80em;">NCE I MADE THE DECISION </span><span class="C_Current__And__Times_New_Roman">to check for myself at 10:30 p.m., I made the perilous journey. Fortunately, it was raining heavily outside, and I couldn’t detect any signs of anyone out and about, not even in the hallways. Making my way from the hallway to the emergency stairwell, I reached just outside of Ichinose’s room. Then, I pressed the doorbell, trying to call for her, as she must have been inside. From the other side of the door, I could hear the sound of the doorbell echoing faintly. However, even after waiting quite a while, there was no answer.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Though she had no way to know that I was the one ringing her bell, I figured that was an indication that she wasn’t meeting with anyone right now, no matter who they were. I proceeded to take my phone out of my pocket and pressed the call button. She must have kept her phone on after she read my messages earlier, because the call went through. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Five rings, six rings…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even after ten rings, Ichinose didn’t answer the phone. I pressed the button to end the call and quietly knocked on her door.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s me. The day I promised to meet you is almost over. So, I’m here,” I told her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I told her that with my own voice, not through my phone. Even accounting for the heavy rain outside, it was naturally a substantial risk for me to have spoken aloud here. If other girls discovered that I was paying Ichinose a visit, though there may not have been an immediate uproar, whoever found me would be obligated to report the offender, and I would be held accountable. Which was why I wasn’t going to repeat the act of verbally calling out to her over and over, without end. If Ichinose still didn’t respond even after this, I didn’t intend to pursue it any further.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even though I most definitely wanted to know the answer, to see it with my own eyes, I just couldn’t take on such an elevated risk. I would just have to accept that this was Ichinose’s answer, then. The other side of the door remained silent, even now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’ll wait for just three minutes. If I don’t hear back from you by then, I’ll leave. So don’t worry,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I quietly started counting down from 180 seconds. During that time, I cast my gaze at the heavy rain behind me. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Fifty seconds, forty seconds…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The remaining time was running out. Then, just when there were only thirty seconds remaining, something happened. My phone vibrated slightly, because I had received a message.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Why’d you come?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was a message from none other than Ichinose, who was just on the other side of the door. If sending a message was the best she could do right now with all of her effort, then I’d respond to this message.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“I told you, didn’t I? Today’s the promised day.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“It’s already so late, though. It’s past curfew.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">While I was typing a reply to Ichinose’s last message, I received an additional message from her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“The me right now, I just don’t have the courage to go to your room, Ayanokouji-kun. I’m sorry.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“I know. That’s why I came here.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">My response back to her was marked as read immediately, but I didn’t get a follow up from her, so I sent another message.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“I’ll wait one more minute. If you don’t open the door before that runs out, let’s just pretend we never made that promise back then.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That additional message I sent was also immediately marked as read. All that was left was to see what Ichinose thought. If she disliked me and had suspicions about me but was willing to fight next year despite that, then she was free to do so. Or she could say that she was fed up with this school and that she was going to drop out. Or she could do something completely unexpected even to me. Ichinose had the right to choose, of course.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If she could just let me see her after she gave that answer, that’d be fine. Time kept ticking down while I was thinking about that, and soon there were less than ten seconds until time ran out. I was just about to message “</span><span class="C_Current__And__Times_New_Roman__And__Italic">Guess I’ll go back</span><span class="C_Current__And__Times_New_Roman">.” when my phone vibrated once again.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“The door’s unlocked. Come on inside.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Unlocked? </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I read that word over and over again, and for a moment, I felt like there was something off. I hadn’t had to do any research to know that Ichinose hadn’t been going out or meeting anyone at all lately, the gossip had reached me regardless. If that were true, then this door—the door connecting the inside and the outside—should have been locked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Did one of Ichinose’s classmates visit her after I conducted my research, and she invited them in? I could imagine all sorts of possibilities, of course, but…the chances of that seemed low. Then, was she considering the possibility that I would be the one to come and visit her today? It was hard to judge either way. If we had been speaking on the phone or face-to-face, I could’ve probed her for answers. Unfortunately, it was difficult to discern intent in a sterile message, and although I was a little surprised by the unexpected response, I decided not to dwell on it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I put my hand on the doorknob, with some small degree of caution. The door really wasn’t locked, and it opened smoothly. However, there wasn’t any light on the other side when I opened the door; the room was enveloped in silence and darkness.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ichinose, are you in here?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even after murmuring those words, I didn’t hear a response. I quietly closed the door behind me. There weren’t any lights on in the room, so I could barely see anything, and it was almost totally silent too. The only sound was the slight humming of the refrigerator’s compressor.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ichinose?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I tried calling to her once more, but I still didn’t get any response. Since I couldn’t take off my shoes and go further in, I decided to just quietly wait for my eyes to adjust to the darkness. As my eyes gradually became accustomed to the darkness and my field of vision began to widen, I was able to spot a downcast Ichinose in a corner of the room, clutching her knees.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s past curfew. Aren’t you worried?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I should be asking you the same thing,” I replied. “Now that you invited me in, you’re liable too, Ichinose.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…Yes, you’re right,” she replied after a beat. It sounded more like her natural voice, which I hadn’t heard in quite a while. She also seemed to be in better spirits than I had expected, and she didn’t appear to be sick. “You must have cared more deeply about this day than I imagined, Ayanokouji-kun, if you took on all this risk to come here and visit me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She paused again.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But it wasn’t for me, it was for your own sake… Right, Ayanokouji-kun?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even Ichinose had to understand that much by now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah,” I replied without hesitation, nodding my affirmation. “This is something I decided a year ago. Today is the day that I will take care of</span><span class="C_Current__And__Times_New_Roman__And__Italic"> </span><span class="C_Current__And__Times_New_Roman">the student known as Ichinose Honami, if you know what I mean.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I used an expression that might provoke someone to say something like “</span><span class="C_Current__And__Times_New_Roman__And__Italic">What do you mean ‘take care of’ me?! What’re you suddenly saying that for?!” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Take care of me…” she murmured. “In just which way do you mean that?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She didn’t sound angry or upset. In this context, many people would assume the worst when they heard the phrase “take care of.” That was because they would interpret it as them being a problem that needed to be solved, or otherwise eliminated. However, the phrase also had another meaning, the opposite meaning: to accompany and care for someone.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“We’re going to find that out right now,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you don’t mind, can I come in?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…Go ahead,” she finally answered. “Just lock the door behind you, please.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was unlikely that any visitors would be coming at this hour, but one could never be too careful. Following her instructions, I locked the door, took off my shoes, and stepped into her room proper. Her room was incredibly neat and tidy, so it didn’t seem like there was any danger of me tripping on anything, even with the lights off. I drew closer to her, stopping once I got to a point where I could see Ichinose as clearly as possible in the darkness.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I thought you might feel that you didn’t want to see me, or that you never wanted to see my face again. Even so, I wanted to talk to you today. This might be the last chance we get to take our time and talk,” I told her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You mean…completely severing our whole relationship. We won’t even be able to be friends anymore. Right?” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I won’t deny that,” I answered. “If I decide that’s what’s best for the both of us, then I’ll have to do what’s necessary.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The first thing to come out of Ichinose’s mouth, her statement about just being friends, could’ve just been brushed off as wishful thinking. If that was the worst-case scenario in Ichinose’s mind, then it was time for her to learn how naively optimistic her judgment was. What I was about to tell her was horribly cruel.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is there anything you want to tell me first? If not, I’m going to give you my answer,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If it wasn’t necessary to engage in any frivolous small talk, then it was best to get right down to business.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…No,” she said after steeling herself for a moment, without even looking at me. “You can tell me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The results of the End-of-Year Special Exam were a crossroads of destiny. If your class lost, Ichinose, then it would become nearly impossible for you to recover. You could say that it was a battle you absolutely could not afford to lose. However, it ended in victory for Horikita’s class. In other words, your path to Class A has been cut off</span><span class="C_Current__And__Properties__And__Times_New_Roman">,</span><span class="C_Current__And__Times_New_Roman">” I declared.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, you’re right. I think there are still a lot of kids in the class who haven’t given up yet, but I feel like it’s impossible…because I couldn’t beat you, Ayanokouji-kun. Because of that, I crushed everyone’s dreams,” she said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s true. Your class lost because you, their leader, were weak. That responsibility is significant, but if it’s a matter of just assigning blame, then anyone can point fingers. There would be no need for me to come here and ‘take care of’ you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although still downcast, she still seemed to be braced as if she were mentally prepared, and my words didn’t shake her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yet surprisingly enough, your hopeless class does have a chance to rebuild, Ichinose,” I remarked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m not sure what you’re trying to say. Isn’t our path to Class A cut off…?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes…as long as you remain the class leader, that is, Ichinose.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just then, for the first time since this conversation began, Ichinose’s shoulders began to tremble slightly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I suppose…that means you’re telling me to step down as the class leader,” she answered softly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you want your class to win, yes. Immediately,” I answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes, you’re right…” Ichinose trailed off, clutching her knees much tighter as she curled in on herself. “In that case, I’m sure that day will come in the not-too-distant future. Since I’m no longer anywhere near qualified or even confident enough to lead the class, after all…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry, but that’s not all I meant,” I said. “You obviously have to step down as leader, of course, but beyond that, it’ll be necessary to replace you with someone who can guide the class to victory into the leadership position.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“A leader who can guide the class? Who do you have in mind…? Kanzaki-kun?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Nobody,” I answered. “There is no one in your class as of now who is capable of turning things around, Ichinose.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If that’s the case, then…it’s impossible from the get-go.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If someone like that doesn’t exist in your class, Ichinose, you just have to bring them in from another class.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What…do you mean…?” she asked tentatively.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I will transfer to your class and become the new leader.”</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">There were strategies that I had been working out all this time. I was confessing one of them to Ichinose, right here and now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You will, Ayanokouji-kun…?” Ichinose asked hesitantly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You already know what I am capable of, for better or worse,” I replied. “Closing the five-hundred-point-gap between your and Horikita’s class won’t be an easy battle, but if I have a year, I can overtake them with time to spare.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Your class just got promoted to Class A, and now you’re going to throw it all away and come to a low-level class…?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I figure that’s something that people couldn’t normally understand, but don’t worry. If I can make the transfer happen, I can fulfill your wish and make your class graduate from Class A,” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose, who had been hugging her knees since I came in, looked up for the first time. I had thought her face might’ve been puffy and swollen from crying her eyes out, but that didn’t appear to be the case.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh…I see. Yes, I suppose that’s how it would work…” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She slowly looked up at me, and she appeared to have just realized something that she was nonetheless deeply certain of. I wondered if, in her eyes, she saw me as a hitman who had come here to bump her off.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I guess it must’ve been a foregone conclusion that you would beat me in the End-of-Year Special Exam, Ayanokouji-kun. Something that was already set in stone before we even started, since you wouldn’t be able to make this proposal if I had ended up winning…” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In the event that Ichinose won, there would’ve been almost no difference in Class Points between hers and the other classes, putting them in a state of equilibrium, leaving me with no need to have transferred classes. So, putting it that way, she was half right.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I won’t deny that certainly seems to be the case. Still, if you could have beaten me and shown me that you were capable so that I wouldn’t feel the need to do this, I would’ve welcomed that outcome,” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Which meant that I honestly would’ve come to take care of her in the sense of helping out.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see…” she murmured. “Still, this doesn’t sound like a bad thing. Not for our class as a whole, anyway. If you are fighting in my place, and aiming for Class A, I’m sure that’ll make everyone really happy.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I agree,” I replied, “but you have some inkling of what I’m getting at, don’t you?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah…” Ichinose said. “I’m sure there must be some conditions though, right?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Ichinose stepped down as the leader and I took her place, that wouldn’t be enough to count as me taking care of her.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I will transfer to your class and make sure that they graduate from Class A. However, my condition is that you, Ichinose Honami, drop out of this school.”</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was my sole condition. If she simply accepted it, then an accord would be reached.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That I drop out,…” she repeated.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">What would Ichinose think of that condition? How would she act? I had been burning with curiosity about those questions since this morning. This was the turning point in a number of strategies. I had already made predictions about the scenarios of the answers in advance, but no matter where we ended up, I wanted to leave the decision of which path to take to Ichinose herself.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sorry. I don’t have enough Private Points,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Not to worry,” I assured her. “Transferring classes isn’t that difficult. I’ll collect all of your Private Points, of course, and we’ll scrounge together more from all of your classmates. If that’s still not enough, then you can borrow from first-years too. You hold the students’ trust, so I’m sure that if you say that you will return what you borrow with interest, plenty of students will be willing to lend you their points. Even if it’s not possible to come up with the entire twenty million, it won’t be that hard to make up any outstanding difference.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Looking at it that way, the class transfer wouldn’t be difficult at all. Reaching Class A would be assured for only a mere twenty million Private Points.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Assuming it can be done, why are you going through all the trouble of this, Ayanokouji-kun? What’s your goal here?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“A graduate of this school told me to become a student who people would remember, and, at the very least, the leaders of each class are very much aware of my presence right now. No, actually, it’s not just the leaders. The rest of the students are probably starting to take note of me as well,” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Whether that awareness was right or wrong, good or bad, was irrelevant.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Once this transfer is complete, I will undoubtedly become a student that people will remember,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…That is true.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do you remember what I told you a year ago? To keep on being who you are?”</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“During that year, you’ll push forward with your classmates, as far as you can go. There will be happy times and sad times along the way. And I think there will be times when you feel crushed and disheartened. But even so, don’t ever stop.”</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">And now I would tell her the true intention behind my words a year ago.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It was to avoid damaging the value of your class,” I explained. “I said that so that I could keep the forty students originally assigned to your class. Then, even if you left, someone else could join the class, and they could start their third year with the same number of students: forty.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was to control and manage the starting condition of the class, with my own hands.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s because I ideally wanted to start from zero,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So if I stayed and there were forty-one, that would…distort it, right?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s not the only reason, of course. Your presence would be a distraction to the class. It’s because you’re a person of character, and you have abilities that I cannot control,” I clarified.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Ichinose showed resistance to me, there’d probably be classmates who would take her side and would need to be dealt with as a result. If that happened, it would become a hindrance in continuing to operate a normal class.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I understand,” said Ichinose. “You’re incredible, Ayanokouji-kun. You really do think of all possible scenarios.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, this path was somewhat different from the future that I had originally envisioned. It was the result of a course correction, because Sakayanagi’s departure meant that things were no longer following my initial calculations.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If I voluntarily drop out of school, our Class Points will drop even further. Do you believe that you can still win despite that?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would be tough if I fought fair with a frontal assault, sure,” I admitted. “Whether I could simply accumulate eight hundred or more Class Points depends largely on the rewards offered by the school. However, that penalty you just mentioned is the key to my strategy. If I have students from the other classes expelled, their class will be penalized. Therefore, it will be possible for me to pull it off if I close the gap not only with the points I’ll receive, but with the points I’ll be taking away from my opponents.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose’s own skills weren’t enough to have her friends to graduate from Class A. However, she could make that happen if she took responsibility by withdrawing from school voluntarily. Ichinose, who felt a great deal of responsibility for having lost, would likely narrow things down to only two choices in her mind. This was truly the final turning point.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, if I drop out of school, you’ll really…get them to A?” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I promise,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was the truth. I was negotiating with the intention of leading Ichinose’s class to Class A.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“In that case, I—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hold on, Ichinose,” I cut her off. “I’m going to tell you this first because it’s important. I will most definitely lead everyone to Class A. However, I can’t guarantee that anyone other than me will graduate, and that goes for all thirty-nine of your classmates.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh…?” she blinked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s only natural. I can’t afford to be wasteful from now on, if I’m going to catch up with the other classes. So if I feel that a student is unnecessary, I will simply have to cast them aside. In order to regain Class Points now that we’re so low-ranked, one of my top priorities is to eliminate weak points. If I have a chance to use a special exam to force a student to be expelled, I will use it, without hesitation. Furthermore, I won’t discriminate, even if that student is someone close to you, like Amikura or Watanabe. I’ll do the same thing I did like when I erased Maezono from Horikita’s class,” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was a fact that I had used Maezono and had her expelled in the process. Ichinose experienced the reality of that firsthand, a reality that didn’t allow her to dream.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That said, it’s not like I’m going to get ten or twenty students expelled. At most, only a few will disappear,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose now had two options. One was to accept the proposal I was giving her now, and accept me into her class before voluntarily withdrawing from school. The other was for her to reject my proposal and to continue being the class leader, fueled by her spite. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Well, actually, there was only one real choice at this point. That was because Ichinose Honami couldn’t abandon her friends. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">There was a 99-percent chance that Ichinose would stand up again as the class leader and begin to fight in earnest. Then, I would likely have no other choice but to force the staging of the battle between the four classes, whether or not the equilibrium between them could be maintained. There was nothing to be done about that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">But what I wanted was neither one of those answers.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In all honesty, I was looking for a third answer. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I was hoping that there was a third answer, which even I didn’t have.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s awful…” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, it is,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I was asking the impossible. Most likely, Ichinose would soon stand up, shaking with anger, having concluded that she would fight. Even so, I couldn’t help but want something else. There was something I had instilled in her a year ago, on the day I decided to “take care of” Ichinose Honami. I had wanted to control the positive and negative of someone’s romantic feelings, but this wasn’t limited only to love. I had helped her and betrayed her, showing her affection and hostility. I had spent time with her with the aim of stirring together conflicting emotions.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Many of those positives and negatives must have been at war within Ichinose, and now, things had reached their peak. I was certain that Ichinose’s feelings of affection for me had been flipped because of my betrayal. In psychological terms, her current feeling could be referred to as “ambivalence.” Ambivalence was especially strong when it involved something undesirable. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I learned about the concept of ambivalence over the course of my education in the White Room, so chances were high that after this, I would see an Ichinose who had fed on her hatred and turned against me. I just wanted to see what kind of changes would take place, as an observer, and see the effects of the new experiment from up close. Ichinose was truly the perfect subject for that experiment. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Right now, her loathing would come to exceed her affection for me. The deeper the love, the stronger the hate it could become. On occasion, something like that could grow to the point of turning into a neurosis, a state of mind that couldn’t be made light of. However, that could not be called a new experiment. If all I wanted was to grow her hatred and break her heart, I’d already seen those results from other experiments in the past.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">What I really wanted to see was something else, a completely different outcome. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The 1-percent answer that was unknown to me. Perhaps that was too much for me to hope for…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I…absolutely do not want my friends to be hurt,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“In that case, you’ll have to keep fighting, on your own two feet,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“However, I’m sure that I can’t make it to Class A,” she admitted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So you’re saying that you’re going to choose to drop out and leave it to me then, after all?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So…either I drop out or I don’t, huh? You’re expecting me to choose from those answers, aren’t you?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She was right. I wasn’t going to deny anything.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“However, I feel like neither of those options provides a real solution,” she said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That response was completely unexpected. What’s more, it hadn’t even taken her that much time, either. I couldn’t help but feel like a strong jolt of excitement had rocked my brain.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Neither will work?” I asked. “In that case, what do you think is the right choice?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t want to lose any of my friends. I </span><span class="C_Current__And__Times_New_Roman__And__Italic">can’t</span><span class="C_Current__And__Times_New_Roman"> lose them,” she said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s just idealistic and selfish,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes, it is. It would surely be impossible with my abilities alone, but with you, Ayanokouji-kun, it could happen.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, you won’t drop out, and you’re telling me to transfer. Do I have that right?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When I asked that question, Ichinose smiled warmly for the first time today and shook her head from side to side, telling me no. Then, she verbally laid out a path that I hadn’t considered, which she herself had imagined, which would allow the four classes to achieve equilibrium. She had arrived at that 1-percent answer that I had been hoping for.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do you think that’ll work?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Am I wrong?” she asked in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well…no,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Lost for words, I couldn’t say more than that. For the classmates who adored Ichinose and wanted to achieve Class A together, there was only one possible way to graduate without losing anyone. The aspect she had disavowed as a leader, she now seized herself, with her own hands. The heights of Ichinose’s potential alone could surpass that of Horikita or Ryuuen. If she could completely overcome her emotional weakness, and discard her naivete, then there really was no telling how things would turn out over the next year. I drew closer to Ichinose and offered my hand.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“To make that choice a reality, we’ll need to keep each other at an appropriate distance,” I told her. “We can’t start without dialogue, though. Of course, the driving force can be hatred, that’s fine. There’s no need for you to like me whatso—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, Ayanokouji-kun,” she immediately cut me off and stood, still grasping my hand in hers. “This whole time I was cooped up in my room, I tried over and over again to make myself not like you, Ayanokouji-kun. Yet I just couldn’t do it. I know I’m an idiot, but I just couldn’t change my feelings of love for you, and no matter how many cruel words you showered me with today, Ayanokouji-kun, I still couldn’t change it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The scent of citrus gently wafted through the air… I had picked up such a scent from Ichinose, who had told me that she had been holed up here all this time. Even in the low light, I noticed that her hair color was gorgeously lustrous. Perhaps I had been greatly mistaken. I had always thought that everything today was done on my initiative, guided by me, but perhaps it was actually…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Did you know that I would come here?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, I knew,” she answered. “I knew that you would definitely come here to see how I was, how I felt. I knew that there was no way you could suppress that urge.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose was confident that I would pay her a visit on this day, no matter how late it might be. A message on a cell phone, which you couldn’t read feelings from. A door that hadn’t been locked. A clean and tidy room, and a well-groomed physical appearance, in anticipation of meeting someone. These all meant that she had prepared to receive me as a guest. I didn’t think that she had seen through me to the point of knowing what I was going to propose here, but no, wait, I couldn’t be certain of that either. It wasn’t unlikely at all that Ichinose had guessed what I was going to say, even if she didn’t know everything.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s already way past curfew,” Ichinose interrupted my thoughts. “If you leave my room now, someone might see you. If that happens, it might get in the way of our plans.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, that’s certainly true,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, can I ask you that we be in this together, as accomplices, Ayanokouji-kun?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She had exceeded my expectations not once, but twice. I knew it. Ichinose really was outstanding.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“How are we going to be accomplices, then?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I won’t let there be any more unnecessary secrets between you and me, Ayanokouji-kun,” she added. “I don’t want us to do that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose took hold of my hand. Without saying a word, she forcefully pulled me toward her. Then, just when I thought she was going to draw me in close, she pushed me on the chest firmly. It felt like she was telling me, “</span><span class="C_Current__And__Times_New_Roman__And__Italic">Sit down on the bed</span><span class="C_Current__And__Times_New_Roman">,” or rather, she made me sit down. Ichinose stood in front of me, looking down at me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think I understand Karuizawa-san very well,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What do you mean?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think that she was touched by your darkness, Ayanokouji-kun, and then she was saved, and now she’ll go through hell. You decided that this is necessary for Karuizawa-san, Ayanokouji-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Maybe you’re right.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s really one-sided though, isn’t it? Even if ultimately you’re helping her, you can’t say that’s the right way to go about it, even if you’re sugar-coating it. You hurt people, break them, and then rebuild them of your own accord.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose didn’t know that I had already broken up with Karuizawa. However, she must have understood from the flow of things that I was planning to break up with her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s the same for me too, isn’t it?” she continued. “Karuizawa-san and I, we—well, no, it’s the same for other students too. All of us are just dancing in the palm of your hand, Ayanokouji-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose’s eyes were beautiful. They were clear, yet somehow had a darkness in them—strong, though weak, and sharp. They were eyes that showed the various changes she had undergone. They were shining even more brilliantly now. The color of her eyes was outside my calculations, and I couldn’t determine whether they were light or dark.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You—” I began, before she interrupted me by taking hold of both of my shoulders, putting her weight against me, and pushing me backward.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Just like how you’re using me, Ayanokouji-kun, I’m going to use you too. We each have that right, don’t we?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“At the very least, I can’t deny you that,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I can’t change the way that I feel about you, Ayanokouji-kun. I can’t change the fact that I love you, and I can’t forget it either. Honestly, I wanted to see you so badly. More than any of my classmates, more than any of my family, all I can think about is you. However, it seems like that’s not true for you. You don’t look at me. You think more broadly, and in the end, only of yourself</span><span class="C_Current__And__Properties__And__Times_New_Roman__OPENPAR_4_CLOSEPAR_">,</span><span class="C_Current__And__Times_New_Roman">” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Seeing right through my true feelings, Ichinose smiled at me gently.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s fine and all, but I’m not just gonna take it. Just like how you etched your existence deep into my heart of your own accord, I want to etch my existence deep into your heart by my own power, Ayanokouji-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The bed creaked slightly as Ichinose shifted her weight to her hands on the bed. Taking my hand on hers, she moved my hand. The sound of her heartbeat, which I had no way of being able to hear, I could now feel through my hand. It was extremely fast. I could tell that she was in an extremely nervous, anxious state, and not calm at all. Outside the window, the rain was coming down with a booming intensity, causing the windowpane to flutter wildly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“We’re doing something terrible to Karuizawa-san. If she found out…it would be bad, right?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry, but I broke up with Karuizawa before I came here,” I replied. “I already took care of the risk management, since I was going to be paying a visit to a girl’s room at night.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, at the time, I was considering the possibility that she’d snare me in some socially impossible trap, out of hatred.</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_08" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_08.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_34"><span class="C_Current__And__Times_New_Roman">“I see,” Ichinose replied. “I’ve been holed up in my room all this time, so I had no idea.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was understandable. Besides, even if she hadn’t been, there wasn’t a chance for word to spread, since it hadn’t happened last week or even yesterday. It was something that happened today, March 30.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Which means that you can’t use something like this as a means to threaten me,” I replied, with what little I could see in the dark room obscured completely by Ichinose’s body.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I didn’t mean it as a threat,” said Ichinose quietly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As she whispered those words gently into my ear, Ichinose’s cheeks flushed, but she didn’t change her aggressively forward behavior. She pressed her lips to mine. The force of our kiss was such that our teeth clicked against each other, and Ichinose was slightly startled.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sorry, I’m really bad at this. That was my first kiss, and, um…” she stammered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With that, Ichinose slowly, carefully, brought her lips to mine.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is this right? Like this?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re not going to run away…?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t have that option. Forcing an escape right now would be a significant risk.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose, her conviction now firm, had determined not to let me go. If I tried to pry her off by force, it was possible that, in the worst-case scenario, there’d be a struggle, and just a little bit of caution would not be enough to avoid the fate of boys who entered the forbidden girls’ floor late at night. That was just how resolved Ichinose was, and I felt I should reward that resolve.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I put my hands on Ichinose’s clothes and then began to peel them off. She froze up in hesitation for a moment, but soon relaxed, and I removed her top. You could say that we were already acting outside of logical parameters. We were entangled. From the moment I had set foot in this room, my path of retreat had been cut off. At the same time, I found myself drawn in by her charms, charms that were new to me. I had thought that I already knew what I needed to know about her, but that might have been nothing more than the beginning.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In this room, with just the two of us, the night was pitch-black everywhere we looked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">This wasn’t a ceremony to become lovers. That simply wouldn’t happen between us. No, this was an absolute contract, for each of us to need and be needed by the other.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Now, we were each bound by that contract to the deepest level.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Our desire for each other was insatiable.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span><span class="C_Current__And__Times_New_Roman">10.4</span></span></p>
+
+  <p class="P_Chapter_Header"><span>&#160;</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">A</span><span style=" font-size: 0.80em;"> FEW DAYS AFTER</span><span class="C_Current__And__Times_New_Roman"> that promised day, when Ayanokouji and Ichinose had bridged the gap between them, their spring vacation was coming to an end. It was early April at Keyaki Mall, and six students from Ichinose’s class were gathered near the entrance to the café with confused expressions. A sudden message from Ichinose, who had been holed up in her room and hadn’t met with or talked to anyone, had announced that she would be coming back.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was sent to the whole class’s group chat, and the message was immediately received rather enthusiastically by the peers who were hoping for her recovery. Ichinose apologized first and foremost for not returning their calls and messages, and she said that she wanted them to hear something she had to say, as she had formulated her thoughts on their future plans. A number of students had wanted to participate in that meeting, but it was none other than Kanzaki who immediately shot them down.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He suggested that the situation ought to be discussed by a small number of people, considering that they didn’t even have a grasp on the current situation and the responsibility implied. Kanzaki then selected the participants, and no one raised any objections, not even Ichinose. For better or for worse, the class was still gladly willing to accept positive and thoughtful suggestions. The members called by Kanzaki included Shibata, Hamaguchi, Amikura, Himeno, Shiranami, and Watanabe. Among the seven members, there were some that made classmates wonder at their selection, and feel like something might be amiss.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Some of the classmates included were central figures in the class, but others were not. This was because, even though Kanzaki included people who were close to Ichinose, he did so as a way to deliberately throw her off the scent of including Hamaguchi and Himeno, who would agree with his opinions. Even if, hypothetically, it came to a situation where a majority vote was to be taken during the discussion, Kanzaki believed that he would be able to secure at least three votes for his own views by doing this. Since Kanzaki didn’t know Ichinose’s current condition, he intended to be fully prepared to throw down the gauntlet. Kanzaki met up with Shibata on the way there, and they arrived at the café together.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Shibata-kun, Kanzaki-kun, good morning,” said Amikura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Amikura, a female student who often spent her weekdays and days off together with Ichinose, and was close enough to her that you could describe her as Ichinose’s best friend, had been the first to arrive. She greeted Kanzaki and Shibata as soon as they appeared.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, hey, Amikura, mornin’. Man, sure am glad though, right, Amikura?” asked Shibata. “About getting a message from Ichinose.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, seriously!” Amikura replied. “I literally almost cried a little when I got the message.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose hadn’t met with anyone since their class had lost the End-of-Year Special Exam. Even when her best friend Amikura went to pay Ichinose a visit in person, she was turned away at the door and with the explanation that it was hard to talk to anyone at the moment. Other people in class continued to encourage Ichinose with messages, but they wondered if perhaps their texts were actually having the opposite effect. Everyone was wondering if they could come up with a better way to help get Ichinose back on her feet somehow, but no one came up with a solution.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Still, I haven’t actually seen her face yet though, so I can’t really say that I’m relieved or anything,” Amikura said. “It sounds like she definitely went to her parent–teacher meeting, but I wonder if she’ll really be able to appear in front of everybody. Is Honami-chan really going to be okay?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Amikura feared the possibility that this meeting was going to wind up amounting to nothing. The fact that Ichinose carried the responsibility for her class losing the End-of-Year Special Exam solely on her own shoulders was still fresh in Amikura’s mind. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Nah. If she said she’ll come, she’ll come,” Shibata said without hesitation, having unshakable confidence in his classmate. “Ichinose is </span><span class="C_Current__And__Times_New_Roman__And__Italic">not</span><span class="C_Current__And__Times_New_Roman"> an irresponsible person.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s true, but…she’s hardly set foot outside her room,” said Amikura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She felt that it would be understandable if Ichinose couldn’t muster the courage to appear in front of everyone.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, supposin’ that does happen, we can just overlook it. Be forgiving and all, yeah,” said Shibata.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That won’t solve anything,” snapped Kanzaki, breaking his silence to speak out angrily.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What do you mean?” said Shibata. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Our defeat in the End-of-Year Special Exam spelled the difference between light and dark for our class. She’s had two weeks since that last exam, and she hasn’t been able to come up with even a single strategy for the next. We can’t waste any more time,” Kanzaki pointed out.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s not just Ichinose’s fault we lost though, dude,” replied Shibata. “You lost as a representative too, and we participants could’ve contributed more as well. The entire class’s responsible is what I’m sayin’.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m not assigning blame. I’m saying that it is too late for us to discuss what we’re going to do in the future,” retorted Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">They were already mostly through their spring vacation, and soon, they would be entering their third year. The time for preparation was ticking away, even as they discussed that fact.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whaddya mean, what we’re going to do?” Shibata asked. “We’re gonna come together and work harder than we ever have before. That’s all there is to it, yeah?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Wrong,” Kanzaki corrected him. “Our class doesn’t have a chance to win anymore.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kanzaki made that statement completely ready to antagonize Shibata and the other students, many of whom would naturally not welcome such self-defeating statements.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What’re you talkin’ ’bout Kanzaki? That ain’t true,” said Shibata.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t you see the situation yet, Shibata?” Kanzaki shot back.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, hey, come on you two, calm down, okay?” Amikura cut in to try to soothe them. “Look, Watanabe-kun and the others are here.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Looking in the direction Amikura was pointing, they could see Watanabe waving happily. Behind him were Himeno, Hamaguchi, and Shiranami. Since this meant that the necessary seven members were present, they headed on into the café. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Uh, it feels like you guys were having some kinda fight or something. What happened?” asked Watanabe.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Watanabe asked that question as soon as they were seated, having noticed that Kanzaki and Shibata were glaring at each other.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Kanzaki was saying that I don’t see the situation or something,” said Shibata.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because you don’t!” replied Kanzaki, eager to share his opinion on what the class should do in the year ahead. “Enough already, Shibata. Look at the reality. Hoshinomiya-sensei said something similar, didn’t she?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re the one not lookin’ at reality or whatever,” Shibata argued. “We still have a whole ’nother year. We just gotta do somethin’ like what Horikita’s class did, like how they got a bunch of Class Points over a year.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Watanabe and the others seemed to fully understand the nature of the fighting happening here: Kanzaki was recommending that they give up, while Shibata didn’t want to.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You have actually analyzed how they’ve managed to accumulate those Class Points?” Kanzaki asked. “There are many below-average students in their class, but they also have several students who possess outstanding abilities. Our class, on the other hand, doesn’t have a student like Kouenji, who competed as an individual in the Uninhabited Island Exam and took first place on his own.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, that’s—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Nor do we have an Ayanokouji, the person who had completely shut Ichinose down during the End-of-Year Special Exam, even though she radiated confidence beforehand. There is absolutely no way we can win. Period,” Kanzaki said, talking right over Shibata and continuing on as if he were releasing all of the pent-up frustration and anger that had been building up inside him until now over the spring vacation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“W-wait, just hold on a sec, man. So, okay, sure, the thing about Kouenji, yeah, that might be true,” Shibata conceded. “But Ayanokouji might’ve only won by sheer chance. We don’t actually know what happened during the exam, after all.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re still talking like that even after we’ve gotten to this point. That’s why this is hopeless!” shouted Kanzaki, unable to hide his irritation over Shibata’s way of thinking and not allowing for any further rebuttal from him. “Our class is already sunk. In that case, we ought to shift our thinking to how many people we can have escape,” added Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“H-hey, Kanzaki-kun, that’s going a little too far!” exclaimed Amikura, unable to stop herself from interjecting.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m not overstating anything. It’s the truth,” argued Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay, but even if what you say’s true, that we’re like a sinking ship or whatever, then that’s exactly why we should all be workin’ together to bail out the water and make the ship steady again, bruh! All of us together, without a single person left behind!” exclaimed Shibata.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, Shibata-kun. Can we really manage something like that?” asked Himeno, speaking up against him, albeit reservedly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh?” blinked Shibata.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m not saying it’s impossible, but you know, getting to Class A from here, it won’t be easy,” said Himeno.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, yeah, I know it’s not easy,” Shibata admitted. “That’s exactly why we’ve gotta be more united as a class, though. If we keep thinkin’ all negative like Kanzaki is, then we won’t be able to turn anything around, even the small things that we could right now.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Come what may, Shibata was trying to think positively. In contrast, Kanzaki was trying to prepare for the worst in anything and everything. It was inevitable that the two of them wouldn’t meet in the middle.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Enough of this. This conversation is over,” said Kanzaki, trying to end the discussion now that he’d reached his limit for dealing with positivity.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What? You’re done talkin’? I can keep goin’. I’m in the mood to discuss this thing all the way through,” said Shibata.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There is no point in having a discussion when you won’t accept any answer except for the one you want to hear,” spat Kanzaki. “Your thoughtlessly happy-go-lucky attitude is on display here, in a bad way.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whoa, whoa, hold on a minute! I’m not thoughtless. Actually, I’d say you’re way too pessimistic, Kanzaki,” replied Shibata.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’d rather you describe it as being realistic. In the first place, I—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">A shadow suddenly appeared between the two people who had been clashing over diametrically opposed opinions.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, you two. No fighting, okay?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As the verbal skirmish was getting heated, the student that they had all been eagerly awaiting suddenly arrived. Even Shibata had to stop glaring at Kanzaki to let his jaw hang loose in surprise.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ichinose… You came,” said Kanzaki, the only one who had been skeptical about whether she was really going to make an appearance.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Are you okay, Honami-chan?” Shiranami asked immediately, looking like she was about to cry. As happy as she was, her concern took precedence.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah. I’m so sorry for worrying you, but I’m okay now,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">No matter how positive the words she uttered right now, it could’ve merely been Ichinose putting up a tough front. Her classmates had been apprehensive about that, but now that she was actually there, she seemed to be in genuinely good spirits. Shibata in particular, who felt Ichinose’s hand on his shoulder, noticed that the sparkle in her eyes was just as brilliant as before, or perhaps even brighter.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Y-you’re okay, Ichinose,” Shibata stammered, unable to help his blush as he caught wind of her perfume. “I’m so glad.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I worried you, didn’t I?” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Nah, not at all,” he replied. “I mean, I believed you’d be fine, so…ha ha!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose seemed different from before, somehow. She had a more mature vibe, which affected Shibata, who bashfully averted his eyes when she looked at him from up close.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose removed the hand that she had gently placed on Shibata’s shoulder and looked around at everyone.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m truly sorry for not having given you all proper response all this time, everyone,” she began.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, that’s totally okay,” Amikura assured her. “But…are you really all right now?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">At those words, Shiranami nodded her head emphatically to show her shared concern.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m okay,” Ichinose answered. “But, you know, I’d actually like to come out and have a proper talk with you all, about what’s going on.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With a soft and gentle smile, Ichinose sat down in the empty seat between Amikura and Shiranami. Then, everyone’s eyes were focused on Ichinose, without exception. They wondered whether her smile was only on the surface. They wondered how many of the wounds inflicted upon her during the End-of-Year Special Exam were still there. Finally, and most importantly, they wondered what was going to happen in the future. </span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_09" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_09.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_36"><span class="C_Current__And__Times_New_Roman">Before Ichinose was absent due to a cold, she had been acting as though she was going to be stepping down as the leader of the class. Although Hoshinomiya had cut her off before she could officially step down, nobody had thought that it would have been strange if she had retired from the stage right then and there.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“H-hey, um, Honami-chan?” asked Amikura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Before Ichinose could begin to speak, Amikura, unable to bear it any longer, decided to just come out and say what had been on her mind.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hm? What is it?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re not…going to say that you’re, like, going to drop out of school, are you?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For her best friend Amikura, the matter of whether Ichinose would step down as class leader wasn’t really a big deal. The responsibilities and pressures that weighed on Ichinose meant that if she had the desire to step down, that was her right, and Amikura couldn’t impact her decision. What was important to Amikura was that Ichinose didn’t come to hate this school. She was afraid that Ichinose might come forward and say that she was going to punish herself for her failure by voluntarily dropping out.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You don’t need to worry about that,” Ichinose answered. “I just found out that Sakayanagi-san voluntarily withdrew from school, and because of that, her class is being penalized three hundred Class Points.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose hated the thought of causing trouble for the class more than anyone else, so her reply disputed Amikura’s suggestion, reiterating that she would never choose an option that would harm them. Kanzaki, though, seeing how Ichinose was acting, tried to ascertain her true intentions.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Then does that mean you would be willing to drop out of school of your own accord if there was some guarantee that our Class Points would not be penalized?” asked Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“K-Kanzaki-kun, what are you saying?!” Amikura cried out, angry with him for saying something that seemed only meant to hurt Ichinose’s feelings.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“She’s right, Kanzaki. There’s gotta be a better way to phrase what you just said,” agreed Watanabe.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t worry, Mako-chan. Even if there wasn’t a penalty for voluntarily dropping out of school, I wouldn’t give up that easily,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That answer must have sincerely comforted Amikura, because it prompted her to pat her chest and let out a sigh of relief.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So…does that mean you are prepared to accept expulsion if it was for the class’s benefit, then? For example, say that we would get three hundred Class Points if you drop out, Ichinose. What would you do if we were offered such a choice?” asked Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If you thought about it for even a moment, he was presenting a scenario that was unlikely, and a decision that would be reckless even if it did come about.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The conditions would be quite different in that scenario,” Ichinose replied. “But if someone were to guarantee that everyone in our class would definitely graduate from Class A if I dropped out, then I wouldn’t hesitate to make that choice. I’d absolutely drop out.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“N-no, you couldn’t, Honami-chan!” wailed Amikura.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I know,” Ichinose assured her. “Anyway, it’s fine. Honestly, we wouldn’t be forced into a choice like that. Which is why I intend to fight together with all of you up until the moment we all graduate from Class A.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, can we take that to mean that your heart’s doing kinda better now?” asked Shibata, sounding pleased as he leaned forward. “You’re doin’ good?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes. Because I’ve had time to think about lots of things, and I’ve finally gotten all of my problems sorted out. So, if you’ll all still accept me as your leader, then I’ll keep being there, with all of you, together.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Of course we do, Honami-chan. I mean, you’re the only one who could be the leader of our cla—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">BANG!</span><span class="C_Current__And__Times_New_Roman"> Kanzaki brought his palm down against the table to halt the return to cheerful conversation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whether you continue as leader, don’t just go ahead and talk about what comes next already,” he growled. “I’m sorry, but am I really supposed to believe that you’ve actually got back on your feet, Ichinose? What exactly has changed since yesterday, when you were moping around and holed up in your room? If you’re simply putting up a tough front, then that’s only doing a disservice to our class.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, Kan—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Shibata angrily tried to tell Kanzaki to watch himself, but Ichinose calmly stepped in.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s true that every day cooped up in my room was hell,” she said. “Every day. Because not only did our class take damage from losing the End-of-Year Special Exam, but it was my fault, and if I hadn’t messed up then there might’ve been a way to win. I thought about how I wanted to quit school so many times, it was so painful and frustrating, and I even cried quite a few times. However…” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After pausing to take a breath, Ichinose turned to look at everyone, with Kanzaki at the center.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Things are different now. I’m different. I’ve completely recovered,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You certainly look like you’re in good spirits, sure,” Kanzaki observed. “But what proof do you have?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I guess that means I have to tell you, huh?” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Of course. If you’re insisting that you’ve made a full recovery, then there must be some kind of major catalyst for it,” said Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kanzaki pointed out that her wounds weren’t ones that could have healed over that quickly, just from being left alone. If she were to say that time had healed her, then he was planning to take her to task over it, and tell her that it was a lie.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s true…” Ichinose conceded. “I guess it’s because all of the doubts I had been dealing with have been resolved.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The doubts you were dealing with?” asked Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes,” Ichinose confirmed. “Things like: How could I fight in the future? How can we make it to Class A without losing anyone? Is it even all right for me to be the leader of the class? Those doubts had been cleared away.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…How?” asked Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, that’s because a certain someone saved me,” she answered. “That’s why.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">A certain someone. When she put it like that, the first person to come to mind for Kanzaki was none other than Ayanokouji. That was because Ayanokouji had defeated Ichinose in the End-of-Year Special Exam, and also because he could imagine it was something trivial, like Ichinose had a crush on Ayanokouji, who was worried about the class. That description was also why everyone other than Kanzaki thought she was referring to a teacher or another friend, rather than Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s awesome. Who helped you?” Shibata asked with nothing but curiosity in his voice.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose looked at him with the warmest expression she’d worn so far that day, as though that question had been etched into her heart.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji-kun,” she replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As soon as Kanzaki heard the name that he’d been bracing for, he shot back at her without trying to hide his anger.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji is a clear and obvious enemy!” Kanzaki snarled. “And you’re saying that you were saved by the very opponent who defeated you in the End-of-Year Special Exam?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes. I was saved by Ayanokouji-kun,” Ichinose repeated. “That’s the undeniable truth.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Exhaling softly, Kanzaki calmed himself down so that his anger wouldn’t take over. Ayanokouji had helped him out on several occasions as well, and Kanzaki even recognized him as someone that he could rely on when they were together. However, Ayanokouji had stood against their class as an obvious enemy during the End-of-Year Special Exam. He had defeated Ichinose and struck the class down into despair. Even if Kanzaki had some half-hearted cognizance of companionship, it wasn’t going to lead to anything good. Kanzaki had come to learn that the hard way.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Saved by Ayanokouji, huh?” Kanzaki said. “I hope that’s a lie, but if it’s not, that is a huge problem. Now I doubt that you were even really ‘saved’ at all.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kanzaki was condemning Ichinose so thoroughly and completely that Shibata and the others couldn’t even be angry with him, only exasperated.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Look, Kanzaki, bruh,” Shibata jumped in. “If Ichinose says that Ayanokouji saved her, let’s just be grateful for that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You don’t understand,” Kanzaki dismissed his words entirely. “You don’t know how dangerous a man Ayanokouji is.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">At this point, Kanzaki hesitated over whether to reveal all of the information he had. Namely, that Ayanokouji was the son of the respected Ayanokouji Atsuomi, and that Ayanokouji himself was highly skilled; it was just that he wasn’t allowing those around him to see it. Right now, in detail—</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Kanzaki-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…What?” he asked after a brief silence.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Before we discuss that, I was wondering if we could talk about something else for a minute,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kanzaki was momentarily thrown off by Ichinose’s words, which seemed to anticipate his thoughts. It wasn’t like she was intimidating him or threatening him at all. It was just that her tone of voice and her expression somehow made him speechless, even if they weren’t any different from her usual.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It was because of my own weakness that I lost the End-of-Year Special Exam. Because, by the nature of the exam, I had to fight equally against my opponent, no matter who they were,” said Ichinose, presenting her friends with a summary of her reflections since the exam had ended. “I lost to Ayanokouji-kun because I lost sight of the essence of competition. I want you all to know what kind of state of mind I was in at the time.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She tried to find the words to express something that she hadn’t said until now, not even to herself.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I… Since who knows when, I’ve been in love with Ayanokouji-kun,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose stated her feelings for her classmates to hear, without blushing and without panicking. Shibata was the most surprised of all, his mouth hanging open silently. Ichinose continued, without paying any mind to that or any other reactions.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“At the time, I believed that Ayanokouji-kun was thinking about me, without any doubt. However, as soon as the exam started, those shallow, foolish assumptions of mine were shattered,” she said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ayanokouji had proposed to Ichinose that they used their traitor rights, so that no one would be expelled from their classes. By taking advantage of that, Ayanokouji had made Ichinose party to Maezono’s expulsion. Ichinose’s classmates listened expectantly as they heard for the very first time about the battle between representatives. At the same time, they were hearing about Ayanokouji’s true nature, which Kanzaki had wanted them to know. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">An unassuming student who didn’t stand out very much</span><span class="C_Current__And__Times_New_Roman">. That was a fabrication. He was a student who was extremely calm and composed, and who could make precise judgments under pressure. Ichinose had wanted everyone to hear about Ayanokouji’s greatness from her, rather than from Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is Ayanokouji-kun…really so incredible of a student?” asked Himeno haltingly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">At that question, Ichinose nodded with a happy squint in her eyes, as though one of her own was being praised. Himeno too had sensed that Ayanokouji was no ordinary student, but she couldn’t fully grasp it yet, and there was a big gap in understanding.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think that it was only after the exam that I really, truly understood him myself</span><span class="C_Current__And__Properties__And__Times_New_Roman">,</span><span class="C_Current__And__Times_New_Roman">” said Ichinose. “While it’s not like there was only one factor that made it possible for Horikita-san’s class to move up to Class A, I think it was something that they definitely wouldn’t have accomplished without Ayanokouji-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That is to say, it wasn’t Horikita’s class. It was Ayanokouji’s class. What she said practically amounted to saying those exact words.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“W-whoa, uh, yeah, man,” Shibata stammered. “For real, so Ayanokouji is that amazing of a dude, huh? Uh, well…I never really had that much contact with the guy, so I guess I never really thought too much ’bout it. Or like, uh, I thought, uh, that, like, your feelings were more like respect for the guy rather than you liking him, though.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In a bit of a panic, Shibata tried to refute what Ichinose said, suggesting that she simply wasn’t using the right choice of words in expressing her thoughts, or that it was a misunderstanding.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I do have respect for him too, of course,” Ichinose agreed. “But more than that, I love Ayanokouji-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even though Ichinose answered Shibata proudly and openly, she felt herself flush. That was not because her contact with Ayanokouji had been physical, but rather because for a moment, she had been able to touch the surface of Ayanokouji’s heart, which perhaps even Karuizawa hadn’t been able to see. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whoa, that’s incredible… I mean, for you of all people to say all that, Ichinose, it’s… Man, how did </span><span class="C_Current__And__Times_New_Roman__And__Italic">that</span><span class="C_Current__And__Times_New_Roman"> happen?” said Watanabe, astonished.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Watanabe couldn’t imagine that her feelings were unreciprocated if she was announcing it like this, and cast a fleeting glance at his own crush, Amikura. Meanwhile, Amikura was happy to see that Ichinose had grown to the point where she could clearly state that she loved someone, and came to the conclusion that something must have happened in the process of Ichinose asking Ayanokouji for advice. Maybe they were in a relationship now, maybe even beyond what she was imagining.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Wait, hold on though. Isn’t…” Shibata hesitated as he tried to line his words up. “Uh…doesn’t Ayanokouji already got a girlfriend?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Shibata-kun… Look, um, it’s kinda hard for me to tell you this, but…” intervened Amikura, not wanting to dash his hopes, but deciding that it would be best to come out and say it immediately. “I heard that Ayanokouji-kun and Karuizawa-san broke up recently.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Shibata flopped down on the desk and started twitching slightly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“At any rate, you should all understand things well enough now. That there’s no chance for us to win anymore,” declared Kanzaki. He’d been quietly listening until this point, even when the comments turned more toward gossip, but now it felt like he had a chance to make his classmates accept a different strategy. He had to change the course of the conversation to make them comply with an overall change of course for the class. “Now is precisely the time we should be moving in the direction of collecting Private Points.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He wanted them to give up on Class A as a whole, and shift completely toward accumulating Private Points. Ichinose had once released the funds that she had been pooling on behalf of her classmates, but they had all begun saving again. If they were to increase the percentage of how much they put into their savings to the uppermost limit and all exhibited self-restraint, they could afford a few tickets to Class A.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So you really think it’d be better for us to just throw away the idea of winning, Kanzaki?” asked Watanabe.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry, but I wasn’t asking you for your opinion right now, Watanabe.” said Kanzaki, having asserted that an optimistic strategy would only delay the inevitable here. “Answer me, Ichinose.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s certainly true that if it’s difficult to reach Class A, relying on Private Points is the proper way to do it,” Ichinose replied. “I don’t think it’s a bad idea. In fact, I would even bet that some of the former Class A students have been considering that option several times now.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">When we become third-years, it’ll be a one-on-one battle between Horikita’s class and Ryuuen’s class.</span><span class="C_Current__And__Times_New_Roman"> More and more students were beginning to accept this situation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“However, I think that this class of ours can still fight. We can still aim for Class A,” added Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s impossible,” argued Kanzaki. “I cannot imagine that you’ve actually done the job of analyzing the competition, in any way.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, come on, Kanzaki. Even if it’ll be tough to catch up like you’ve been saying, it’s not a terrible thing for us to shoot for it,” Watanabe piped up again despite Kanzaki shutting him out, perhaps inspired by Ichinose’s apparent certainty. “It can make all the difference for your motivation if you got a goal that you can really go for with everything you’ve got, you know?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That would be inefficient,” countered Kanzaki, unable to accept an argument without evidence. “You’re certainly free to aim, and you’re free to aspire, but that freedom naturally comes at a price.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t get it. What price is there?” asked Watanabe.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I can think of many ways in which there would be a price,” Kanzaki answered. “For example, if we needed to increase our assets in order to win an exam, spending Private Points would be the key to victory in that scenario. It’s not just limited to that kind of thing either. It could be to gather information or to avoid some kind of penalty. Or, what if a student in our class was in danger of being expelled? Would you have another twenty million points ready to go every time something like that happened?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He was proposing a strategy of not wasting any Private Points, of reducing their consumption of points by ignoring the majority of the competition.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Wait, not only are you giving up on Class A, but you’re even abandoning your friends?!” exclaimed Watanabe.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s necessary for everyone in the class to have that approach, not just me,” said Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hold on, everyone, that’s…” sputtered Watanabe.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kanzaki, after having gotten Watanabe to quiet down, took the opportunity to stay on the attack.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Himeno, Hamaguchi,” Kanzaki addressed them directly, hoping to gain allies. “What do you think?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well…” said Hamaguchi, hesitating. “To be honest, I also feel that everyone should give the idea some consideration, yeah.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Me too, I think…saving Private Points isn’t a bad idea at all,” Himeno added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, how about that?” said Kanzaki. “I’m not the only one. There are at least some students in our class who feel the same way.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Wait, hold up. Are you guys all insane or something?” Shibata pulled his face up off of the desk and looked around. His eyes were wet at the corners, but he just couldn’t let Kanzaki’s suggested approach win out without any resistance. “Don’t talk stupid. You sayin’ that we sacrifice our friends so that one or two people can transfer to Class A and reach the goal? No way, bruh. Absolutely not. Our plan for the whole class winnin’ or losin’ together should </span><span class="C_Current__And__Times_New_Roman__And__Italic">not</span><span class="C_Current__And__Times_New_Roman"> be changed. No way.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think so too,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Y-yeah…Ichinose…” replied Shibata.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even though she was speaking up in agreement, seeing her warm smile made Shibata feel like his heart was being gouged out all over again, and so he flopped back down on his desk.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Enough already,” spat Kanzaki. “That’s all just wishful thinking.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re right, it certainly is wishful thinking,” said Ichinose without hesitation. “We have been able to fight our way to this point without anyone getting expelled. That is undeniably a strength, but we can’t deny the fact that it’s come at a cost as well, as we’ve continued to lose Class Points in exchange. Regardless, that wishful thinking may also bear fruit.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose answered with confidence, but of course, Kanzaki saw absolutely nothing of her clear vision. To him, it sounded simply like she was talking hypothetically, about her dreams and ideals.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Once again, I want us to graduate from Class A together, without losing anyone,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You do realize that’s impossible, don’t you?” said Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No,” Ichinose replied firmly. “It’s not impossible.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sorry, but I cannot trust you whatsoever,” said Kanzaki. “Yes, I may recognize that you have recovered mentally from the exam, but there is absolutely no way I could be convinced by such a frivolous, careless statement, that we can make it to Class A from here.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes, I suppose not. I need to stop thinking that I’ll just resolve it with words, just by saying things like ‘Hey, it’s okay.’ It is true that over these past two years, we’ve fallen from Class B to Class D, after all,” said Ichinose with a nod at Kanzaki to acknowledge that his pointed remark still had a reasonable point. “Regardless, I was hoping that I could ask you to hold on until spring vacation is over.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Can I interpret that as meaning that you’ll prove it to me then?” said Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes. If you’re not satisfied with the answer at that time, then I will proactively consider your proposal, Kanzaki-kun,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Ichinose agreed to lean toward accumulating Private Points, rather than trying to win in the class rankings, then even the classmates that disagreed with the method would likely follow. Just a few more days. Time was precious, but Kanzaki decided that it was worth it just for her to accept his conditions.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You will stand by that statement, right?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I will. I have neither the qualifications nor the right to say that I will absolutely make us graduate from Class A without fail, but I promise. I promise that I will lift the class up to a state where we can compete for Class A,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose looked to her gathered classmates for confirmation. Though they were all puzzled, they nodded to indicate that they would hold off on any conclusions for the moment. From that point on, Ichinose really was her usual self, sounding happy at times and sad at times, as she told them about the events of the past two weeks or so. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Shibata wanted to ask about Ayanokouji the whole time, but in the end, he couldn’t say a single word about it. Perhaps unsurprisingly, he found it hard to ask about something so heavy in front of the other students. He was sure that nothing had really happened between them yet, and held onto that hope as he decided to wait for his moment.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The warm, gentle times of Ichinose’s class had returned. Though Kanzaki was looking at her coldly, he endured it because he had agreed to wait a few days. Then, when he got up from his seat to go use the restroom, Ichinose followed after him.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Kanzaki-kun?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…What?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t you think you have something to report to me?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Report?” he repeated as he stopped to turn around and eye her suspiciously, unsure what she was talking about.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I believe that I am responsible for the results of the End-of-Year Special Exam,” said Ichinose. “But, Kanzaki-kun, do you have any explanation for what happened with you? About whether you fought in a way that was appropriate, as a representative?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re saying that there was a problem with the way I fought?” Kanzaki asked. “I fought hard against Horikita, and I lost. It’s frustrating, but that’s the truth.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Did you decide before the exam that you were going to beg your opponent to hand over the win?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Uh…” he stammered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You had given up on winning from the start, Kanzaki-kun,” Ichinose continued. “I wish you would have at least talked to me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, that’s… Did you hear about that from Horikita? Or perhaps—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s not important who I heard it from,” replied Ichinose, cutting him off.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“N-no, I suppose not. It’s just…that was the only plan I could come up with to win. I didn’t care about how it looked. I had no other choice. At the time, I just decided that it was what I had to do, and…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He had been making eye contact as he tried to explain himself with dignity, but his breath caught in his throat; he was choking. She looked so different from how she had even mere moments earlier, when she had been listening to what her classmates had to say.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I did ask them to hand over the win… If word got out about that, out in front of Shibata and the other students, then it would definitely lower morale. That’s why I didn’t say anything,” said Kanzaki desperately, trying to make excuses.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because we couldn’t beat Ayanokouji-kun. Because that was the conclusion you reached, right?” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, that’s—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Her strong gaze took a tight hold of Kanzaki’s true feelings, his conscience.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I understand that anxiety,” said Ichinose. “I also understand the pain of not having anyone who understands. It’s okay now, though.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">What do you mean, okay?</span><span class="C_Current__And__Times_New_Roman"> Kanzaki didn’t have the courage to voice that question.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Forgive me,” he said instead. “It is true that I fought in a way that was not commendable.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you’re ever struggling, you can come talk to me any time. I’ll stand by you when you’re feeling discouraged,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">They were kind words, but Kanzaki only felt a chill run up his spine. That was because he was hearing them as a warning, telling him to never do anything selfish again from here on out. Ichinose turned around and then went back to their classmates, and when she sat down in her seat, the look on her face was no different from usual.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Was that…really Ichinose…?” wondered Kanzaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She was different from when she appeared wasted away and exhausted, right after the exam ended, but also different from when she exhibited moments of confidence before an exam. There was something odd, something he couldn’t quite grasp.</span></p>
+7:["$","$L12",null,{"content":"$13","title":"Chapter 10: The Promised Night","volumeId":"y2v12.5","chapterIndex":31,"prevChapter":{"volumeId":"y2v12.5","chapter":28,"title":"Chapter 9: Celebration"},"nextChapter":{"volumeId":"y2v12.5","chapter":38,"title":"Chapter 11: Goals"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Behind the Curtain","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Checking Each Answer","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Another Time","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: Vacant Throne","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 5: Anticipating","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 6: Illusion","href":"Text/section-0019.html#auto_bookmark_toc_19","index":20},{"label":"Chapter 7: Even After Graduation","href":"Text/section-0021.html#auto_bookmark_toc_21","index":22},{"label":"Chapter 8: Parent and Child, Child and Parent","href":"Text/section-0024.html#auto_bookmark_toc_24","index":25},{"label":"Chapter 9: Celebration","href":"Text/section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 10: The Promised Night","href":"Text/section-0030.html#auto_bookmark_toc_30","index":31},{"label":"Chapter 11: Goals","href":"Text/section-0037.html#auto_bookmark_toc_37","index":38},{"label":"Chapter 12: The Curtain Rises Once Again","href":"Text/section-0041.html#auto_bookmark_toc_41","index":42},{"label":"Postscript","href":"Text/section-0042.html#auto_bookmark_toc_42","index":43}],"volumeTitle":"Light Novel 2nd Year Volume 12.5","detailsLink":"/select/year-2/y2v12.5","returnLink":"/select","currentSpineIndex":31,"nextVolumeLink":"$undefined","nextVolumeTitle":"$undefined"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+14:I[27201,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+a:null
+10:[["$","title","0",{"children":"Classroom of the Elite Reader"}],["$","meta","1",{"name":"description","content":"A premium reader experience for Classroom of the Elite light novels."}],["$","meta","2",{"property":"og:title","content":"Classroom of the Elite Reader"}],["$","meta","3",{"property":"og:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","4",{"property":"og:url","content":"https://classroom-of-the-elite-reader.vercel.app"}],["$","meta","5",{"property":"og:site_name","content":"COTE Reader"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Classroom of the Elite Reader Preview"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Classroom of the Elite Reader"}],["$","meta","14",{"name":"twitter:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","link","16",{"rel":"icon","href":"/hola-lector-agua/icon.svg?icon.ae5abf30.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","17",{}]]

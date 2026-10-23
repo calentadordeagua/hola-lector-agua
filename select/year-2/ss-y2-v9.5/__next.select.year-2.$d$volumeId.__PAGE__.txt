@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[6598,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/bcd35c7eaddcc574.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"VolumePageClient"]
+3:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"volumeId":"ss-y2-v9.5"}],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/bcd35c7eaddcc574.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

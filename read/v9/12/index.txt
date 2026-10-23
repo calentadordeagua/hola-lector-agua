@@ -1,0 +1,567 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[98168,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js"],"default"]
+4:I[37457,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+5:I[36768,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/b7415f7eaafec72a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+6:I[43880,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js"],"Analytics"]
+8:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[32268,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+c:I[5789,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+d:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","style"]
+:HL["/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","style"]
+:HL["/hola-lector-agua/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/8c2eb9ceedecfc8e-s.p.21935807.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/ce62453a442c7f35-s.p.124b2306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"xTs_Uh3z_t9CBVjB8m3b9","c":["","read","v9","12",""],"q":"","i":false,"f":[[["",{"children":["read",{"children":[["volumeId","v9","d"],{"children":[["chapterIndex","12","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":["$","body",null,{"suppressHydrationWarning":true,"className":"inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG__variable merriweather_b1e99710-module__84TlHG__variable roboto_4304287d-module__gQrF4G__variable lora_c06265ab-module__hGs1mq__variable font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{"children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]],"notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},[["$","$Lb","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false]},null,false,false]},null,false,false]},[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+12:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+13:Ta539,
+      
+      <p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_top"><span style=" font-weight: bold; font-size: 1.17em;">Chapter 6:<br/>Rumors Running Rampant</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">T</span><span style=" font-size: 0.80em;">HE WEEKEND WAS OVER,</span><span style=" font-size: 1.00em;"> and Monday was here. I took my morning shower and then brushed my teeth while drying
+            my hair off with a towel. My plan was to take things slower than usual, lingering
+            in my room as long as possible without actually being late to class. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d slept with my phone turned off last night. I turned it back on now and saw some
+            messages immediately light up my screen.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Kiyotaka-kun, do you have a little time this morning? Can I come to your room?</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was a message from Airi, apparently sent right after I stepped in the shower. I
+            saw a missed call from Kei too, but I’d just call her back later. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Sorry, I was taking a shower and didn’t see your message. I don’t really have time
+            now. Can we meet at school? </span><span style=" font-size: 1.00em;">I texted back. Less than a second later, I saw that she’d read it. Was that just a
+            coincidence? Or was she waiting for me to respond?</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">That’s okay, don’t worry about it. I’ll talk to you later, </span><span style=" font-size: 1.00em;">replied Airi, making me think it must not have been an urgent matter. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I decided to focus on getting ready for now. I was out of time to laze about, so I
+            finished getting dressed and headed over to take the elevator to the lobby. It was
+            generally packed full of students on their way to school in the morning, making it
+            slow to respond, but given how close I was cutting it, it shouldn’t be too busy now.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I pushed the button to summon the elevator, then took out my phone and sent a message
+            to Kei. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">What did you want? If it’s possible, I’d like to meet you sometime today this evening
+            or later tonight to talk.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The message was marked as read almost immediately.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kei texted back. </span><span style=" font-style: italic; font-size: 1.00em;">I wasn’t calling for any reason in particular, so no worries. Anyway, I’m okay with
+            meeting up, but can we do it earlier? I have plans to hang out with my friends tonight.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">How about five o’clock?</span><span style=" font-size: 1.00em;"> I suggested.</span><span style=" font-style: italic; font-size: 1.00em;"> Six would be okay too.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Okay, let’s do five then, please. What is it about?</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Let’s talk when we meet.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The elevator came down from the upper floors just as I sent that last reply. Hirata
+            was the only one inside.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, good morning, Ayanokouji-kun,” he said.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“This is a rare sight, Hirata. You’re cutting it pretty close today too, huh?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hirata was an honors student, so he almost always made it to class with plenty of
+            time to spare. It was pretty unusual for him to be leaving the dormitory late, let
+            alone at the last possible minute, like this.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I had really planned on leaving earlier, but…” said Hirata, a bitter smile
+            on his face, looking somewhat conflicted.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was vague. “But?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">As we made it to the lobby and got off the elevator, I saw several girls awaiting
+            us. Not girls from just one class either, but girls from all four—from A to D. I wondered
+            for a moment why they were all gathered here like this, but then immediately realized
+            what was going on. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Good morning, Hirata-kun!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, good morning.” While Hirata wore a charming smile, he still seemed a little out
+            of sorts.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“This…is a valentine, for you!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">All six girls presented him with chocolates at the same time. I had to imagine this
+            precise scenario had been repeated many times this morning, forcing Hirata to keep
+            going back to his room to drop off chocolates. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I said a hasty goodbye and hurried off to class. I could’ve waited for him, but I
+            was overwhelmed by the pressure I was feeling from the girls, who were emanating a
+            clear vibe of “You’re in the way.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was right. It was Valentine’s Day, wasn’t it?</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ve never gotten chocolates before…” I muttered to myself without meaning to. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I kind of wanted to be given chocolates before I did something like get a girlfriend,
+            which surprised me, to tell the truth. I hadn’t thought I was capable of wanting such
+            things, even faintly.</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">6.1</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">I</span><span style=" font-size: 1.00em;"> </span><span style=" font-size: 0.80em;">WASN’T THE ONLY GUY</span><span style=" font-size: 1.00em;"> who was excited about Valentine’s Day. As soon as I arrived at Class C, I felt the
+            classroom enveloped in a strange atmosphere. Many of the guys were clustered together
+            in one place. Today was the culmination of an entire year of hard work. Just like
+            Christmas, this was an event that put a spotlight on lovers. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, you showed up, huh, Ayanokouji? Come over here for a sec,” said Sudou.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I went over to him.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Did you get any chocolate?” he asked, his face tense, like he was really pressing
+            me for an answer. He was almost glaring at me.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Let me translate that for you. It seems like he’s actually asking, ‘Did you get any
+            chocolate </span><span style=" font-style: italic; font-size: 1.00em;">from Horikita?’</span><span style=" font-size: 1.00em;">” said Ike, with a grin.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t go running your mouth, idiot. Ain’t got nothin’ to do with this,” said Sudou,
+            not smiling at all. If anything, his eyes were filled with this almost demonic energy,
+            like he was saying, ‘Well?’</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I didn’t get any. There’s no way I would,” I answered.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…Really?” asked Sudou.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sudou nodded a couple times in response, then released me from his piercing glare.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I get why Ken’s all panicky. I mean, Ayanokouji’s </span><span style=" font-style: italic; font-size: 1.00em;">thing </span><span style=" font-size: 1.00em;">is a total monster, after all,” said Ike, drawing the outline of something like a
+            plastic bottle in the air with his hand as he spoke.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…Okay Ayanokouji, don’t think you’ve won just because you’ve got </span><span style=" font-style: italic; font-size: 1.00em;">that</span><span style=" font-size: 1.00em;">, okay?” said Sudou.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, I don’t think that at all…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d been occasionally getting comments like that since the school camp, and it was
+            honestly beginning to annoy me. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Come to think of it, how are you doing, Kanji? Things going well with Shinohara?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“H-huh? Why you bringin’ up Shinohara?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Come on, dude, enough already. Just be straight with us. Everyone already knows already.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“E-everyone… knows?” said Ike, directing his question at me for some reason. I more
+            or less got where the conversation was going, so I nodded lightly in response.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ugghhh!” Ike immediately crouched down, his face turning red.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“See? Even a total recluse like Ayanokouji knows about it. So did you get any chocolates?”
+            asked Sudou.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Perhaps because Shinohara wasn’t really all that popular in our class, I didn’t hear
+            anyone around us commenting that they were jealous of Ike. I’d expected Yamauchi,
+            his usual partner in crime, to razz him and be resentful, but he was nowhere to be
+            seen.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I didn’t get anythin’…” replied Ike.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Guess you and I are the same, then,” said Sudou. He gave Ike a sympathetic pat on
+            the shoulder. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“W-well, it doesn’t matter anyway. ’Cause I got some from Kushida-chan,” said Ike,
+            proudly showing off a box of chocolates with a pink ribbon on it.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Uh, okay, dude, you say that, but didn’t every guy in class get some? I did too,”
+            said Sudou.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m still grateful, but yeah, I guess it really is just obligation chocolate at best.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d never expected Kushida would give chocolate to all the first-year boys. I wondered
+            how she’d done it? Well, I supposed it wasn’t that usual, given this was Kushida we
+            were talking about. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The air was charged with the guys’ overwhelming enthusiasm. I couldn’t help but feel
+            like it was precisely this kind of childish behavior that made the girls keep their
+            distance, but then again, my classmates had so little experience in the realm of love.
+            This was inevitable, even if their desperation changed nothing. Your chances of getting
+            chocolate depended on how you’d behaved in the days leading up to this, not how desperate
+            you got now that the moment was here.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">At least, that was the conclusion I came to as I watched a girl from Class B give
+            Akito some chocolate. </span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">6.2</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">“T</span><span style=" font-size: 0.80em;">OMORROW, ON THE 15TH,</span><span style=" font-size: 1.00em;"> we’ll be having a comprehensive practice test covering all subjects, just as the
+            schedule indicated. However, as I had said before, this will have no bearing on your
+            grades. The purpose of this test is to, at most, measure your current abilities. In
+            addition, it will serve as good practice for the year-end exams. Many of the questions
+            on the practice test will be similar to what you’ll see on the year-end test, though
+            of course, they won’t be exactly the same. Don’t get careless just because you got
+            promoted to Class C,” said Chabashira.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That much-appreciated explanation marked the end of today’s lessons. I decided to
+            say a few words to my neighbor as she was getting ready to leave.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“How are things with Kushida lately?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you mean?” replied Horikita.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I mean, are things going well?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t know. I’m doing my utmost to come up with ways to improve our relationship.
+            Are you considering helping me?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m just asking is all.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kushida-san has been changing, little by little,” said Horikita.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you mean, changing?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m going to go have tea with her at Keyaki Mall later today. Normally, she would
+            have turned me down without a second thought,” said Horikita.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Apparently, things were going better than I had thought—if only on the surface.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So does that mean that your hopes are being realized?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If we talk to one another, we may be able to come to some mutual understanding.”
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That would be good. Well, see ya.” With that brief response, I got up from my seat.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…Okay, what was that about?” said Horikita, shooting me a slightly contemptuous look.
+            She rose from her seat too.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ah, Suzune. Uh, um… When would be a good time to get some help with my studies?”
+            asked Sudou.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“My, you’re being quite proactive, Sudou-kun,” said Horikita.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I guess. I don’t wanna get expelled, after all,” said Sudou nervously. I was
+            willing to bet his real goal was to get some Valentine’s Day chocolate from Horikita.
+            “Any time works for me today. So?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">However…</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Your club still hasn’t gone on break yet, has it? I can help you study after the
+            practice test. It won’t be too late,” replied Horikita, dashing Sudou’s hopes to the
+            ground as I left the classroom. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Someone shouted my name, the sound echoing throughout the hall. Well…I say “shouted’”
+            but the actual volume of the words was quite low.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kiyotaka-kun!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What’s up, Airi?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is it really true that you’re not meeting with the group today?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I wasn’t planning to, no.” The Ayanokouji Group had invited me to hang out, but I’d
+            declined. I still had a problem that needed to be dealt with at the moment.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I-I think it’ll be okay even if you come later. Do you think you could still come?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hmm… I might not be free until sometime after six. Is that okay?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah! I think everyone should still be together by then!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“All right. We’ll, I’ll get in touch later then, okay?” I answered.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That brief comment was enough to change Airi’s stiff expression to a broad smile.
+            I parted ways with her and got moving again. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">When I made it to Class B, the classroom was strangely quiet. There were only a few
+            students I really wanted to talk to—Kanzaki would have been my first choice, but Sumida
+            or Moriyama, who’d been with me at the school camp, would do as well. Unfortunately,
+            all three had left the classroom by the time I arrived. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I could probably have picked someone at random, but I wasn’t going to do that. I turned
+            around and left. On my way out, I overheard a shred of conversation between some Class
+            B girls.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey… Do you think the reason Honami-chan is absent today is because…?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, there’s no way.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">So, Ichinose was absent, huh? As I walked away from Class B, I wondered if it was
+            mere coincidence, or if it had something to do with what had happened the other day.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">How had Sakayanagi come to know Ichinose’s secret in the first place? Sure, there
+            were conversational techniques like cold reading and hot reading that could be used
+            to extract a person’s secrets, but I couldn’t imagine Ichinose willingly revealing
+            her past as a shoplifter. Her refusal to comment on the rumors, even now, was proof
+            of that. Would she really have let herself be coaxed into telling one of her greatest
+            enemies, a member of Class A, such a secret? I mean, Ike and Yamauchi were one thing,
+            but Ichinose was quite clever. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Did she just succumb to Sakayanagi trying to wheedle it out of her…?” I asked myself
+            aloud.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Or was there someone else who knew Ichinose’s secret? But even Kanzaki, whom she probably
+            trusted the most out of anyone in Class B, didn’t seem to know it. I couldn’t imagine
+            her close friends knew it either, judging by their reactions. So maybe the teaching
+            staff at school, or…the student council, which Ichinose was a part of.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If Nagumo betrayed Ichinose and chose to side with Sakayanagi, then it’s possible,
+            I suppose,” I reasoned.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">This was a theory based on several assumptions, though. And besides, unless everything
+            Kamuro had said was true, nothing could be substantiated. The only person who could
+            overturn the premise of this assumption would be Ichinose Honami herself. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Though this school could be called huge, in the eyes of the rest of the world, the
+            campus was actually a rather confined space. If you met with someone in secret, there
+            was always the danger of being seen. That meant you usually had to meet either early
+            in the morning or in the middle of the night to avoid detection.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I didn’t know Ichinose Honami’s room number, but that was easily fixed—I could just
+            call the dormitory management office and ask for it. From the school’s point of view,
+            there was no reason to keep student room numbers secret. If you said that you were
+            a student, and that you were trying to get in touch with each other, then the school
+            should cooperate with you.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I called to confirm her room number while I walked and managed to get it right away.
+            As I did so, I ignored Hashimoto, who was watching me from a distance. He’d been tailing
+            me frequently in the afternoons and evenings of late, and he wasn’t too shabby at
+            it either. I could tell he’d had plenty of experience tailing people. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">On the surface, it might seem like there was no merit to me doing something like visiting
+            Ichinose while I was being watched. In fact, the opposite was true. It was precisely
+            </span><span style=" font-style: italic; font-size: 1.00em;">because</span><span style=" font-size: 1.00em;"> I was being watched that the action was worthwhile. Besides, I wanted to confirm
+            something with Ichinose.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I hurried back to the dorm and went to her floor. Unfortunately, there were several
+            girls standing in front of her room when I arrived, all people whom Ichinose was particularly
+            close to. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I quickly turned back around and got back on the elevator, deciding to call it a day
+            for now.</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">6.3</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">F</span><span style=" font-size: 0.80em;">IVE O’CLOCK CAME,</span><span style=" font-size: 1.00em;"> and I asked Kei to meet me at a spot that was a little ways away from the dorms.
+            It wasn’t exactly a well-populated location, but it wasn’t as though no one ever came
+            there either. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ah, it’s so cold! Why are we meeting in a place like this, anyway? There are lots
+            of other options, aren’t there?” she complained.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, we can’t exactly meet in the lobby, can we? If we meet out in the open, people
+            will start whispering about us, and that would be bad for you, wouldn’t it?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I suppose, but…doesn’t meeting secretly like this actually make us look even
+            more suspicious? If anyone sees us, there’ll definitely be all kinds of rumors popping
+            up…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t worry about it.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You know, I kinda get the feeling that you’re not being very cautious. But that’s
+            fine, I guess.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was all right. After all, it would be a long wait for the guy who’d been following
+            me. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Still, it’s way too cold out. I wish summer would hurry up and come already,” said
+            Kei.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Aren’t you going to just end up saying you wish winter would hurry up and come once
+            summer does roll around?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kei pondered that for a bit, then sniffed. “That’s just how a maiden’s heart works,”
+            she answered, pouting a bit. “Come to think of it, I wonder if there’s going to be
+            a special exam this month?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, we only just got done with the school camp. It wouldn’t surprise me if there’s
+            no special exam this month.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So you think we can breathe easy for a bit?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you going to be all right for the year-end exam? It’ll probably be pretty difficult.”
+            When I said that, Kei’s posture grew stiff.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh…? Seriously?” she said.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">She’d managed to somehow squeak past in the exams we’ve had so far, but she couldn’t
+            afford to get careless with her studies.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Help me study,” said Kei.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ask Hirata… Actually, while I suppose that’s not impossible, it might be pretty difficult,
+            huh?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kei certainly was audacious enough to ask Hirata to tutor her if she felt like it,
+            even after they’d just broken up. But she didn’t seem to be too keen on the idea.
+            She was staring at me. The easiest solution would be to have Keisei tutor her, but
+            that wasn’t realistic. If I tossed her into the midst of our group without warning,
+            it would have repercussions.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It would have to be in the middle of the night. Is that okay?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s way better than getting expelled.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Well put. “All right, then. I’ll go ahead and put together a schedule.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Thanks.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Even if we got through the year-end exam, though, there’d be new problems on the horizon
+            soon after. We could probably expect to see a massive special exam around the start
+            of March. If we made it safely through that, we’d have completed our first year of
+            school. The school would keep us fighting to the bitter end, so we couldn’t afford
+            to let our guards down.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, anyway, what did you need from me?” asked Kei, seeming a little fidgety and nervous
+            for some reason.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Something up?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, not really. It’s just…I was thinking it seemed like you really wanted to meet
+            with me today, for some reason.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I just had something I wanted to confirm. It would’ve been fine if we didn’t get
+            to it today.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hmph,” she scoffed, shooting me a look of suspicion. Deciding to pay it no mind,
+            I focused on the topic at hand.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Any idea whose number this might be?” I asked, showing her the unregistered phone
+            number that I had gotten a call from the other day. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? Who is that from? What, are you getting calls from strangers or something?”
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Seems that way.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kei brought up her contacts and manually entered the number via the keypad. If the
+            number was registered in her contacts, then the person’s name and other information
+            should show up.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Doesn’t seem like anything’s coming up.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I do have more contacts in my phone than the average girl, but I don’t know most
+            of the seniors,” said Kei.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d hoped she’d get a hit after checking her contacts, giving me a new lead to investigate.
+            But I supposed the odds of that happening were slim, after all.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Why not just try calling the number back directly?” she asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ve tried doing that several times, but whoever it is has their phone off.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hm…? If it’s important, do you want me to look into it for you?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sure. That was why I called you out here today, anyway. But don’t do anything careless,”
+            I told her.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Got it,” answered Kei, nodding, taking note of the number. “Is that all?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yep. See ya.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I tried to bring our conversation to a close, but Kei hurriedly moved to stop me,
+            looking flustered.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, uh, by the way, um… there’s something I kind of wanted to talk to you about.
+            Can I ask you a question?” A strange question, as it turned out. “What day is today?
+            Okay, 5, 4, 3—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…That’s a much easier question than I expected. Actually, it’s so easy that I’m worried
+            I’m going to give you the wrong answer after all,” I replied.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t overthink it. Just give me a straight answer.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Valen—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, that is correct,” she replied, cutting me off.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I felt my head being lightly bonked by a box.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re giving me this?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I got it for Yousuke-kun, but there’s no need to give it to him anymore.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“For Hirata, huh?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What? You don’t like it?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, it’s not that. I was just thinking that you must have prepared this quite a long
+            while in advance,” I replied. Kei had decided to break it off with Hirata already
+            well over a month ago now.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I-I prepare for things very thoroughly! Even though I decided I was going to break
+            up with him, I thought it might still be useful to have, okay? Well, I guess it’s
+            not like I should expect someone like you, a complete beginner to the world of romance,
+            to understand.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I supposed she had a point.</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><img alt="" height="100%" id="ClassroomElite-Vol9_INTERIORIMAGES_6" src="/hola-lector-agua/images/books/v9/OPS/ClassroomElite-Vol9_INTERIORIMAGES_6.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P_Prose_Formatting__And__Page_Break"><span style=" font-size: 1.00em;">“I was just thinking that maybe you chose today to meet because you were hoping to
+            get some chocolate from me,” she added.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sorry. Didn’t think about that at all,” I replied.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kei wore a look of irritation for a moment but then quickly recovered and changed
+            the topic of conversation, like she was trying to avoid something. “By the way, did
+            you get anything from other girls?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nope, didn’t get anything.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d decided beforehand to tell her that regardless of whether I actually received
+            anything or not.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ha, too bad, so sad. Guess you’re a guy with zero prospects, then,” she replied,
+            switching to making fun of me at the drop of a hat.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you sure you want to give this to me, then? If you give it to me, that means
+            I no longer have zero prospects, right?” I replied.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That just makes it even more pathetic. That means you’ve gotta come to me for salvation.”
+            She was really condescending to me now. “Oh, by the way, feel free to return the favor
+            by paying me back a thousand times over, if you like.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Well, that was just extremely absurd.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“By the way, um—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kei tried to change the subject yet again, but the words seemed to get stuck in her
+            throat when she met my gaze. We stood close together, gazing into each other’s eyes,
+            until I slowly shifted my line of sight in the direction of the dormitory.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I’ll head back to my room then,” said Kei.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay. See you.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kei left for the dorms, and I put her present into my bag right away.</span></p>
+      
+   7:["$","$L12",null,{"content":"$13","title":"Chapter 6: Rumors Running Rampant","volumeId":"v9","chapterIndex":12,"prevChapter":{"volumeId":"v9","chapter":11,"title":"Chapter 5: Ichinose’s Secret, Kamuro’s Secret"},"nextChapter":{"volumeId":"v9","chapter":13,"title":"Chapter 7: Ambiguous Things"},"toc":[{"label":"Table of Contents","href":"TableOfContents.html#tableofcontents","index":2},{"label":"Character Gallery","href":"section-0001.html#auto_bookmark_toc_top","index":3},{"label":"Table of Contents Page","href":"section-0002.html#auto_bookmark_toc_top","index":4},{"label":"Title Page","href":"section-0003.html#auto_bookmark_toc_top","index":5},{"label":"Copyrights and Credits","href":"section-0004.html#auto_bookmark_toc_top","index":6},{"label":"Chapter 1 - Prologue : Ichinose Honami’s Soliloquy","href":"section-0005.html#auto_bookmark_toc_top","index":7},{"label":"Chapter 2: The Student Council President’s Inclination","href":"section-0006.html#auto_bookmark_toc_top","index":8},{"label":"Chapter 3: Changing Relationships","href":"section-0007.html#auto_bookmark_toc_top","index":9},{"label":"Chapter 4: Unchanging Intent","href":"section-0008.html#auto_bookmark_toc_top","index":10},{"label":"Chapter 5: Ichinose’s Secret, Kamuro’s Secret","href":"section-0009.html#auto_bookmark_toc_top","index":11},{"label":"Chapter 6: Rumors Running Rampant","href":"section-0010.html#auto_bookmark_toc_top","index":12},{"label":"Chapter 7: Ambiguous Things","href":"section-0011.html#auto_bookmark_toc_top","index":13},{"label":"Chapter 8: All the Tricks","href":"section-0012.html#auto_bookmark_toc_top","index":14},{"label":"Chapter 9: Return","href":"section-0013.html#auto_bookmark_toc_top","index":15},{"label":"Epilogue: Postscript","href":"section-0014.html#auto_bookmark_toc_top","index":16}],"volumeTitle":"Light Novel Volume 9","detailsLink":"/select/year-1/v9","returnLink":"/select","currentSpineIndex":12,"nextVolumeLink":"/select/year-1/v10","nextVolumeTitle":"Light Novel Volume 10"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+14:I[27201,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+a:null
+10:[["$","title","0",{"children":"Classroom of the Elite Reader"}],["$","meta","1",{"name":"description","content":"A premium reader experience for Classroom of the Elite light novels."}],["$","meta","2",{"property":"og:title","content":"Classroom of the Elite Reader"}],["$","meta","3",{"property":"og:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","4",{"property":"og:url","content":"https://classroom-of-the-elite-reader.vercel.app"}],["$","meta","5",{"property":"og:site_name","content":"COTE Reader"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Classroom of the Elite Reader Preview"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Classroom of the Elite Reader"}],["$","meta","14",{"name":"twitter:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","link","16",{"rel":"icon","href":"/hola-lector-agua/icon.svg?icon.ae5abf30.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","17",{}]]

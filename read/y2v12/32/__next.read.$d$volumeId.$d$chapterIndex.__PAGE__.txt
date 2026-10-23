@@ -1,0 +1,653 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T15e4b,
+  <p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_31"><span><span style=" font-size: 0.86em;">9.1</span></span></p>
+
+  <p class="P__STAR__STAR__STAR__page_break"><span>&#160;</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 1.00em;">Discussion No. 1</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 1.00em;">Participants</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Class 2-A</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Yanagibashi Motofumi, Ishida Yuusuke, Shimazaki Ikkei, Toba Shigeru, Tamiya Emi, Morishita Ai, Takanashi Kou</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Class 2-C</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ishizaki Daiichi, Kaneda Satoru, Komiya Kyougo, Nakaizumi Shouhei, Suminokura Mami, Takarajima Miko, Hatate Kaoru</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The curtains rose on the first discussion, which would be an important match between generals. Moreover, the right to send in a traitor had been exercised immediately. At this point, one traitor was mixed in among the students from Ryuuen’s Class C. In a situation where everyone seemed hesitant to speak up first, it was none other than Morishita Ai from Class A who made the first move.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ishizaki Daiichi. First, could I ask you to prove, with certainty, that you are not a model student?” asked Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh? Wha—m-me?! Why me, all of the sudden?!” he wailed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because suspicious people are called upon,” replied Morishita. “It is what police officers and private detectives do as well.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The traitor who had been sent in should have been a concern as well, but Morishita didn’t seem to make any mention of that whatsoever. As if to go with the flow, all the eyes in the room followed Morishita to Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No way, dude… Uh, I mean, I ain’t the model student!” exclaimed Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Then, could I ask you to prove it?” replied Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Aww dude, that’s legit impossible though! How the hell could I even prove it?!” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“How about this: if you are the model student, you promise that you’ll bite your tongue and die later. Well?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“H-huh?! Stop sayin’ stuff I can’t understand!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ishizaki was flummoxed by Morishita’s continued questioning, but Kaneda quickly intervened, without a moment’s delay.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please wait, Morishita-shi. Ishizaki-shi, you don’t need to answer her. I do not approve of such heavy-handed methods. Let’s talk about something that can actually be resolved in this discussion. Now, if we follow the established practices of police officers and private detectives, then I would suspect the person who spoke first. I would ask that </span><span class="C_Current__And__Times_New_Roman__And__Italic">you</span><span class="C_Current__And__Times_New_Roman"> prove with certainty that </span><span class="C_Current__And__Times_New_Roman__And__Italic">you</span><span class="C_Current__And__Times_New_Roman"> are not the model student,” said Kaneda.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Saying this, Kaneda shifted his glasses, and all of the attention that had been focused on Ishizaki shifted onto Morishita.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There is no way to prove anything with certainty under the rules of this discussion, though,” replied Morishita with a look of exasperation on her face, like she was dealing with an idiot, even though she herself had been pressing Ishizaki for definitive proof just moments ago.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“In that case, why were you trying to force an unreasonable demand onto Ishizaki-shi?” asked Kaneda.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because he had a stupid look on his face and seemed like he would give himself up.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Who’s gotta stupid look on his face?!” shouted Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please calm yourself,” Kaneda said. “To defeat Sakayanagi-shi, it is necessary for us to use the appropriate means. Conversely, defeating Ryuuen-shi will be similarly difficult. Morishita-shi is provoking you in order to make sure her class leader wins. If you want to assist Ryuuen-shi, who I imagine is fighting on the other side of that camera, then you must remain calm here. If you find yourself swayed by her words, then you’ll be playing right into our opponent’s hands.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kaneda had succeeded in pacifying the indignant Ishizaki.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Y’know, I’ve been watching other people’s discussions for a while now, and I’ve noticed something. It seems like the model students tend to look each other in the eyes. Komiya-kun and Takanashi-san were looking at each other right before the discussion started, weren’t they?” said Class A’s Tamiya, openly suspecting the other students with a skeptical gaze.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, yeah, you’re right. I felt like that was suspicious too,” replied Nakaizumi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Perhaps Nakaizumi was on the same page as Tamiya, because he nodded several times in affirmation as he said that. Even though Class A and Class C were enemies, their back-and-forth didn’t give that impression.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Right? And didn’t Komiya-kun look especially relieved when everyone’s attention was focused on Ishizaki-kun?” added Tamiya.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Tamiya was making a strong case to those around her that those two, Komiya and Takanashi, were the model students. Was that genuinely what she thought, or was it something to divert attention away from herself? Even though she was new to the discussion, she had learned how to handle things by watching as a bystander thus far. The superior students made full use of the skills they had developed through those experiences to advance the conversation. While the presence of the traitor was a disadvantageous element in the battle between representatives, it was a great boon to the traitor and their classmates. That was precisely why neither class’s participants forcefully pursued the issue.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P__STAR__STAR__STAR__page_break"><span>9.2</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">T</span><span style=" font-size: 0.80em;">HE DISCUSSION BEGAN </span><span class="C_Current__And__Times_New_Roman">with a surprise attack from Morishita, and then the time came for nominations by the representatives as the five-minute mark approached.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“This debate’s gotten pretty wild right from the start, huh?” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would seem so,” replied Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">They both casually offered their impressions of the discussion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Now then…what do you think, Ryuuen-kun? There were a few things that appeared to be clues,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just as she had exercised her right to send in a traitor preemptively, Sakayanagi had made the first move here as well. Some bits of information that seemed like they could be used as a stepping stone had quickly popped up in the earlier discussion. There was Komiya and Takanashi, who Tamiya had claimed exchanged looks with one another. Then there was Tamiya, who had spoken up about the exchange of glances, and Nakaizumi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was quite possible that one of those two pairs could have been a pair of model students. However, there was no guarantee of that. Without further clues, it would be quite risky to start attacking in the first round. However, if Ryuuen chose to pass at this point, information would actually be disclosed to Sakayanagi by the end of the round, thanks to the traitor’s effect. To prevent that, he needed to exercise his right to a dialogue to get rid of the traitor. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In addition, Ryuuen absolutely needed to avoid picking the traitor if he did push ahead and make a nomination. If he made that mistake in nominating, he would lose two Life Points, and on top of that, he would restore Sakayanagi’s right to send in a traitor. If that happened, it would inevitably become more difficult for him to nominate students from his own class. Without uttering a word, Ryuuen calmly thought back on the discussion that had just taken place. Who was lying, and who was telling the truth? Though he had temporarily stepped down from his position, for the past two years, he had reigned as king of his class. Now, his true worth was being tested. After using the entire time and entering his nomination, it was finally time for the answer to that question.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Because Ryuuen-kun has nominated erroneously, he will lose one Life Point.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">While Sakayanagi had chosen to pass, Ryuuen had gone ahead and made a nomination. Ryuuen, knowing the risks, had determined that Tamiya was a model student. However, he didn’t think of this result as a serious blow, but as a necessary expense. As long as his opponent was coming at him while using the traitor, he had to keep moving forward.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Unfortunately, it would appear that you chose incorrectly,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ain’t a big problem. But y’know, for all the big talk you’ve been makin’, you’re kinda slow in makin’ a move, huh? Goin’ second, then?” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Heh heh. Yes, that might be so,” she replied. “Slow and steady wins the race, as they say.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Not denying it, Sakayanagi nodded her head honestly. For her part, there was no need to rush. In fact, she thought that it would be a waste for her to name a student with a position so quickly. In that sense, she didn’t really want the discussion to progress prematurely. However, in the first round, two pairs of students unexpectedly emerged as possible model students. Supposing even if one of the model students were to be nominated at this time, the other would inevitably be targeted in the next round.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If that happened, then a tie would be probable. Considering that she would end up losing her right to send in a traitor, she decided that a nomination at an early stage wouldn’t strike a good balance. On the other hand, Ryuuen wanted to either find the traitor or push through the discussion fast and reset it. Also, he was going to be strongly tested on who he’d engage in dialogue and how he would exercise it. It was only natural that Sakayanagi would choose to wait, with the intention of making Ryuuen go through more instances of having to think, to make him suffer.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Ryuuen-kun will now be leaving the room temporarily to engage in dialogue.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen, who had chosen to engage in dialogue in no time at all, immediately moved to take action to smoke out the traitor.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I hope your war efforts prove fruitful,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Ryuuen made an error in his judgment here, it was possible he’d lose even more Life Points. The person that Sakayanagi had chosen to be a traitor was Takarajima Miko. And the person that Ryuuen chose to engage in dialogue was Nakaizumi. Which meant that, at this point, no matter how Ryuuen tried to suss out the traitor in this round, he would not be successful. Only about two minutes after getting up out of his seat and leaving the room, Ryuuen returned.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had asked one simple question: “</span><span class="C_Current__And__Times_New_Roman__And__Italic">Are you the traitor?”</span><span class="C_Current__And__Times_New_Roman"> That direct question was all he needed. If you lied to Ryuuen, you would face the risk of immediate expulsion. There were no Private Points or Class Points worth taking risks to protect. Since Ryuuen had determined that he wasn’t the traitor, he didn’t lose any Life Points and remained at nine. One person was supposed to have been ejected from the room thanks to a model student’s nomination, but it was reported that the teacher had successfully blocked the nomination, and so none of the students left.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After that, Sakayanagi was given the casting information for just one person, thanks to the traitor still being in the discussion. The information displayed on Sakayanagi’s tablet showed that Morishita Ai was a graduate. The discussion seemed to be progressing well, and her identity being revealed to Sakayanagi was a positive. If the capable Morishita continued to wield her power carelessly, the discussion could develop quickly, so a prompt nomination would be required. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When the second round began, Morishita began questioning once again. Even though it was impossible to tell over the monitor who was being investigated, the search for a new position holder had begun. When the time came for the representatives to make their nominations, Sakayanagi did not hesitate to nominate Morishita as a graduate. Eliminating her on this turn was a definite. Ryuuen had also nominated Morishita, but he had only determined that she wasn’t a model student and avoided unnecessary risks.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Morishita-san has been nominated as a position holder by Ryuuen-kun and identified as the graduate by Sakayanagi-san, so Ryuuen-kun loses one Life Point.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although they had both answered correctly, Ryuuen’s points had slowly but surely been whittled down to eight because he hadn’t been able to figure out Morishita’s exact role. Sakayanagi remained untouched by Class C, the class in which a traitor lurked, and Ryuuen was unable to touch her. This time, Ryuuen had called up Kaneda for dialogue, and he returned as quickly as before. Thanks to the traitor, whom Ryuuen could not eliminate, the fact that Shimazaki was an underclassman was conveyed to Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">At this moment, Sakayanagi briefly adjusted her plans in her mind. The traitor brought her useful information, but she wanted Ryuuen to find the traitor before either all of the model students or all of the average students were eliminated. The reason being was that if she allowed the traitor to survive, Takarajima would gain either an enormous number of Private Points or a number of Class Points that couldn’t be ignored. The two students who had definitely been removed from the room at this point were Tamiya, whom Ryuuen had nominated erroneously, and Morishita, the graduate. Two people. That left twelve remaining.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen would most definitely nominate again in the upcoming third round. His guess had proven to be spot-on, and he had nominated Shimazaki from Class A as a position holder. Sakayanagi had nominated Shimazaki as well, as an underclassman. By nominating the same students, Sakayanagi’s strategy was not allowing the model student to eliminate one more of their peers.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Shimazaki-kun has been nominated as a position holder by Ryuuen-kun and identified as the underclassman by Sakayanagi-san, so Sakayanagi-san gains one Life Point.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi had identified the underclassman. Normally, her Life Points would have been restored by two, but since Ryuuen was correct in identifying Shimazaki as a position holder, they were instead increased by one. As a result, her Life Points were restored to ten, and Shimazaki was removed from the room. From that point, Ryuuen had chosen Suminokura to engage in dialogue. Another swing and a miss. The role communicated to Sakayanagi this time was Kaneda’s, an upperclassman. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Next was round four. Sakayanagi thought now was the time to make a decision and nominated Kaneda as an upperclassman. Meanwhile, Ryuuen was trying to make a move once again. He nominated Takanashi, who had been acting suspiciously since the beginning, as a model student.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Ryuuen-kun identified Takanashi-san as the model student, so Sakayanagi-san loses two Life Points. Sakayanagi-san identified Kaneda-kun as an upperclassman. We will also disclose two new roles at random to Sakayanagi-san.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi’s points were reduced to eight, which was immediately reflected on her tablet along with information about two people. The fact that Komiya and Toba were both average students was disclosed to her. Now, the point totals were eight-to-eight. In the fourth dialogue, Ryuuen had finally called up Takarajima, and he succeeded in discovering her identity as the traitor. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In the fifth round, after narrowing down the remaining participants to see who the other model student could be, Sakayanagi nominated Yanagibashi as a model student, while Ryuuen chose Ishida as a position holder. As a result, there were no models left, and the discussion ended.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was safe to say that Sakayanagi’s preemptive strike had paid off reasonably well. Now, Ryuuen had six Life Points remaining while Sakayanagi had eight. Considering their starting points, she had turned the situation around and taken the lead. The battle was fought by way of silent nominations, with the two representatives hardly speaking during the discussion period.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You really ought to go ahead and exercise your right to send in a traitor in the next round, you know. I’m sure it would be so frustrating to let such a treasure go unused, at this rate,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Who can say?” replied Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Of course, the traitor system was designed in such a way to give an advantage to the representatives who used it, but there were reasons why Ryuuen couldn’t use it, even if he wanted to. He wasn’t holding onto it as a trump card. Rather, he decided to lock it up and seal it away himself, for another reason. In the next discussion, when Sakayanagi no longer had the right to use the traitor, Sakayanagi and Ryuuen would have to cross swords as equals.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 1.00em;">Discussion No. 2</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 1.00em;">Participants</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Class 2-A</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Shimizu Naoki, Machida Kouji, Yoshida Kenta, Fukuyama Shinobu, Motodoi Chikako, Yano Koharu, Rokkaku Momoe</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Class 2-C</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kondou Reon, Suzuki Hidetoshi, Tokitou Hiroya, Nomura Yuuji, Asagaya Mai, Shiina Hiyori, Fujisaki Rinna</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had chosen the group that included Shiina, someone he had deliberately decided not to select as a representative, and someone who could carry the discussion at a superior level. His decision also included some wishful thinking on his part, in the hopes that it would shift the situation in his favor. Opposite him, Sakayanagi smiled broadly as she looked at the selections for Class C. That was because now, even if she didn’t know how she’d carry it out, she had the chance to detonate the bomb that she had planted.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P__STAR__STAR__STAR__page_break"><span>9.3</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">T</span><span style=" font-size: 0.80em;">HE SECOND DISCUSSION BEGAN. </span><span class="C_Current__And__Times_New_Roman">At first, this discussion was no different from the one before it, but the atmosphere in the room suddenly changed after a comment from Class A’s Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t see how our discussion affects the battle between the representatives,” she said. “That’s exactly why we’re doing what we can. Like, this is our battle, as participants. Let me tell you one thought I have. It seems like Sakayanagi exercised her right to deploy a traitor in the previous discussion, but I thought for sure that she would use it for this discussion. We have Tokitou here after all, who, rumor has it, hates Ryuuen so bad, he wishes he were dead.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hold up, you’re saying it’s me because I hate Ryuuen? That has nothing to do with this current discussion,” snapped Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I didn’t say it did,” Shimizu answered. “I was just thinking that you would’ve been a good fit as the traitor is all.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In the discussion between the participants, there was no Class A or Class C. It was all about carrying out one’s assigned role. However, Shimizu spoke of a nonexistent traitor that wasn’t related to the discussion yet seemed like it could be.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That isn’t relevant right now, Shimizu-kun,” stated Fukuyama, looking calmer than the Class C participants.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m just saying the thought popped into my head. Besides, from Tokitou’s point of view, it probably wouldn’t be very fun for him if Ryuuen did win, I bet. Or maybe he’s so afraid of him that he’s just continuing to obediently follow orders?” said Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was clearly a cheap provocation on Shimizu’s part. Shimizu peppered his polite speech with statements hinting that he looked down upon Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“God you’re annoying, Shimizu. Shut up,” snapped Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry, but I won’t hold my tongue. We’re free to speak in this discussion. I decided that saying those things was necessary in deducing who was cast into what roles, in my own way. No matter how you look at it, you’re all kinds of suspicious, you know,” said Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The discussion gradually turned uproarious, and Tokitou, after being provoked by Shimizu, was seconds away from rushing over and throwing a punch at him. As the person closest to the both of them, Motodoi of Class A stood up in a panic and tried to step in to stop them, but Machida stopped her. Machida gave Motodoi a look, his facial expression telling her that it was best to just stay out of it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whaddya mean I’m suspicious?” asked Tokitou with a glare, clearly ticked off.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Actually, no, he was far beyond ticked off—he was furious. Even so, Shimizu didn’t let up.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sure you know why, even if no one comes out and says it. You fight with Ryuuen all the time,” said Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t get what the hell you’re talking about. So what if I fight with him?” Tokitou snapped back, pointing out that it was irrelevant to the discussion, no matter what Shimizu thought. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">But Shimizu didn’t back down, because he had understood from the beginning that there was no relevance, and had simply set his sights on Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There are rumors that you’re working together with other classes to take Ryuuen down too,” said Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh? Really? Is what he just said true, Tokitou-kun?” blurted Fujisaki without thinking, even though he had been listening without interrupting for the entire discussion so far.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Shimizu’s obviously lying through his teeth,” replied Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is it really a lie, though?” prompted Shimizu. “Hey, the rest of you. Better keep an eye on your classmate here. Tokitou will definitely betray you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Shut up already,” snapped Tokitou. “What is your problem?!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“This is a discussion. It’s only natural to barrage the suspicious people with questions, isn’t it?” answered Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s got nothin’ to do with the discussion!” shouted Tokitou, his rage rising by the second. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Having seen the rise he was getting out of Tokitou by his poking and prodding, Shimizu continued, lightly teasing Tokitou. From that point onward, a meaningless exchange of words that bordered on abusive cursing was repeated endlessly between the two of them. The other students were unable to stop it and could only look on with worried faces. Not a single word about who might be the model students or the position holders was uttered over those five minutes.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P__STAR__STAR__STAR__page_break"><span>9.4</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">S</span><span style=" font-size: 0.80em;">AKAYANAGI, </span><span class="C_Current__And__Times_New_Roman">seeing the first round of this discussion ending in an uproarious state, smiled broadly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Now then, what do you think, Ryuuen-kun? The first round of the second discussion is over, but…do you intend to make a nomination quickly? Or perhaps you were unable to find any information that would help you make a nomination?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Wanting to see her opponent’s reaction, Sakayanagi deliberately avoided mentioning the volatile situation between Shimizu and Tokitou, and instead threw out words that sounded like she was teasing.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What are </span><span class="C_Current__And__Times_New_Roman__And__Italic">you</span><span class="C_Current__And__Times_New_Roman"> gonna do, eh, Sakayanagi? Don’t look at me to see how I’m doin’. Nominate. It’s easy, ain’t it?” replied Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It does not work that way. As soon as we proceed with the nominations, more people will be removed from the room. That wouldn’t be very interesting now, would it? Or would you perhaps deal with the person you are concerned about right away? Fortunately for me, I have already used my right to send in a traitor.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, Shimizu is your handiwork, eh?” replied Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He is not the only one,” she replied. “I had the opportunity to speak with various classmates before the special exam, and I let them know that Tokitou-kun could be a potential weak point.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Shimizu, wanting to be useful to Sakayanagi and to the class whatever way he could, attacked Tokitou relentlessly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Unfortunately, the rules this time made it impossible to make any effective implications, but I appreciate him honestly listening to my advice and following it obediently,” added Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although the audio was cut off right now, Tokitou was clearly growing more frustrated.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“As for our match, I am sure his reckless behavior will not have much of an effect. But what about everyone from Class C participating in the discussion and their classmates watching it all play out? Depending on how Tokitou-kun handles things, it could lead to ill will later on,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In the first discussion, there was nothing suspect about Tokitou, nor the one who attacked him, Shimizu, and so it was currently impossible for either side to determine whether they held a position. However, there was a strong possibility that a desire to deal with the troublesome matter at hand could come into play.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“However…if you nominate Tokitou-kun, I am sure that everyone will realize that you have some prejudice toward him, won’t they?” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi had finished using her tablet and looked at Ryuuen, who was unsure of what decision to make. Shimizu or Tokitou? Or the safe option, passing? He made his choice.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After he had finished operating his tablet, he lightly tossed it on the desk.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Did you choose to pass, by any chance? Your pride wouldn’t allow you to nominate either one of those two at this stage, would it?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I ain’t gonna play along with your cheap provocation,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So you are saying you did nominate one of them, then?” replied Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">An announcement was made immediately afterward, revealing the answers chosen by both parties.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Sakayanagi-san and Ryuuen-kun had both nominated Asagaya-san as a position holder. Therefore, this nomination will be declared a draw.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. It appears that you did not fail to notice. In the earlier discussion, Shimizu-kun and Tokitou-kun were unusually conspicuous and drew everyone’s eyes, but behind them, Asagaya-san’s reactions were clearly suspect. I suppose I am grateful for the fact that her presence was diminished,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen was unable to ignore Tokitou’s outbursts, but he was watching things closely and with a wide range of vision. Sakayanagi had also made the insinuation that she would pass, but Ryuuen had made his decision without letting himself get drawn in by that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But if those two rowdy individuals remain, there will be problems in the next discussion and beyond, you know,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Who can say? Look, here…” began Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen seemed like he wanted to say something in response to Sakayanagi’s question, but then the corners of his mouth curved upward, and he turned his gaze back to the monitor. He seemed to be saying that the answer could be found on the other side of the screen.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P__STAR__STAR__STAR__page_break"><span><span class="C_Current__And__Times_New_Roman">9.5</span></span></p>
+
+  <p class="P__STAR__STAR__STAR__page_break"><span>&#160;</span></p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">T</span><span style=" font-size: 0.80em;">HE SECOND ROUND</span><span class="C_Current__And__Times_New_Roman"> of discussion once again started with comments made by Shimizu and aimed at Tokitou, sparking a fire.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I do think that you’re suspicious after all, Tokitou. You’re the model student, aren’t you?” said Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m not!” huffed Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Tokitou, who had regained a little of his composure after the break, denied Shimizu’s assertion. However, Shimizu persistently continued to provoke Tokitou, and only Tokitou. When other students tried to talk, he interrupted them, repeatedly bringing it up: Tokitou, Tokitou, Tokitou. If all of Class A were saying this in unison, that would likely be a problem, but it was only Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Enough already, Shimizu!” shouted Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“J-jeez, what’s the deal? You’re a scary guy. I’m simply making an argument is all. I’m just saying that you’re suspicious,” said Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“And I’m telling you to make a real case and give a reason!” Tokitou snapped.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“A reason? A reason, huh… Well, there’s the fact that you didn’t hesitate to betray your class, isn’t there? From the sounds of it, you made an attempt to get Ryuuen expelled in the Unanimous Special Exam. That’s not something you do to a class leader, no matter how much you dislike them, is it?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Who did you hear that from?” asked Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He had heard it from Machida. From the way he spoke, it was obvious that Tokitou wasn’t really interested in knowing the source of the story, but rather he was talking on the assumption that he already knew.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I can’t say. Y’know, there are a lot of folks in Ryuuen’s class who talk a lot, though. Anyway, I don’t know how you could even come to school after failing to overthrow your leader. If it were me, I might’ve been too embarrassed to even come to cla—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Enough already!” snapped Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Tokitou, who had been trying to hold himself back somehow, seemed to have reached his limits and shot upright with great force. Without caring about his chair toppling behind him, Tokitou used that momentum to rush at Shimizu some distance away, who wasn’t showing any signs of shutting his mouth at all.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“This is a discussion, Tokitou. All I’m doing is operating within the rules, questioning people in the hope of finding out who has what role. You don’t have any right to stop me,” said Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Shimizu, though intimidated by Tokitou’s intensity, stood his ground without budging an inch. In fact, if he could make Tokitou get violent, it would certainly be helpful for his class, and with that in mind, he decided to continue provoking Tokitou until the end.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’ll be the next person to get cut anyway, so go ahead and betray Ryuuen before that happens,” said Shimizu.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Tokitou, figuring that if he couldn’t stop Shimizu with his words, then he’d settle it physically, raised his fist. If he took a swing at Shimizu, he could silence him. Ryuuen would be penalized, but getting the person he hated in trouble was fine, so—</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Tokitou-kun. Could you please lower your fist?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">No one was taking Tokitou’s side. It was in this kind of atmosphere that Shiina, standing next to Tokitou without making a sound, gently held his trembling fist.</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_08" src="/hola-lector-agua/images/books/y2v12/OEBPS/Images/INTERIORIMAGES_08.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_33"><span class="C_Current__And__Times_New_Roman">“Shimizu’s pissing me off, but it’s like, what he says is half-true. I don’t like Ryuuen. Besides, I’d be fine with the exam getting all messed up, anyway,” said Tokitou almost desperately as he glared at Shiina, as though telling her to get out of the way.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“In that case, maybe you should just go ahead and forcefully shake me off.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is…that what you want me to do?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is,” she replied. “If you could do something like that, Tokitou-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“In that case…!” he shouted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even though Tokitou had suddenly focused his strength and clenched his fist, Shiina didn’t flinch whatsoever. Tokitou’s intention of making Shiina think that he might actually try to shake her off didn’t seem to be having the effect he wanted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because, you are not that kind of person, Tokitou-kun,” said Shiina.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“How would you know what kind of person I am?” asked Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ryuuen-kun said so. He said that you would never get violent with a girl, Tokitou-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh? Ryuuen did?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sure it isn’t a coincidence that you and I are in the same group, Tokitou-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What do you mean?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think that Ryuuen-kun had placed me in this group in the event of something like this.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He did what…?!” replied Tokitou with surprise. But he quickly found himself distrustful of that reasoning. “Yeah, there’s no way he would’ve trusted me from the beginning. So he had you keep an eye on me, huh, Shiina?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I am not so sure it’s that he doesn’t trust you. Can you not imagine that he did it out of consideration, so that you could get help when you were in trouble, Tokitou-kun?” Shiina asked. “If he did dislike you, then there wouldn’t have been any need for him to choose you to be in a group for this important special exam and discussion.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In fact, while the other groups were being called, Tokitou was thinking that if there was no obligation for his own group to be used, then he wouldn’t take part in this exam.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“We need you, Tokitou-kun. If you do something that causes us to be penalized, you will not only lose Ryuuen-kun’s trust, but you will also lose your place in the class,” said Shiina.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“My place, huh…” said Tokitou.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You have one,” she assured him. “You’ve always had one, and you always will.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Tokitou relaxed his fist meant for Shimizu. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Given the state of the room now, Shimizu was hesitant to go back to rattling on about Tokitou. Even so, he thought that he could manage to rile him up again, and Shimizu was ready to fight back if the students from Class C tried to hold him accountable.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“In that case, let’s at least make Shimizu apologize,” said Kondou, feeling they were owed as much for the suffering their class had endured.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I am not saying Shimizu did no wrong, as the instigator. But I think that he probably did what he did because of the shadow of Sakayanagi-san looming behind him. I think that it would be a little wrong of us to blame him for it,” said Shiina.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even Shiina was worried about Shimizu’s situation—the fact that he had been set up to pick a fight—and didn’t criticize him for it. Her comment made it difficult for Tokitou, Kondou, or Shimizu to launch a new offense.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Now, then, we still have a little time left. Shall we get to discussing?” said Shiina.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The tense atmosphere of the room was nowhere to be seen, and it had somehow been replaced with a relaxed one. Tokitou bowed his head to silently apologize to Shiina, set his overturned chair back upright, and sat down in it once again.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P__STAR__STAR__STAR__page_break"><span><span class="C_Current__And__Times_New_Roman">9.6</span></span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">A</span><span style=" font-size: 0.80em;"> CRITICAL, EXPLOSIVE SITUATION, </span><span class="C_Current__And__Times_New_Roman">with a risk of violence and the penalties it would incur, had passed. And yet, in the second round of discussion, that explosive situation was defused thanks to Shiina’s self-sacrificial actions. Sakayanagi soon realized that this was not some miracle brought about by mere coincidence, though.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see… Tokitou-kun harbors some dissatisfaction with your class. You foresaw that I would take advantage of that, and so placed Shiina-san in the same group as Tokitou-kun,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Heh, when Tokitou’s on a rampage, it ain’t easy to stop ’im,” said Ryuuen. “As you can see, if it were anyone else, they would’ve just been addin’ fuel to the fire. No matter who you sent in to stop him, you’d get basically the same result.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So why would Shiina-san be able to stop him, then?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Heh heh. ’Cause he’s soft on women, just like how he treats you. He doesn’t have the guts to drive his fist into a chick.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hasn’t your thinking been to dispose of rebellious elements ahead of time?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Tokitou’s outbursts ain’t enough to be called ‘rebellion.’ He’s just playin’ with fire.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re giving him an opportunity to grow…” Sakayanagi mused. “You are quite kind, despite appearances.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s ’cause somebody, somewhere, likes doin’ that sort of thing,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Using what is in the environment to induce growth in others was a method that Ayanokouji often used. Although they were such different people, Sakayanagi sensed the slightest hint of Ayanokouji within Ryuuen. She found that she was enjoying fighting with Ryuuen far more than she had previously imagined.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“However, I would hope that the only way you two are the same is having the same birthday,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen laughed at her sudden, unexpected quip. “Ha! Don’t know nor care ’bout that. I just copied what he did.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had made good use of Shiina, whom he had excluded as a candidate for representative, and taken the fact that Class A would try to make use of Tokitou’s disposition into his calculations. Sakayanagi genuinely admired the strategy that Ryuuen had taken. Of course, it was not without its dangers, but that was also something unique to him, she supposed. Putting aside whether this would have any concrete effect on the outcome of this special exam, from the perspective of both classes, Ryuuen’s side had gained some momentum.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Because both sides have chosen to pass, we will move to a nomination by the model student.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In this round, both representatives had chosen to pass. Shiina was targeted, and she disappeared from the discussion. And next, in the third round, Shimizu once again latched onto Tokitou, but Tokitou no longer showed any signs of irritation. He couldn’t betray Shiina’s wishes, and his determination to stick to that was conveyed even through the screen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Sakayanagi-san and Ryuuen-kun had both identified Machida-kun as a model student. Therefore, this nomination will be declared a draw.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With a pass in the previous round, the representatives ended this one in a draw as well. The immediate removal of Shiina, who had supported Tokitou, had accelerated the stalled discussion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Now that it has come to this, it would appear that Shimizu-kun’s nomination is unavoidable,” remarked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I was just thinkin’ the same thing,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Both sides exchanged a few remarks in this round of nominations.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Sakayanagi-san and Ryuuen-kun had both identified Rokkaku-san as a model student. Therefore, this nomination will be declared a draw.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Contrary to what both representatives had declared beforehand, it was Rokkaku, not Shimizu, who had been standing out conspicuously and was correctly identified as the model student. And so, the second round of discussion was brought to an end, in an unusual case with no fluctuations in Life Points on either side. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The situation remained largely unchanged even as they entered the third discussion, which showed that things were at a stalemate. In both the first and second rounds, both representatives had chosen to pass consecutively, but starting from round three, both sides went on the offensive at the same time, nominating position holders consecutively round after round and ending things in a draw. In the following round, round five, Ryuuen nominated someone as an underclassman and regained some points, going back up to seven. In the round after that, round six, both sides passed again, and it ended in a draw.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I did not expect your tenacity would continue for this long,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I misread you too. You weren’t just all talk,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">They had each congratulated one another on putting up a good fight, in a battle that was getting drawn out for longer than they had imagined it would. Sakayanagi wasn’t making any risky moves, and in this discussion, she hadn’t nominated even one specific role. She took a non-offensive stance, thinking that something was suspicious. As a result, there were a number of rounds, which ultimately led to the unusual result of all the average students having been ejected from the room and the remaining model students winning.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Can’t you at least get water?” snapped Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Once the interval came and Ryuuen made that demand, the examiner hurriedly brought some plastic bottles. Ryuuen aggressively snatched one out of the examiner’s hands, took off the cap, and poured half of it down his throat in one go.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is important to stay hydrated. I suppose you must not be accustomed to using your head, and it is unexpectedly depleting more of your energy than you thought,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Her comment was filled with mean-spirited sarcasm, also suggesting that she didn’t need any, but Ryuuen ignored it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do you wish for a rematch against Ayanokouji-kun that badly?” asked Sakayanagi. “You cannot win.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Maybe not now,” said Ryuuen. “But if I go after him persistently, he’s bound to show me an opening at some point.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I would hope so, for your sake. However, Ayanokouji-kun is not so lenient an opponent as that,” said ­Sakayanagi, clearly speaking without interest in the matter and merely trying to assert dominance.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yer a nasty woman, through and through,” spat Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Thank you very much,” replied Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The time for the fourth discussion was approaching and both sides were serious about crushing each other. In this new discussion, Sakayanagi discovered a position holder, while at the same time, Ryuuen had made an erroneous nomination, causing him to lose two Life Points. It looked as though the tides were turning in Sakayanagi’s favor, but in rounds four and five of the discussion, both representatives had identified a position holder and model student in succession, ending in a draw—an ­incomprehensible development. They had both passed in round six, but students once again identified the model student in the seventh round, bringing the discussion to an end. More than three hours had passed already since the battle between generals had begun, and they were about to enter the fifth discussion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would appear that neither one of us can quite land a decisive blow,” remarked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Seems so,” replied Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had five Life Points; Sakayanagi had eight. They had been repeatedly making nominations for a long time, and neither one of them was giving an inch. Even so, a gap was beginning to emerge. In round two of the fifth discussion, Ryuuen’s Life Points had been reduced to four thanks to an erroneous nomination. Up until this point, Ryuuen had been calmly standing his ground, carrying the momentum from Tokitou as he fought, but he continued to be frustrated. There kept being moments where he just couldn’t push the all-too-important foe, Sakayanagi, back by a single step. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Amid this, a single thought gnawed at his psyche. Namely, the reality that his own ability to calculate and predict couldn’t surpass that of Sakayanagi’s. In truth, Sakayanagi had never once made a single critical mistake. Ryuuen hadn’t just made a single mistake on nomination, he was making slight errors here and there, which were shaving down his Life Points. He felt like he was being pushed to the edge of a cliff, bit by bit.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What the hell do you see anyway, Sakayanagi?” asked Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What you notice, I certainly notice, but you may not notice the things I notice. That’s all there is to it, isn’t it? However, you are very patient. Don’t you think it is about time you exercised your right to send in a traitor, so that you can turn the tides?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As long as Ryuuen was losing points little by little, he could say nothing else but that he was at a disadvantage in this situation. The fastest way for him to turn the tide was to exercise that right which only he still had. Sakayanagi was puzzled about that point, as she assumed that Ryuuen would’ve sent in a traitor at a much earlier stage. With Ryuuen’s Life Points reduced by more than half, it was entirely conceivable that he could be defeated in the next discussion if he wasn’t careful. If that happened, then he would lose without even exercising that right.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Of course, it was only natural that Sakayanagi would want to avoid him using that at all costs. That was why she was going to lay the groundwork for her move from discussion number five into discussion number six and beyond. By suggesting to him that it </span><span class="C_Current__And__Times_New_Roman__And__Italic">should</span><span class="C_Current__And__Times_New_Roman"> be used, her intention was to actually make him hold on to it. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In the fourth round, Ryuuen took a chance. Who was the person who could most likely be considered a model student out of the remaining participants? Ryuuen made his move, believing in the answer that his brain had worked out, based on what he had seen with his eyes and heard with his ears.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Ryuuen-kun identified Nishi-san as the model student, so Sakayanagi-san loses three Life Points.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had struck first before Sakayanagi and succeeded in finding the first model student in the group.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Looks like I’ve finally closed the gap,” remarked Ryuuen, grinning as though he warmly welcomed the idea of a slight elevation in his heartbeat.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would appear so. You seem to have managed to identify the student despite the low odds,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Many of the students were not very talkative in the discussion, and neither representative had any conclusive information in hand.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, no, I suppose it is not that simple,” said Sakayanagi. “For this nomination at the very least, your insight must have surpassed mine.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">You had to recognize it when your opponent succeeded. Ryuuen was a student who merited that. The blow that Ryuuen just landed was undeniably a big one, but the opposite was about to happen in the next round.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Sakayanagi-san identified Hoashi-san as the model student, so Ryuuen-kun loses Life Points.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi had noticed the single remaining model student left in the discussion using the clues revealed to her by Ryuuen’s previous nomination.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You…” spat Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m grateful. Thanks to you, I was able to find the remaining model student,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi had found the answer that she could not have arrived at on her own had she not known that Nishi was a model student. With Ryuuen’s short-lived joy now no longer in sight, he was at a single Life Point, while Sakayanagi was at five. Both representatives had succeeded in nominating a model student, but unlike in a draw, the situation had developed quickly thanks to the nominations being staggered. The discussion ended and the interval started.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Now you are finally in a situation where one slip will be your downfall, aren’t you?” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Now that Sakayanagi could identify a winning strategy for the next discussion, she was determined to throw down the gauntlet without self-pride. Ryuuen on the other hand, closed his eyes and tilted his head toward the heavens. He absolutely had to prevent Sakayanagi from making the first move. Still, the fact that he had successfully nominated a model student brought him a small measure of relief. It would be a mistake to pass up on nominating like that because you wanted to wait and see.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">But there was no way of recovering from this. The faint signs of a surprise victory from behind were fading. </span><span class="C_Current__And__Times_New_Roman__And__Italic">Is this it? Is this as far as I go…? </span><span class="C_Current__And__Times_New_Roman">he wondered. In order to show Ayanokouji how good he really was, he challenged Sakayanagi head-on. Ryuuen had laid bare everything he could, using all of the ingenuity he could summon. But it was a step too far, and the gap wasn’t closing. The next discussion would definitely be the final, decisive one. If given the chance, Sakayanagi would come after him and cut his Life Points down by making a nomination, without fear of risk.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Would he have been able to put up more of a fight if he had exercised the right to send in a traitor, rather than leaving it on the table? He thought as much for a moment, but then he also realized that it wouldn’t have even been enough to even the score. Based on how she had been fighting thus far, Sakayanagi showed that she would’ve been able to quickly eliminate the traitor. There was nothing more he could do. All that remained was to just nominate the model students, who made up only two out of fourteen participants in the discussion, and believe in a miracle.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even in the unlikely event that a miracle like that happened once, it probably wasn’t going to happen a second time. Regardless, he had no other choice but to go for it. Ryuuen had wondered how it would feel when he lost, but actually, he was looking a little bright and sunny. That was because Ryuuen himself had come to a point where he had no choice but to admit that the little classmate before him was most definitely capable, despite appearances. Her ability to look ahead in special exams, the breadth of her vision, and more importantly, the fact that she had put up an iron wall of defense, where she made no mistakes.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Ryuuen mainly used coercion in how he fought, through a false show of power, bluffing, and threats, then Sakayanagi fought using her own inner convictions as her weapons. When challenging her to a proper, fair fight, he came to realize that there were still many areas in which he wasn’t as skilled as Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Man, never thought things’d turn out this way,” huffed Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had one Life Point remaining, while Sakayanagi had five. No matter how many times he looked at the monitor, the current point values wouldn’t change.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There are only so many moves you can make, no? Why not go ahead and exercise your right?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The only way for Ryuuen to claw back the possibility of a victory at this point was to send in a traitor, whom he had been saving. It sounded like advice from Sakayanagi, but Ryuuen saw through that and knew it was a lie.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I ain’t gonna turn the tables by using the traitor at this point. Actually, all it’d do is lower my odds. We’ve been killin’ each other up to this point, but I don’t remember fallin’ so far that I can’t see the battle before me, y’know?” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even if it could become something of a trump card for Ryuuen, it was already too late. Exercising the right to send in a traitor would create a desire to pass and move the rounds forward. It would cause his mind to get caught up in the sweet promises of potential, thinking that it might be possible for him to get by without anyone nominating the model, despite difficult odds. In other words, it took time to pay off, for the benefits to be gained from exercising the right of sending in a traitor. Once he had gotten information about one or two people from the traitor, he would eventually have to turn a blind eye to them and identify the model students twice in a row.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even if he succeeded in that game, Sakayanagi would probably prevent at least one of those nominations from going through. Besides, Sakayanagi would likely find the position holders in the discussion and defeat him first. The endgame was truly in sight.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. It seems you still have some wisdom, enough to be able to see through that much,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In that case, why not go out with a bang and not use the right to send in a traitor?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re stro—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just when Ryuuen was about to say something half-hearted, a moment of reflection arose in his mind.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“This match… I lose,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">An early declaration of defeat, brought out by his true feelings. He had resisted voicing it at first, but once he finally put it into words, he felt refreshed. It was unmistakable proof that he felt that Sakayanagi really was a cut above the rest.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would appear that you too have seen the checkmate in this battle,” remarked Sakayanagi.</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_09" src="/hola-lector-agua/images/books/y2v12/OEBPS/Images/INTERIORIMAGES_09.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_35"><span class="C_Current__And__Times_New_Roman">“Yeah. I admit it,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You fought well,” Sakayanagi said. “I will honestly admit that you are a capable individual worthy of praise.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In fact, Sakayanagi was also sorry to see this match ending. She wanted to watch Ryuuen fight a little longer, harboring a feeling that was similar to a parental love. Despite receiving such a declaration of defeat from Ryuuen, Sakayanagi wasn’t careless or proud. That was because she was taking into consideration the fact that he might be playing possum; or, in other words, that he was trying to turn the situation around by feigning inevitable defeat. After seeing the sharp glean in Sakayanagi’s eyes as she shot him a sideways glance, Ryuuen involuntarily blurted something out.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re a shrewd chick, all right, who won’t even relax her guard after a surrender,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But of course. I will not relent in the slightest until I see the results from the school,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">There were about three minutes left until the next discussion, which would be the last. Ryuuen had but one Life Point. The right to send in a traitor also remained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Tch…” Suddenly, Ryuuen clicked his tongue.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What are you clicking your tongue for?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Nah, nothin’,” Ryuuen had unconsciously clicked his tongue when he recalled the day’s events. “Maybe he had predicted that I would lose like this.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You mean Ayanokouji-kun?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah. He called me up this mornin’, after they explained how the special exam works,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I know that Ayanokouji-kun had been giving you a look, Ryuuen-kun. You were going to the restroom, if I recall,” Sakayanagi said. Naturally, she had gotten a grasp on what had happened, nodding as she thought back to it. “I imagined that there was some exchange between you two.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s when he said somethin’ to me. He said that, if I lose, he wanted me to give you a message, Sakayanagi,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. So that was why he called upon you, then,” she replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just as Ayanokouji had foretold, Ryuuen had gotten pushed to the verge of defeat.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, let us hear it. What message did he have for me?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Whether the message was the truth or a lie could be determined by listening to what Ryuuen had to say. That was precisely why Sakayanagi was interested. However, Ryuuen had come back with some unexpected words.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I dunno. All I know for sure is that it’s Hashimoto who has the message,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hashimoto-kun?” repeated Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“On top of that, he said it’s a message that you can only understand from this special exam,” Ryuuen said. “I dunno whether it’s true or not, though.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If someone said something like that, there was no way that Sakayanagi </span><span class="C_Current__And__Times_New_Roman__And__Italic">wouldn’t</span><span class="C_Current__And__Times_New_Roman"> be interested.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you choose the group that Hashimoto is in for the final discussion, I’ll exercise my right to send in a traitor,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When this battle had begun, the group that Hashimoto belonged to was the first one that Sakayanagi had eliminated. At this moment, when the battle was about to be decided, Ayanokouji’s message was to lead to a development where she would use Hashimoto. She couldn’t help but smell something fishy going on.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Does this mean you haven’t given up on the match yet?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If that’s what you wanna think, go ahead,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi’s instincts were telling her, “</span><span class="C_Current__And__Times_New_Roman__And__Italic">Don’t accept this offer.”</span><span class="C_Current__And__Times_New_Roman"> In this situation, where the odds of her winning were as close to 100 percent as possible, it would be foolish to lower that probability even slightly. However, she didn’t think Ryuuen was lying. It was precisely because she felt that was Ayanokouji’s message that she had grown subconsciously wary. However, at the same time, she desired to know what Ayanokouji’s message was.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you had been deliberately holding onto the right to send in a traitor until this moment, then that means you were fighting against me while putting yourself at a disadvantage. I do not like this one bit,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It was a complete failure on my part,” said Ryuuen. “I should’ve used it as soon as I could.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi was sure that Ryuuen had tried to win without using the traitor, but there were moves he could have used before trying to force his way forward. And yet, Sakayanagi was curious about Ayanokouji’s message and the fact that Ryuuen had not exercised his right. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi was never going to use Hashimoto. That was why Ryuuen had seriously regretted what happened. Ryuuen gave a self-deprecating chuckle and flicked his wrist.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“However, I do wonder what he is thinking, sending a message through Hashimoto-kun,” mused Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I ain’t got a clue either. But if I were to speculate, I’d say it’s a setup. The only risk for the traitor is gettin’ expelled, but that’s a possibility if Hashimoto tries to plead innocent,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen would nominate Hashimoto as the traitor, and Sakayanagi would call him up in dialogue. And, in the event that Hashimoto went undetected, he could gain a lot of money. On the other hand, if Sakayanagi knew what he was, she could make a decision without hesitation and get Hashimoto expelled.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He’ll make light of the situation; he’ll think that there is no possible way he’d get chosen as the traitor. He’ll probably keep his mouth shut and pretend not to know anythin’, even if you try to rattle him,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is certainly true that he will risk expulsion if he goes that route, but that would be difficult, wouldn’t it?” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The role of the traitor was extremely unfavorable. Once their identity was discovered, there was a high probability that they would confess during the nomination stage. Of course, if the student was being declared as the traitor, but they actually weren’t, the representative would be penalized. But that wouldn’t be a major setback, as the representative would only lose one Life Point. Hashimoto himself would likely consider it highly probable that he would not be chosen as the traitor, but if Ryuuen exercised his right to choose one, he could choose Hashimoto to be sneaky, to try to outwit Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even if that were not the case, it wouldn’t change the fact that if there was a traitor in the mix, Sakayanagi would consider Hashimoto a target of suspicion and, at the very least, would probably call him up for dialogue.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He would most definitely confess when I call him up. Since there is nothing for me to fear on my part about making that decision, Hashimoto not admitting to being the traitor would mean he would be expelled from school,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Sakayanagi had one Life Point remaining and was backed into a corner, then things might have been different. However, as long as she had five or more points, there was essentially no choice but for her to rule him as the traitor, regardless of whether he was innocent or guilty.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you have some faint hopes, it is futile. Regardless of whether Hashimoto-kun is innocent or guilty, I will judge him as such,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I know that. In that case, show me the skills you’re so proud of. If you sweet-talk Hashimoto into thinking that you won’t rule him guilty, then you might be able to take him down together with me,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">At times like this, Sakayanagi wondered, </span><span class="C_Current__And__Times_New_Roman__And__Italic">“What if?” </span><span class="C_Current__And__Times_New_Roman">What if Ryuuen had entered into a contract with Hashimoto in advance? What if this was a trap set by Ryuuen at an early stage? However, the details of the special exam were only revealed this morning. At that stage, the representatives and participants were completely isolated, and they didn’t even have a small window of opportunity to exchange information. Which meant that Ryuuen had no way to draw up a contract with Hashimoto, like a promise to save him in the unlikely event that he was expelled for stubbornly lying through his teeth about not being the traitor while he was, in fact, the traitor.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Actually, wait,”</span><span class="C_Current__And__Times_New_Roman"> thought Sakayanagi. Deliberately choosing not to exclude such a possibility from her mind, Sakayanagi considered what the real “what if” might be. What if all of the rules of the special exam had been leaked in advance? Putting aside whether Ryuuen had offered such a contract to Hashimoto. No, that was absolutely impossible. Regardless of whether Hashimoto were to confess or not, Sakayanagi could simply make the judgment that he was the traitor.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If she thought nothing of it, and simply chose to go with that option, there wouldn’t be any surprise victory from behind. After all, this was not caused by Ryuuen, but by Ayanokouji, after all.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Let us see if there really is a message from Ayanokouji-kun, shall we?” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi chose Hashimoto’s group. Then, Ryuuen picked a group at random and exercised his right to send in a traitor. Both of them were acting in accordance with Ayanokouji’s message, which was not a lie at all. However, when the discussion began, Ryuuen closed his eyes and didn’t even look at the monitor.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is rather kind of you to go out of your way to make it so clear that you are not playing a trick,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Heh, I don’t exactly hate the idea of putting up useless resistance, but I can’t forgive myself for fallin’ for Ayanokouji’s coaxing,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">This time specifically, Ryuuen had personally declared to Ayanokouji that he was going to screw Sakayanagi over using his own talents. If that didn’t happen, then this match was already over. Sakayanagi watched the discussion, just to be safe. Although the information that could be gained in one round was limited, there were several people whom she sensed may be a position holder. Then, while at the top of her game, she entered the time for dialogue. With cane in hand, Sakayanagi slowly exited the classroom. Watching Sakayanagi go, Ryuuen looked up at the ceiling and brought his fist down on his knee with all of his strength. He regretted that he had let the lead slip away from him, from start to finish, and that he was unable to catch up to Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Damn it…” he huffed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He didn’t want it to end here. That meant that his growth would end up stopping here. But that wish would no longer come true.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen Kakeru lost.</span></p>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 9: An Awaited Opponent","volumeId":"y2v12","chapterIndex":32,"prevChapter":{"volumeId":"y2v12","chapter":30,"title":"Chapter 9: An Awaited Opponent"},"nextChapter":{"volumeId":"y2v12","chapter":37,"title":"Chapter 10 - Epilogue : The Truth Is…"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Hoshinomiya Chie’s Soliloquy","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: The Unusual End-of-Year Special Exam","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: What Ought to Be Finished","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: The End-of-Year Special Exam Begins","href":"Text/section-0013.html#auto_bookmark_toc_13","index":14},{"label":"Chapter 5: The Battle of the Vanguards","href":"Text/section-0014.html#auto_bookmark_toc_14","index":15},{"label":"Chapter 6: Katsuragi’s Counterattack","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 7: Bitter Tears","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 8: Ayanokouji’s Scheme","href":"Text/section-0026.html#auto_bookmark_toc_26","index":27},{"label":"Chapter 9: An Awaited Opponent","href":"Text/section-0029.html#auto_bookmark_toc_29","index":30},{"label":"Chapter 10 - Epilogue : The Truth Is…","href":"Text/section-0036.html#auto_bookmark_toc_36","index":37},{"label":"Postscript","href":"Text/section-0039.html#auto_bookmark_toc_39","index":40}],"volumeTitle":"Light Novel 2nd Year Volume 12","detailsLink":"/select/year-2/y2v12","returnLink":"/select","currentSpineIndex":32,"nextVolumeLink":"/select/year-2/y2v12.5","nextVolumeTitle":"Light Novel 2nd Year Volume 12.5"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

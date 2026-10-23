@@ -1,0 +1,417 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T13a60,
+<p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_top"><span><span style=" font-weight: bold; font-size: 1.17em;">Chapter 4:<br/>How We Spend Our Time</span></span></p>
+<p class="P_Prose_Formatting">&#160;</p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em;">I</span><span style=" font-size: 0.80em;">T WAS THE TWENTY-FOURTH</span><span style=" font-size: 0.75em; vertical-align: super;"> </span><span style=" font-size: 1.00em;">of December. Christmas Eve. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Today and tomorrow, even busy couples would go out of their way to spend time with one another. To most students, these were still ordinary days, but I was curious about how people would spend them.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I left my room before seven o’clock in the morning. I had separate engagements with two different people—one whom I’d asked to meet, and one who’d invited me out. </span><span style=" font-style: italic; font-size: 1.00em;">Bizarre.</span><span style=" font-size: 1.00em;"> </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">When I left the dormitory, everything around me had turned completely white. It seemed like a true winter morning.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Snow sure piles up, huh?” I muttered. Nature was certainly incredible. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The snow fell heavily, but according to the forecast, it was supposed to stop around seven. Even though the temperature was almost the same as it was yesterday, the sight of such heavy snow made me feel colder. </span><span style=" font-style: italic; font-size: 1.00em;">I should probably start wearing gloves and a scarf now. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Since it was before seven in the morning, most students were still asleep; the campus was empty as I approached a bench near Keyaki Mall. Clearing off some snow, I sat. Soon, a man appeared. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s rude to ask somebody to come out so early in the mornin’,” he spat. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ryuuen Kakeru, Class C’s leader—no, its former leader—glared sharply at me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I needed to meet you when I was sure no one else would be around.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s your problem. It’s got nothin’ to do with me.” True. I had more to lose being seen with Ryuuen than he did with me. “So, what do you need?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I thought we could make small talk.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hah. That’s a real funny joke for a real shitty morning.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Come to think of it, I saw you yesterday,” I said. “Plus Ishizaki and some other guys.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What, are you happy you stopped me from dropping out?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m impressed. Even though you’re all alone, you’re not hiding in your room and sulking.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I do whatever I want, wherever I want. Does it scare you to see me out? After all, you don’t know when I’m gonna take revenge.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“And after you take revenge, I’ll regret that I didn’t get you expelled?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ryuuen kicked snow off the bench, then sat beside me.</span></p>
+<div style="page-break-before: always;"></div>
+<p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><span><img alt="" height="100%" id="ClassroomElite-Vol7-5_INTERIORIMAGES_3" src="/hola-lector-agua/images/books/v7.5/OEBPS/Images/ClassroomElite-Vol7-5_INTERIORIMAGES_3.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+<div style="page-break-before: always;"></div>
+<p class="P_Prose_Formatting__And__Page_Break"><span style=" font-size: 1.00em;">“I’d like you to hold off on that, if possible. I’d rather live peacefully. Fighting you again would just be a pain,” I told him. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Then don’t ask me to meet you! Don’t draw my attention back to you.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I decided to dispense with the small talk and cut straight to the heart of the matter. If I dragged this out too long, Ryuuen would just get up and leave. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Regarding what happened on the roof the other day… I wanted to add something to that story,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Add something?” Ryuuen sounded wary. Analyzing his defeat wouldn’t be fun for him. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Still, I had to show him the truth he couldn’t face. “If you’d been alone up there, you could’ve stuck it out. You would’ve been able to keep fighting.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">However, Ibuki, Ishizaki, and Albert had been there. Their presence, and the knowledge that they’d share the blame for whatever happened, might’ve hastened Ryuuen’s decision. He surrendered after seeing that possibility down the road, not just because of what happened in the moment. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was a wise move. Of course, I’d manipulated him into it. But in terms of living up to my expectations, Ryuuen had a great deal of potential after all.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You really are a piece of work, huh?” Ryuuen snapped. “I’m amazed at how far you’ll go just to screw with people. I thought that was </span><span style=" font-style: italic; font-size: 1.00em;">my</span><span style=" font-size: 1.00em;"> specialty, but you put me outta business.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m only speaking the truth.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m guessing that this benefits you in some way, and that’s why you used Ishizaki and the others to stop me from dropping out?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Hmm.</span><span style=" font-size: 1.00em;"> I’d hoped that Ryuuen might catch on by now, but it seemed that wasn’t happening.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Do you really think you can still make me your puppet?” he demanded.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Puppet? What do you mean?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t play dumb. I’m talking about using me to take down the other classes. Why else would you keep me at this school?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re a man who enjoys battle, aren’t you?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Even if, for argument’s sake, I crushed Classes A and B—with you around, it’d be meaningless.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Quite a definitive statement. “What? Did I break you that badly after just one defeat?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Anger sparked in Ryuuen’s eyes. “You wanna go? Right here and now?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I said too much. Please forgive me.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If the whole incident on the roof hadn’t happened, Ryuuen probably would’ve punched me out. This guy didn’t know fear.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But he’d learned it since then.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Even so, Ryuuen would likely have fought me right here and now if I pushed him enough. Still, he had to avoid dropping out or being expelled if he was ever going to mature.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We’ve already settled the score between us,” I said. “I&#160;won’t bring up the rooftop anymore after this. I promise this is the last time. So, let’s talk.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Of course, Ryuuen didn’t believe a word I said. “Talk is pointless. I can’t see what I get outta this. I’m leaving.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He stood up, looking angry.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You might get something useful,” I replied, stopping him in his tracks. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ryuuen sat back down without looking at me. He’d probably risen to draw something out of me. He had no intention of going home empty-handed.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Interpret this however you like, but don’t you think these simple battles are getting boring?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ryuuen looked annoyed. “Simple battles, huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Class D beats C, then B, and finally A. Then, Horikita and the rest of us become Class A ourselves,” I said. “It sounds like the formula for a big-budget movie. But we needn’t adhere to such a formulaic structure, right?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Real life didn’t conform to a narrative. We were free to strike Class A before going for Class B, or even to ally with our enemies, Class C.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Interestingly enough, it seems that Class A will attack Class B once the third semester begins. We could take Class A out with a single strike while they’re focused on that,” I told Ryuuen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He suddenly looked interested. “How credible is this information?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’d say about fifty-fifty.” I had to consider whether Sakayanagi was bluffing. If I read her correctly, though, there was a ninety percent chance she’d told me the truth. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If your information’s solid, this’d be a good chance. But I thought you Class D folks had a whole non-aggression thing going on with Class B? Striking at Class A is all well and good, but they’d crush Class B in the meantime. Ichinose can’t beat Sakayanagi,” said Ryuuen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t care who wins or loses. I don’t plan on getting involved.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you’re just gonna watch her burn, huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If Sakayanagi crushes Ichinose, that saves me the effort. It could clear Class D’s path to Class A. Besides, this’s Sakayanagi we’re talking about. It might be time I looked up what kind of infractions the school punishes with expulsion.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There’s a lot I don’t like about this. You have no ambition to rise. Don’t you want to stay invisible?” Ryuuen asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I do, but if people around me take their own actions…well, I’m fine with that. I’m not opposed to the idea of us rising to Class A easily,” I told him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you’re just gonna sit back and observe?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I need a problem taken care of. There’s someone rather troublesome in my class.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kikyou, huh?” Ryuuen didn’t even need to think about it. “Yeah, she’s certainly giving you a lot of trouble. The way this school works, having an enemy on the inside’s real bad.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kushida was targeting Horikita at the moment, and causing enough problems in the process that she—rather than moving up to Class A—was my primary concern. Since I’d been a bit reckless during the incident on the rooftop, I couldn’t afford to make an enemy of Horikita Manabu, the former student council president. If Horikita Suzune, his sister, was expelled while he was still at this school, he’d show me no mercy. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I wanted to avoid anything that endangered my school life’s tranquility.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kikyou contacted me the other day, actually. She was askin’ when I’d attack. Unfortunately, I was engrossed in hunting you down, so I didn’t respond. Seems she hasn’t given up on getting Suzune expelled. She’s looking for the opportunity to pounce. Heh. She’s quite a girl,” said Ryuuen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you’d made good use of Kushida, you could’ve dealt a heavy blow to my class.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“To Suzune or your class, sure. But Kikyou’s way too weak to take down someone like you. You don’t care about anything.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">True.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, what’re you planning?” Ryuuen demanded. “You can slow a cancer’s growth, but it’s not going away till it’s excised, y’know? That shit can spread.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">And then we’d all die. “I know that.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh? Then let’s hear your plan, Ayanokouji. How’re you gonna end Kikyou?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Do I need to answer that?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Whether I help you might depend on your reply.” A faint smile appeared on Ryuuen’s lips, but maybe his mouth was still tender where I’d hit him, because the smile immediately faded. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It’d gotten colder. Staying outside for too long right now wasn’t wise.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“In the third semester, Class D will be promoted to Class C,” I said. “However, we’ll probably fall back down to D when I get Kushida Kikyou expelled.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Heh heh. Ha ha ha ha!” Ryuuen howled with laughter despite his pain. “You really are terrifying. You’ll sink your class if it means taking down your enemies, huh? I&#160;knew you had it in you, Ayanokouji.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We can help each other with this particular endeavor without formally establishing an alliance, don’t you agree?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Heh. This talk about getting rid of Kikyou tickles me. But going along with your bullshit and recklessly attacking Class A? Different story.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It could work, though.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Save it. If I’m going to throw down, I’d rather target you.” Some of Ryuuen’s vigor had returned, judging by his heated gaze. Even after learning fear, his eyes still had that sharp gleam. “It seems like you plan on using me, Ayanokouji. But I have no intention of being used.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Seems that way.” Ryuuen appeared ready to disappear from center stage. Maybe he had plans to enact in the wings. “Let me give you a piece of advice,” I said. “Your plan with the private points—it’s not a bad strategy, but it’s flawed. Even if one or two people make it, taking the entire class with you is impossible.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ibuki spilled the beans, huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“She didn’t spill anything. She just asked me whether it was possible to save eight hundred million points.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That was likely Ryuuen’s strategy. Never in this school’s history had it worked. I initially thought he was only saving enough points to buy his own way to Class A, or perhaps to promote himself and those closest to him. He’d surrendered his private points on the rooftop because he’d meant to drop out. I would’ve expected him to go underground and collect private points again if he planned to stay in school.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">However, judging from what Ibuki said, Ryuuen was trying to find a way for his entire class to win. To be a tyrant, you had to provide your followers with some acceptable quid pro quo. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Of course, he could just as easily renege on a promise. “Perhaps you were only pretending to save eight hundred million points?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If he’d deceived Ibuki, too, this conversation was over.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Even if you exhausted the points you have now, the contract with Class A’s still in place,” I continued. “If you bring in eight hundred thousand points per month, you’ll need twenty-five months to reach your goal. You’d just barely make it before graduation. If you factor in the private points you need to use every month, you’ll squeak&#160;past.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Of course, that was based on the assumption that Class A wouldn’t collapse in the interim, and that Ryuuen could avoid unnecessary expenditures.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re certainly a clever guy, Ayanokouji, but you’re far from perfect.” Ryuuen wasn’t joking. He sounded like he was mocking me, but not like he was bluffing.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you have some secret plan to save your entire class, Ryuuen?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Listen. An enormous amount of private points move around in a year. There are a hundred and sixty people per grade, if we assume no expulsions. If we add all three grades together, that’s four hundred and eighty students. If I can squeeze a hundred thousand points out of every student per month, that alone gives me forty-eight million points. If I get two hundred thousand points or more a month, I can snag up to one hundred million.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">After just eight months, he’d save about eight hundred million. But even if those calculations checked out in theory, they wouldn’t work in practice. The school would probably strengthen its surveillance if it noticed massive numbers of private points moving around, for instance. If they caught Ryuuen in the act, they’d immediately reclaim those points and hit him with a penalty. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I did the math in my mind with a mental abacus.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Assuming that Class C’s cooperation was a given, and assuming that Ryuuen got the highest possible level of points—one thousand points per month—that made about fifty million points in a year. Doing well at the special exams might net an extra ten million points or so. That averaged out to sixty million points a year, not even two hundred million. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I stared at Ryuuen as I thought. “You can’t reach that number. Or can you?” What strategy did he have in mind? What couldn’t I see?</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You and I have similar methods, but fundamentally different thought processes,” he replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“My policy is to avoid choices with low probabilities of success,” I told him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course. But you can see it, can’t you? The strategy?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. Originally, I thought you had a zero-percent chance of success. Now, I’d estimate five percent or higher.” However, to pull it off, a few things were absolutely essential.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Anyway, Ayanokouji…why’re you covered in snow?” Ryuuen brought my focus back to my physical appearance.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ah. It just…happened. The sensation of snow is quite refreshing. Is that weird?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d remained still during the snowfall, allowing it to blanket my head and shoulders. I was grateful that Ryuuen pointed it out, but I didn’t brush it off. It’d melt on its own soon enough.</span></p>
+<div style="page-break-before: always;"></div>
+<p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><span><img alt="" height="100%" id="ClassroomElite-Vol7-5_INTERIORIMAGES_4" src="/hola-lector-agua/images/books/v7.5/OEBPS/Images/ClassroomElite-Vol7-5_INTERIORIMAGES_4.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+<div style="page-break-before: always;"></div>
+<p class="P_Prose_Formatting__And__Page_Break"><span style=" font-size: 1.00em;">“You really are an odd one,” said Ryuuen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, now that you’ve heard my pitch, I think we might work together,” I told him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It sounds too good to be true. Something stinks,” Ryuuen retorted. “You’d get rid of anyone, even your allies, without hesitation. How can we work together when we’re thinking about stabbing each other in the back?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you’re afraid of someone outsmarting you, then you simply have to outsmart them first. That’s all there is to it, Ryuuen.” I wasn’t looking to make a friend. Ryuuen and I merely had shared interests. In some sense, that was the perfect basis for a relationship.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“In that case, Ayanokouji, I’ll lay the groundwork.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Lay the groundwork?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Next semester, Kaneda and Hiyori will probably lead Class C…no, Class </span><span style=" font-style: italic; font-size: 1.00em;">D</span><span style=" font-size: 1.00em;">. I’ll let them know that it’s in our best interest to attack Class A instead of you guys,” said Ryuuen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That doesn’t sound like a bad idea.” If Kaneda and Hiyori </span><span style=" font-style: italic; font-size: 1.00em;">did </span><span style=" font-size: 1.00em;">decide to attack us, though, it’d be a hassle. Ishizaki and Ibuki, in particular, disliked me. They might try to influence their class to challenge mine. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“However, my help comes with a price. If you give me what I want when you guys move up to Class A, we can work together.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you’ll be pulling Shiina’s strings behind the scenes as well?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Impossible. I already told ’em I’d step down.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You want a lot for a small favor.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t come cheap, Ayanokouji.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I thought about his contract with Katsuragi. Ryuuen was happy to slip a hand into his opponent’s pocket. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I’m fine with your terms, but we can’t put them on paper. It’s a verbal agreement,” I told him.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Heh. I didn’t exactly expect a signed document, since you like working in the shadows. Remember, if you welch on our deal, I won’t show you any mercy. I’ll make you regret it.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Answer me one thing. Even if you and I reach an agreement today, doesn’t the whole strategy fall apart if you can’t convince your class?” That would require a fair amount of skill and luck. If anyone had those things, though, it was Ryuuen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t know. That’ll be up to Kaneda and Hiyori,” he answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In other words, Ryuuen was merely setting the stage. As the guy who’d ruled Class C with an iron fist, he probably thought it was the least he could do to make amends.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Our negotiations are finished, then,” I said, shaking Ryuuen’s hand.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He couldn’t be controlled that easily. Even though he was “retired” now, I would need to work hard to keep him out of my way. I couldn’t afford to be careless.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, that’s it? In your original invitation, it sounded like you wanted me to meet somebody, but I can’t imagine there’s anyone worthwhile among the first years.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s right. It’s no first year,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s time.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Punctual as ever, a young man approached us. Upon seeing who it was, even Ryuuen couldn’t hide his surprise. “Really? This is who you wanted me to meet?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I ignored Ryuuen and spoke to Horikita Manabu. “Sorry for calling you out so early.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s no bother. This is a good time for a secret meeting. A good place, too.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The school campus provided limited options. At our current position, I could see anyone coming from a mile away. That had its uses.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Seems like you’re pretty close with the former student council president. That’s probably useful for Suzune too, eh?” asked Ryuuen, chuckling. Of course, he’d already guessed that she was Manabu’s younger sister.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I thought you’d be alone, Ayanokouji.” Manabu didn’t sound especially shocked to see Ryuuen, though. The elder Horikita briefly noted that I was thoroughly covered in snow. Then he continued, ignoring the sight utterly. “I assume Ryuuen Kakeru is a coconspirator. I’ll speak quickly, then. There’s no telling who might spot us.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wait just a second. Who are you calling a coconspirator?” asked Ryuuen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“At the very least, he’s not an enemy,” I told Manabu.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ayanokouji, do you recall the promise you made when you sought my help earlier?” Manabu asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. It was about helping you stop Nagumo Miyabi, right?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nagumo? The new student council president?” Ryuuen asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ryuuen was here because I wanted him to know what concerned Horikita’s older brother. “It seems he doesn’t really like Nagumo’s way of doing things,” I explained.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. So, you plan to use Ayanokouji to stop Nagumo? Word has it he’s dominatin’ the second years. That means you gotta use a first-year student to deal with him, huh? Tell me, Horikita, since when have you had your eye on Ayanokouji?” asked Ryuuen, addressing the upperclassman condescendingly.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Since soon after he enrolled. It appears that your path to understanding him has been longer and more arduous,” replied the elder Horikita. He sounded more indifferent than defensive.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Heh. I’m the type of guy who thoroughly enjoys the journey,” said Ryuuen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yet you appear to have been beaten,” Horikita Manabu shot back. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ryuuen glared. “If you think I’m so easy to beat, care to put your fists up and find out?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ll pass, thank you,” answered Horikita calmly.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Heh. I thought so,” Ryuuen snorted.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He crouched—then launched a front kick, sending snow flying toward Horikita’s face. His goal was to blind Horikita. Ryuuen jabbed at his opponent’s abdomen, but Horikita blocked the attack completely, even though Ryuuen had obstructed his vision. He pushed his glasses back up the bridge of his nose, looking completely unfazed. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I thought you were some intellectual jerkoff who only had book smarts, but you ain’t half bad,” said Ryuuen—a rare compliment.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I already told you I didn’t choose to fight,” Horikita repeated.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What’s the matter? If you’re not happy, you can come at me anytime. Or maybe you don’t fight against first years?” taunted Ryuuen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’ve made quite a fascinating friend, Ayanokouji.” Horikita brushed snow and dirt from his clothes.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, whatever. I suppose you’re </span><span style=" font-style: italic; font-size: 1.00em;">somewhat</span><span style=" font-size: 1.00em;"> capable, Horikita-</span><span style=" font-style: italic; font-size: 1.00em;">senpai</span><span style=" font-size: 1.00em;">.” Ryuuen tacked on a sarcastic honorific. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Likewise. You aren’t fit to serve on the student council, but I suppose you’ve some measure of worth.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Whoa. Complimented by the former student council president. What an honor.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Now that the two had finished their back-and-forth, the elder Horikita got to the point. “I’d like Ayanokouji to preserve and maintain order at this school. I don’t care by what means. Ayanokouji, you may choose whatever’s most convenient, whether that’s having Student Council President Nagumo Miyabi removed from his position, or simply obstructing his plans. Once the third semester begins, Nagumo’s power will only grow. He’ll move quickly.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, how exactly are things going to change?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The student council isn’t all-powerful, of course. But it does wield a certain degree of authority, unlike the councils at most ordinary schools. At present, whenever a problem arises within the student body, the student council takes the lead in resolving it. Both of you should be aware of that.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The faculty hadn’t presided over Sudou’s trial during the assault incident. Rather, it’d been the student council, headed by Horikita’s brother.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The student council also plays a role in designing the special exams. The first years’ desert-island test was based in part on a student-council proposal.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That meant Nagumo could create a truly terrifying special exam.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nagumo’s just tryin’ to make this shitty, boring-ass school into something fun, from the sound of it. We should be happy,” said Ryuuen, snorting in amusement.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If he did it correctly, yes. However, Nagumo’s unorthodox measures have resulted in many expulsions. As a matter of fact, seventeen second-year students have already been expelled. According to their exit interviews, Nagumo was involved in over half the cases,” said Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Seventeen people. No small number.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If he can get that many students expelled, it won’t be hard for him to rule the school,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“And, now that he’s student council president, he can control first- and third-year students, too. His influence will only grow in the third semester,” Horikita continued.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ain’t this Nagumo guy just being rational? If those seventeen people were worthless nobodies, then that’s why they got crushed.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The school will expel rule breakers. That’s only natural. However, shouldn’t a leader strive to help the entire student body graduate, without leaving anyone behind?” countered Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you saying you’d never let a single person get kicked out of school, oh-so-venerable Horikita-</span><span style=" font-style: italic; font-size: 1.00em;">senpai</span><span style=" font-size: 1.00em;">?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m speaking of the ideal scenario. Currently, no first-year students have been expelled. Pursuing the scenario where that continues isn’t a bad thing, wouldn’t you&#160;agree?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So you say. What do you think, Ayanokouji?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I think it’s fine,” I answered. “But I can also say that Ryuuen and I aren’t the type to pursue such a best-case scenario.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Heh. Exactly.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If anyone was such an idealist, it’d probably be Ichinose Honami.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course. I’m not trying to convert you,” Horikita said. “If you can stop Nagumo, that’s enough.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It sounded simple. If it were, however, he wouldn’t be asking for our help. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I’m gonna head back before I get roped into becoming a coconspirator for real.” It seemed Ryuuen had no interest in student-council drama. “It was a pretty interestin’ chat, but any more would be a waste of my time. See ya.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I called out to Ryuuen as he walked away. “Do you plan to go it alone from here on out?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Save it. I’ve always been alone,” Ryuuen answered. He trudged off through the snow, leaving only those words behind.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Why did you let Ryuuen hear all that, Ayanokouji?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Mostly to shift his attention away from me,” I replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If Ryuuen felt as though he had to fight the student council, he’d be less likely to come after me. Besides, he’d probably have a lot more fun battling someone like Sakayanagi. Of course, he didn’t seem to want to fight anyone anymore.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, you’ll need all the friends you can get. In that sense, someone familiar—like Ryuuen—could be an asset,” said Horikita. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Familiar, huh?” Otherwise, what I needed right now was to collect as much data as I could. “I barely have any information on the seniors. Can you get me that?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course. I’ve already prepared it.” Horikita pulled out his cell phone. I gave him my number and received a text soon afterward. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">As I scanned the message, he explained. “I’ll tell you which student council members to keep an eye on. One is Vice President Kiriyama, from the second-year Class&#160;B. Next is Secretary Mizowaki. Then there’s Secretary Tonokawa. Both secretaries are Class B students who’ve stuck with Nagumo through thick and thin. They’re also among the few students Nagumo will listen to. And now, the remaining members.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Horikita handed over documents with attached photos, almost like resumes. I deduced who belonged to which class with only a glance. Since several students were in Class A, including the vice president, I could guess Nagumo’s real power. This was valuable information.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It wasn’t easy to contact students from other grades. I&#160;couldn’t afford to be careless, especially when it came to the student council’s circle. It must’ve taken Horikita a considerable amount of time simply to gather the information he just gave me.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The only people who know Nagumo’s real personality and intentions are most likely those in his grade. Even though we were both in the student council, I don’t know much about him myself,” Horikita continued.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But the second years are in his grip, which makes things more difficult.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Exactly. However, </span><span style=" font-style: italic; font-size: 1.00em;">one </span><span style=" font-size: 1.00em;">second-year student opposes Nagumo,” said Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Who?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Unfortunately, I cannot tell you at the current stage. I&#160;can’t guarantee their safety if Nagumo finds out.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“He might try to get them expelled? Is that it?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I can protect them while I’m enrolled here, but after I graduate, that protection will be gone.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Why was he telling me this? “You want to get me and this second-year student together, don’t you?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I want to mention you to them as a capable first-year student.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Figured.</span><span style=" font-size: 1.00em;"> If this second year had to stay undercover, that meant I should offer my name instead. I’d be in less danger. Still, I didn’t want word of me getting around.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What you do is entirely up to you,” Horikita added.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Normally, I’d have declined. However, people like Sakayanagi and Ryuuen had already learned about me. Sakayanagi, in particular, knew a great deal about my life in the White Room. The more I tried to keep it secret, the more power I gave her. Even if I turned down Horikita’s offer, I gained nothing.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Understood. Tell them about me.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“A bold decision, but the correct one,” Horikita replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Now, all that’s left is to see whether this works out.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you don’t join forces with this student, you can’t bring Nagumo down.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“All right. Let’s do it your way, then.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I just wanted to be left in peace. As such, I had reservations about putting myself in Horikita’s power. If I abandoned his orders after he graduated, what happened then?</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Do you know what I’m thinking right now?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re thinking about what happens after I graduate,” he answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Superb. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I didn’t think you’d broach the topic yourself,” Horikita added.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I can’t read you,” I replied. “I have to know.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t mind if you only cooperate until I graduate.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Until then, though, what if I can’t beat Nagumo?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I wouldn’t entrust so important a mission to someone incapable.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Did Horikita’s brother truly think this highly of me? Or was he simply trying to flatter me? Either way, I couldn’t get a read on him. “I’ll try, but I can’t guarantee that I’ll succeed before you graduate,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I understand.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Why was this guy relying on a complete unknown like me? If he cared so much about the Tokyo Metropolitan Advanced Nurturing High School, he should’ve recruited a more enthusiastic person. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t expect you to move heaven and earth because of a single debt. You don’t intend to go above and beyond, either. Am I wrong?” Horikita understood everything quite well.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“As the former student council president, you still have some authority. Influence, rather,” I replied. “I figured making you my ally would be useful.” As long as I was enrolled here, I faced no shortage of risks; having friends in high places could help.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Drop my name all you like, but don’t expect too much of me.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t plan to. I may call in one last favor, but that’d be it.” Hopefully, I’d have no need of that.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“As you wish. Taking down Nagumo won’t be simple, after all.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ll start on a strategy. But, before that, I want to know something about your little sister.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You can use Suzune in any way you wish,” he replied.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s not that. I’ve watched her in action for nearly a year now, and I think she possesses a certain talent. How is it you haven’t noticed that? You grew up with her.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Talent? What makes you think she’s talented? Her academics? Her athletic ability?” he asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">At least he’d noticed that she was gifted in those areas. “I mean overall. She’s clumsy in some respects, but generally very capable.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“My sister’s incompetent. She always chased after my shadow. She’s made it her goal to catch up to me. That’s foolish,” he spat.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is her earnestness the problem?” I asked. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You may interpret things however you wish. It’s not going to change anything.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah, you’re probably right.” Still, I was beginning to understand why Horikita’s brother treated her so harshly. “If I told you that your sister was joining the student council, would you help her too?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’d cooperate.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">With that in mind, I began formulating a strategy to best Nagumo. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I have the data,” I said. “I understand what’s at risk. All that’s left for you to do is wait.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Very well. Remember, this school’s future depends on you.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Laying that exorbitant pressure upon me, the elder Horikita left.</span></p>
+<div style="page-break-before: always;"></div>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span><span style=" font-weight: bold; font-size: 1.17em;">4.1</span></span></p>
+<p class="P_Prose_Formatting">&#160;</p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em;">A</span><span style=" font-size: 0.80em;">FTER THAT UNUSUAL MEETING</span><span style=" font-size: 1.00em;">, I headed back to the dormitory. There, I hung around aimlessly until noon, surfing the web and reading books. My next move was to send a message to Horikita. With the promise of her elder brother’s attention as a reward, she’d probably consider joining the student council.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">I need to talk to you.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Horikita was probably also cooped up in her room. She was fundamentally a loner; besides, she didn’t seem to like the cold that much.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">A few minutes after I sent that initial message, I received a reply. </span><span style=" font-style: italic; font-size: 1.00em;">I don’t mind. Can we do it over the phone? Or must it be in person?</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">In person, if possible. Would that work?</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">I’m at a café right now. Come here, and I’ll listen.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Contrary to the isolated image I’d conjured up, Horikita was actually out. Leaving again would be annoying, but the sooner I looked after this, the better.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">I’m headed over.</span><span style=" font-size: 1.00em;"> I sent the reply and put on my coat. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">When I arrived at the lobby, I saw Ike, Yamauchi, and even Sudou. They didn’t appear to notice me as they headed out the door, and I didn’t call out, choosing to follow and eavesdrop on their conversation.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, Horikita just turned ya down for a Christmas date? Dude, what the hell, Ken?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Shut it, Haruki. Just drop it.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Man, we’re all gonna end the year without girlfriends, huh? I feel empty inside.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Tch. I’m just going to take things slow. It’s not like Suzune’s got a boyfriend or anythin’. It’s just… I dunno, she doesn’t seem interested in stuff like romance. I’m not gonna rush things.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Apparently, Sudou had put the moves on Horikita, but been shot down in a spectacular fashion. An honorable defeat. He was far from giving up, though; he’d chosen to press on.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You really got it bad, huh? Hey, Kanji, how about we pull an all-nighter at karaoke? Let’s belt out lonely Christmas songs with everything we got!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? Wh-what?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Whaddya mean, ‘what’? I said we should do karaoke all night.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, uh…sorry, Haruki. I kinda can’t today.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? You can’t? You don’t have anything to do on Christmas Eve, do you? The only hot date you’ve got’s with your right hand.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You know, I actually got stuff to do, dude.” Ike was clearly agitated, but he wouldn’t say why he couldn’t go to karaoke.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sudou, smelling blood in the water, pounced. “Hey, Kanji, don’t tell me…”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I-It’s not like that.” Ike sputtered. He lowered his gaze. “Look, I’m just going out to dinner with a friend, that’s&#160;all.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Anyone could tell that this “friend” wasn’t a man. A&#160;scene from yesterday flashed into my mind.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Who is it?! Who’re you hanging out with?! Spill it!” shouted Yamauchi, losing his cool and grabbing Ike’s collar.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I-It really ain’t that big a deal, but…Shinohara.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Shinohara? Wait a second…you mean, from our class? </span><span style=" font-style: italic; font-size: 1.00em;">That </span><span style=" font-size: 1.00em;">Shinohara?!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ike nodded slightly.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Dude, why Shinohara? Aren’t you two always fighting?” asked Sudou in disbelief. Yamauchi seemed to share the sentiment. Ike and Shinohara were an unexpected pair, to say the least.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Like I said, we’re just having dinner,” replied Ike. “Come on, there’s no way I’d go for a girl like her, right? She just had some trouble a little while back, and I helped her out. She said she wanted to thank me!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Uh, no, dude. I dunno about ‘thanking’ you or whatever, but it’s </span><span style=" font-style: italic; font-size: 1.00em;">Christmas Eve</span><span style=" font-size: 1.00em;">!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s no big deal!” Ike cried. “I mean, me and Shinohara going out? There’s just no way. Not even if the world was ending!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t believe you! Come on, Ken, let’s tail ’em!”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Dudes, knock it off! If rumors about me and an uggo like Shinohara get around, it’ll be a huge pain in the ass!” shouted Ike.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Ike and Shinohara, huh? They might actually be a well-matched couple.</span><span style=" font-size: 1.00em;"> Of course, who knew how any of this would turn out?</span></p>
+<div style="page-break-before: always;"></div>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span><span style=" font-weight: bold; font-size: 1.17em;">4.2</span></span></p>
+<p class="P_Prose_Formatting">&#160;</p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em;">M</span><span style=" font-size: 0.80em;">OST STUDENTS HUNG OUT</span><span style=" font-size: 1.00em;"> at Keyaki Mall during winter vacation, and the place was packed. Since more than 80 percent of the café customers were female, I couldn’t find Horikita right away. After wandering a bit, I finally spotted her.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m here.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That was fast,” she replied. I noticed that she wasn’t alone.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Good morning, Ayanokouji-kun,” said Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">This was a wholly unexpected pair. They had to be with someone else. I looked around.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No one else is with us,” Horikita said, noting my confusion. I thought that Hirata would be here as a peacekeeper, but apparently he wasn’t.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Not to sound strange…but which of you initiated this get-together?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kushida smiled gently.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Me. I invited Kushida-san,” said Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I hadn’t anticipated that, but it made sense now that I thought about it. Horikita was trying to bury the hatchet with Kushida, and meeting in public put restrictions on what Kushida could do or say. Horikita had played this&#160;well.</span></p>
+<div style="page-break-before: always;"></div>
+<p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><span><img alt="" height="100%" id="ClassroomElite-Vol7-5_INTERIORIMAGES_5" src="/hola-lector-agua/images/books/v7.5/OEBPS/Images/ClassroomElite-Vol7-5_INTERIORIMAGES_5.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+<div style="page-break-before: always;"></div>
+<p class="P_Prose_Formatting__And__Page_Break"><span style=" font-size: 1.00em;">“By the way, Horikita-san, how have things been with Sudou-kun recently?” asked Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you mean?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, aren’t you spending Christmas with him?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’d never do that,” said Horikita flatly.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Really? Didn’t Sudou-kun ask you out?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That doesn’t have anything to do with the topic at hand, does it?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kushida had attempted to use my arrival to change the subject, but Horikita wouldn’t allow it. She could afford to be blunt, because she had two advantages: she’d won their previous bet, and the café was full of people. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“How long do you plan to stand around, Ayanokouji-kun? If you have something to say, spit it out.” Horikita clearly wanted to keep talking to Kushida. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sorry. I didn’t think there’d be someone else here. Another time.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">However, Kushida had apparently decided that my presence was welcome. “Come on, Horikita-san. How about we have Ayanokouji-kun join us for some tea?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I stopped in my tracks, but didn’t sit down, feeling the pressure of Horikita’s angry silence. “Maybe next time,” I said, trying to escape.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wait. Say what you came here to say,” replied Horikita.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, it’s nothing.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“There’s something you don’t want Kushida to hear?” Horikita asked, guessing what I was thinking.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is that true, Ayanokouji-kun?” Kushida wore a sad look. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I intended to deny it, but Horikita cut me off. “Kushida’s a member of our class. There’s no need for secrets.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“This has nothing to do with the class. This is between you and me, Horikita,” I told her.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see,” she replied. “This does have something to do with me, then, right? Well, out with it.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ll pass.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you won’t say it now, I absolutely won’t listen to it anywhere else.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Horikita’s determination was steely. Maybe she thought total transparency would improve her relationship with Kushida. Kushida, for her part, smiled as sweetly as ever. Her smile always made you want to believe her kindness was genuine, no matter what unease you felt. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I might’ve been able to come up with a convincing lie, but I doubted that Horikita would be receptive to my real proposal once she found out. “In that case, I’ll come right out and say it.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Good.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">No use beating around the bush. “Do you want to join the student council?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m sorry. I’m afraid I’m not following you.” Horikita tilted her head. “Why do you ask?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I have my reasons.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Then continue.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Um, is this okay, Horikita-san?” asked Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is what okay?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is it okay if I overhear this? If this is about the student council, it might involve your brother.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’ve known about my brother since junior high. It’s a little late to worry.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I steeled myself and sat at the table. “A certain person has a burning desire to see you on the student council.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“A certain person?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Your brother.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Strictly speaking, Horikita’s brother had said nothing of the sort. Rather, he’d said I was free to decide whether to use Horikita. To get her to act, however, I had to dangle her brother like a carrot.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Why would my brother say that he wants me to join the student council? That’s unbelievable.” Horikita looked discouraged.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s true.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If it were really true, my brother should’ve told me. Why did he go through you?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is he the type to tell you things directly?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No. But he’s also not the sort to ask me to join the student council in the first place.” She just wouldn’t believe me. Was their relationship really that poor? “I have no intention of listening to your lies.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you think that I’m lying, why don’t you confirm it yourself?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re being really stubborn.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Stubborn or not, just contact him.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Um…do you know his phone number?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No. Don’t </span><span style=" font-style: italic; font-size: 1.00em;">you</span><span style=" font-size: 1.00em;"> know it? As his sister?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t know it.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, how about we try contacting Tachibana-senpai?” asked Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Tachibana? My brother’s secretary?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah. I’ve talked to Tachibana-senpai a lot. I know her contact information.” Just as I’d figured, Kushida was making friends in the most unexpected places.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you really okay with me calling him, Ayanokouji-kun? If it turns out you’re lying, the consequences will be severe.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Do as you wish.” Horikita’s brother would recognize this as part of my strategy and cover for me; he’d say I was telling the truth.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Thank you, senpai. Yes, I understand. Goodbye,” said Kushida, who’d just called Tachibana. She hung up and fiddled with her phone. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Horikita’s phone buzzed. Kushida had forwarded the contact information. “Thank you, Kushida-san.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, you’re welcome.” Putting on a friendly face with Horikita had to be quite the struggle for Kushida. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Horikita stared at her phone’s screen. You might’ve thought that she’d call immediately, but her fingers didn’t move. She clutched the phone with both hands.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Whew.” Horikita let out a deep breath. Being this nervous about calling a family member definitely wasn’t normal. “If this all turns out to be a lie, prepare yourself.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You don’t need to remind me,” I said.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">My clear confidence unsettled her. I could tell she suspected I might be telling the truth. Horikita mustered all her courage and pressed the call button. She held the phone to her ear. The person on the other end of the line must’ve picked up, because her face grew even more nervous.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Excuse me. I-It’s Horikita Suzune.” Horikita spoke formally, as if talking with a stranger. “I asked Tachibana-senpai for your contact information… Um, well, so I could call you, oniisan.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Wearing a confused, flustered look that seemed out of place on her face, Horikita asked her brother the all-important question about the student council. Though I couldn’t hear, he seemed to confirm my version of events.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes. Th-thank you very much. Goodbye.” Horikita ended the call and gave me an intense glare.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I told you the truth, right? Why the angry face?” I&#160;asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Why’re you the intermediary? That’s what baffles me.” Gosh, she was paranoid. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Are you joining the student council, Horikita-san?” asked Kushida.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, I’m not.” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wait a minute. Your brother just told you to join, didn’t he?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“He told me that joining would be good for me…but I can’t imagine that’s true.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Even if I pushed Horikita, no good would come of it. At this point, I just wanted to stop giving Kushida information. “I understand. Well, I hope to talk to you later.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wouldn’t further conversation be a waste of time?”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Probably.” I stood.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“See you later, Ayanokouji-kun.” When Kushida spoke so gently to me, I sensed that something was amiss.</span></p>
+<div style="page-break-before: always;"></div>
+<p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span><span style=" font-weight: bold; font-size: 1.17em;">4.3</span></span></p>
+<p class="P_Prose_Formatting">&#160;</p>
+<p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em;">I</span><span style=" font-size: 0.80em;">T WAS NOW TEN O’CLOCK </span><span style=" font-size: 1.00em;">at night. Christmas Eve slipped away with every tick of the clock. Rather than go out and party with my guy friends, I stayed in and watched TV alone. A live broadcast showed people in Tokyo celebrating, all chock-full of Christmas spirit. I&#160;flipped through the channels, but every single program was Christmas-related. I did find a show ranking presents to give girls—though Christmas Eve was a little late to think about such things—and also a ranking of presents for children, but none of it looked particularly interesting.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I shut off the TV and turned on my computer, craving something non-Christmas-related. I scrolled through the news at random, noting accidents and incidents, articles on foreign athletes, and other miscellaneous stuff. Apart from it being almost Christmas, it was a day like any other day. Nothing ever really changed.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">My doorbell rang. Not the lobby intercom—my actual doorbell.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Coming.” I made my way to the entrance. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“G-g-good evening, K-Kiyotaka-kun!” stammered a familiar voice as I unlocked the door.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What’s up, Airi? It’s pretty late.” It was already past ten, yet judging from her appearance, she’d just gotten back to the dorm. “Were you out? I thought the gathering wasn’t until tomorrow.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, that’s right. I was doing something different. I’ve been hanging out with Haruka-chan since two in the afternoon.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see.” That was a long time to hang out. “Did you have fun?” </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m a little tired, but yes.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m glad to hear that.” I probably didn’t need to worry about Airi. At the very least, she’d be safe with a member of our group.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I heard from Haruka-chan that you have something going on tomorrow, Kiyotaka-kun. That means you won’t be able to come with us.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">Ah, right.</span><span style=" font-size: 1.00em;"> I had indeed talked to Haruka about that. Hanging out with Airi was probably her way of “handling” things.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah, I do have plans. Sorry I can’t join you,” I told Airi.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, that’s perfectly okay. To tell you the truth, I planned to give you something tomorrow, but…” Airi handed me a package tied in a cute red ribbon. “Um, well…I hope…that’ll you like it.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">A Christmas gift.</span></p>
+<div style="page-break-before: always;"></div>
+<p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><span><img alt="" height="100%" id="ClassroomElite-Vol7-5_INTERIORIMAGES_6" src="/hola-lector-agua/images/books/v7.5/OEBPS/Images/ClassroomElite-Vol7-5_INTERIORIMAGES_6.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+<div style="page-break-before: always;"></div>
+<p class="P_Prose_Formatting__And__Page_Break"><span style=" font-size: 1.00em;">“For me?” I asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah! I-I, um, got a gift for everyone else too.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In that case, it was easy to accept. I took the present, wondering what was usually done in these situations. Should I open it now, or after Airi left?</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">As I agonized, Airi spoke. “I-I don’t mind if you open it now.” Well, that answered that question. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Inside the package, I found warm-looking gloves. “I’ve thought for a little while that you could use gloves, Kiyotaka-kun. You don’t have a pair, do you?” she asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I was thinking of buying some. Thank you, Airi.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hee hee hee! You’re welcome,” she answered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The plain-blue gloves were simple in design, much more to my taste than the patterned ones I saw other students wear. I put them on right away—the first time I’d ever worn gloves, though I didn’t say that, of course. After putting on the left glove, then the right, I flexed my hands over and over to get used to them. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Airi happily watched me. “H-how do they feel?” she asked.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“They’re the perfect size, and warm.” If I’d bought gloves for myself, I would’ve picked these.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m glad,” said Airi. “Well, uh, sorry for dropping by so late. Good night, Kiyotaka-kun.”</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Airi turned to leave. I wouldn’t have minded getting her a cup of tea or something, but it was pretty late. On top of that, having a girl in my room on Christmas Eve might’ve gotten me in trouble. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">As Airi headed for the elevator, she glanced back once, perhaps because she felt me looking at her. She gave a tiny wave, then hopped on the elevator. </span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">After seeing her off, I went back inside. “When would be a good time to show my gratitude?” I muttered.</span></p>
+<p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If you received a present on Valentine’s Day, you gave one back on White Day. I knew that much. What about Christmas gifts, though? I’d have to look that up later.</span></p>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 4: How We Spend Our Time","volumeId":"v7.5","chapterIndex":10,"prevChapter":{"volumeId":"v7.5","chapter":9,"title":"Chapter 3: Ibuki Mio’s Disastrous Day"},"nextChapter":{"volumeId":"v7.5","chapter":11,"title":"Chapter 5: The Turbulent Double Date"},"toc":[{"label":"Table of Contents","href":"Text/TableOfContents.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0001.html#auto_bookmark_toc_top","index":3},{"label":"Table of Contents Page","href":"Text/section-0002.html#auto_bookmark_toc_top","index":4},{"label":"Title Page","href":"Text/section-0003.html#auto_bookmark_toc_top","index":5},{"label":"Copyrights and Credits","href":"Text/section-0004.html#auto_bookmark_toc_top","index":6},{"label":"Chapter 1 - Prologue : First Winter","href":"Text/section-0005.html#auto_bookmark_toc_top","index":7},{"label":"Chapter 2: Love’s Arrow","href":"Text/section-0006.html#auto_bookmark_toc_top","index":8},{"label":"Chapter 3: Ibuki Mio’s Disastrous Day","href":"Text/section-0007.html#auto_bookmark_toc_top","index":9},{"label":"Chapter 4: How We Spend Our Time","href":"Text/section-0008.html#auto_bookmark_toc_top","index":10},{"label":"Chapter 5: The Turbulent Double Date","href":"Text/section-0009.html#auto_bookmark_toc_top","index":11},{"label":"Chapter 6: Where the Arrow Landed","href":"Text/section-0010.html#auto_bookmark_toc_top","index":12},{"label":"Epilogue: Postscript","href":"Text/section-0011.html#auto_bookmark_toc_top","index":13}],"volumeTitle":"Light Novel Volume 7.5","detailsLink":"/select/year-1/v7.5","returnLink":"/select","currentSpineIndex":10,"nextVolumeLink":"/select/year-1/v8","nextVolumeTitle":"Light Novel Volume 8"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

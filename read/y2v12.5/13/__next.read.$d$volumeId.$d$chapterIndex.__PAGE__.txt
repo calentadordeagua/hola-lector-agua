@@ -1,0 +1,299 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:Ta738,
+  <p class="P_Chapter_Header" id="auto_bookmark_toc_12"><span>Chapter 3:<br/>Another Time</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">I</span><span style=" font-size: 0.80em;">T WAS SATURDAY, </span><span class="C_Current__And__Times_New_Roman">March 19, not long after the fierce battle of the End-of-Year Special Exam. At seven o’clock in the morning, Ryuuen exited the dormitory alone and headed toward the outskirts of the school. It was a bit chilly out, and early enough that many students were probably still sleeping. When he arrived at his destination, he noticed that the person he was planning to meet had already arrived. They were quietly gazing out at the scenery, with their slender back facing Ryuuen. After watching that person’s back from a spot a short distance away, Ryuuen walked up to them, deliberately approaching with loud footsteps.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Got here awfully early,” he remarked, calling carefully so as not to startle them.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Since the conclusion of their match, these two had not seen each other for several days, due to a series of coincidences. What kind of face would that person be making when they left? What would they say? Ryuuen didn’t have any desire to start a fight or instigate; he genuinely wanted to know those things. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With her cane in hand, Sakayanagi slowly turned around. When she looked at him, Ryuuen saw the same strong will in her eyes as ever.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That is simply because my legs are so bad, after all. I need to get moving far before the average person,” said Sakayanagi, explaining her early arrival. “Besides, I felt a sense of regret when I thought that I would soon be taking in this scenery for the last time.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Her tone suggested that this was the true reason why she went out for a walk earlier </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen was the one who called her out here. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi was the one who was called out. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi had been intending to wait for Ryuuen to speak first, but he kept his mouth shut. He was trying to determine whether he should just cut straight to the heart of the matter, but found himself unable to read her expressions and mannerisms to interpret what kind of emotions she was feeling. For her part, Sakayanagi could see Ryuuen’s heightened caution and decided to relax her own guard around him a little.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Thank you very much for giving me a temporary reprieve before I voluntarily withdraw from this school,” she said. “It was quite helpful, as I needed a little time to take care of some unfinished business.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Originally, the bet between Ryuuen and Sakayanagi was that the loser would voluntarily withdraw from school. It wouldn’t have been strange at all if Sakayanagi had packed up her belongings and left the school together with Maezono immediately after the End-of-Year Special Exam had ended. The reason Sakayanagi had been able to stay here even this long, a few days after the exam had ended, was because of the permission of Ryuuen, who was nothing but an enemy to her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Sakayanagi’s removal from the school had been handled based on the rules set forth by the school for expulsion, there would be detailed regulations to follow and her expulsion would have been immediately enforced. However, Sakayanagi’s withdrawal was a voluntary one, established independently by the students of their own initiative, and agreed upon by both parties of their own accord. Although the school was made to function as an intermediary between them to ensure that the arrangement was honored, no detailed rules were set by the two parties, and it wasn’t made clear whether the loser would or would not be leaving the school by the end of the actual exam day. Therefore, they talked about it and decided that the withdrawal would be by the end of the month, and the school had followed that decision.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hope ya don’t think for one second that I showed you consideration for yer sake,” snapped Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh my, is that not so?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t get it twisted. It was simply more convenient for me, that’s all. Figured it’d be best to give ya a little more leeway, to let the reality of you gettin’ kicked out of school sink in real nice for all those Class A folks.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After all, if Sakayanagi had disappeared immediately after the exam without anyone knowing why, then he wouldn’t be able to hand her classmates that cruel reality and that shock.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, wait a sec, I forgot. You ain’t even Class A anymore,” added Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When Ryuuen deliberately flashed a smile at Sakayanagi, she smiled back in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. You did it for yourself, then, and nothing more. In that case, I suppose I will retract my words of gratitude,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen snorted derisively and thrust his hands into his pockets when he saw that Sakayanagi’s demeanor remained unfazed, despite his provocation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“As promised,” Sakayanagi continued, “I shall be leaving this school shortly. So then, what business do you have with me?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Seeing how Ryuuen was acting and that he wasn’t immediately cutting to the chase in this conversation, Sakayanagi gently urged him to speak freely, as she sensed what this was about.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, I’ve got somethin’ I wanna ask ya, before the loser leaves this school in misery,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Instead of showing mercy to his defeated opponent, Ryuuen once again rubbed salt in her wounds, trying to provoke her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Go ahead, then. Please do not hesitate. Go on and ask. I would be more than happy to answer if I’m capable of doing so,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi demonstrated that she welcomed having a conversation, almost as though she had come to this place for that exact purpose. Everything should have been arranged in such a way that they could proceed with talking now, yet Ryuuen opened his mouth only to quickly close it again. However, there was a slight difference this time compared to what happened the previous time. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Despite his best efforts, his words weren’t coming right away. What Ryuuen intended to ask were things that he could only come to know right here, and that he could only know right now. However, hesitation had arisen. Should he confirm or not? He should have had the answer in his mind, yet he was swayed by the sight of the girl before him. To avoid letting her see that, Ryuuen started walking and passed Sakayanagi’s side, and then stopped again once their backs were facing each other.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Feels like you’ve always been actin’ no different from usual, even since yer withdrawal was set in stone. Ya just tryin’ to make a show of courage?” asked Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, now, what do you think? How did I appear in your eyes?” asked Sakayanagi in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…Hmph.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">No different from usual. A cocky, brash chick, through and through</span><span class="C_Current__And__Times_New_Roman">. Those were Ryuuen’s honest impressions. As long as his opponent wasn’t letting her confident attitude crumble, Ryuuen couldn’t allow himself to hesitate either. There were things that had to be asked and answers that had to be heard. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I ain’t satisfied with that match,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Words that he struggled to spit out. Emotions that had never existed in him until now, emotions that he had never experienced before, were being dragged out into the light of day. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You aren’t satisfied? But the outcome was made quite clear, wasn’t it?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t bullshit me. I admitted defeat to ya in the end,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had been preparing to accept the reality of being taken out by a good, worthy opponent, albeit with some frustration. He had also prepared to swallow the reality of having to withdraw from school. However, when the time came, the results weren’t what he was bracing for. In a way, these results were more difficult for him to accept without question, without any room for discussion. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You gave it every effort, and, once you decided that the outcome was settled, you stepped off of the playing field. However, that was only a premature judgment on your part. It is simply not a true conclusion,” declared Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When you’ve thought you’ve won, you end up losing. When you’ve thought you’ve lost, you end up winning. From time to time, that was simply how a competition played out.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Even so, this time was different. If this happened just between you and me, I would accept it, but Ayanokouji’s message or whatever it was turned the outcome upside down. Are ya tellin’ me to just accept it wholesale?” asked Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whether you accept it or not, the results are the results. There is no changing them,” said Sakayanagi, speaking in logical terms to someone who tried to defy logic. “Though, that being said, I can understand your feelings, Ryuuen-kun. I imagine that, without knowing the reasons why I accepted defeat, it would feel like a small bone was stuck in the back of your throat.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The situation where there was a 99 percent certainty of defeat for Ryuuen had been completely flipped. Without a doubt, “Ayanokouji’s message,” which Ryuuen had heard about, was the only reason for that. A message from none other than Ayanokouji. That guy had always rather creeped Ryuuen out, but he couldn’t have imagined that he could turn something like their competition upside down with a single message. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If I wanted to win like that, then I could’ve,” he said, “but ya purposefully took on the risk of getting expelled and let that traitor Hashimoto off the hook. What the hell kinda message could make ya bend over backward to that idea?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was something that he could only know by questioning either Ayanokouji or Sakayanagi. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, now,” Sakayanagi said. “Personally, it would be amusing for me to leave you with that unpleasant unfeeling, but I have said that I will answer anything that I can provide an answer to, so I shall give you a special lesson.” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After that declaration, Sakayanagi thought back to her behavior during the exam and gave a self-deprecating smile. Ryuuen was unable to see the expression on her face precisely because they stood with their backs to each other. Perhaps they were each wearing expressions that they didn’t want the other to see.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Through you and Hashimoto-kun, I received a message from Ayanokouji-kun. It was about what Ayanokouji-kun had originally envisioned,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…Huh?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He has one year remaining at this school, and he wanted you there with him, not me. If one of us were to be expelled and disappear, he wanted to fight not against Sakayanagi Arisu, but Ryuuen Kakeru. That’s what his message was.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was the message that Ayanokouji conveyed to Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So you’re sayin’ that you figured out the message and lost of your own free will? And on top of that, you’re sayin’ that not only are ya not gonna destroy Hashimoto, but you’re just gonna overlook everything? That’s ridiculous,” spat Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Faced with Ayanokouji’s message, before he could even accept it or not, feelings of fury welled up within him. Yet his anger wasn’t directed at Ayanokouji for intervening, but at Sakayanagi for her overly lenient thinking. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If I were given a message like that, course I’d ignore it, obviously,” said Ryuuen. “I’d crush Hashimoto, and then I’d beat the shit outta him while I was at it. Ain’t no way I’d let him get what he wanted.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Knowing you, I suppose you very well might have,” Sakayanagi replied. “It’s simpler than you think, though.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Come again?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is true that had this message directly come from you, Ryuuen-kun, or Hashimoto-kun, or from another third party, I most certainly would not have gone along with it, just like you wouldn’t have,” said Sakayanagi, thinking back on her conversation with Hashimoto during the End-of-Year Special Exam. “It is precisely because it was a hidden message that I decided that the best course of action would be to consider it carefully.” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I dunno what you mean by that,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, I suppose not,” she replied. “I am sure this is something that only I can understand.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen, in response to that incomprehensible explanation, looked over his shoulder and scowled. Even without turning around herself, Sakayanagi could imagine the look on his face, and she smiled.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I have not completely accepted it, of course. To be honest, I lay in bed for about half a day afterward,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although, from another angle, that meant that she had recovered in half a day.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t ya think that you’re better suited to fight that guy?” asked Ryuuen. “That you’re the one who should go up against Ayanokouji?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had no intention of making such a self-degrading statement, but when Sakayanagi gave him such a stupid, ridiculous reason, the words just tumbled out of his mouth before he could stop himself.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I understand your frustration, that you were unable to gain the right to challenge him with your own hands. Even if I forced myself to beat you, Ryuuen-kun, then…” Sakayanagi paused. “Actually, no, let’s stop engaging in what-if scenarios.” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen, standing behind her, still wasn’t satisfied with the outcome of their competition. He didn’t quite understand how he felt about it now, only that it felt heavier than expected. That was because Ryuuen had thought that he would simply be happy with a win, no matter how he got it. On that point, Sakayanagi’s insight was off. The only thing running through Ryuuen’s mind now was what he should’ve done instead. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It was a mistake, passin’ Ayanokouji’s message on to you,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hee hee hee,” chuckled Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What’s so funny?” asked Ryuuen. “You destroyed yerself ’cause of that message. He intervened to determine who won and who lost, even though nobody asked him to. I should’ve ignored it and fought until the end just for me and nothin’ else.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Until you were defeated by me and accepted your defeat?” challenged Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t be so sure,” Ryuuen shot back. “If I used my traitor rights effectively, there’s a possibility I could’ve beat you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Ryuuen had no intention of delivering the message, then he could’ve used that card on his own time. He had been fighting with a handicap, albeit a small one.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. That is certainly true. However, I would not have lost even if you held onto your traitor rights, or if you exercised them as part of a strategy.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi stated that definitively. She didn’t say that she might not have lost; she had said that she most definitely would not have lost. That was because she was confident that no matter when Ryuuen were to exercise those rights, she would’ve been able to respond accordingly, flawlessly. However, since it was clear that neither side would budge an inch on this subject and it would only lead to circular discussion, they both had no choice but to just let it go.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Right now, you are in more danger than you imagine, and yet you think you can defeat Ayanokouji-kun while in such a state?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I will. Obviously, I’m gonna beat him. That’s why I’m standin’ here right now.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. However, do you think you can win against him in just one more year?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Course I can.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do you really mean that? You seem incredibly unsteady on your feet. I am sure that Ayanokouji-kun would have the same impression if he saw you right now.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Normally, one would’ve been disgusted by Ayanokouji’s ridiculous message, and it wouldn’t have been strange if they rejected it. However, Sakayanagi sounded truly, deeply happy as she talked about Ayanokouji. Although Ryuuen didn’t know the details of the situation, he could at least tell that Sakayanagi’s love was genuine.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yer free to be delusional ’bout Ayanokouji all ya like, but I don’t have to like it, and I don’t,” spat Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t have to like it, you say?” asked Sakayanagi. “You’ve been glossing over things quite a bit for some time now. Is it not your creed to win by any means necessary, no matter what? When Ayanokouji-kun tasked you with delivering a message to me, you could not ignore it, and your ability was simply insufficient to defeat me. You could not measure up to me, who understood the message and accepted defeat. Is that not all there is to it?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As a result, Sakayanagi, even as the loser, accepted her loss more gracefully than Ryuuen accepted his win. That only made Ryuuen even more frustrated. He knew the real cause: It was because Sakayanagi was right.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do not mistake him for a saint,” Sakayanagi cautioned. “Ayanokouji-kun’s actions are rooted in his own self-interest. If it’s for his own sake, then others are nothing more than disposable pawns. You and I may be of a similar type to him, Ryuuen-kun, but he is in another league entirely. Ayanokouji-kun genuinely thinks that way, from the depths of his heart. Unmistakably and unfailingly so. Now, he has evolved even further, here in this school. He has found his purpose. And for that purpose, he will hurt others, drive them to expulsion, or even manipulate others to win or lose, without compunction. </span><span class="C_Current__And__Times_New_Roman__And__Italic">That</span><span class="C_Current__And__Times_New_Roman"> is the person known as Ayanokouji Kiyotaka. In a very literal sense, he will use whatever can be used, whether that be someone’s fleeting romantic feelings, or a special relationship. He uses anything and everything only for himself.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">One-on-one. Fair and square. Even if both parties had decided things to be that way, Ayanokouji was essentially free to act as he wished, as an outsider to the agreement. In truth, Ryuuen himself had fought battles in such a self-serving fashion all his life. However, even in areas he felt he excelled in, Ayanokouji easily surpassed him. Ayanokouji executed his moves so perfectly, and without any waste, that it was almost infuriating.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Heh… I underestimated just how obsessed you are about a guy who is that crazy in the head,” spat Ryuuen. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I am proud to say that when it comes to feelings for Ayanokouji-kun, I will not lose to anyone,” said Sakayanagi with a boastful smile, like a child showing off a toy. “But I understand. How you feel, that is. That you do not like it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Though she was speaking to Ryuuen, the words were directed partially at herself. Of course, Ayanokouji had probably also envisioned a future in which Sakayanagi had won. There was no doubt that Ayanokouji considered all the possibilities and planned for each, no matter how things turned out. He always prepared a myriad of options and kept all potentials in mind. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He had even calculated that you would suffer as a result of this outcome,” Sakayanagi added. “If his calculations could be wrong, it’s only in that you could be in such mental distress that you would lose your fangs over it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sakayanagi wore a smile, aimed at the person behind her, which seemed to be saying, </span><span class="C_Current__And__Times_New_Roman__And__Italic">“You’re not </span><span class="C_Current__And__Times_New_Roman">that </span><span class="C_Current__And__Times_New_Roman__And__Italic">weak, are you?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I—” began Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If your fangs really have fallen out,” Sakayanagi went on, “then Ayanokouji-kun might actually have second thoughts. He’ll start to think that it was I, and not you, who deserved to be on the battlefield.” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">It’s not like I lost my will to fight or nothin’</span><span class="C_Current__And__Times_New_Roman">. Though Ryuuen told himself that, the truth was that he couldn’t hide the fact that he was taken aback. Sakayanagi, having intuitively sensed Ryuuen’s emotions, honestly envied him. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I will miss it, after all. That I can no longer continue to watch over what Ayanokouji-kun does from a special seat,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If that were true, then wouldn’t ya be beggin’ to stay, even if you had to bow down to me?” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In fact, Sakayanagi’s withdrawal from school had not been officially carried out yet.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Unfortunately, I have no intention of doing something like that. I have already packed my bags. Besides, I, for one, think that this ordeal has been a good learning experience. I have been able to broaden my horizons, if nothing else.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In contrast with the troubled Ryuuen, Sakayanagi was about to take another step forward. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, that’s too bad. Y’know, if ya just rubbed yer forehead ’gainst the ground and apologized, I could’ve gone to the school and wiped away our little bet, yeah?” replied Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Let’s not suggest something so tactless as that, hm?” said Sakayanagi. The fact was, her will was firm and unwavering, even as she wore a slightly disappointed smile. “At any rate, this was rather unexpected. You even goaded me as soon as we met, so I thought you would have been overjoyed about this outcome, but…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“This End-of-Year Special Exam alone was special. That’s what I thought,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had planned to defeat Sakayanagi fair and square from start to finish this time, because he had unshakable confidence that he could defeat her. Instead, she had outclassed him. Even though the feeling of defeat was heavy, Ryuuen felt more satisfied than frustrated with that process. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I dunno how to take this,” he said. “I’ve never felt this way before. A win’s a win. I should be happy, just like ya said. That’s what I’ve thought all this time, but now, I’ve got these doubts in me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just casting each other aside would’ve been simple, natural even, since they weren’t allies. However, Sakayanagi honestly felt like she wanted to support Ryuuen now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’ll offer you a solution. If you are not willing to accept the reality that you have won, then you can just withdraw from school,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh?” said Ryuuen with a blink.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Listen, if you want to lose to me, then go ahead. You can lose right now. If you choose to leave the school voluntarily before I do, then that would undeniably be a defeat.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When she looked back and saw Ryuuen glaring at her, she laughed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hee hee. Well, I meant what I said, but I suppose I phrased it in a somewhat mean-spirited way,” said Sakayanagi, deciding to grant the lost Ryuuen some advice on his path, as a class leader. “Fighting Ayanokouji-kun means that you must also face your own contradictions, the ones that you are currently carrying within you. He cannot be measured by a simple metric. Using those contradictions as a weapon is the only choice you have, to the point that I feel as though even I may have been mistaken in my assessment of him.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was precisely because Sakayanagi had seen and felt for Ayanokouji more than anyone else that her words carried weight.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What I said to you earlier, that you could just withdraw from school voluntarily, is true,” added Sakayanagi. “However, losing is always an option. Yet, despite the pain, you have won this time, so you still have the right to continue fighting. To give that up so easily would be something that only a fool would do, wouldn’t you say?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen may have been struggling with feelings of uncertainty and hesitation, but from the start, he had no intention of giving up his win. There was no way that Ryuuen, who was hungrier for victory than anyone else, would make such a choice.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You have to keep fighting in a crude, uncouth way. You have to really sink your teeth in. There are things that you can only get if you do it that way. Eventually, it’ll be for your own good. However, I cannot guarantee that it is hope that awaits you at the end,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Currently, Ryuuen’s abilities were no match for Ayanokouji’s. No matter how optimistic he might try to be, there was no changing that reality. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“While you paw at the ground and struggle, I for one will be eagerly awaiting the day when I can fight him again,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re gonna keep chasin’ after Ayanokouji, even though he says he doesn’t need ya?” asked Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Of course,” answered Sakayanagi. “While it is certainly true that I had stopped walking forward for a moment, my feelings have not changed whatsoever. Once again, Ayanokouji-kun is someone special to me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After a few moments of silence, Sakayanagi gave a peculiar smile.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Though weakened, your spirit does not seem to be dead,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, I’ve suffered similar humiliations in the past at this school,” Ryuuen said. “Maybe those experiences are what’s kept me alive.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Otherwise, he wouldn’t be standing here right now. It wouldn’t be an exaggeration to say that he had been guided to this point by Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please allow me to give you my greatest piece of advice: Know that you cannot defeat him alone,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You call that advice? Don’t make me laugh,” spat Ryuuen.</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_01" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_01.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_14"><span class="C_Current__And__Times_New_Roman">“You know very well how high the walls are for the human being known as Ayanokouji-kun. Although you have grown over the past two years at this school, you will never be able to overcome that wall. You are tyrannical, savage—you can make full use of those such abilities, but such things are mere child’s play to Ayanokouji-kun. He can fight without hesitation even in your area of expertise,” said Sakayanagi. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Then what’re ya tellin’ me to do, exactly?” asked Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I am saying that you must change your way of thinking, that you must learn to think more flexibly,” she replied. “It is nearly impossible to defeat Ayanokouji Kiyotaka-kun, who is close to absolute perfection. Not only with a frontal attack of course, but even outlandish schemes will not work. Which is why I will specifically create a weak point within him.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You sayin’ you’re his weak point?” asked Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes. This may help you someday. No matter how superior an intellect he possesses—no, actually, it is precisely because he possesses such superior intellect that it leads to unexpected weaknesses,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen was getting this advice because Sakayanagi wanted to, in her own way, get back at Ayanokouji for being mean to her. She was convinced that she could control Ayanokouji’s thinking, just as he had controlled the outcome of their match by using a message that no one but a genius like her could’ve understood. Ryuuen, for his part, was choking back ridiculous, absurd feelings, like </span><span class="C_Current__And__Times_New_Roman__And__Italic">“Sakayanagi’s better at that than me…” </span><span class="C_Current__And__Times_New_Roman">He could feel the words there in the back of his throat, clawing to get out, but this time he forcefully swallowed them back down. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is a good thing to continue being lost for a while. If you do not give up, you will find a way,” said Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You two just go off and talk like ya can see into other people’s heads. You and Ayanokouji,” spat Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That is the greatest possible compliment,” replied Sakayanagi, chuckling and poking at the ground with her cane. “Well, then, shall we wrap things up here? I have some other plans to attend to.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen realized that they had been absorbed in conversation for quite some time. Most likely, this would probably be his last conversation with Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, what’re you gonna do when you get outta here?” asked Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I have been told which school Masumi-san has transferred to. I intend to visit her there first and offer her an apology while I am there,” Sakayanagi answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“She’s gonna be freaked out when you show up,” said Ryuuen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, knowing her, I suppose the first thing to come out of her mouth will be a sigh.” With that said, Sakayanagi began walking away. “Let us meet again another time. Until then, please do not get yourself expelled from school in a disgraceful manner.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ryuuen had always had an adversarial relationship with Sakayanagi. Not just with her, but with anyone. Now, however, he felt assailed by an indescribable feeling of loss. Things had changed significantly not only because of the End-of-Year Special Exam, but because he had recognition from Sakayanagi. Perhaps it was because he had lost someone who could possibly be called a rival. From now on, Ryuuen would have to stand alone against Ayanokouji. Ryuuen never once looked back, not until he could no longer feel Sakayanagi’s presence. However, it was then that a new, single question came to mind.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh?” he blinked and suddenly turned around, but there was already no sign of Sakayanagi anywhere. “…‘Another time’? There ain’t no ‘another time’ for you. What, you bein’ a sore loser?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, he cast that thought out of his mind, since there was no point in thinking about someone who was leaving the school. He was still himself, and first, he was going to set his sights toward the upcoming battle in his third year. Now that Sakayanagi was gone, he had to focus on his fight with Ayanokouji, even if he didn’t want to. Although Ryuuen had returned to the competitive stage after getting a large number of Class Points, things like the point totals were nothing but fluff right now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The road to Class A would stay closed unless Ayanokouji was defeated. Ryuuen’s doubts had not completely disappeared, but even so, the fog had lifted thanks in part to the little goddess who didn’t know how to take it easy on others. She told him to accept the fact that he was no match for Ayanokouji as he currently was, at least for the moment. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“One year. Just one year, huh?” Ryuuen mused. “Ha! Bring it on.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For Ryuuen Kakeru, the most important single year of his life was about to begin.</span></p>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 3: Another Time","volumeId":"y2v12.5","chapterIndex":13,"prevChapter":{"volumeId":"y2v12.5","chapter":12,"title":"Chapter 2: Checking Each Answer"},"nextChapter":{"volumeId":"y2v12.5","chapter":16,"title":"Chapter 4: Vacant Throne"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Behind the Curtain","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Checking Each Answer","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Another Time","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: Vacant Throne","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 5: Anticipating","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 6: Illusion","href":"Text/section-0019.html#auto_bookmark_toc_19","index":20},{"label":"Chapter 7: Even After Graduation","href":"Text/section-0021.html#auto_bookmark_toc_21","index":22},{"label":"Chapter 8: Parent and Child, Child and Parent","href":"Text/section-0024.html#auto_bookmark_toc_24","index":25},{"label":"Chapter 9: Celebration","href":"Text/section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 10: The Promised Night","href":"Text/section-0030.html#auto_bookmark_toc_30","index":31},{"label":"Chapter 11: Goals","href":"Text/section-0037.html#auto_bookmark_toc_37","index":38},{"label":"Chapter 12: The Curtain Rises Once Again","href":"Text/section-0041.html#auto_bookmark_toc_41","index":42},{"label":"Postscript","href":"Text/section-0042.html#auto_bookmark_toc_42","index":43}],"volumeTitle":"Light Novel 2nd Year Volume 12.5","detailsLink":"/select/year-2/y2v12.5","returnLink":"/select","currentSpineIndex":13}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

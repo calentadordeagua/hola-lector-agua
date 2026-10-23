@@ -1,0 +1,891 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[98168,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js"],"default"]
+4:I[37457,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+5:I[36768,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/b7415f7eaafec72a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+6:I[43880,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js"],"Analytics"]
+8:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[32268,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+c:I[5789,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+d:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","style"]
+:HL["/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","style"]
+:HL["/hola-lector-agua/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/8c2eb9ceedecfc8e-s.p.21935807.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/ce62453a442c7f35-s.p.124b2306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"xTs_Uh3z_t9CBVjB8m3b9","c":["","read","y2v12.5","25",""],"q":"","i":false,"f":[[["",{"children":["read",{"children":[["volumeId","y2v12.5","d"],{"children":[["chapterIndex","25","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":["$","body",null,{"suppressHydrationWarning":true,"className":"inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG__variable merriweather_b1e99710-module__84TlHG__variable roboto_4304287d-module__gQrF4G__variable lora_c06265ab-module__hGs1mq__variable font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{"children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]],"notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},[["$","$Lb","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false]},null,false,false]},null,false,false]},[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+12:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+13:T1bdcc,
+  <p class="P_Chapter_Header" id="auto_bookmark_toc_24"><span>Chapter 8:<br/>Parent and Child, Child and Parent</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">S</span><span style=" font-size: 0.80em;">PRING VACATION THIS YEAR </span><span class="C_Current__And__Times_New_Roman">presented more problems that needed to be dealt with than last year’s. Most of them had been taken care of, but one of the remaining issues would surely be resolved in the near future. That said, there was little that I could do, and in this case, I could only rely on the passage of time. It was now four o’clock in the afternoon on the first of April, and I put on my school uniform and left the dormitory to head to school, since my parent–teacher meeting was starting at 4:30 p.m. Originally, the meeting was scheduled for five o’clock, but Chabashira-sensei had contacted me during the spring vacation, and it was decided that I would be switching places with Kouenji, who was initially just before me. The schedule had changed for one man’s convenience.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Incidentally, students were instructed to wait in their respective classrooms fifteen minutes before their scheduled meetings. It was calculated that there would be plenty of time to meet, even if someone walked at a leisurely pace. Each student and their respective family members were allotted fifteen minutes for their actual parent–teacher meeting, and the intervals between meetings were thirty-minute increments. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I wondered if that man would really come. At this point, I felt like the chances were fifty-fifty, but I hadn’t heard anything about him calling to cancel. So far, anyway.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Coming to a place like this once is quite enough.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although those words had been directed at Chairman Sakayanagi and not me, it should have been safe to conclude that it essentially meant that he would never be coming to this school again. Despite that, he had gone against that statement to attend this parent–teacher meeting. If that were true, then naturally that must have meant something was behind it. I had thought that Ishigami, who had a connection with him, might have contacted me in some form, but ultimately no action whatsoever had been taken until this day.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I guess there’s really no point thinking about it anyway,” I mused aloud.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Since the issue was completely separate from school life, I figured that was all it would be. In theory, it seemed that parent–teacher meetings were usually held in a classroom or something, but at this school, they were held in places like the waiting room, the guidance counseling office, the student council office, and whatnot. Perhaps it was out of respect for the privacy of each family. In the case of students from Horikita’s class, we were supposed to use the guidance counseling office for the meetings, which was a little distance away from the classroom that we were to wait in. Once I took my seat in the empty classroom and waited for my scheduled time, I received a message from Chabashira-sensei ten minutes before that. She said that her previous meeting was over, and that I should come over to the guidance counseling office.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Now then, let’s tackle this parent–teacher meeting, shall we?</span><span class="C_Current__And__Times_New_Roman"> I thought to myself.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>8.1</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">A</span><span style=" font-size: 0.80em;">S SOON AS I SAW</span><span class="C_Current__And__Times_New_Roman"> the guidance office, Chabashira-sensei noticed me from where she was standing in front of the office door. The meeting was going to begin in just about five minutes, but that man was nowhere to be seen, even now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It seems like your father isn’t here. Will he not be attending?” asked Chabashira-sensei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No,” I answered. “Or at least, I haven’t received any word to that effect.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Apparently, that hadn’t been the answer that she had expected. However, it was certainly true that he hadn’t arrived yet, and Chabashira-sensei seemed a little anxious about whether or not he was really coming. I’m sure that, as a homeroom instructor, the matter of her overall schedule was something she was concerned about too. Time passed slowly as we stared at one another in the hallway, neither of us able to do anything but wait. Chabashira-sensei broached another topic, possibly because she was suffering in uncomfortable silence.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Um, about Chie…,” she started, “Have you seen her since then?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, I haven’t had any contact, either,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see,” said Chabashira-sensei. “Well, I know this isn’t something that I should expect from a student, but…” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It will take a little time, but I will be doing something over spring vacation, just as I told you the other day.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You did say that, but what in the world are you actually planning to do?” asked Chabashira-sensei. “Chie seems to be preparing herself for the worst, strengthening her resolve in order to defeat me. I can’t imagine anyone will be able to convince her, by any means.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I understand what you’re trying to say, but in that case, would you be willing to go so far as stepping down as homeroom teacher?” I asked in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Chabashira-sensei raised the white flag of surrender, then Hoshinomiya-sensei should be satisfied. I was sure that Chabashira-sensei would be spending the next year focusing on her duties as a teacher.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s… I can’t do that,” said Chabashira-sensei. “I have a duty to watch over all of you in my class.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“In that case, it is important that you wait patiently. You can’t act carelessly, Chabashira-sensei.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Right now, Chabashira-sensei needed the courage and fortitude to wait. I had no other choice here but to get her to understand that the best thing was to continue biding her time. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I…understand,” Chabashira-sensei said after thinking it over. “But if anything happens, contact me right away.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I know. I trust you, and I’ll be depending on you, Chabashira-sensei.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I figured that if a pupil said that to her, she wouldn’t be able to argue. </span><span class="C_Current__And__Times_New_Roman__And__Italic">Now then, was that man coming or not?</span><span class="C_Current__And__Times_New_Roman"> I thought. I heard footsteps, though faint, coming from the end of the hallway that I was looking down. As the clock ticked away, the man we were expecting appeared, dressed no differently from last year. He seemed to have noticed me right away, but he closed the distance without showing any kind of visible reaction.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“We have been waiting for you. I am the homeroom instructor, Chabashira.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji. Thank you for meeting with me today,” the man replied to Chabashira-sensei with a stern expression. Then he casually glanced over at me. “It’s been a long time, Kiyotaka. I’m glad to see you’re doing well. How’s school life going?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For a moment, the words coming out of his mouth made me think he must’ve hit his head or something, but it seemed like he was trying to act the part of a father in front of my homeroom teacher. If that were the case, that made things easier for me, so I figured I’d go ahead and play along to some extent. I was strongly conscious of the fact that this man was a “father” only while he was in front of certain people. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Guess so,” I replied, “I’ve made some pretty good friends too.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh ho. I’m glad to hear that!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">There was no doubt that the two of us were engaging in a conversation that neither one of us cared about at all, but Chabashira-sensei didn’t comment.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, then, please, step inside,” said Chabashira-sensei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She flashed a pleasant smile, opened the door, and led the two of us into the counseling office. That man and I sat down next to one another in chairs that were lined up, and Chabashira-sensei closed the door before sitting down in front of us.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“First of all, I would like to give you a brief report on Ayanokouji Kiyotaka-kun’s life at school, his grades, and so on over the course of the past two years here,” said Chabashira-sensei, getting the ball rolling.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With that, Chabashira-sensei slid two printouts of reports, which had been prepared in advance, onto each of our desks. My father picked up one of the copies and checked the contents, while I followed suit and looked over the other one.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I would humbly ask that you please listen to what I have to say as you read,” said Chabashira-sensei. “Please rest assured that he exhibits few behavioral problems with respect to his general attitude and his engagement during class. He is incredibly diligent.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Two years spent at this school. How did students perform in their written exams and special exams held by the school? How did the school evaluate the students? Good points and bad points were both included in the report.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Excuse me,” he interrupted. “May I ask a question?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes, of course. What is it?” asked Chabashira-sensei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What is OAA?” he asked in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He pointed to the written report, still playing the part of an ordinary father that was interested in his child’s development.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is a system that has been newly introduced to our institution,” Chabashira-sensei explained, “and you can think of it as a simple grading system for the students. The scores are revised every month and raised or lowered based on the student’s overall ability at that time.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“An interesting experiment,” he replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even though the reports were written in great detail about how a student performed over a given year, you wouldn’t be able to fully understand it at a glance. On the other hand, the OAA scores conveniently provided a rough idea of an individual’s abilities. My OAA as of the end of March was as follows:</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Bold">Ayanokouji Kiyotaka</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Academic Ability A (87) </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Physical Ability B (73)</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Adaptability C (54)</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Societal Contribution B (70)</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Overall Ability B (71)</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Can you please tell me how this compares to the average student, in terms of standing?” came his follow-up question.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He is in the top 5 percent of all second-year students. I believe his scores are enough to warrant considering him an honors student. Actually, I would say it may be even more than that. Looking at average scores in OAA for the second-year students, he has demonstrated an impressive rate of growth in the past six months,” summarized Chabashira-sensei. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">My score for overall ability around this time last year was fifty-one. Looking at it that way, my score certainly did improve a lot.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s good. As a parent, I feel as though I can watch over him from here on with peace of mind,” said the man.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With that, my father nodded firmly toward Chabashira-sensei, and what followed was a bland, inoffensive conversation between parent and teacher. Meanwhile, I remained silent and listened, occasionally responding when necessary with something simple to show that I was actively listening. After Chabashira-sensei had more or less finished going through her explanation of the presented material, she switched to the next topic.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Now, then. May I ask what your thoughts are in regards to Kiyotaka-kun’s future?” asked Chabashira-sensei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Meaning what?” he asked in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think that with his academic ability, he should aim for a higher-level university,” Chabashira-sensei answered. “While I would say that academics are not everything in life, it is my personal opinion that, if he is able to get in, the best choice would be to give him an environment in which he can fully demonstrate what he is capable of.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You are exactly correct. As a parent, I would be overjoyed if my child were to go on to a good college. However, the most important thing is what my son thinks. If he has no intention of going to higher education, then there is no point in discussing it here.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">My father’s answer had satisfied Chabashira-sensei, and now both of them turned their attention to me. Apparently, I was being asked to give a model answer.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“As long as my parent is giving me permission, I don’t think going to college would be a bad choice,” I declared.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. Of course, personally, I have no reason to oppose. Do you have a university that you would like to go to?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m interested in the college that my senpai who have taken care of me at this school have gone off to,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The senpai who have taken care of you?” asked Chabashira-sensei. “Do you mean Horikita and Nagumo, by any chance?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think that is a promising idea. While it certainly isn’t a low bar to clear, it should definitely be possible for you,” said Chabashira-sensei, sounding as pleased as though I were her own offspring, and went on to explain the university to my father.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. One of the top three national universities, eh?” he answered, deliberately putting on a show and acting as though he were honestly impressed. “If that is what you wish, do not hesitate to go for it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m so glad to hear that. If your family says so, I think that is deeply heartening,” she said to me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes, I suppose so,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“However, Kiyotaka,” my father continued, “I am not against you going to college, but what do you see beyond that?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">What curious turn of events even led to this? Saying that, my father asked me for my opinion. Was he going to keep up this farce until the end of the parent–teacher meeting? It wasn’t necessary to use up every single minute of the time you were allotted for a meeting, after all. We were already about halfway through, so even if we wrapped things up now, there wouldn’t be any problem. It wasn’t like he wanted to make a show of being a good father by continuing to talk about things at length that didn’t interest him. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Which meant that he must’ve been prolonging this meeting for a reason.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Beyond college?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">While I pretended to think about the answer to that question, I figured I’d take another guess as to what my father was after. What kind of fallout would be caused by prolonging this meeting, which could be over in five or ten minutes? What did he gain by using up the full time? What would happen in the event we were to go overtime? Naturally, there would be one effect. It could possibly cause problems for the next parent–teacher meeting, the discussion with Kouenji’s father. Which meant, in other words, he was trying to create an excuse to get in contact with Kouenji’s father under the guise of an accident. Was that it? </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes. Going to an excellent college is wonderful, of course,” he said. “But what are your goals in going to college, and what are your prospects? I would like to hear that before we settle on your career path.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Chabashira-sensei, who couldn’t possibly have any inkling as to what my father was scheming, listened along happily to what seemed like a conversation between parent and child.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sorry, but I haven’t decided any of that yet. Would it be too late for me to make those decisions in college?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, if you haven’t decided, then that’s fine,” he answered. “I wondered if you were going to college for no reason of your own, simply out of consideration for your parents. I simply thought that, if you were straying too far away from what you originally wanted for yourself, that would be a problem.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Does that mean if I said that I wanted to find a job instead, you would consider it?” I asked in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“As a parent, yes, naturally,” he replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Thank you very much,” I answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was nice that he made this easy, since all I had to do was play along, but this certainly wasn’t comfortable in any way, shape, or form. Even when he was acting, it wasn’t pleasant to look at my father from up close. My homeroom teacher and my father continued to talk about even more meaningless drivel than I expected, and eventually, after neatly using up all the time we had been given, he even forced us to go a little bit overtime.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>8.2</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">O</span><span style=" font-size: 0.80em;">NCE THE EXCRUCIATING</span><span class="C_Current__And__Times_New_Roman"> parent–teacher meeting ended, the three of us got up from our seats. It had been an exceedingly long fifteen minutes and change.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Thank you very much for everything today,” my father said as he bowed to Chabashira-sensei, politely and properly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, no, thank you!” Chabashira-sensei, flustered, hurriedly bowed in return. “We sincerely appreciate you taking time out of your busy schedule to come here.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I figured I was finally relieved of duty too; however, such wishful thinking was shattered in the blink of an eye. Immediately after we stepped out of the guidance counseling office, my father turned to say something to Chabashira-sensei before she could see us off.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“By the by, Sensei, this is nothing to do with my son, but may I have a bit more of your time?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Of course. Is there something on your mind?” she asked in return, without any visible signs of discomfort.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Normally, Chabashira-sensei probably would have wanted to contact Kouenji next, but she couldn’t bluntly refuse him to his face. Fortunately, since they started talking about the school, and it had nothing to do with me, I just let my mind go blank and let their conversation go in one ear and out the other. As I looked out the window, the only thing on my mind was the wish to leave soon. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I didn’t know the exact time because I couldn’t exactly mess around with my cell phone, but I figured that they had talked for about five minutes by the time that even Chabashira-sensei herself had become unable to hide the impatience on her face any longer. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Finally, my father nodded deeply.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’ve soothed my doubts,” he declared.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is that so? I am glad to hear that,” said Chabashira-sensei, exhaling a sigh of relief now that the tension had evaporated.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Thank you for giving me so much of your time today,” he said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, no, thank you,” Chabashira-sensei replied. “We sincerely appreciate you coming all this way to our school. I am sure that Kiyotaka-kun is overjoyed as well.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I most certainly was not. Regardless, I responded with a firm nod, to show that I was being mature about this. After looking at my sensei once again, my father glanced in my direction at the very last moment.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Just try not to do anything reckless for the rest of your time at school,” my father said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sure…” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Despite my father deliberately delaying things, it seemed like this parent–teacher meeting had gone smoothly. Without any further ado, my father quickly turned his back toward me and walked away.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He’s a good father, isn’t he?” mused Chabashira-sensei. “He’s not at all what I imagined.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just as I expected, to my teacher, we looked like a normal father and son.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Maybe so,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">At this moment, there was absolutely no point in explaining to Chabashira-sensei that she was wrong.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Now, then, one mountain cleared, and one more to go. Once I get through that, I’ll feel like a weight has beeen lifted from my shoulders.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Kouenji, is it?” I asked. “I hope that his meeting will be as trouble-free as mine was.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re telling me. You were obedient to me, but I can’t imagine how things will go with Kouenji,” said Chabashira-sensei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She probably wanted him to act like a gentle little lamb in front of his parents, but chances of that were likely slim. Chabashira-sensei casually looked down the hallway, and when I followed her gaze, I noticed my father standing immobile, staring back at me. Apparently, he was waiting for me to follow…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Your father’s waiting,” Chabashira-sensei said. “If there’s anything you’d like to discuss with him, you should now, while you have the chance.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’ll do that,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">There was no conceivable way he hadn’t had his fill of talking already. Was he going to continue this game of delaying things, taking the game into overtime even with just the two of us? Or was he going to take some kind of action against me? In any case, it was impossible for me to avoid him or just not do anything. Chabashira-sensei, after bowing and walking away from me, quickly headed back inside the counseling office. Now, since I was left with no choice, I slowly walked over to my father…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">No, over to the man who had come to the meeting earlier. I stopped once he and I were standing side by side, but the man didn’t seem like he was going to open his mouth to speak. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Was it really necessary for you to wait?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I could have ignored him completely, but I decided to talk to him, to try to find out what he was up to. However, I figured that even if I was right on the mark, he probably wasn’t going to confirm the reason so easily.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I just thought that we could have a little chat, as father and son, more or less,” he said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Father and son, huh? Unfortunately, I have never once thought of us that way,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s for sure,” he answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">One thing was for certain: I didn’t bear any particular grudge against this man. It was just that our relationship was more like a teacher-and-student relationship rather than a parent-and-child one. Wait, no, perhaps even that wasn’t the right way to put it. A more removed, hierarchical relationship, in which the distance between us could never be bridged.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’ve spent the past year racking my brain over what to do with you post-graduation,” said the man in question.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You don’t have to bother explaining it to me. Even if you did, I already know,” I replied. “And I have no intention of rebelling against it, anyway.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I will install you as a new mentor in the White Room, and create a generation that surpasses you,” said that man.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He went and said it aloud, even though I already told him that I knew.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If we’re looking at it in the long term, that is probably a safe choice. If you become a mentor and operate the White Room, there’s a chance that in twenty years, I’ll have countless of the best of the best, the kind of capable people that I’m looking for.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The man’s mouth moved in an indifferent manner as he envisioned that future.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But that safe choice is a preposterous future, and to be honest, it’s a dreary one at that. Just as the state of things in the world is changing minute by minute, the environment surrounding me has also changed considerably in just one year,” said that man.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m not interested in your environment,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“And I couldn’t care less about what you’re interested in,” he fired back. “What’s important is how I put that talent to use.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What is it you’re telling me to do?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You have at least a vague idea of what I’m talking about, don’t you?” he asked in reply.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was like his stare coiled around me. I didn’t know whether it was this man’s intuition or something else, but I guess it wasn’t surprising that he was still suspicious of what I kept hidden in my mind.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Dunno,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“At any rate, it will take time to prepare,” he continued. “You can do whatever you like for another year. Until then, I will not do anything whatsoever to interfere.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It seemed that he was giving a guarantee that I could live out the rest of my time at this school as a student, but I couldn’t trust him even that much. I wouldn’t be surprised even if he changed his mind tomorrow and shamelessly, unscrupulously sent new assassins in after me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Are you not worried that my intentions will change in the meantime and that I’ll rebel?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Rebel? That’s not going to happen,” he answered. “You ought to understand everything by now. Namely, that my cooperation is indispensable if you are to fully demonstrate your own worth and your reason for being. In the unlikely event that you were to do something like defy me, or resist despite knowing that, then, well. There would only be one conclusion.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It wouldn’t be something like my freedom or lack thereof. It would be in the tier of life or death. It seemed clear that this man had no concern whatsoever as to whether I was his actual child or not. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No matter how confident you are in your physical strength, if you’re unexpectedly hit by a stray bullet, that’ll be the end,” he added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For 24 hours a day, 365 days a year. There was no way someone could completely protect themselves at all times. In fact, I’d been killed many times over in simulations in the White Room. Being attacked while sleeping. Shooting from a blind spot. Or something in the food. Although we sharpened our minds to the utmost limits and received training to increase our chances of survival, at the same time, we were taught that our lives were in no way guaranteed. That point was drilled into us, almost to the point of nausea.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do not think about anything unnecessary, Kiyotaka,” he warned me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">By “anything unnecessary,” he meant our earlier conversation topics, including all that foolish blabbering about going to college. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you want that, you’ll need to keep convincing me that you’re useful to me,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh?” he said curiously. “In that case, is there something that you wish for?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He spoke as though he couldn’t even imagine that there was such a thing, and he was right in the sense that there wasn’t any physical object I wanted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What happened to Yagami, who you sent here to have me expel—well, no, who you sent here to check on me?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What you want is that information?” he asked in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">To be perfectly honest, I couldn’t care less, but the same wasn’t true for Amasawa.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He’s been disposed of, of course. Or rather, I’m sure that the old me, from a time before last year, would have answered as such,” he answered, then paused for a moment, with a look on his face that I couldn’t read any emotions from. “That one is still one of the better candidates we’ve had in the White Room. Now, we are having him undergo the education process once more.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Re-education, huh?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Unlike you, we gave him too much emotion,” he elaborated. “You could say that this is also a test, to get rid of that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Meaning that Amasawa will eventually follow Yagami?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s what it means, yes,” he said. “But I will allow her to stay here for two more years. Whether she graduates or is expelled, she’ll be collected afterward, and we’ll verify the differences between her and Yagami.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’d be fine if she could just hear that from you, though,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“We are teaching them so that they will listen,” he said. “Just as it is not so simple for you to rebel against me, despite your skills. In the unlikely event that they do not comply, that is when we will go as far as to dispose of them.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For most people, something like being able to influence another person’s existence or lifespan so easily wasn’t something that you just got used to, but that didn’t apply to this man. At least as far as the children who were chosen to be put into the White Room from before they were even conceived, they should understand all of the details, including the background. Even in the unlikely event that Amasawa were to develop a rebellious spirit in her time at this school, they could simply use Yagami as a pretext in dealing with her. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Amasawa couldn’t abandon Yagami. It was precisely because she had been instilled with such emotions that things would backfire. Well, actually, no, I supposed that the end result might have been the same regardless of how much emotion she might have. Looking at the matter impartially, you would think that Amasawa could object to things like instructions from this man without batting an eye, unless her opponent was an especially skilled pursuer. There was even the possibility of her publicizing the White Room to the world at large, ­forcing the plan to collapse, or driving them into a corner.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, I couldn’t imagine that Amasawa would do such a thing. Even for me, at this time, I didn’t consider that as an option. Or perhaps it would be better to say that it was unthinkable. Our education, which we had received since early childhood, was so deeply ingrained in us that it couldn’t simply be washed away just like that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I never imagined you would care about Yagami and Amasawa,” he said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Even though we were never really acquainted, Yagami is still like a little brother,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Laughable. It would seem that spending these past two years with normal students has had a profound effect on you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">There was no aspect of play whatsoever in the education in the White Room.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is that a welcome change for you? Or the opposite?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If I had to say, I believe it’s a welcome change. When you were in the White Room, you were a complete machine, for better or worse. The fact that humanity has been instilled within you, even if it’s only ostensibly, will be an asset in the future,” he mused.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Which meant that if he could ultimately control me, then it wasn’t worth worrying about, from the sounds of it. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, I’ve confirmed everything that I wanted to on my end. Can I leave now?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t be in such a rush,” he chided. “You don’t get many opportunities to speak with me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m fine with that, though,” I replied, starting to feel uncomfortable with how long this man had been standing there.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Yet he kept speaking regardless. “About what your homeroom instructor said earlier, about how your class has grown thanks to your effort. Even though it is within the small world of a classroom, the fact that you got them promoted to Class A is not bad. Well done.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m surprised you would praise me over such a stupid, insignificant thing,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sure it was no trouble for you to win, considering your ability. But that isn’t why I was praising you. I was praising you for your attitude in getting to the top. You wouldn’t have been concerned about such things before coming to this school.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Maybe so,” I replied. “But in that case, then your aspirations are fruitless. I’m not trying to get to the top, not really. If you need proof, I’m going to be moving into a lower-ranked class soon.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh? You’re saying that you’re deliberately going to fall all the way down again?” he asked. “You mean you’re going to pull them up, and pull others down from below, then?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Who can say? Maybe, maybe not,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I had a feeling about the way the wind was going to blow from here on out, as it was. I was deliberately not looking at the results, because I thought that might get my hopes up.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s an interesting response,” he said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I didn’t want to engage in pointless conversation about that here, but there still wasn’t any sign that he was going to let me go.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What you’re after is—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Fed up and thinking that enough was enough already, I opened my mouth to say something, but before I could speak, I heard the sound of footsteps from the stairway. I supposed it was around the time when it wouldn’t have been unusual for Kouenji and his attending parent to come by. The moment the person making that sound came into view, my father’s expression immediately changed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was none other than Kouenji’s father. He was tall, with a good build. Kouenji’s father spotted us standing there at the end of his line of sight and briefly came to a stop once he finished climbing the stairs. At that moment, my own father acted without delay and called out to him.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, heavens, it couldn’t possibly be,” he said. “President Kouenji, is that you?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">My father made a deliberate show of surprise, bowing his head before he stepped in front of the other man and forcibly blocked his path. A chance encounter with a parent and their child, at a place and time when they were visiting for a parent–teacher meeting. His performance, of making it look like a coincidence, was certainly well executed. Kouenji’s father did not utter a word at first but gazed fixedly at that man, like he was looking down on him. His intimidating aura was quite impressive.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I do not wish to be rude, but who are you, exactly?” asked Kouenji’s father.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Upon being asked that question, my father immediately took out his business card and offered it to Kouenji’s father.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please forgive me for the late introduction,” he replied. “I am a member of the Mutual Prosperity Party. My name is Ayanokouji Atsuomi, and I have been hoping to meet with you for quite some time, President Kouenji. I never imagined that I would be able to do just that here, while visiting my son. Well, I suppose one never knows what coincidence may bring.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I make it a rule not to accept unnecessary business cards,” said Kouenji’s father.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. Well, then, in that case, I will make every possible effort so that you would graciously accept my card. If at all possible, would you please do me the honor of giving me a few moments of your time, perhaps after the meeting with your son has concluded? You will not regret it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">My father bowed his head once again. I didn’t know why he was interested in Kouenji’s father, nor did I care myself, but I would’ve preferred that he took care of this kind of bothersome nonsense without involving me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry, but I have an appointment after this parent–teacher meeting. I will have to pass,” said Kouenji’s father.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That man had drawn close to him, pretending that it had been by chance, but apparently, Kouenji’s father had seen right through him. I figured that man wouldn’t back down so easily, but I wondered how he would respond.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see… I am extremely interested in this appointment you speak of, President Kouenji,” that man persisted, looking up as he said those words and making a show of force with direct eye contact, revealing that this encounter wasn’t by chance after all. With his grasp on the inner workings of social politics, he must have known that doing so would make a bad impression, but thought that forcefully bringing Kouenji’s father into a dialogue was worth it.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is time for my meeting. Please excuse me,” said Kouenji’s father.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Once Kouenji’s father said that, the other man slowly made way for him. As he passed by, Kouenji’s father and I locked gazes for just a brief moment. The sharp gleam in his eyes and the powerful sense of purpose conveyed in his gaze were even stronger than that of Ayanokouji Atsuomi. It wasn’t simply his social standing or his title; it seemed like you could say it was a manifestation of himself, which radiated from a perfect body. In terms of age, he must have been in his forties or fifties, and past his physical peak, but I could sense in an instant that he was an unfathomably strong man. My classmate Kouenji’s talents were undeniably something he inherited from this person.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“For a child—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kouenji’s father was about to say something to me, but ultimately he cut himself off and went straight toward the guidance counseling office at the end of the hallway.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He’s not an easy one to catch. Oh well, if he were, then I wouldn’t bother,” that man said, watching Kouenji’s father walk away.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I knew from the beginning that you had no interest in my parent–teacher meeting. It looks like your objective was meeting with Kouenji’s father,” I noted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He must have suddenly decided to come to school when he noticed that Kouenji’s name was listed near mine in the schedule. The fact that our conferences were scheduled together was probably not something dictated by that man, and, hypothetically, if the date and time of my conference and Kouenji’s had been far apart, he may not have come at all.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It wouldn’t be an exaggeration to say that he is the biggest supporter of the National Civic Party. He doesn’t make appearances, he doesn’t say anything, but he donates, and he’s a particularly important person to the NCP,” he explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In other words, to this man, Kouenji’s father was a supporter of the enemy.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If I can get him to change sides, the situation will change significantly,” he said in conclusion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If that’s the case, then couldn’t you have just met with him anywhere, even if you can’t here?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Not at all,” he answered. “His private life is shrouded in mystery, and he spends most of his time abroad. Even if I made the effort to catch him, it wouldn’t be so easy.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Which meant that if he knew such an untraceable man were to appear here, he’d leap on the opportunity.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“At any rate, he dealt with you so casually, huh?” I commented.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just then, his phone rang, and he answered without looking at all bothered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“…Yes. We’ll just go along with it, then,” he said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After that brief back-and-forth he had with someone, he hung up the phone and turned to make his way down the stairs, without saying a word to me. Now that we had actually made contact, I saw proof that the time spent with me had become nothing more than a waste. Since I had no intention of walking down the stairs alongside him, I decided to just watch him go.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>8.3</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">A</span><span style=" font-size: 0.80em;">S SOON AS I SAW</span><span class="C_Current__And__Times_New_Roman"> his back disappear down the stairs, another person appeared, as if to replace him: the son, Kouenji Rokusuke. He strode down the hallway, humming a tune. I thought he was just going to continue on and pass by me, but right when he stopped humming, his long legs came to a stop too.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji boy. May I have a moment of your time?” asked Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sure. It’s unusual for you to come talk to me, though,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Would I be inconveniencing you?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, I was just surprised, since I didn’t think you were the type to make conversation.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I was just thinking I would issue you a bit of a warning,” he said with a grin, and smoothed back his hair. “Your behavior as of late, well, you’ve been doing more and more things that are just intolerable.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Intolerable?” I asked. “I don’t understand what you mean by that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Surely there’s no need for you to be so evasive, is there?” he replied. “I mean, for instance, the matter of the End-of-Year Special Exam.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">From the way Kouenji was speaking, it sounded like he was talking about more than just that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You mean the thing with Maezono?” I asked in return. “That was an unavoidable choice, if we wanted our class to win. I’m fairly sure I explained the situation properly after the exam, didn’t I?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do you recall how I once said that I could see neither truth nor lies in you?” Kouenji replied, an audacious smile on his face.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hmm, you might have said that, come to think of it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Words that come from you are often laced with a foreign contamination. ‘You were only forced to deal with a traitor in order for the class to win.’ All of that is nothing more than an excuse for you to selfishly do whatever you please, isn’t it?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would appear that you have been terribly misled about me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">A unique view of me that differed even from that of Kushida’s and Karuizawa’s.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You can fool the masses, but it will not work on me,” said Kouenji. Maybe he wanted to demonstrate something, because he took out a hand mirror and held it out in front of me. “Take a look. See the expression on your face. The truth is clearly reflected in this mirror, wouldn’t you say?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">All that I could see reflected in the mirror was the same old me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry, but I don’t get it. A mirror is a mirror. It only reflects what’s in front of it,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Apparently, the ways you and I see things are different. Well, no, perhaps you see it too, but you’re simply lying.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You don’t care about the class in the first place, Kouenji. You aren’t supposed to care about what happens to anyone. So, what’s the point of you giving me this warning?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Trying to bat away a fly or a mosquito that’s buzzing about in front of you all the time doesn’t mean that you have a particular interest in the pest, does it?” he asked rhetorically. “That is all there is to it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“In that case, it’s not necessary for you to show restraint. If something is bothering you, the quickest method would be to simply knock it down,” I replied, suggesting that he shouldn’t bother trying to issue a warning or anything like that, but rather, to just deal with me himself. “But you’re not going to do that. Because even if it’s a little irritating for you to have something flitting about, it’s not like there’s any direct harm being done to you, after all.”</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_05" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_05.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_26"><span class="C_Current__And__Times_New_Roman">In the past, Kouenji has basically never made a move on his own. Unless it was something like what happened with Yamauchi or Hirata, when they went out of control and physically attacked him, he wouldn’t do anything to deal with an opponent.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I shall take your advice, but I will act according to my own thinking,” Kouenji said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I had tried something new in nudging him, forcefully plunging into the unknown, but as expected, I couldn’t see any meaningful change in Kouenji’s behavior.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You can do as you please in the future, as well,” he continued. “You are free even to dissect anyone’s mind and explore to your heart’s desire. It is law that the weak, if they do not possess the ability, will be trampled by the strong. There is no place for morals in this world, and those who cannot stop the strong are not qualified to complain.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That made sense. That was the kind of ethos that a person like Kouenji Rokusuke would have. Which was precisely why I had some suspicions about him stopping me here, when his parent–teacher meeting was about to begin. This wasn’t the time for him to be so easygoing, and yet he deliberately went out of his way to issue me a warning. Although calling me a fly that makes him uncomfortable should’ve probably prompted some kind of reaction from a fellow student.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If you’re having trouble coming out and saying what you really feel, it’s okay, you can just come out and say it,” I replied. “Don’t hold back. This is how I spend my time.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I decided to press Kouenji, if only to see what his reaction would be. The matter of handling this man in class that had been a source of problems the entire time meant I was once again confirming whether he was someone who ought to be eliminated, for Horikita’s sake if not my own.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would seem you really do intend to stoop to being the villain, apparently,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You know what I’m thinking?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I know exactly what you’re thinking,” he answered. “My sixth sense is somewhat sharp, you see.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Sixth sense, huh? Whether or not that was the real reason was irrelevant at this point. It wouldn’t cause any real problems if I pushed this conversation along even further. Even if some inconveniences arose, it’d be too late, anyway.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“When I first came to this school, I thought that just being a normal student would’ve been good enough. I thought that it would be fine if I could spend my entire three years as an ordinary student. However, in going through the cycle of routine life at this school, I have found something I want to do. Now, I’m going to do it. Instead of having a competition where one or two strong candidates compete over being in Class A, I’m going to have three or four classes compete with each other, to keep the never-ending competition going. That’s all there is to it,” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Which is why you will transfer classes, forcefully putting things into balance,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It sounded like Kouenji did know that I was considering leaving the class after all.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I won’t deny that. Though whether or not that can actually materialize depends on what happens next,” I replied. “But the matter of transferring aside, I intend to do whatever it takes to keep each class in the running, on equal footing.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, you are free to do whatever you wish in that regard, but I hope you will be content, playing with the little girl and dragon boy.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry, but I can’t guarantee to keep it within that range. As was the case with Sakura and Maezono, I will not hesitate to have someone expelled if I deem it a necessary measure in the future, even if that person is Wang Mei-Yu.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">For the thoroughly self-centered Kouenji, the person known as Mii-chan might be the one exception. Kouenji, whose expression had remained unchanging throughout this entire conversation thus far, raised his eyebrows slightly at that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Heh heh heh.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Only one person?” said Kouenji, laughing with amusement. “I believe I have expressed many times that I am not interested, but…do you really want me that badly?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It would appear that my provocation had been conveyed quite well.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Who can say?” I replied. “I didn’t really say anything about telling you to make a move.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Our gazes met.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">You’re not fixated on things like Class A. I understand that very well. I couldn’t do much of anything from the inside, but once I’m on the outside, the situation will change dramatically. If I leave Horikita’s class, the situation will change significantly, Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You ought to quit while you’re ahead,” Kouenji said. “I recognize you possess uncommon talents, in your own way, but they are not at the level where you could come against me. Even if we’re just talking about numbers and letters dancing about on top of paper, I would put you to shame if I were to get serious.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In other words, he was saying that he could do better than me when it came to academics.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If we’re just making cheap shots at each other, even Ike and Hondou could say the same things. Can you prove it?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I do not have an inclination to show off</span><span class="C_Current__And__Properties__And__Times_New_Roman">,</span><span class="C_Current__And__Times_New_Roman">” said Kouenji. “I intentionally keep things to a bare minimum in my ordinary studies. If you perfect your thinking based only on the knowledge that the world has created, your thinking will end up becoming rigid. Therefore, lacking in individuality, and boring. That is obvious when looking at you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was certainly true that I had absorbed a lot of the accumulated knowledge in this world. I used that knowledge as a starting point from which I would conceive and construct all things.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is the not knowing that allows me to arrive at my own answers,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He certainly had a very peculiar way of thinking, but what he was saying was true in its own way. Kouenji definitely had a high capacity for learning, but he deliberately made a point of not absorbing it all. After putting his mirror back in his pocket, Kouenji walked away. It would be interesting to see if he were to start helping rather than hindering Horikita, but I wondered if that day would ever really arrive. For now, I still didn’t know.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>8.4</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">T</span><span style=" font-size: 0.80em;">HE CHAIRMAN’S OFFICE. </span><span class="C_Current__And__Times_New_Roman">Standing there with good posture and a nervous expression was Chairman Sakayanagi, a usual fixture of this room. After greeting Kijima, his first guest, there was a heavy silence hanging over them. Time passed in that atmosphere, in which it felt like he couldn’t even let out a single sigh, until finally there came a knock at the door before it opened. That was the signal that the second visitor that Sakayanagi had been impatiently waiting for had arrived. In that moment, a man of large stature, Kouenji, appeared. Kijima immediately stood up and offered his hand to Kouenji, who walked with a powerful stride.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It has been quite some time, Kouenji-san,” said Kijima. “I have been eagerly looking forward to the day we could meet again.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Good,” replied Kouenji, “I feel the same, Prime Minister. It’s been three years, hasn’t it?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I believe it has,” said Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Both men exchanged a firm handshake and took their seats with smiles on their faces.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The results appear to be favorable, Prime Minister,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That too is all thanks to your tireless efforts, Kouenji-san,” replied Kijima. “Because I do not have to worry about what’s behind me, I can do as I please.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The higher your position, the more you’ll be attacked, after all. Regardless of whether it’s by friend or foe,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes,” Kijima said, “I understand that’s the way it is in the world of politics, but hardship is unavoidable.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I am truly pleased that we have a leader who can cross swords with the rest of the world,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">They were each paying respect to each other. Even Sakayanagi, who intended to just stick close and be a listener, could sense this immediately.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please wait! You can’t go in there!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just when Sakayanagi thought he heard the flustered voice of one of the security guards coming through the door he was posted at, that door was opened with great force.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please pardon the intrusion,” declared Ayanokouji as he barged in.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kouenji and Kijima had taken their seats just moments ago, and now Ayanokouji Atsuomi had forcefully entered the room. In comparison to the surprised Sakayanagi, Kouenji and Kijima didn’t appear to be the least bit shaken by this.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“A-Ayanokouji-se…san,” Sakayanagi stammered, “I am in the middle of a meeting with guests right now, and—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just as Sakayanagi took a step forward, reluctantly steeling himself to drive the visitor away, Kijima gently raised his hand to make him stop. He then flashed his white, straightened teeth, and held out his hands in a gesture of welcome.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I do not mind. Sometimes, you just have to enjoy these sorts of unexpected happenings,” said Kijima, even as he glanced over to Kouenji for approval.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, well… Prime Minister Kijima. I never imagined you would be in a place like this, even in my wildest dreams,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s not especially surprising, is it?” asked Kijima, maintaining a calm expression as he examined Ayanokouji’s deliberate look of astonishment. “I have experience serving as the Minister of Education, Culture, Sports, Science, and Technology, as well. And I have also made a small contribution to this institution, the Advanced Nurturing High School. Besides, it is a well-known fact that I am on familiar terms with President Kouenji. As a legislator, I am sure that you know that much, Ayanokouji-san.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kijima said the quiet part aloud, perhaps just to see how Ayanokouji would respond.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I am deeply honored that you remember me,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ayanokouji had once been known as the right-hand man of the now-deceased Naoe, a leading figure of the NCP. After being ousted from the political world, he had changed parties, and once again returned to the political stage. Ayanokouji was proud of the fact that his notoriety hadn’t faded.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is he a famous man?” asked Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When Kouenji posed that question to Kijima, he briefly closed his eyes and smiled softly.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whether someone is famous or not doesn’t matter,” Kijima answered with a soft smile. “It’s simply a matter of course for the prime minister, who is entrusted with the country, to commit to memory the names and faces of all the members of the Diet, after all.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kijima emphatically stated that he was unaware of anything Ayanokouji might have achieved; he simply remembered him as an individual. Kijima was well aware that any self-aggrandizing legislator would feel inwardly frustrated from something like that alone.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You are quite the gifted comedian, Prime Minister Kijima,” said Ayanokouji. “You are saying that you remember the names and faces of all members of the Diet?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Of course,” replied Kijima, as though it was only natural.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, there were over seven hundred people serving as members of the Diet. Was Kijima telling the truth? Even though Ayanokouji had immediately decided that he was lying, there was no way for him to confirm that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, then, I think it’s perhaps time we hear what business you have, Ayanokouji-san,” Kijima said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Pardon my rudeness, but I came here because I would like to speak with President Kouenji. I was told that he would be here,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Who told you that?” asked Kouenji, his chin resting on his fist and his arm propped up on the armrest of his chair. His posture and voice made the question feel intimidating.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I cannot say for certain. I’m afraid I don’t recall exactly,” answered Ayanokouji. “But I imagine it must’ve been from an employee of this school. They must have just so happened to have seen you, by chance.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Of course, that was a lie. He had simply caught wind of the fact that Kijima and Kouenji were meeting at this place and time, after the End-of-Year Special Exam. This back-and-forth was nothing more than a simple, convenient means to assess them. This was an enclosed space, and what’s more, he usually didn’t have the opportunity to speak with Kijima in a small group. For someone like Ayanokouji, who didn’t care about offending others or being hated, this was a good opportunity to appraise him.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Compared to when he was younger, Kijima’s physical presence seemed weaker, and he did not seem so threatening. So much so, in fact, that Ayanokouji had an almost worrying, precarious feeling. A feeling like he could easily grind him into dust. Many would think that it was Kouenji, seated next to him, who had an overwhelming sense of presence. However, at the same time, Ayanokouji also sensed that such naive thinking could prove fatal. This Kijima person, who had a nonchalant look of innocence on his face, was a man who had achieved everything.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“However, Mr. Ayanokouji,” said Kouenji, “I believe I turned down your proposal, did I not?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I suppose you could say that I don’t know when to give up. I was humbly hoping that you might make some time for me,” Ayanokouji replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So you pushed your way past the men in black suits and forced your way inside?” asked Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s just my nature,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Now Kouenji, too, was once again evaluating the impudent man before him, while Ayanokouji did the same. To what extent was he worth befriending? Or was it necessary to eliminate him, as an enemy? This time was precious, granted to decide those things.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please, I’m telling you this for your own sake, Ayanokouji-san. I think perhaps it would be better to leave this for another time,” pleaded Sakayanagi, feeling that he couldn’t just sit by and watch in silence any longer, if only for Ayanokouji’s sake.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, Ayanokouji wasn’t in a position to back down. With limited options, he was going to push forward. He had no likability to lose in the first place, anyway. In that case, he figured it would’ve been a loss if he didn’t plunge forward.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Were the two of you in the middle of an important business discussion, by any chance?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, no,” Kijima answered. “I simply came to visit an old friend, that’s all.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, I see,” said Ayanokouji simply, looking at Kijima as he politely denied it. “Well, then, in that case, I would love to be included in this conversation.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You are quite the audacious man. You must have a considerable number of enemies,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kouenji didn’t care for pushy or aggressive people, but he was beginning to appreciate Ayanokouji’s pluck, and the fact that he wasn’t timid.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes. It’s in my nature to say what I want to say, regardless of whether it’s to friend or foe,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It must be difficult for you, Prime Minister, if there are many legislators like him,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He once served under Naoe-san, whom I respected more than anyone. I’m not surprised that he has the guts to do something like this,” said Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With a grin, Kijima showed a positive attitude toward Ayanokouji’s approach. At the same time, Ayanokouji braced himself once again. After all, this man knew who he was. He was conscious of the fact that he wasn’t just another member of the Diet.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If it is all right with you, President Kouenji, let’s all chat for a bit. I find myself rather interested in Ayanokouji-san. This is an opportunity we don’t often come by, so why don’t we all have a seat?” said Kijima, and urged Ayanokouji to sit down.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I am fine standing, thank you,” Ayanokouji refused politely. “Considering my position, this is appropriate for me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kijima once again looked to Kouenji for confirmation, and although he didn’t seem terribly enthused, Kouenji consented to allowing Ayanokouji to stay.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would seem that your son is here at this school. If I remember correctly, his name is…Kiyotaka-kun, yes?” said Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I didn’t realize that you knew my son’s name,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is not only the names of the Diet members that I remember,” said Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ayanokouji listened to Kijima’s words without even twitching an eyebrow, but Sakayanagi appeared slightly shaken. Despite the fact that Kijima had seen the entire exam, Sakayanagi hadn’t thought that Kijima had been watching quite so closely.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Actually, I came to visit a few days ago as well. At that time, I thought I’d see President Kouenji’s son, and while I was here, I watched the special exam that the second-years underwent. But…I remember feeling like there was a student who really caught my eye,” said Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Internally, Ayanokouji wanted to reply that he already knew all of that, but he kept silent. That was because the only people who knew that Kijima had been watching the special exam were Kijima himself and the school officials. Not even Chairman Sakayanagi had any way of knowing that Ayanokouji was aware of the exam’s details. However, Ayanokouji saw this as an opportunity.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“How did my son look in your eyes, Prime Minister Kijima?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was only just one instance, and what’s more, it was an exam that was essentially a children’s game. Even so, now that Kijima had recognized the existence of Kiyotaka, Ayanokouji was genuinely interested in what impressions he had and what kind of evaluation he would give.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He seemed like he could become an even better politician than you are right now,” said Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kijima, without hesitation, expressed his assessment of Kiyotaka. At first blush, it sounded like it was praise for Ayanokouji’s son, when in fact it was the opposite. He was implying that Ayanokouji was a lesser politician than his child.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I never imagined the prime minister would evaluate him so. As a parent, I could not be more pleased,” said Ayanokouji, deliberately reacting with gratitude, as though he was taking what Kijima said at face value.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I imagine that must be the fruits of your labor,” Kijima continued. “You’ve adopted a special curriculum, haven’t you?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh no, nothing special,” Ayanokouji replied. “It’s because of the great education he’s getting at this school.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kijima had suddenly hinted at the White Room, but Ayanokouji managed not to choke, because he had expected exactly that to happen from the moment the subject of his son had come up.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You said that you wished to speak with me, but unfortunately, I am a supporter of the National Civic Party. You mentioned that you were with the Mutual Prosperity Party,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes,” answered Ayanokouji. “However, I had previously belonged to the NCP, just like Prime Minister Kijima.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Since Kijima had become prime minister, the NCP had dealt with some difficulties, but its approval ratings had stayed consistently high regardless, heavily suggesting that it would remain in power in the long term. On the other hand, the MPP, to which Ayanokouji belonged, was in an extremely disadvantaged state, operating as a party that was only able to heckle.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I could gather as much, from the gist of the conversation. Why did you leave the party?” asked Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would seem that some people would find it inconvenient if I had remained in the NCP,” answered Ayanokouji bluntly, even though the head of the NCP was sitting right in front of him.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji-san, you seem to just come out and say whatever is on your mind,” commented Kijima. “Naoe-sensei had praised you for that when he was still around, but at the same time, he also had his misgivings. Now that you have returned to the world of politics, don’t you think you ought to avoid making statements that could lead to misunderstandings, regardless of which party you’re affiliated with?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I am greatly obliged for your frank advice, Prime Minister,” said Ayanokouji in response, “However, I have been accepted and recognized by my supporters for that exact outspoken manner. It is my intention to say and do exactly what’s on my mind, so that I do not turn into the kind of politician who talks his way out of things through sophistry or convenience.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. Now then, there is one thing I would like to ask you. If it were possible, would you like to return to the NCP?” asked Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, I am not currently considering that,” said Ayano­kouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even if Ayanokouji did express that desire, Kijima wouldn’t say yes to it, and there was absolutely no chance that it would go through. It was obvious that, at best, it would only move forward a bit as a procedure, and it would be dropped by a review board meeting of committee members. Although individual legislators of small constituencies were free to switch parties, it wouldn’t be so simple in Ayanokouji’s case to change over to the NCP. If he could have done so, he wouldn’t have run as a candidate under the MPP in the first place.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, you are saying that you’re going to change Japanese politics from the MPP, then,” said Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I intend to,” replied Ayanokouji. “I am sure that must seem impossible for someone like you, Prime Minister Kijima, who belongs to a big political party. However, do you know of the pendulum principle? Right now, the political world is leaning heavily in your direction. Whether it is to the right or left is irrelevant, but one thing is certain: I am positioned at the opposite end from you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The next time the political world moved significantly, the pendulum would swing all the way. Ayanokouji spoke with certainty about this.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Remarkably, you seem to be speaking to the incumbent prime minister as though you were equals, Mr. Ayanokouji,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That is because I am in a situation where there is nothing for me to fear,” Ayanokouji said. “I haven’t the slightest intention of clinging to my seat in the Diet, simply awaiting my chance and staring at the faces of those around me.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji-san. You are duly aware that you are currently a member of the MPP, yes?” asked Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The difference between the NCP and the MPP as political parties was massive. Kijima warned Ayanokouji that there was no room for him in Kouenji’s pocket.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m afraid I do not understand. Could you perhaps be more specific?” asked Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Enough is enough,” Kouenji cut in. “Prime Minister Kijima appears to be fussing over you, but I do not judge people based on right or wrong. I do not judge based solely on political parties. I judge people only on whether or not they are competent, and at this current point in time, I would not say that you win in any area over Prime Minister Kijima, Mr. Ayanokouji. You are not even worth listening to, let alone worth helping.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I greatly appreciate your harsh critique,” said Ayano­kouji. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji-san. Kouenji-san is a self-made man, but do you know why he will not engage with you? It is not because he is on good terms with me. You had once lost your position, but you were elected again after being chosen by the people. Which means that you have gained the trust of a certain segment of the population, yes? The way a country should be and the direction it goes can be different, naturally. Whether the party is the same or not, things like that don’t matter. However, the public are not stupid, by any means. It would be better not to think that the people would meaninglessly endorse a candidate with such transparent ambitions,” said Kijima, simplifying Kouenji’s words with his own explanation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I gave you some time because I thought it could make for an interesting conversation, but there’s no point in letting this go any further. Take a step back, Mr. Ayanokouji,” said Kouenji. “You are a boring man.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is unfortunate that I couldn’t measure up to your expectations,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even if Ayanokouji hadn’t achieved any tangible results, he was at least able to instill a sense of his presence in them.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, then, I suppose I had better excuse myself here,” he added as he began to withdraw, far less forcefully than he had entered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Your son did some excellent work in leading his class to victory in the special exam the other day,” said Kijima. “He will most certainly become someone exceptional. Let’s chat about that at another time.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Thank you very much, Prime Minister,” said Ayanokouji with a bow. “I look forward to the opportunity.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kouenji watched with new interest as Ayanokouji turned toward the door, having been looking at him with nothing but boredom during the entire episode.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I can’t believe you would say that, Prime Minister Kijima,” said Kouenji. “As a parent myself, I can’t let that go ignored.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Your son is certainly quite exceptional too, President Kouenji,” said Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ayanokouji, upon hearing this, stopped in his tracks and turned on his heel.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Earlier, during the parent–teacher meeting, Kiyotaka said he would be changing classes,” said Ayanokouji. “In other words, he’ll be in a different class from your son from now on, President Kouenji. It would appear that they will be competing against each other.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That fact was something only Ayanokouji knew at this current point in time. Even Chairman Sakayanagi expressed surprise at this.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I-is that true, Ayanokouji-san?” he asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It is,” Ayanokouji answered. “I have no doubt, because I heard it directly from my son.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re telling me that even though he was finally able to be promoted to Class A, he’s moving to a lower class…?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“My son is extremely talented,” said Ayanokouji. “He comes up with ideas that ordinary people can’t even think of and then executes them. I assume that he must have no equal at this school, so he’s setting a hurdle for himself to clear.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Kouenji saw his own son as capable, this would be a clever provocation, but Ayanokouji’s gambit was more effective than he had imagined.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. I had a feeling there was something interesting going on, but…” Kouenji trailed off before shifting to address the principal. “Mr. Sakayanagi?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Y-yes?” replied Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“When Mr. Ayanokouji’s son does indeed transfer classes, would you mind passing a message on to my son?” asked Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Not at all,” replied Sakayanagi. “What would you like me to tell him?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“As a condition for granting him true freedom, I’m ordering him to maintain the position of Class A with his current class and graduate with that title. If you could tell him that, I’m sure he’ll understand. Now, it appears that, as chance would have it, your son and mine will fight,” said Kouenji, turning to Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I-I understand, but why do such a thing?” asked Sakayanagi.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I do not know which class Mr. Ayanokouji’s son will be transferring to, but the idea of intentionally starting over from a disadvantageous position is interesting. At the very least, it is worthy of curiosity,” Kouenji said. “Besides, it is better to give my son some trials to face. I don’t know if he’ll rise to the challenge, though.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“May I interpret that to mean that, through my son, you are giving your own the opportunity of sparring against an opponent of higher skill than himself?” asked Ayanokouji. “It certainly isn’t a bad idea to let him see there are walls that cannot be overcome, President Kouenji.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Even if he’s still a fledgling, I am giving Rokusuke a suitable education,” said Kouenji, his eyebrow twitching in the face of ever-greater provocation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. So, are you suggesting that their positions are actually reversed? I suppose it is only natural for you to value your own beloved son quite highly, but the same is true for me. However, we do not have sufficient data to judge which is superior,” said Ayanokouji, continuing before anyone else could open their mouth to interrupt. “May I propose a bet? If Kiyotaka prevents the class your son is in from graduating from Class A, I would like you to meet with me again. Furthermore, I would like for it to be a one-on-one meeting, without anyone else in the way.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Regardless of the titles held by adults, both sides were competing over the excellence of their sons. Upon hearing this proposal, the corners of Kouenji’s mouth curved up into a smile for the first time.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It would seem that you’re a surprisingly interesting man after all, Mr. Ayanokouji. Very well. However, should your son fail, you will resign from your seat on the Diet. Forever. Is that all right with you?” asked Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ayanokouji’s expression turned stern for an instant upon hearing those terms. Silence followed, and once again a smile tugged at the corners of Kouenji’s mouth.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Just a joke,” Kouenji amended. “You don’t need to take what I said so seriously. Well, actually, I suppose I should just say that it was a mature and composed decision on your part not to have responded immediately.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kouenji dryly clapped his hands a few times. Although Ayanokouji had a hunch that he should’ve answered yes, in reality, he made a calm decision. While he was sure that Kiyotaka could win when it came to individual ability, it was clear that he wasn’t concerned about Class A, and he was much less sure of what Kiyotaka was trying to accomplish at school. He was also concerned about the possibility, however slight, that word would get out if he had carelessly accepted, and that Kiyotaka would rejoin Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You are a very magnanimous man, aren’t you, Kouenji-san?” said Kijima.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was an unlikely scenario, but Kijima’s biggest supporter might possibly be taken in by an adversary. Kijima posed that question while appearing not to care about how the conversation progressed. Or, rather, sounding deeply interested but only as a bystander.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Life needs its pleasures,” said Kouenji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You are absolutely right,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I will be leaving Japan once again,” Kouenji said. “Please contact me once you see the results. If your son wins, I will happily return home.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I will be sure to contact you with the results, President Kouenji,” declared Kijima instantly, as though he were acting as a witness.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>8.5</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">A</span><span style=" font-size: 0.80em;">FTER LEAVING THE SCHOOL, </span><span class="C_Current__And__Times_New_Roman">Ayanokouji got into the back seat of the blacked-out sedan that was waiting for him outside of the main gate.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hello, sir. How was Prime Minister Kijima?” Tsuki­shiro asked over his shoulder from the driver’s seat.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He’s a cunning man,” Ayanokouji answered. “I could tell that he’s quite capable.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, Ayanokouji couldn’t get a complete measurement of his talent. There was only one thing he was certain of: He couldn’t see the limit of that talent. Even so, for Ayanokouji, his efforts this afternoon had certainly borne fruit.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I suppose that’s because he is, at any rate, governing the NCP, where demons nest,” replied Tsukishiro.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Having had channels of communication with the NCP for many years now, Tsukishiro understood that quite well.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I thought I could stir things up a bit more if I were to meet him in person,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Many people are fooled by his unremarkable appearance, but he is undeniably the real thing. Even so, you must have forcefully instilled in them a sense of your presence, yes?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“To a politician, their pride is as valuable as their life,” Ayanokouji said, motioning for Tsukishiro to go ahead and start driving, before crossing his arms. “I’m sure he must have thought that he could make me obedient by breaking my will.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although Kijima had made several indirect attempts, they didn’t land with Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That must have been somewhat of a miscalculation on Prime Minister Kijima’s part, I imagine. You have no pride to protect, after all,” said Tsukishiro. “By the way, while you were visiting the school, I watched the video of the special exam from the other day, and your son looks to be progressing quite well. His ability to exploit women’s emotions without hesitation must be something he has inherited from you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Tsukishiro had secretly contacted school officials in advance to obtain footage of the exam, which Ayanokouji had watched in anticipation of today’s events. That was precisely why he was able to handle Kijima tossing out information that should have been new without getting shaken.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If there is something that can be used, he will use it in order to survive. It’s just the way he was educated,” said Ayanokouji.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It was challenging work getting our hands on the data, but there is nothing further to gain from holding onto it,” said Tsukishiro. “There shouldn’t be any problem if we dispose of it, wouldn’t you say?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Once they were at a traffic light, Tsukishiro picked up the flash drive and briefly held it where Ayanokouji could see it from the back seat, before snapping it in two. He then placed it in the trash bin mounted on the cup holder located in the center console.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, how was the other one? President Kouenji?” asked Tsukishiro.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“He seems more devoted to Kijima than I had imagined,” answered Ayanokouji. “I’m certain that their relationship wasn’t created overnight.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Also, as an individual, Kouenji possessed a keen sense of smell that could not be underestimated.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The prime minister has powerful backup, in addition to his own capabilities. The NCP will be safe and secure for the next ten years,” said Tsukishiro.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Provided nothing happens, sure. However, in this world, no matter how high your position, no matter how capable you are, you cannot defy the natural way of things, and sometimes, people fall before the unexpected…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There is always shadow beyond the light. That kind of thinking really is very you, Ayanokouji-san.” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Besides, there was an unexpected boon, too.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh ho. A boon?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If Kiyotaka defeated the class that Kouenji’s son was registered to, he would get to meet Kouenji. It was a bet made for fun, but there was no doubt that if Kiyotaka actually pulled it off, Kouenji was the sort of man who would keep his promise. If Ayanokouji got the opportunity to engage him in a proper dialog without anyone interfering, it would be a once-in-a-lifetime chance for Ayanokouji to entice him.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I never imagined it would be a possibility that Kiyotaka would be useful to me in the future,” Ayanokouji said. “I suppose you really don’t know anything unless you try, after all.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ayanokouji wasn’t getting his hopes up, but even so, he also wasn’t going to pass up even a single opportunity if good fortune unexpectedly crossed his path.</span></p>
+7:["$","$L12",null,{"content":"$13","title":"Chapter 8: Parent and Child, Child and Parent","volumeId":"y2v12.5","chapterIndex":25,"prevChapter":{"volumeId":"y2v12.5","chapter":22,"title":"Chapter 7: Even After Graduation"},"nextChapter":{"volumeId":"y2v12.5","chapter":28,"title":"Chapter 9: Celebration"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Behind the Curtain","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Checking Each Answer","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Another Time","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: Vacant Throne","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 5: Anticipating","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 6: Illusion","href":"Text/section-0019.html#auto_bookmark_toc_19","index":20},{"label":"Chapter 7: Even After Graduation","href":"Text/section-0021.html#auto_bookmark_toc_21","index":22},{"label":"Chapter 8: Parent and Child, Child and Parent","href":"Text/section-0024.html#auto_bookmark_toc_24","index":25},{"label":"Chapter 9: Celebration","href":"Text/section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 10: The Promised Night","href":"Text/section-0030.html#auto_bookmark_toc_30","index":31},{"label":"Chapter 11: Goals","href":"Text/section-0037.html#auto_bookmark_toc_37","index":38},{"label":"Chapter 12: The Curtain Rises Once Again","href":"Text/section-0041.html#auto_bookmark_toc_41","index":42},{"label":"Postscript","href":"Text/section-0042.html#auto_bookmark_toc_42","index":43}],"volumeTitle":"Light Novel 2nd Year Volume 12.5","detailsLink":"/select/year-2/y2v12.5","returnLink":"/select","currentSpineIndex":25,"nextVolumeLink":"$undefined","nextVolumeTitle":"$undefined"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+14:I[27201,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+a:null
+10:[["$","title","0",{"children":"Classroom of the Elite Reader"}],["$","meta","1",{"name":"description","content":"A premium reader experience for Classroom of the Elite light novels."}],["$","meta","2",{"property":"og:title","content":"Classroom of the Elite Reader"}],["$","meta","3",{"property":"og:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","4",{"property":"og:url","content":"https://classroom-of-the-elite-reader.vercel.app"}],["$","meta","5",{"property":"og:site_name","content":"COTE Reader"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Classroom of the Elite Reader Preview"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Classroom of the Elite Reader"}],["$","meta","14",{"name":"twitter:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","link","16",{"rel":"icon","href":"/hola-lector-agua/icon.svg?icon.ae5abf30.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","17",{}]]

@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T5b5,
+<h3 class="P_TOC_Heading"><a id="tableofcontents"/>Table of Contents</h3>
+
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/3">Character Gallery</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/4">Title Page</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/5">Copyrights and Credits</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/6">Table of Contents Page</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/7">Chapter 1: Nanase Tsubasa's Soliloquy</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/8">Chapter 2: Everyone Has Their Own Strategies</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/9">Chapter 3: The Curtain Rises on the Uninhabited Island Exam</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/10">Chapter 4: Traveling Companion</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/11">Chapter 5: What It Means to Like Someone</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/12">Chapter 6: Unseen Enemy</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/13">Chapter 7: The Aloof Child Prodigy of Class 2-D</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/14">Chapter 8: The First-Years on the Move</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/15">Chapter 9: Identity Revealed</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/16">Chapter 10: Seeds of Unrest</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/17">Postscript</a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v3/18">Newsletter</a></p>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Table of Contents","volumeId":"y2v3","chapterIndex":2,"nextChapter":{"volumeId":"y2v3","chapter":3,"title":"Character Gallery"},"toc":[{"label":"Table of Contents","href":"Text/TableOfContents.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0001.html#auto_bookmark_toc_top","index":3},{"label":"Title Page","href":"Text/section-0002.html#auto_bookmark_toc_top","index":4},{"label":"Copyrights and Credits","href":"Text/section-0003.html#auto_bookmark_toc_top","index":5},{"label":"Table of Contents Page","href":"Text/section-0004.html#auto_bookmark_toc_top","index":6},{"label":"Chapter 1 - Prologue : Nanase Tsubasa's Soliloquy","href":"Text/section-0005.html#auto_bookmark_toc_top","index":7},{"label":"Chapter 2: Everyone Has Their Own Strategies","href":"Text/section-0006.html#auto_bookmark_toc_top","index":8},{"label":"Chapter 3: The Curtain Rises on the Uninhabited Island Exam","href":"Text/section-0007.html#auto_bookmark_toc_top","index":9},{"label":"Chapter 4: Traveling Companion","href":"Text/section-0008.html#auto_bookmark_toc_top","index":10},{"label":"Chapter 5: What It Means to Like Someone","href":"Text/section-0009.html#auto_bookmark_toc_top","index":11},{"label":"Chapter 6: Unseen Enemy","href":"Text/section-0010.html#auto_bookmark_toc_top","index":12},{"label":"Chapter 7: The Aloof Child Prodigy of Class 2-D","href":"Text/section-0011.html#auto_bookmark_toc_top","index":13},{"label":"Chapter 8: The First-Years on the Move","href":"Text/section-0012.html#auto_bookmark_toc_top","index":14},{"label":"Chapter 9: Identity Revealed","href":"Text/section-0013.html#auto_bookmark_toc_top","index":15},{"label":"Chapter 10: Seeds of Unrest","href":"Text/section-0014.html#auto_bookmark_toc_top","index":16},{"label":"Epilogue: Postscript","href":"Text/section-0015.html#auto_bookmark_toc_top","index":17}],"volumeTitle":"Light Novel 2nd Year Volume 3","detailsLink":"/select/year-2/y2v3","returnLink":"/select","currentSpineIndex":2,"nextVolumeLink":"/select/year-2/y2v4","nextVolumeTitle":"Light Novel 2nd Year Volume 4"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

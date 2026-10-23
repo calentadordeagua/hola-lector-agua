@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T778,
+  <p class="P_TOC_Heading" id="tableofcontents">Table of Contents</p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/3">Character Gallery</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/8">Title Page</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/9">Copyrights and Credits</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/10">Table of Contents Page</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/11">Chapter 1: Behind the Curtain</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/12">Chapter 2: Checking Each Answer</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/13">Chapter 3: Another Time</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/16">Chapter 4: Vacant Throne</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/19">Chapter 5: Anticipating</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/20">Chapter 6: Illusion</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/22">Chapter 7: Even After Graduation</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/25">Chapter 8: Parent and Child, Child and Parent</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/28">Chapter 9: Celebration</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/31">Chapter 10: The Promised Night</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/38">Chapter 11: Goals</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/42">Chapter 12: The Curtain Rises Once Again</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/43">Postscript</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12.5/44">Newsletter</a></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="COLORGALLERY_01" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/COLORGALLERY_01.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Table of Contents","volumeId":"y2v12.5","chapterIndex":2,"nextChapter":{"volumeId":"y2v12.5","chapter":3,"title":"Character Gallery"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Behind the Curtain","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Checking Each Answer","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Another Time","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: Vacant Throne","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 5: Anticipating","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 6: Illusion","href":"Text/section-0019.html#auto_bookmark_toc_19","index":20},{"label":"Chapter 7: Even After Graduation","href":"Text/section-0021.html#auto_bookmark_toc_21","index":22},{"label":"Chapter 8: Parent and Child, Child and Parent","href":"Text/section-0024.html#auto_bookmark_toc_24","index":25},{"label":"Chapter 9: Celebration","href":"Text/section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 10: The Promised Night","href":"Text/section-0030.html#auto_bookmark_toc_30","index":31},{"label":"Chapter 11: Goals","href":"Text/section-0037.html#auto_bookmark_toc_37","index":38},{"label":"Chapter 12: The Curtain Rises Once Again","href":"Text/section-0041.html#auto_bookmark_toc_41","index":42},{"label":"Postscript","href":"Text/section-0042.html#auto_bookmark_toc_42","index":43}],"volumeTitle":"Light Novel 2nd Year Volume 12.5","detailsLink":"/select/year-2/y2v12.5","returnLink":"/select","currentSpineIndex":2}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

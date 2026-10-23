@@ -1,0 +1,995 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T17530,
+<h1 id="chapter-8" class="chapter-title">Chapter 8: The Courage to Step Forward</h1>
+
+<p class="P_Prose_Formatting">IT WAS SUNDAY, the fourth day of the training camp. Today was the day to say goodbye to the familiar campsite. We had to leave the accommodation at 10 </p>
+<p class="P_Prose_Formatting">o'clock. </p>
+<p class="P_Prose_Formatting">The fight with Amasawa was set before breakfast, at 7 o'clock. </p>
+<p class="P_Prose_Formatting">Before 6 o'clock, after waking up, I came to the still dimly lit lobby. </p>
+<p class="P_Prose_Formatting">I had some time to spare until Horikita and Ibuki showed up from their shared room, and considering the risk of waking up the sleeping students, I decided to use my phone to kill time. </p>
+<p class="P_Prose_Formatting">The lobby was chilly and cold, perhaps because the heating had just turned on.  “It seems everything is fine.” </p>
+<p class="P_Prose_Formatting">In the silent corridor, I muttered to myself while looking at my phone screen. </p>
+<p class="P_Prose_Formatting">The only message left from Nagumo, which had arrived in the middle of the night, was 'I won't say thank you.' </p>
+<p class="P_Prose_Formatting">If Amasawa had committed a crime, the rest of the camp would’ve been a big mess. </p>
+<p class="P_Prose_Formatting">After a while, as I watched the sunrise through the window, I heard footsteps. </p>
+<p class="P_Prose_Formatting">“It's still quite early in the morning after all, isn't it?” </p>
+<p class="P_Prose_Formatting">The one who approached me with a sleepy voice was Tsubaki from the same group. The probability that it was a coincidence was pretty high, but… </p>
+<p class="P_Prose_Formatting">“For the past two days, I heard from Hashimoto-senpai that you’ve been getting up early in the morning.” </p>
+<p class="P_Prose_Formatting">Especially since going out in the morning was something I didn’t need to hide, even if someone were to ask, the impact would be negligible. </p>
+<p class="P_Prose_Formatting">Even if Tsubaki noticed the special training, the probability of the information reaching Amasawa wasn’t that high. </p>
+<p class="P_Prose_Formatting">“So, you came looking for me?” </p>
+<p class="P_Prose_Formatting">“Not so much looking for you, but I just thought I'd check if you were here.” </p>
+<p class="P_Prose_Formatting">Tsubaki, who didn't change her attitude towards anyone, looked at me with a slightly suspicious look. </p>
+<p class="P_Prose_Formatting">“But if you were here, that would change things quite a bit.” </p>
+<p class="P_Prose_Formatting">“I don't think there's any reason for you to come see me anymore. The special exam given only to first-year students has been canceled.” </p>
+<p class="P_Prose_Formatting">The student who expelled me would be given 20 million private points. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p183"></a><img src="/hola-lector-agua/images/books/y2v11/index-183_1.png" loading="lazy" decoding="async" alt="Image 199" /></p>
+<p class="P_Prose_Formatting">That was the hidden special exam known only to a few, as Tsukishiro was involved. </p>
+<p class="P_Prose_Formatting">“I wasn't interested in the prize money from the start, but I'm disappointed. </p>
+<p class="P_Prose_Formatting">I'm lamenting the loss of the right to expel you in a dignified manner.” </p>
+<p class="P_Prose_Formatting">“That's dangerous talk. I don't remember you ever resenting me.” </p>
+<p class="P_Prose_Formatting">I looked back on my school life, but of course, there was nothing to worry about. “Don't you think there are more things you don't realize? People unknowingly incur resentment, you know?” </p>
+<p class="P_Prose_Formatting">I could somewhat understand what Tsubaki was trying to say. It was true that there were both people who knew they’d be resented and still chose actions that led to resentment, and those who didn’t think they would be resented but ended up being resented anyway. </p>
+<p class="P_Prose_Formatting">“I can’t tell if you're joking or serious.” </p>
+<p class="P_Prose_Formatting">“Someone might come here, so why don't we take a walk?” </p>
+<p class="P_Prose_Formatting">“It's still dark outside.” </p>
+<p class="P_Prose_Formatting">It was getting a bit brighter, but it was still hard to see and it was quite cold. </p>
+<p class="P_Prose_Formatting">“It's not inconvenient for you, right?” </p>
+<p class="P_Prose_Formatting">“Well, okay.” </p>
+<p class="P_Prose_Formatting">Anyway, I was planning to go outside to accompany Horikita and Ibuki for their final special training. </p>
+<p class="P_Prose_Formatting">The two of us left the lobby and started walking outside in the cold. </p>
+<p class="P_Prose_Formatting">“I thought it would be snowing quite a bit in the mountains of Tochigi, but it's not as much as I thought.” </p>
+<p class="P_Prose_Formatting">“February has a drastic temperature difference. Maybe it's because we've had a few warm days recently.” </p>
+<p class="P_Prose_Formatting">In reality, it wasn’t completely snow-free, and there was a bit of snow left on the side of the road. The water droplets on the cars, presumably belonging to the staff here, were slightly frozen and covered with a thin film. </p>
+<p class="P_Prose_Formatting">“Do you like snow, Senpai?” </p>
+<p class="P_Prose_Formatting">“I don't particularly like or dislike it. I just think I enjoy the scenery when it snows. Do you like snow, Tsubaki?” </p>
+<p class="P_Prose_Formatting">“. .I guess I do. At least more than you, Senpai.” </p>
+<p class="P_Prose_Formatting">She squatted down on the side of the road, picked up a bit of the remaining snow with her fingertips, and stood up. </p>
+<p class="P_Prose_Formatting">She placed snow on her palm and showed it to me. </p>
+<p class="P_Prose_Formatting">“Can you look at this?” </p>
+<p class="P_Prose_Formatting">When she asked, I stared at the snow on her palm. </p>
+<p class="P_Prose_Formatting">Because it was a small amount, it melted and disappeared quickly due to the warmth of her hand. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p184"></a><img src="/hola-lector-agua/images/books/y2v11/index-184_1.png" loading="lazy" decoding="async" alt="Image 200" /></p>
+<p class="P_Prose_Formatting">“Being in this school feels like being cut off from the outside world, doesn't it? Who do you want to see first when you graduate next year, Senpai?” </p>
+<p class="P_Prose_Formatting">“You ask strange questions.” </p>
+<p class="P_Prose_Formatting">“Maybe.” </p>
+<p class="P_Prose_Formatting">For me, the only people I knew beyond their faces in the outside world were my father and his associates. </p>
+<p class="P_Prose_Formatting">I didn’t have any one-sided feelings of wanting to see any of them. </p>
+<p class="P_Prose_Formatting">“Probably just my family.” </p>
+<p class="P_Prose_Formatting">So I chose a safe answer that wouldn't surprise anyone. </p>
+<p class="P_Prose_Formatting">“Family. . Anyone else?” </p>
+<p class="P_Prose_Formatting">“Not really. I don't have any close friends, so that's about it.” </p>
+<p class="P_Prose_Formatting">“I see. . Then, can I ask you one more strange question?” </p>
+<p class="P_Prose_Formatting">Tsubaki kept asking questions that seemed to have meaning and yet didn't. </p>
+<p class="P_Prose_Formatting">“Imagine if you had a brother, and you didn't know about his existence because your parents hid it from you for years. But one day, you were told he was actually family, would you be able to love him as a family member? Of course, assuming there is a genuine blood connection.” </p>
+<p class="P_Prose_Formatting">“That's a difficult question.” </p>
+<p class="P_Prose_Formatting">As far as I knew, I didn't have any siblings. </p>
+<p class="P_Prose_Formatting">But, this was a hypothetical situation where they’d be hidden, so in reality, it was possible. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">If that man had a son other than me. . I wonder how I would feel when I met</i> <i class="calibre3">him. </i>  I was interested in the thought for the first time, but that didn't mean I felt any unexpected emotions. </p>
+<p class="P_Prose_Formatting">“I might not feel anything. Of course, I think it would greatly depend on the other person's personality and situation.” </p>
+<p class="P_Prose_Formatting">If we were raised completely separately, it would be difficult to suddenly accept and interact with him as a family member. </p>
+<p class="P_Prose_Formatting">“I see. I think I would probably feel the same way as you. But, if I knew that the other person had special circumstances and a sad past, I would want to grow closer. I would like to know more about my sister, who I had been separated from.” She’d asked me about a brother, but Tsubaki used a sister as an example. It wasn’t unreasonable to imagine that she was just comparing it to the same gender, but the way she expressed her emotions sounded like it was based on her own experience. </p>
+<p class="P_Prose_Formatting">“I am confused. Ayanokōji-senpai, from this school—” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">(TL NOTE: This sentence appears to be intentionally vague and</i> <i class="calibre3">fragmented.) </i></p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p185"></a><img src="/hola-lector-agua/images/books/y2v11/index-185_1.png" loading="lazy" decoding="async" alt="Image 201" /></p>
+<p class="P_Prose_Formatting">Just as she was about to continue, Tsubaki's gaze shifted to the building behind us. </p>
+<p class="P_Prose_Formatting">The promised time was approaching, so Horikita and Ibuki appeared. </p>
+<p class="P_Prose_Formatting">And for some reason, Kushida was also there. </p>
+<p class="P_Prose_Formatting">“We've been interrupted..  Let's talk again later.” </p>
+<p class="P_Prose_Formatting">Tsubaki seemed to have no intention of letting the other students hear her story, and she returned to the building, shivering from the cold. </p>
+<p class="P_Prose_Formatting">She gently nodded to Horikita and the others as they passed by, but she didn't say anything. </p>
+<p class="P_Prose_Formatting">“That was Tsubaki-san, right? What were you talking about at this hour?” </p>
+<p class="P_Prose_Formatting">“She said she woke up early. The training camp is over today, so we were just chatting. Though, why is Kushida here?” </p>
+<p class="P_Prose_Formatting">“Ibuki-san here carelessly leaked about her rematch with Amasawa-san. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Carelessly</i>.” </p>
+<p class="P_Prose_Formatting">She emphasized the word 'carelessly' twice, expressing how foolish it was. </p>
+<p class="P_Prose_Formatting">“It's not my fault! It's Kushida's fault for tricking me into it!” </p>
+<p class="P_Prose_Formatting">“That's what you call being defiant.” </p>
+<p class="P_Prose_Formatting">“Shut up! It doesn't matter if there's one or two more spectators!” </p>
+<p class="P_Prose_Formatting">“So that's it. I heard that you're going to fight with Amasawa-san, and I got interested.” </p>
+<p class="P_Prose_Formatting">“If both of you agree, I have nothing to say, but who are you cheering for?” </p>
+<p class="P_Prose_Formatting">My personal interest lies there. </p>
+<p class="P_Prose_Formatting">“For me, it's like a win-win situation no matter who loses.” </p>
+<p class="P_Prose_Formatting">She had a dispute with Amasawa during the cultural festival. </p>
+<p class="P_Prose_Formatting">In other words, no matter who won or lost, it would be a satisfying match for Kushida. </p>
+<p class="P_Prose_Formatting">Kushida looked back at Tsubaki, who had already disappeared from our sight.  “About Tsubaki-san earlier, was it about love? I've been thinking for a while, but Ayanokōji-kun, you're surprisingly popular, aren't you?” </p>
+<p class="P_Prose_Formatting">“Is that so?” </p>
+<p class="P_Prose_Formatting">Tsubaki's goal was completely different, but it seemed Kushida had assumed such.  In sync with that, Horikita also started talking. </p>
+<p class="P_Prose_Formatting">“But you're aware of it, right? You're dating Karuizawa-san after all.” </p>
+<p class="P_Prose_Formatting">“On the contrary, let me ask you in return, are you confident that you’re popular?” </p>
+<p class="P_Prose_Formatting">“Why me? I'm not popular.” </p>
+<p class="P_Prose_Formatting">“At least Sudō has shown some interest, hasn't he?” </p>
+<p class="P_Prose_Formatting">“Really? Horikita? Haha, you'd make a good match with that idiot.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p186"></a><img src="/hola-lector-agua/images/books/y2v11/index-186_1.png" loading="lazy" decoding="async" alt="Image 202" /></p>
+<p class="P_Prose_Formatting">“Stop calling Sudō-kun an idiot. He's become several times smarter than you now.” “But I can knock him down with my kick!” </p>
+<p class="P_Prose_Formatting">I didn’t understand how the basis of comparison turned into combat ability, but if he really tried, Sudō would probably be stronger. </p>
+<p class="P_Prose_Formatting">“Well, but—” </p>
+<p class="P_Prose_Formatting">After looking at me from top to bottom, Ibuki spat out forcefully. </p>
+<p class="P_Prose_Formatting">“How this guy’s so popular—I just don't understand at allllllllllllllllllllllllll.” </p>
+<p class="P_Prose_Formatting">It was the first time I had seen someone hold such a prolonged ‘l’ sound in their words. </p>
+<p class="P_Prose_Formatting">“You feel the same way as well, don't you, Kushida?” </p>
+<p class="P_Prose_Formatting">“Eh?” </p>
+<p class="P_Prose_Formatting">“Not 'eh?' I'm asking, you don't understand Ayanokōji's appeal either, do you?” “..Well, it's not that he doesn't have any appeal, right? If you look around, you can see that there are no other decent men, right? Compared to such riffraffs, he might look better.” </p>
+<p class="P_Prose_Formatting">It seemed like a compliment, but it probably wasn’t. </p>
+<p class="P_Prose_Formatting">“I think they're the same to me. .!” </p>
+<p class="P_Prose_Formatting">“Then, if you had to date either Ryūen-kun or Ayanokōji-kun, who would you choose, Ibuki-san?” </p>
+<p class="P_Prose_Formatting">At Kushida's question, Ibuki fell silent for a while, maintaining a puzzled expression. </p>
+<p class="P_Prose_Formatting">Eventually, she broke the silence and came to a conclusion. </p>
+<p class="P_Prose_Formatting">“I can't choose between curry-flavored shit and shit-flavored curry.” </p>
+<p class="P_Prose_Formatting">Horikita and Kushida quickly distanced themselves from Ibuki to avoid getting involved. </p>
+<p class="P_Prose_Formatting">No one wanted to hear such a topic out loud. </p>
+<p class="P_Prose_Formatting">If I ran away, she’d probably chase after me, so I had no choice but to become a human shield. </p>
+<p class="P_Prose_Formatting">“What kind of comparison is that?” </p>
+<p class="P_Prose_Formatting">I decided to retort for the time being. </p>
+<p class="P_Prose_Formatting">“What do you mean, ‘what kind’? It is what it is.” </p>
+<p class="P_Prose_Formatting">I didn't mind any analogy, but that comparison hurt a bit. </p>
+<p class="P_Prose_Formatting">And I wondered whether I was the former or the latter. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">No, I don't want to be either. </i> </p>
+<p class="P_Prose_Formatting">But… I deliberately thought about it. </p>
+<p class="P_Prose_Formatting">If I had to eat one of them, I would choose the latter. </p>
+<p class="P_Prose_Formatting">Even if the taste was improved, it would be extremely dangerous to ingest a large amount of E. coli. On the other hand, the latter would cause great damage to RoyalMTLs </p>
+
+
+<p class="P_Prose_Formatting"><a id="p187"></a><img src="/hola-lector-agua/images/books/y2v11/index-187_1.png" loading="lazy" decoding="async" alt="Image 203" /></p>
+<p class="P_Prose_Formatting">your taste and smell buds, but it’s still fundamentally curry. In other words, the adverse effects on the human body would be greatly limited. </p>
+<p class="P_Prose_Formatting">However, if your brain were to determine that it was dangerous solely from your sense of smell, you may suffer unexpected health risks.. </p>
+<p class="P_Prose_Formatting">“What's wrong, Ayanokōji? You're spacing out.” </p>
+<p class="P_Prose_Formatting">“It's nothing.. ” </p>
+<p class="P_Prose_Formatting">I thought too deeply and felt a little unwell, so I decided to forget about it. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p188"></a><img src="/hola-lector-agua/images/books/y2v11/index-188_1.png" loading="lazy" decoding="async" alt="Image 204" /></p>
+
+
+<p class="P_Prose_Formatting">Since the rematch was right after the special training, we finished after some warm-ups. </p>
+<p class="P_Prose_Formatting">“We've done what we can. Now let’s see how far you’ll get in the real match.” </p>
+<p class="P_Prose_Formatting">Without taking too much time, I called out to the two of them as their breathing calmed down. </p>
+<p class="P_Prose_Formatting">“Yes, thank you. Thanks to you, our chances have increased.” </p>
+<p class="P_Prose_Formatting">Horikita, who bowed her head politely, urged Ibuki to thank me as well. </p>
+<p class="P_Prose_Formatting">Whether she had no intention of following suit, Ibuki turned away and snorted. </p>
+<p class="P_Prose_Formatting">“I won't say thank you. I think my way of thanking you is to kick you someday.” </p>
+<p class="P_Prose_Formatting">“If that's your idea of gratitude, I don't want it in the future.” </p>
+<p class="P_Prose_Formatting">“Really. .” </p>
+<p class="P_Prose_Formatting">“Well, I'll go back first, so do your best.” </p>
+<p class="P_Prose_Formatting">“Eh? Aren't you going to watch, Ayanokōji-kun? I thought we were going to watch together.” </p>
+<p class="P_Prose_Formatting">Kushida, who had been watching from a distance, seemed to think we’d be together the whole time. </p>
+<p class="P_Prose_Formatting">“If it's revealed that I'm involved in this matter, it will only harm Horikita and Ibuki.” </p>
+<p class="P_Prose_Formatting">If I made Amasawa suspicious, the surprise attack wouldn’t work. </p>
+<p class="P_Prose_Formatting">To increase the odds of winning by even one percent, it was better not to be present. </p>
+<p class="P_Prose_Formatting">“I see. Then I'll make sure to watch it all. I even brought my phone as well.” </p>
+<p class="P_Prose_Formatting">She probably thought that it’d be a great opportunity to take photos if anything embarrassing were to occur. </p>
+<p class="P_Prose_Formatting">Since Kushida declared that she’d be the witness, I decided to leave that role to her. Besides, I had one more thing to do this morning. </p>
+<p class="P_Prose_Formatting">Just before 7 o'clock, naturally, there were hardly any students using the park.  That was why the student I had called here was sitting on a bench, waiting for me to arrive. </p>
+<p class="P_Prose_Formatting">“It's cold, isn't it? You didn't have to come earlier than the promised time.” </p>
+<p class="P_Prose_Formatting">“Don't worry about it. It’s not often that you call out to me, Ayanokōji-kun. I enjoyed waiting.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p189"></a><img src="/hola-lector-agua/images/books/y2v11/index-189_1.png" loading="lazy" decoding="async" alt="Image 205" /></p>
+<p class="P_Prose_Formatting">“Can I sit next to you?” </p>
+<p class="P_Prose_Formatting">“I've kept it open for that purpose.” </p>
+<p class="P_Prose_Formatting">Sakayanagi, who was smiling, welcomed me as usual. </p>
+<p class="P_Prose_Formatting">“I'll get straight to the point. I've got Yamamura waiting in the dog park nearby.” </p>
+<p class="P_Prose_Formatting">“Eh? The dog park? Yamamura-san? What do you mean?” </p>
+<p class="P_Prose_Formatting">“Didn't you expect Yamamura's name to come up?” </p>
+<p class="P_Prose_Formatting">“She was in the same exchange meeting group as you, wasn't she? Did she do something problematic?” </p>
+<p class="P_Prose_Formatting">Pretending not to know, Sakayanagi made up a reason. </p>
+<p class="P_Prose_Formatting">“You knew about it. That Yamamura and I were in the same group.” </p>
+<p class="P_Prose_Formatting">“That's a surprise. Naturally, I had already figured out which group each student in the class was assigned to when we got on the bus. I was just observing this time, so I didn't interfere with the exchange meeting.” </p>
+<p class="P_Prose_Formatting">Of course, I already knew that Sakayanagi had figured out where all of her classmates were assigned. </p>
+<p class="P_Prose_Formatting">So, once I told her what I was about to say, Sakayanagi wouldn't be able to escape. “On the second day of the camp, when we talked in the lobby, do you remember what you said? 'Hashimoto-kun and Morishita-san are in the same group. How is Hashimoto-kun doing?' That's what you said. It's impossible for you to overlook Class A’s group assignments, as you seem to pride yourself on. Yet, you didn't even mention Yamamura's name, did you?” </p>
+<p class="P_Prose_Formatting">This proved that Sakayanagi was subconsciously avoiding talking about Yamamura. </p>
+<p class="P_Prose_Formatting">“That's—” </p>
+<p class="P_Prose_Formatting">No matter what excuse she made, she couldn't twist the conclusion that she </p>
+<p class="P_Prose_Formatting">'avoided' it. </p>
+<p class="P_Prose_Formatting">“. .Yes, that's right. I admit that I didn't mention Yamamura-san's name at that time. But it's none of your business, is it, Ayanokōji-kun?” </p>
+<p class="P_Prose_Formatting">“Indeed, it's none of my business. I’m probably meddling in others’ affairs by doing this.” </p>
+<p class="P_Prose_Formatting">But I continued. Sakayanagi knew everything, so I didn't beat around the bush.  “You lost Kamuro. And at the same time, you were entrusted with her feelings. But that doesn't mean everything is back to normal. You haven't even finished choosing who to keep by your side, have you?” </p>
+<p class="P_Prose_Formatting">Beside me, a white breath escaped from Sakayanagi’s lips. </p>
+<p class="P_Prose_Formatting">“Indeed, I haven't decided yet, but are you suggesting that I should appoint Yamamura-san?” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p190"></a><img src="/hola-lector-agua/images/books/y2v11/index-190_1.png" loading="lazy" decoding="async" alt="Image 206" /></p>
+<p class="P_Prose_Formatting">“That’s not what I meant. People have their own strengths and weaknesses.” </p>
+<p class="P_Prose_Formatting">It was hard to imagine Yamamura boldly supporting Sakayanagi. </p>
+<p class="P_Prose_Formatting">“The survival and elimination special exam—there are some people that still seem to be trapped in that exam.” </p>
+<p class="P_Prose_Formatting">“. .Are you talking about me and Yamamura-san?” </p>
+<p class="P_Prose_Formatting">“That's right. Yamamura is suffering and can’t move forward, even though her situation is very different from yours.” </p>
+<p class="P_Prose_Formatting">The two who had yet to complete the survival and elimination special exam. </p>
+<p class="P_Prose_Formatting">If Sakayanagi was the light of Class A, Yamamura was the shadow. </p>
+<p class="P_Prose_Formatting">It was safe to say they had an inseparable relationship that couldn't be cut off.  “If you're still bothered by that, you should resolve it.” </p>
+<p class="P_Prose_Formatting">“. .What you’re saying is strange, Ayanokōji-kun.” </p>
+<p class="P_Prose_Formatting">“Strange?” </p>
+<p class="P_Prose_Formatting">“I thought you were just going to stand on the sidelines from now on. Isn't your unnecessary intervention excessive?” </p>
+<p class="P_Prose_Formatting">“That's right. I also thought until a little while ago that I should just stand on the sidelines from here on.” </p>
+<p class="P_Prose_Formatting">Sakayanagi no longer needed any further assistance. </p>
+<p class="P_Prose_Formatting">It was enough to wait for her to stand up on her own. </p>
+<p class="P_Prose_Formatting">However, the situation had changed significantly since before the special exam that led Hashimoto to betray them. </p>
+<p class="P_Prose_Formatting">That was why I was doing what I thought needed to be done now. </p>
+<p class="P_Prose_Formatting">“I don't particularly want you to have anything to do with Yamamura. I don't have any such hopes at all. Whether you want to get closer or more distant, or even cut ties, is up to you. But if you're going to talk, now is the only time.” </p>
+<p class="P_Prose_Formatting">Neither parties would benefit from postponing the issue. </p>
+<p class="P_Prose_Formatting">“Wouldn't it be smartest to leave everything behind at this training camp?” </p>
+<p class="P_Prose_Formatting">“...But...” </p>
+<p class="P_Prose_Formatting">Sakayanagi's frustrating resistance. </p>
+<p class="P_Prose_Formatting">I wasn’t one to talk, but she was just as bad at friendships. </p>
+<p class="P_Prose_Formatting">She didn’t know what to do because she had no prior experience. </p>
+<p class="P_Prose_Formatting">“As I said earlier, I have Yamamura waiting in the dog park. She's been waiting for you in the cold for over 20 minutes now.” </p>
+<p class="P_Prose_Formatting">“If that's the case, aren't you being a bit mean, Ayanokōji-kun? The time you promised to meet me was 7 o'clock. We haven't even been talking for ten minutes yet. Doesn't that mean she's been waiting since before that?” </p>
+<p class="P_Prose_Formatting">From Yamamura's perspective, waiting for an unnecessarily long time would make the experience quite tough. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p191"></a><img src="/hola-lector-agua/images/books/y2v11/index-191_1.png" loading="lazy" decoding="async" alt="Image 207" /></p>
+<p class="P_Prose_Formatting">From Sakayanagi's perspective, she would be overwhelmed by guilt for making Yamamura wait. </p>
+<p class="P_Prose_Formatting">“This is also part of my strategy.” I told her. </p>
+<p class="P_Prose_Formatting">She was quick to notice these kinds of things. It was indeed Sakayanagi. </p>
+<p class="P_Prose_Formatting">“I guess there's no choice. I can't let her catch a cold because of me. Let's go pick her up for now.” </p>
+<p class="P_Prose_Formatting">Sakayanagi, who couldn’t admit her weakness straight away, stood up for an appropriate reason. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">That was fine. </i> </p>
+<p class="P_Prose_Formatting">If she spoke one-on-one with Yamamura, they’d be able to talk honestly. </p>
+<p class="P_Prose_Formatting">“It's a bit of a distance, but even you can walk there in about five minutes. </p>
+<p class="P_Prose_Formatting">Go ahead.” </p>
+<p class="P_Prose_Formatting">I also stood up and told her so. </p>
+<p class="P_Prose_Formatting">However… Sakayanagi didn't step forward. </p>
+<p class="P_Prose_Formatting">“What's wrong?” </p>
+<p class="P_Prose_Formatting">My question was met with no response, and a brief silence ensued. </p>
+<p class="P_Prose_Formatting">During that time, Sakayanagi tried to start walking, but she didn't move forward at all. </p>
+<p class="P_Prose_Formatting">“...My... leg...” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Her leg? Could it be hurting? </i> I thought for a moment, but.. </p>
+<p class="P_Prose_Formatting">“My leg..  I can't move it..  I wonder why.” </p>
+<p class="P_Prose_Formatting">It was immediately clear that it was not a physical problem, but a mental one.  Even though she acted bravely through her words, as she’s typically like, her body didn't seem to agree. </p>
+<p class="P_Prose_Formatting">It seems that the change in her heart, the change that Kamuro brought to light, was also evident here. </p>
+<p class="P_Prose_Formatting">“Don’t feel like you can show this side to anyone else?” </p>
+<p class="P_Prose_Formatting">“. .Yes, that's right.. ” </p>
+<p class="P_Prose_Formatting">I grabbed Sakayanagi's left hand as she stood bewildered, unable to walk. </p>
+<p class="P_Prose_Formatting">Having waited for me before the set time, her fingertips were very cold. </p>
+<p class="P_Prose_Formatting">“Then, just for now, I'll be your legs. That should make it easy for you to walk.” “...I'm sorry.” </p>
+<p class="P_Prose_Formatting">“It's okay. It's my own meddling that started this.” </p>
+<p class="P_Prose_Formatting">After that, we moved forward slowly without exchanging words. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p192"></a><img src="/hola-lector-agua/images/books/y2v11/index-192_1.png" loading="lazy" decoding="async" alt="Image 208" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-192_2.jpg" loading="lazy" decoding="async" alt="Image 209" /></p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p193"></a><img src="/hola-lector-agua/images/books/y2v11/index-193_1.png" loading="lazy" decoding="async" alt="Image 210" /></p>
+<p class="P_Prose_Formatting">Eventually, the dog park came into view. </p>
+<p class="P_Prose_Formatting">Seeing Yamamura standing in the shadow of the big tree in the distance, Sakayanagi raised her hand slowly to make her presence known, despite her confusion. When I gently pushed Sakayanagi's back, she started walking on her own, albeit with a cane. </p>
+<p class="P_Prose_Formatting">From there on, it wasn’t my place to interfere. </p>
+<p class="P_Prose_Formatting">Sakayanagi and Yamamura would have to talk and find their own solutions. </p>
+<p class="P_Prose_Formatting">Expecting a bright future, I turned away and left. </p>
+<p class="P_Prose_Formatting">Thus, the three-night, four-day exchange meeting came to an end. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p194"></a><img src="/hola-lector-agua/images/books/y2v11/index-194_1.png" loading="lazy" decoding="async" alt="Image 211" /></p>
+<h1 id="epilogue" class="chapter-title">Epilogue: Who is the Challenger?</h1> </p>
+<p class="P_Prose_Formatting">WITH THE END OF the exchange meeting, an event that brought changes in relationships, our usual school life resumed. </p>
+<p class="P_Prose_Formatting">Recently, it had become customary for me to meet up with Kei in my room or lobby every morning and go to school together, but today was different. I left on my own this time, about 20 minutes earlier than usual. </p>
+<p class="P_Prose_Formatting">I got off the elevator, arrived at the lobby, and went outside. </p>
+<p class="P_Prose_Formatting">It was unusually cold today, perhaps because of the strong wind. </p>
+<p class="P_Prose_Formatting">Soon, February would be over. </p>
+<p class="P_Prose_Formatting">Next month would be busier than ever. </p>
+<p class="P_Prose_Formatting">First, I had to deal with the issue concerning Karuizawa Kei. </p>
+<p class="P_Prose_Formatting">Nothing special was needed for this. </p>
+<p class="P_Prose_Formatting">I just needed to proceed with the process as originally planned. </p>
+<p class="P_Prose_Formatting">Next, the issue concerning Ichinose Honami. </p>
+<p class="P_Prose_Formatting">The leader of a class that was struggling to compete with the other three, with nothing special among the four classes. </p>
+<p class="P_Prose_Formatting">My prediction was correct—Class D was in decline as the end of the second-year approached. </p>
+<p class="P_Prose_Formatting">However. . unlike Kei's problem, some adjustments might’ve been needed. </p>
+<p class="P_Prose_Formatting">I could decide after the end-of-year exam results came out. </p>
+<p class="P_Prose_Formatting">No matter how much Ichinose grew, there would be no major changes. </p>
+<p class="P_Prose_Formatting">I thought I just needed to proceed with the plan as I originally intended. </p>
+<p class="P_Prose_Formatting">But… </p>
+<p class="P_Prose_Formatting">One problem arose that wasn’t in the plan. </p>
+<p class="P_Prose_Formatting">That forced me to, in turn, make changes. </p>
+<p class="P_Prose_Formatting">There would be some negative effects as a result, but not all changes would be bad. As soon as I started walking to school, I stopped. </p>
+<p class="P_Prose_Formatting">“You're early.” </p>
+<p class="P_Prose_Formatting">In my field of vision, I spotted the person I was meeting up with. </p>
+<p class="P_Prose_Formatting">There was still some time until the scheduled appointment, but they were already waiting. </p>
+<p class="P_Prose_Formatting">They didn't notice me and occasionally breathed out white clouds as if they were cold, but they soon noticed my gaze. </p>
+<p class="P_Prose_Formatting">“Good morning, Ayanokōji-kun.” </p>
+<p class="P_Prose_Formatting">As I approached, a morning greeting came flying. </p>
+<p class="P_Prose_Formatting">“Good morning. Sorry for calling you out so early.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p195"></a><img src="/hola-lector-agua/images/books/y2v11/index-195_1.png" loading="lazy" decoding="async" alt="Image 212" /></p>
+<p class="P_Prose_Formatting">“It's okay. So, what do you want to talk to me about? Something hard to say over the phone?” </p>
+<p class="P_Prose_Formatting">As classmates, we knew each other's contact information. Normally, we could communicate using our phones. </p>
+<p class="P_Prose_Formatting">She questioned why I didn't do that. </p>
+<p class="P_Prose_Formatting">“In a way, maybe.” </p>
+<p class="P_Prose_Formatting">Horikita lined up next to me and soon started walking by my side. </p>
+<p class="P_Prose_Formatting">“In a way? That's a scary way to put it.” </p>
+<p class="P_Prose_Formatting">“There's nothing to be wary of.” </p>
+<p class="P_Prose_Formatting">“Really?” </p>
+<p class="P_Prose_Formatting">She looked at me with doubt in her eyes, but there was no prickliness like when we first met. </p>
+<p class="P_Prose_Formatting">It was a natural friendship, with a tenderness that could be described as such. </p>
+<p class="P_Prose_Formatting">“I often talk to you about special exams and class-related matters, but sometimes I want to talk about things that have nothing to do with that.” </p>
+<p class="P_Prose_Formatting">“Huh? Sorry, I don't understand. What do you mean?” </p>
+<p class="P_Prose_Formatting">I regretted that my words were clumsier than I’d imagined. </p>
+<p class="P_Prose_Formatting">I had thought of a more casual way to say it, but I decided against it because it might bother her depending on how she took it. </p>
+<p class="P_Prose_Formatting">“I wanted to have a meaningless conversation with you, unrelated to our interests. Does that make sense to you?” </p>
+<p class="P_Prose_Formatting">“...I see?” </p>
+<p class="P_Prose_Formatting">She seemed to be in thought for a moment, but apparently, she didn't understand. </p>
+<p class="P_Prose_Formatting">“We’ve been classmates for a while. It's not like we'll have the opportunity to talk forever.” </p>
+<p class="P_Prose_Formatting">“Forever is an exaggeration. Sure, that's true, but we still have over a year until graduation, right? We don't have to arrange meetings like this, I can chat anytime.” </p>
+<p class="P_Prose_Formatting">“What if I were to be expelled at the end-of-year exam?” </p>
+<p class="P_Prose_Formatting">“That's a jump. I don't think you'll be expelled. But seeing how easily you get common sense questions wrong, maybe there's a possibility.. ” </p>
+<p class="P_Prose_Formatting">After giving a serious answer, she laughed a little, finding her own words amusing. </p>
+<p class="P_Prose_Formatting">“Are you really worried that you might be expelled? Is that why you wanted to talk so early in the morning.. ?” </p>
+<p class="P_Prose_Formatting">“The last special exam has become a bit of a trauma for me.” </p>
+<p class="P_Prose_Formatting">“Then why don't you try to remember more common sense questions? </p>
+<p class="P_Prose_Formatting">You're good at studying.” </p>
+<p class="P_Prose_Formatting">She retorted, expressing that I was aware of my weak points. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p196"></a><img src="/hola-lector-agua/images/books/y2v11/index-196_1.png" loading="lazy" decoding="async" alt="Image 213" /></p>
+<p class="P_Prose_Formatting">“So, can you memorize game and anime terms as effectively as studying for other subjects?” </p>
+<p class="P_Prose_Formatting">“Huh…? I wonder. When Onizuka tried pushing me to play a game before, they were talking about DP. . something, DEF something, cooldown something, but my brain refused to remember those words and their meanings.. ” </p>
+<p class="P_Prose_Formatting">“It's a similar feeling. I just can't seem to want to remember it.” </p>
+<p class="P_Prose_Formatting">I wanted to absorb as much information as I could, but I also had such preferences. </p>
+<p class="P_Prose_Formatting">“Don't worry. From a class perspective, your existence is essential. Even if you struggle with common sense questions, I'll always back you up. In other words, you won't be expelled.” </p>
+<p class="P_Prose_Formatting">Horikita made that clear. </p>
+<p class="P_Prose_Formatting">“That's reassuring.” </p>
+<p class="P_Prose_Formatting">I tapped Horikita’s shoulder with a gentle chop from my left hand. She was taking this conversation seriously. </p>
+<p class="P_Prose_Formatting">“Do you really worry about your own expulsion? It doesn't seem like it. </p>
+<p class="P_Prose_Formatting">What's the real issue?” </p>
+<p class="P_Prose_Formatting">“Actually, I'm not worried about myself, but about the possibility of your expulsion.” </p>
+<p class="P_Prose_Formatting">“In reality, that seems more likely.” </p>
+<p class="P_Prose_Formatting">She showed a slightly annoyed expression, but it didn't seem serious, and she quickly returned to normal. </p>
+<p class="P_Prose_Formatting">Compared to when she first entered, Horikita's emotions had become much more varied. </p>
+<p class="P_Prose_Formatting">“The last special exam resulted in only Kamuro’s expulsion. However, next time, there might be more.” </p>
+<p class="P_Prose_Formatting">“. .You're expecting new dropouts.” </p>
+<p class="P_Prose_Formatting">“Yeah. At least one from our year. Depending on the exam content and its developments, we could lose several people.” </p>
+<p class="P_Prose_Formatting">“...That many?” </p>
+<p class="P_Prose_Formatting">“It's better to think that way. The school has said it before—second-year students are progressing through school life with few to no dropouts.” </p>
+<p class="P_Prose_Formatting">“So they're going to force an exam to increase the number of dropouts? </p>
+<p class="P_Prose_Formatting">That's..  a bit extreme. Our year didn't have that many weak spots. It should’ve been a good thing.” </p>
+<p class="P_Prose_Formatting">If you looked at it positively, it was true. </p>
+<p class="P_Prose_Formatting">But sometimes, a sieve was needed. </p>
+<p class="P_Prose_Formatting">“It depends on how it looks from the outside. For example, the government is also involved in the school’s operation. If the goal is to drop ten people a year, and we second-year students do not meet that standard, then it would be nice if RoyalMTLs </p>
+
+
+<p class="P_Prose_Formatting"><a id="p197"></a><img src="/hola-lector-agua/images/books/y2v11/index-197_1.png" loading="lazy" decoding="async" alt="Image 214" /></p>
+<p class="P_Prose_Formatting">they simply saw us as exceptional, but it's unknown how much the people at the top are aware of and acknowledge the finer details of those numbers.” </p>
+<p class="P_Prose_Formatting">“To comply with the government's policy, they'll make the rules more strict?” “Last year, because there were no dropouts, it was forcibly changed from zero to one expulsion. I wouldn't be surprised if several people will get expelled in the upcoming end-of-year exam.” </p>
+<p class="P_Prose_Formatting">The third-year’s advice from winter break—that might not have been just for the survival and elimination special exam. But in reality, the third-years probably didn't know about the second-year students’ future. </p>
+<p class="P_Prose_Formatting">“Aren’t you overthinking. .?” </p>
+<p class="P_Prose_Formatting">“Of course, it's just speculation. I just feel that way based on what I can see right now. I can't provide any concrete evidence.” </p>
+<p class="P_Prose_Formatting">“In that case, I guess so. I'd like you to work hard too.” </p>
+<p class="P_Prose_Formatting">She requested cooperation half-seriously, half-jokingly. </p>
+<p class="P_Prose_Formatting">My answer to that was already decided. </p>
+<p class="P_Prose_Formatting">“If there's a situation at the end of the school year where I can help, I intend to cooperate as much as possible.” </p>
+<p class="P_Prose_Formatting">“That's a rather unusual answer for you. Between the special training and now, you've been a bit too cooperative lately. Even with the Amasawa-san situation, you didn't look displeased even once.” </p>
+<p class="P_Prose_Formatting">“I’ve left many things to others so far. I have to lend a hand at least a little.” </p>
+<p class="P_Prose_Formatting">“That's a noble reason, but..  it's still not like you to become so cooperative.” </p>
+<p class="P_Prose_Formatting">“I wonder. There might be a catch.” </p>
+<p class="P_Prose_Formatting">“I'd rather not have that, if possible.” </p>
+<p class="P_Prose_Formatting">At that point in the conversation, Horikita and I made eye contact. </p>
+<p class="P_Prose_Formatting">We probably both thought of the same thing simultaneously. </p>
+<p class="P_Prose_Formatting">“Haha, you invited me to chat, but in the end, we're talking about the exam.” </p>
+<p class="P_Prose_Formatting">“Right. There's no point in calling you here if it's like this. Alright, let's end the discussion about the exam.” </p>
+<p class="P_Prose_Formatting">With that, I put an end to this topic. </p>
+<p class="P_Prose_Formatting">“I heard about the results from Kushida, it seems you fought well, but you lost.”  “She's really strong, isn't she? Even if we fought two against one, we still couldn't win in the end.” </p>
+<p class="P_Prose_Formatting">However, I heard that Amasawa, after being hit a few times, was able to analyze them. </p>
+<p class="P_Prose_Formatting">“You should be able to have a better fight next time.” </p>
+<p class="P_Prose_Formatting">“Two against one?” </p>
+<p class="P_Prose_Formatting">“Do you dislike it?” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p198"></a><img src="/hola-lector-agua/images/books/y2v11/index-198_1.png" loading="lazy" decoding="async" alt="Image 215" /></p>
+<p class="P_Prose_Formatting">“Well, yes. Ibuki-san said she wouldn't team up with me again.” </p>
+<p class="P_Prose_Formatting">“It's fine. She forgets things quickly.” </p>
+<p class="P_Prose_Formatting">Horikita laughed at my exaggeration. </p>
+<p class="P_Prose_Formatting">“By the way, it looked like Amasawa-san noticed your influence right after the fight started. But she seemed very happy. What's your relationship with her?” </p>
+<p class="P_Prose_Formatting">“She's my ex-girlfriend.” </p>
+<p class="P_Prose_Formatting">“Are you serious? Or was that a joke?” </p>
+<p class="P_Prose_Formatting">“It was a bad joke.” </p>
+<p class="P_Prose_Formatting">“If that's the case, it wasn’t funny at all.” </p>
+<p class="P_Prose_Formatting">A harsh response came back. </p>
+<p class="P_Prose_Formatting">“Someday, I want to hear the truth from your own mouth, Ayanokōji-kun.” </p>
+<p class="P_Prose_Formatting">“I'll think about it. But don't expect—” </p>
+<p class="P_Prose_Formatting">“I'm not.” </p>
+<p class="P_Prose_Formatting">Horikita narrowed her eyes and smiled in response. </p>
+<p class="P_Prose_Formatting">At that moment, Horikita, who was changing colors, showed a smile. </p>
+<p class="P_Prose_Formatting">I guess I was also learning a lot from Horikita. </p>
+<p class="P_Prose_Formatting">This relationship between us would end soon. </p>
+<p class="P_Prose_Formatting">Horikita would have some tough experiences in the future. </p>
+<p class="P_Prose_Formatting">But there is no need to keep worrying. </p>
+<p class="P_Prose_Formatting">Her growth and the support of her classmates should guide her. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p199"></a><img src="/hola-lector-agua/images/books/y2v11/index-199_1.png" loading="lazy" decoding="async" alt="Image 216" /></p>
+
+
+<p class="P_Prose_Formatting">Rewinding time a little from my commute to school with Horikita and the exchange meeting. </p>
+<p class="P_Prose_Formatting">It was when Hashimoto came to my room asking for help shortly before the exchange meeting began. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Why did Hashimoto commit this seemingly reckless act of betrayal? </i> </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Why did he take the risk at that time? </i> </p>
+<p class="P_Prose_Formatting">The circumstances were explained in detail by the person himself. </p>
+<p class="P_Prose_Formatting">“. .Before I tell you what's next, there's something I really need to confirm with you.” </p>
+<p class="P_Prose_Formatting">Hashimoto must’ve had an extraordinary determination to make such a decision. </p>
+<p class="P_Prose_Formatting">What he wanted to confirm. </p>
+<p class="P_Prose_Formatting">It was how much information I had at the moment. </p>
+<p class="P_Prose_Formatting">That was an important factor that this man couldn't miss. </p>
+<p class="P_Prose_Formatting">“I've been tempted to betray Ryūen since before the previous special exam. </p>
+<p class="P_Prose_Formatting">Not just temporarily teaming up, but moving classes based on that premise.” </p>
+<p class="P_Prose_Formatting">It was obvious, but there was no merit for Hashimoto, who was in Class A, to move to Ryūen's class. </p>
+<p class="P_Prose_Formatting">Except for cases like Katsuragi who lost his place, if you were to look at it from a while ago, Class A should’ve established a more stable position than its current status. </p>
+<p class="P_Prose_Formatting">“Of course, I didn't take such an invitation seriously at first. However, right after that, I heard from Ryūen that if I didn’t move classes, I’d definitely regret it at the end of the school year.” </p>
+<p class="P_Prose_Formatting">“Regret? Is it because Ryūen himself is confident that he’ll win?” </p>
+<p class="P_Prose_Formatting">“It seems that even you don't know about the content of the bet that Ryūen and Sakayanagi agreed on.” </p>
+<p class="P_Prose_Formatting">“A bet, huh? I don't know if it applies, but I've heard a little about the exchange in the last deserted island exam. Unfortunately, I don't know the details.” </p>
+<p class="P_Prose_Formatting">After I told him what I knew, Hashimoto rubbed his fingers together and made a sound, as if to prove that this was what he wanted to confirm in advance. </p>
+<p class="P_Prose_Formatting">“I'm glad. Then there was a reason for me to come here.” </p>
+<p class="P_Prose_Formatting">Accepting that the key points of the story matched, Hashimoto slightly raised the corners of his mouth and smiled. </p>
+<p class="P_Prose_Formatting">Afterward, Hashimoto detailed the bet that the two made. </p>
+<p class="P_Prose_Formatting">“When I first heard about it, I thought it was a joke, but it turns out it's serious.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p200"></a><img src="/hola-lector-agua/images/books/y2v11/index-200_1.png" loading="lazy" decoding="async" alt="Image 217" /></p>
+<p class="P_Prose_Formatting">“I see. So you had a reason to betray them during the survival and elimination special exam.” </p>
+<p class="P_Prose_Formatting">It was clear that it wasn't a spur-of-the-moment idea at that point. </p>
+<p class="P_Prose_Formatting">“It's not unreasonable to doubt the bet itself, right? No matter how you look at it, Sakayanagi is at a disadvantage.” </p>
+<p class="P_Prose_Formatting">“That's true. However, Sakayanagi wouldn't choose to reject the bet just because of the disadvantage.” </p>
+<p class="P_Prose_Formatting">She was the type who, like Ryūen, believed in her ultimate victory without a doubt. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p201"></a><img src="/hola-lector-agua/images/books/y2v11/index-201_1.png" loading="lazy" decoding="async" alt="Image 218" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-201_2.jpg" loading="lazy" decoding="async" alt="Image 219" /></p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p202"></a><img src="/hola-lector-agua/images/books/y2v11/index-202_1.png" loading="lazy" decoding="async" alt="Image 220" /></p>
+<p class="P_Prose_Formatting">“Do you think Sakayanagi simply conceded or were there certain conditions set?”  Hashimoto, unable to suppress his overflowing emotions, leaned forward and asked. </p>
+<p class="P_Prose_Formatting">“Both are possible, but the details of the bet will eventually come to light. </p>
+<p class="P_Prose_Formatting">Considering that, it must be the latter. She must’ve allowed Ryūen to accumulate private points.” </p>
+<p class="P_Prose_Formatting">“Nice. That's fast. Yes, if that's the case, there’s plenty of room to maneuver.” </p>
+<p class="P_Prose_Formatting">“Who else knows about this bet besides you and the parties involved?” </p>
+<p class="P_Prose_Formatting">“Unless Ryūen was lying, no one. You're the fourth. Well, both would hate to lose the bet by having it leaked.” </p>
+<p class="P_Prose_Formatting">That speculation was probably correct. It would be preferable to make it public after everything had been confirmed. </p>
+<p class="P_Prose_Formatting">The only one Ryūen leaked it to was Hashimoto, but that must’ve been a considerable risk. </p>
+<p class="P_Prose_Formatting">If it was around the time the deserted island exam ended, about half a year had passed since then. </p>
+<p class="P_Prose_Formatting">“It took a while. . for this day to come.” </p>
+<p class="P_Prose_Formatting">Having kept the secret hidden, Hashimoto had been worrying alone. </p>
+<p class="P_Prose_Formatting">“Whether Sakayanagi wins or Ryūen wins, honestly, I couldn't make a judgment..  No, I was kinda thinking that Sakayanagi might win.” </p>
+<p class="P_Prose_Formatting">As if he had momentarily lied, Hashimoto immediately corrected himself. </p>
+<p class="P_Prose_Formatting">“But even then, it's like 55 to 45. Seriously, it's not decisive, is it?” </p>
+<p class="P_Prose_Formatting">I agreed. </p>
+<p class="P_Prose_Formatting">Unless it was a nine to one chance or at worst a seven to three chance, you couldn't tell which way a match would go. </p>
+<p class="P_Prose_Formatting">“So I've been looking for a decisive factor, and what I thought that would be was—” Slowly, Hashimoto's gaze turned to me. </p>
+<p class="P_Prose_Formatting">“Me?” </p>
+<p class="P_Prose_Formatting">“If you were to follow Sakayanagi, I would’ve been ready to die with my current class without hesitation. That's why I advised Sakayanagi. . to recruit you as an ally.” </p>
+<p class="P_Prose_Formatting">And Sakayanagi refused. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">So he decided to betray them. .? </i> </p>
+<p class="P_Prose_Formatting">While it seemed to make sense, it was still unclear at its core. </p>
+<p class="P_Prose_Formatting">I understood that the outcome of the confrontation between Sakayanagi and Ryūen was unpredictable. </p>
+<p class="P_Prose_Formatting">I understood that he thought Sakayanagi could win if I joined. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p203"></a><img src="/hola-lector-agua/images/books/y2v11/index-203_1.png" loading="lazy" decoding="async" alt="Image 221" /></p>
+<p class="P_Prose_Formatting">But that didn't change the fact that it was too reckless. </p>
+<p class="P_Prose_Formatting">“I will make Ryūen win. No matter what the content of the end-of-year special exam is, I will thoroughly assist them. If I miss this opportunity, I will most likely be the one to disappear.” </p>
+<p class="P_Prose_Formatting">Of course, Sakayanagi would be on high alert against Hashimoto and wouldn’t share any information. </p>
+<p class="P_Prose_Formatting">But if there was a confirmed traitor within the class, it would inevitably be a handicap. </p>
+<p class="P_Prose_Formatting">If the class’s accumulated exam scores were to determine the outcome, it would be a tough situation if Hashimoto intentionally scored zero. </p>
+<p class="P_Prose_Formatting">“If Sakayanagi had followed my instructions, whether that would be before or after I betrayed her in the previous special exam, I was planning to betray Ryūen and join her at the end of the year.” </p>
+<p class="P_Prose_Formatting">He spoke with a lot of determination, but I wasn’t sure how much of what he was saying was true. </p>
+<p class="P_Prose_Formatting">Right now, the only thing I could be sure of was that everything he said was ambiguous. </p>
+<p class="P_Prose_Formatting">“It's fine if you want to make Ryūen win, but did you propose the same thing to him as you did to Sakayanagi?” </p>
+<p class="P_Prose_Formatting">“You mean about recruiting you? Yes, of course. The answer was the same as Sakayanagi's, but there was a condition. If we could defeat Sakayanagi in the end-of-year exam, he would recruit the both of us to his class.” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Ryūen said that? </i> </p>
+<p class="P_Prose_Formatting">Considering the past, Ryūen was the same as Sakayanagi. </p>
+<p class="P_Prose_Formatting">It was clear that he wasn’t the kind of person who would try to win by recruiting me. </p>
+<p class="P_Prose_Formatting">And it would take a whopping 40 million to recruit two students from different classes. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Did Ryūen's shallow lie fool Hashimoto? </i> </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">No—that probably wasn’t it. </i> </p>
+<p class="P_Prose_Formatting">Hashimoto wasn't telling the whole truth. </p>
+<p class="P_Prose_Formatting">If I were Hashimoto, I’d make sure to have a safety net in place for my reckless betrayal. I wouldn't decide to betray solely based on the possibility that Ayanokōji Kiyotaka might move to the class I had in mind. </p>
+<p class="P_Prose_Formatting">It’d be strange if the reward for betraying Sakayanagi wasn't enormous. </p>
+<p class="P_Prose_Formatting">The contract to transfer 20 million private points— </p>
+<p class="P_Prose_Formatting">That would make sense. </p>
+<p class="P_Prose_Formatting">If he helped defeat Sakayanagi in the end-of-year exam and took the credit, he’d gain that privilege from Ryūen. </p>
+<p class="P_Prose_Formatting">That would make the challenge worth it, even at the cost of betrayal. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p204"></a><img src="/hola-lector-agua/images/books/y2v11/index-204_1.png" loading="lazy" decoding="async" alt="Image 222" /></p>
+<p class="P_Prose_Formatting">Even if Ryūen couldn’t immediately prepare that large sum, he could collect the private points that come into the class every month, and it would be enough to pay by graduation. </p>
+<p class="P_Prose_Formatting">In the end, it didn't really matter to Hashimoto which class won or where I was. As long as he had the privilege to be part of Class A, that would be Hashimoto's victory. </p>
+<p class="P_Prose_Formatting">Everything was for himself. </p>
+<p class="P_Prose_Formatting">It was the answer he chose based on the patterns he had mentally simulated. </p>
+<p class="P_Prose_Formatting">By betraying the class in the survival and elimination special exam, Hashimoto confirmed Sakayanagi's true intentions. </p>
+<p class="P_Prose_Formatting">If she decided to accept me there, things would be simple. If she collected private points from each of her classmates, there was a high possibility that she could easily reach 20 million points. If I accepted the class change, Hashimoto would’ve chosen to fight alongside me and Sakayanagi as the two main players. </p>
+<p class="P_Prose_Formatting">If he was rejected, he could make a secret agreement with Ryūen and get 20 </p>
+<p class="P_Prose_Formatting">million private points. However, though the latter had an advantage in terms of graduating from Class A, he couldn’t avoid risking expulsion due to his betrayal. </p>
+<p class="P_Prose_Formatting">Not only would Sakayanagi become an enemy, but he would also be at risk of being targeted by a third party. </p>
+<p class="P_Prose_Formatting">The reason he approached me and told me the details of the betrayal was all for himself. </p>
+<p class="P_Prose_Formatting">“What do you want from me?” </p>
+<p class="P_Prose_Formatting">When I asked, Hashimoto smiled nervously. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p205"></a><img src="/hola-lector-agua/images/books/y2v11/index-205_1.png" loading="lazy" decoding="async" alt="Image 223" /></p>
+
+
+<p class="P_Prose_Formatting">With the end of the exchange camp, time was slowly but surely passing. </p>
+<p class="P_Prose_Formatting">Sakayanagi was quietly spending time while waiting for someone to come, sitting on the sofa in the career counseling room. </p>
+<p class="P_Prose_Formatting">Next to her stood her homeroom teacher, Mashima, with his arms crossed in confusion. </p>
+<p class="P_Prose_Formatting">“What are you planning to talk about? And with whom?” </p>
+<p class="P_Prose_Formatting">Mashima, who had been brought here without being told anything, sent a quizzical glance. </p>
+<p class="P_Prose_Formatting">Even though he didn’t understand the situation, he definitely sensed something unusual. </p>
+<p class="P_Prose_Formatting">“You seem restless, Mashima-sensei. Don't worry, you'll understand soon.” </p>
+<p class="P_Prose_Formatting">“But...” </p>
+<p class="P_Prose_Formatting">More than ten minutes had passed since the two of them entered the room. </p>
+<p class="P_Prose_Formatting">“. .Here he comes.” </p>
+<p class="P_Prose_Formatting">Sakayanagi sensed it immediately after. </p>
+<p class="P_Prose_Formatting">The moment a hand was placed on the door, she knew that man would appear. “You're five minutes late, Ryūen-kun.” </p>
+<p class="P_Prose_Formatting">“The star of the show always makes a late entrance.” </p>
+<p class="P_Prose_Formatting">The one who opened the door to the counseling room was Ryūen Kakeru. </p>
+<p class="P_Prose_Formatting">And behind him was the figure of his homeroom teacher, Sakagami. </p>
+<p class="P_Prose_Formatting">“What's going on here, Mashima-sensei?” </p>
+<p class="P_Prose_Formatting">“Well. . I'm also trying to gauge the situation.” </p>
+<p class="P_Prose_Formatting">The two teachers who ran into each other couldn't understand the situation and looked at each other, puzzled. </p>
+<p class="P_Prose_Formatting">Ryūen sat down in front of the sofa where Sakayanagi was sitting, spreading his legs wide. </p>
+<p class="P_Prose_Formatting">An odd situation was created—two students were sitting and the teachers were standing. </p>
+<p class="P_Prose_Formatting">“Even if you were to deceive Hashimoto-kun, you made him do something quite bold.” </p>
+<p class="P_Prose_Formatting">When Sakayanagi asked, Ryūen immediately responded. </p>
+<p class="P_Prose_Formatting">“He must be feeling insecure under you, can't blame him.” </p>
+<p class="P_Prose_Formatting">“That would be fine. But he must’ve been tempted by a cunning villain’s sweet words. He believes lies to be true and truth to be lies. He might be another victim.” </p>
+<p class="P_Prose_Formatting">The exchange of words between the two began, leaving the teachers behind. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p206"></a><img src="/hola-lector-agua/images/books/y2v11/index-206_1.png" loading="lazy" decoding="async" alt="Image 224" /></p>
+<p class="P_Prose_Formatting">“You seem energetic for someone who's sunk so low.” </p>
+<p class="P_Prose_Formatting">“I indeed felt emotions I had never experienced before, but if you thought that was the end, it’s too early.” </p>
+<p class="P_Prose_Formatting">“Heh, Ayanokōji did something unnecessary too.” </p>
+<p class="P_Prose_Formatting">Ryūen naturally grasped that Ayanokōji had approached Sakayanagi at the exchange meeting. </p>
+<p class="P_Prose_Formatting">After the meeting, Sakayanagi had returned to her usual self. </p>
+<p class="P_Prose_Formatting">No complex reasoning was needed to connect the dots. </p>
+<p class="P_Prose_Formatting">“As you say, I was saved by him… by Ayanokōji-kun.” </p>
+<p class="P_Prose_Formatting">Taking Sakayanagi's gaze head-on, Ryūen felt it on his skin. </p>
+<p class="P_Prose_Formatting">A change in her gaze, which until now had only looked down on others. </p>
+<p class="P_Prose_Formatting">Sakayanagi also felt it. </p>
+<p class="P_Prose_Formatting">The man before her had a conviction that had grown even larger than when they first met. </p>
+<p class="P_Prose_Formatting">“So you were also saved by Ayanokōji-kun.” </p>
+<p class="P_Prose_Formatting">“Huh, don't make me laugh. We'll never get along. I don't remember being saved by Ayanokōji. Rather, what I got was hatred. Hatred for revenge.” </p>
+<p class="P_Prose_Formatting">His trampled strength and pride. </p>
+<p class="P_Prose_Formatting">He had been defeated miserably in the ring where he had absolute confidence. </p>
+<p class="P_Prose_Formatting">“I see. Hatred—so that's what drove you here.” </p>
+<p class="P_Prose_Formatting">“Are you any different?” </p>
+<p class="P_Prose_Formatting">In response to Ryūen's counter-question, Sakayanagi inadvertently smiled. </p>
+<p class="P_Prose_Formatting">“What's so funny?” </p>
+<p class="P_Prose_Formatting">“I'm sorry. If my smile seemed rude, I apologize. I was simply happy that you’ve come to recognize Ayanokōji-kun's strength in the process of getting here.” </p>
+<p class="P_Prose_Formatting">Unlike her fury towards Hashimoto, which was not based on personal experience, the Ryūen before her had directly experienced the cause of his emotions. </p>
+<p class="P_Prose_Formatting">She thought he was qualified. </p>
+<p class="P_Prose_Formatting">No, Sakayanagi immediately revised her thoughts. It wasn’t just that. </p>
+<p class="P_Prose_Formatting">She felt a change in her emotional switch within her, starting with the incident involving Kamuro and Yamamura. </p>
+<p class="P_Prose_Formatting">“Are you saying you had your eye on him earlier?” </p>
+<p class="P_Prose_Formatting">It was a well-known fact that Sakayanagi had been paying attention to Ayanokōji from the start. </p>
+<p class="P_Prose_Formatting">But Ryūen didn't know where their first contact was, so he tried to find out. </p>
+<p class="P_Prose_Formatting">“Yes. You unfortunately only learned of his existence at this school. </p>
+<p class="P_Prose_Formatting">However, unlike you, I’ve been following him with my own eyes since childhood.” </p>
+<p class="P_Prose_Formatting">At such a triumphant attitude, Ryūen stopped moving. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p207"></a><img src="/hola-lector-agua/images/books/y2v11/index-207_1.png" loading="lazy" decoding="async" alt="Image 225" /></p>
+<p class="P_Prose_Formatting">“. .Quite an interesting statement, isn’t it? You know about his childhood?” </p>
+<p class="P_Prose_Formatting">“I know it well. I consider him as something like a childhood friend.” </p>
+<p class="P_Prose_Formatting">Upon hearing that statement, Mashima also remembered the story Sakayanagi had told him before. </p>
+<p class="P_Prose_Formatting">And there was nothing ruder than interrupting the two of them. </p>
+<p class="P_Prose_Formatting">“I lost to Ayanokōji. I thought it was okay to lose as many times as I wanted as long as I won in the end, but that man mercilessly crushed that indomitable spirit. I was so drained.” </p>
+<p class="P_Prose_Formatting">But over a year later, he was trying to return to that stage. </p>
+<p class="P_Prose_Formatting">“Although our motives are different, it seems that our final goals are the same, Ryūen-kun. I have been wishing to fight him since long before you. We only have one year left in our school life. I need to get rid of any obstacles before then.” </p>
+<p class="P_Prose_Formatting">“I completely agree. I'll defeat you quickly and take my revenge on him.” </p>
+<p class="P_Prose_Formatting">Sakayanagi, who had always looked at others with cold eyes, certainly felt her heart warming up. </p>
+<p class="P_Prose_Formatting">Not towards Ryūen. She was thinking of Ayanokōji, who was waiting ahead. </p>
+<p class="P_Prose_Formatting">Ryūen felt the same way. His emotions were surging to defeat Ayanokōji, who was waiting beyond Sakayanagi. </p>
+<p class="P_Prose_Formatting">“Your revenge will not be fulfilled. You will stumble just before it.” </p>
+<p class="P_Prose_Formatting">“You're probably planning for a showdown on the throne, but that scheme will fail.” </p>
+<p class="P_Prose_Formatting">Unable to remain silent in the face of the escalating exchange, Mashima intervened. </p>
+<p class="P_Prose_Formatting">“You seem to be moving the conversation along on your own, but could you explain the situation?” </p>
+<p class="P_Prose_Formatting">“I apologize.” </p>
+<p class="P_Prose_Formatting">In response to the slightly indignant Mashima, Sakayanagi apologized softly and started speaking. </p>
+<p class="P_Prose_Formatting">“It would be better not to waste any more time. Shall we get to the point?” </p>
+<p class="P_Prose_Formatting">“Yeah, that's right.” </p>
+<p class="P_Prose_Formatting">Sakayanagi lined up the two teachers and turned them towards her. </p>
+<p class="P_Prose_Formatting">In front of Sakayanagi, who stood up on her cane, Ryūen also stood up and turned around, facing the teachers. </p>
+<p class="P_Prose_Formatting">“We’re about to make a big bet. Normally, we would make some kind of verbal promise for ordinary matters, or if we couldn't trust each other, we would make a contract. This time, however, because of the nature of its content, we decided it would be safer to have the teachers in charge of both classes present.” </p>
+<p class="P_Prose_Formatting">From the course of the conversation they had heard, both Mashima and Sakagami felt tense. </p>
+<p class="P_Prose_Formatting">“What are you planning to decide among yourselves?” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p208"></a><img src="/hola-lector-agua/images/books/y2v11/index-208_1.png" loading="lazy" decoding="async" alt="Image 226" /></p>
+<p class="P_Prose_Formatting">Sakayanagi announced the details of the bet. </p>
+<p class="P_Prose_Formatting">“For the end-of-year exam, the loser will leave this school—that's what it’s about.” “The loser will leave..? What are you talking about? The content and rules of the exam haven't been announced yet. We don't even know if there's a way to expel students within the exam yet.” </p>
+<p class="P_Prose_Formatting">Confused, he answered sternly, explaining that there was no guarantee of a method to expel the opponent. </p>
+<p class="P_Prose_Formatting">“Mashima-sensei, what are you misunderstanding? The content and rules are irrelevant. We are only betting on the outcome of the end-of-year special exam. As a result, the loser will voluntarily drop out. That's all there is to it.” </p>
+<p class="P_Prose_Formatting">“You teachers were made witnesses to this exchange just to ensure certainty. </p>
+<p class="P_Prose_Formatting">Even if Sakayanagi cries and screams, proceed with the expulsion process according to the contract. Of course, if by any chance I lose, the same applies to me.”  Both parties accepted the dangerous condition—accepting expulsion—upon defeat, cutting off 100% of their retreat. </p>
+<p class="P_Prose_Formatting">Due to its coercive power, the school’s cooperation was essential for the bet’s smooth execution. </p>
+<p class="P_Prose_Formatting">Mashima, who had taken in the situation, tried to speak, but the words didn't immediately come out. </p>
+<p class="P_Prose_Formatting">“Do you really intend to make such a bet? You have a Protection Point—” </p>
+<p class="P_Prose_Formatting">Compared to Mashima, the calmer Sakagami voiced his doubts. </p>
+<p class="P_Prose_Formatting">“A Protection Point is meaningless if we’re voluntarily withdrawing. For fairness, it’s been decided that we’d request additional private points to fill the difference that the Protection Point makes, but the amount is kept to a minimum. If we take away his money, his class will really have nothing left.” </p>
+<p class="P_Prose_Formatting">“It’s like counting your chickens before they hatch. If you lose, there's no need to calculate money.” </p>
+<p class="P_Prose_Formatting">Mashima understood that this wasn’t a joke. The contract was serious. </p>
+<p class="P_Prose_Formatting">He straightened his posture and made a stern expression. </p>
+<p class="P_Prose_Formatting">“Are both of you really okay with this? If we agree, we will have to enforce the expulsion forcibly based on the end-of-year results. Both of you are in important positions; you two play the leader role in your classes. Major disruption is inevitable.” </p>
+<p class="P_Prose_Formatting">“Yes. It will be virtually impossible to repair the defeated class, and it will be impossible to avoid dropping out of the four-way battle before advancing to the third-year.” </p>
+<p class="P_Prose_Formatting">As she said these words, Sakayanagi thought of Ayanokōji again. </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p209"></a><img src="/hola-lector-agua/images/books/y2v11/index-209_1.png" loading="lazy" decoding="async" alt="Image 227" /></p>
+<p class="P_Prose_Formatting">The competition between the four classes that Ayanokōji idealized had become impossible when the bet with Ryūen was decided. Even if Ayanokōji transferred and steered towards balancing the forces, considering Ichinose’s declining class, there wouldn’t be enough players. </p>
+<p class="P_Prose_Formatting">“Please don't hope for a draw to invalidate the bet, okay?” </p>
+<p class="P_Prose_Formatting">“I won't recognize a draw. If that happens, we can decide by lottery, just like how you abandoned Kamuro.” </p>
+<p class="P_Prose_Formatting">“That's also fun. Let's look forward to it.” </p>
+<p class="P_Prose_Formatting">Both parties cut off their method of retreat. Though, since the beginning, they didn’t anticipate a draw occurring. </p>
+<p class="P_Prose_Formatting">It could only be victory or defeat. </p>
+<p class="P_Prose_Formatting">A relationship similar to the two sides of the same coin. </p>
+<p class="P_Prose_Formatting">The bet was officially established when Sakayanagi and Ryūen acknowledged it, and both homeroom teachers understood it. </p>
+<p class="P_Prose_Formatting">The loser would disappear. </p>
+<p class="P_Prose_Formatting">The end-of-year special exam, with stakes set on expulsion and no escape… </p>
+<p class="P_Prose_Formatting">was about to begin. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p210"></a><img src="/hola-lector-agua/images/books/y2v11/index-210_1.png" loading="lazy" decoding="async" alt="Image 228" /></p>
+<h1 id="postscript" class="chapter-title">Author’s Postscript</h1>
+
+<p class="P_Prose_Formatting">Somehow, I was able to release this in four months. I'm Kinugasa with a hernia. </p>
+<p class="P_Prose_Formatting">Thank you all for your support this year as well. A year really goes by quickly, and before I know it, one of my children will be starting elementary school this spring. </p>
+<p class="P_Prose_Formatting">I believe that playing with all their might every day at kindergarten or daycare is a child’s social role, but the fact that they are about to jump into a society that includes studying. . As a parent, I'm half excited and half worried. </p>
+<p class="P_Prose_Formatting">Well, let's put my story aside for now and talk a little about 'Classroom of the Elite.' Following the previous time, the story has entered the third term of the second-year. After the hard-hitting development during the previous volume, I provided something slightly more relaxed this time. And next time, it will finally be the last special exam of the second-year, the end-of-year special exam. Those who have already finished reading the main story will understand, but I am planning a story that will greatly affect the main characters up to this point. And currently, the third season of the 'Classroom of the Elite' TV anime is airing. I would be happy if you could check that out as well! </p>
+<p class="P_Prose_Formatting">Finally.. As I wrote at the beginning, about the condition of my herniated neck. </p>
+<p class="P_Prose_Formatting">These days, there's nothing I can do about it, and my work pace has slowed down considerably. The pain is so severe that I hate sitting in a chair. When I was healthy, if the ratio of work time was six and rest time was four, I made it nine for work and one for rest to somehow cover the slowdown. But there's no way I can keep this ratio forever, and I think my body is at its limit..  So I'm considering taking a little time off to completely rest in the future and focusing on recovery. In that case, the release of the next volume may be delayed. I intend to work harder than ever when I recover, so I would appreciate your understanding. 'Classroom of the Elite' is of course the first priority, but I have many other things I want to do besides that. </p>
+<p class="P_Prose_Formatting">Well then, everyone, hoping for the quickest possible reunion—see you again! </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p211"></a><img src="/hola-lector-agua/images/books/y2v11/index-211_1.png" loading="lazy" decoding="async" alt="Image 229" /></p>
+<p class="P_Prose_Formatting">Shiina Hiyori’s Short Story: </p>
+<p class="P_Prose_Formatting">Memories I Don't Want to Forget </p>
+<p class="P_Prose_Formatting">MORISHITA-SAN, HOLDING A card in her left hand, swiftly extended her arm.  Four cards were held in her right hand. </p>
+<p class="P_Prose_Formatting">“Please go ahead, Shiina Hiyori. Feel free to draw any card you like.” </p>
+<p class="P_Prose_Formatting">In this game, the person left holding the Joker at the end loses. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">So..  does that mean the single card in her left hand is suspicious? </i> </p>
+<p class="P_Prose_Formatting">“Somehow..  I'm a little curious about this one card.” </p>
+<p class="P_Prose_Formatting">“Is that so? This is the advanced strategy I came up with.” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">But would she make it that obvious that she’s holding the joker? </i> </p>
+<p class="P_Prose_Formatting">“What should I do…?” </p>
+<p class="P_Prose_Formatting">Instinctively, I felt I should choose one from the four, but Morishita-san's composure was palpable.  <i class="calibre3">Was she trying to make it seem like a one-in-four chance</i> <i class="calibre3">by isolating a safe card instead of making me draw the Joker from a one-in-five</i> <i class="calibre3">chance? </i> </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">No, perhaps that was exactly her plan, and that was the Joker? </i> </p>
+<p class="P_Prose_Formatting">—I had no idea. </p>
+<p class="P_Prose_Formatting">As I was seriously contemplating, I happened to glance over at Ayanokōji-kun, who was sitting behind Morishita-san. His eyes were focused on Morishita-san's cards. </p>
+<p class="P_Prose_Formatting">And then, at that moment… </p>
+<p class="P_Prose_Formatting">Even though there was nothing apparent in his expression.. </p>
+<p class="P_Prose_Formatting">I strangely felt like I could read Ayanokōji-kun's thoughts. </p>
+<p class="P_Prose_Formatting">‘The isolated card Morishita-san was holding was the Joker.’ </p>
+<p class="P_Prose_Formatting">I felt like he was looking at it that way. </p>
+<p class="P_Prose_Formatting">“Please choose as you like.” </p>
+<p class="P_Prose_Formatting">That was why I felt a bit guilty and couldn't choose from the four. I just pulled out the isolated card. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p212"></a><img src="/hola-lector-agua/images/books/y2v11/index-212_1.png" loading="lazy" decoding="async" alt="Image 230" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-212_2.jpg" loading="lazy" decoding="async" alt="Image 231" /></p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p213"></a><img src="/hola-lector-agua/images/books/y2v11/index-213_1.png" loading="lazy" decoding="async" alt="Image 232" /></p>
+<p class="P_Prose_Formatting">When I turned it over. . that card was indeed the Joker. </p>
+<p class="P_Prose_Formatting">I was a bit shocked, but more than that, I felt relieved. </p>
+<p class="P_Prose_Formatting">I felt validated that what I sensed from Ayanokōji-kun wasn’t wrong. </p>
+<p class="P_Prose_Formatting">I continued to enjoy the game after that. </p>
+<p class="P_Prose_Formatting">School life, where I could spend precious time with friends I couldn't have imagined when I first enrolled. </p>
+<p class="P_Prose_Formatting">Spending precious time with the person I cared about. </p>
+<p class="P_Prose_Formatting">Memories I wanted to remember forever. </p>
+<p class="P_Prose_Formatting">I couldn't help but wish that this school life would continue for even one more day. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p214"></a><img src="/hola-lector-agua/images/books/y2v11/index-214_1.png" loading="lazy" decoding="async" alt="Image 233" /></p>
+<p class="P_Prose_Formatting">Sae Chabashira’s Short Story: </p>
+<p class="P_Prose_Formatting">The Student in Front of Me </p>
+<p class="P_Prose_Formatting">AFTER SCHOOL, the one-on-one meeting with Kōenji Rokusuke ended, and the career counseling room fell silent. </p>
+<p class="P_Prose_Formatting">“Phew..  Kōenji is such a troublesome student.” </p>
+<p class="P_Prose_Formatting">The conversation wasn't making sense, and the sections that the teacher was supposed to fill in were a mess. </p>
+<p class="P_Prose_Formatting">I sighed, staring at the tablet screen that I wanted to look away from. </p>
+<p class="P_Prose_Formatting">His career aspiration was to be a free person, he didn't need human relationships, his only concerns were about improving his own body, and so on. </p>
+<p class="P_Prose_Formatting">“If I submit this, who knows what the higher-ups will say.” </p>
+<p class="P_Prose_Formatting">But I couldn't just rewrite it and lie. </p>
+<p class="P_Prose_Formatting">My only option would be to submit it with some minor modifications to the wording. </p>
+<p class="P_Prose_Formatting">“If only Kōenji was the only oddball, it would be easier for me. .” </p>
+<p class="P_Prose_Formatting">The last one left was Ayanokōji, who could be equally as troublesome as Kōenji. Honestly, I couldn't imagine what kind of one-on-one meeting it would be. </p>
+<p class="P_Prose_Formatting">As I was adjusting Kōenji's profile, there was a knock on the career counseling room’s door. </p>
+<p class="P_Prose_Formatting">“Excuse me.” </p>
+<p class="P_Prose_Formatting">With that serious tone, Ayanokōji entered the room. </p>
+<p class="P_Prose_Formatting">“You're finally here. Have a seat.” </p>
+<p class="P_Prose_Formatting">I switched from Kōenji's profile to Ayanokōji's, displaying a blank list. </p>
+<p class="P_Prose_Formatting">I wondered how much of this would be filled in during the upcoming meeting. </p>
+<p class="P_Prose_Formatting">“You seem busy.” </p>
+<p class="P_Prose_Formatting">“As a homeroom teacher, I can't help but be busy during this time. But I feel a little better knowing that the two-person interviews will be over today. It was a good decision to leave the two oddballs for last.” </p>
+<p class="P_Prose_Formatting">First, I instructed Ayanokōji to sit down, facing each other. </p>
+<p class="P_Prose_Formatting">“Two oddballs, you say?” </p>
+<p class="P_Prose_Formatting">“What, are you shocked to be treated on the same level as Kōenji?” </p>
+<p class="P_Prose_Formatting">Their personalities were completely different, but there was no doubt that they were both oddballs. </p>
+<p class="P_Prose_Formatting">“I'd be lying if I said I didn't think anything of it.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p215"></a><img src="/hola-lector-agua/images/books/y2v11/index-215_1.png" loading="lazy" decoding="async" alt="Image 234" /></p>
+<p class="P_Prose_Formatting">“Do you think Kōenji is more of an oddball? Well, I can understand why you'd think that, but to me, there's not much difference. You're quite the oddball yourself.” </p>
+<p class="P_Prose_Formatting">One thing was for certain, he didn't want to be compared to Kōenji. </p>
+<p class="P_Prose_Formatting">“Well, I don't have many opportunities to talk with each student. Before we talk about your future plans, let's talk about your school life. If there's anything you want the school to improve, I'd like to hear it.” </p>
+<p class="P_Prose_Formatting">“I don't have anything in particular. As an individual, I'm satisfied.” </p>
+<p class="P_Prose_Formatting">“I see. Do you have any trouble in your relationships with friends, or anything you want to consult about?” </p>
+<p class="P_Prose_Formatting">“I don't.” </p>
+<p class="P_Prose_Formatting">He was definitely an oddball. Unlike Kōenji, he was concise and efficient, but like Kōenji, he lacked substance. </p>
+<p class="P_Prose_Formatting">“Most students give one or two opinions, or at least show some sign of thinking, even if they don't have any. I don't think you're holding back.. ” </p>
+<p class="P_Prose_Formatting">I tried to draw out as much as I could as a teacher, but Ayanokōji's responses didn't waver. </p>
+<p class="P_Prose_Formatting">“I actually don't have any complaints.” </p>
+<p class="P_Prose_Formatting">“Well, if that's the case, it's fine. . but you really don't have anything?” </p>
+<p class="P_Prose_Formatting">“There's nothing. I'm satisfied with my school life and there's no particular trouble.” </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p216"></a><img src="/hola-lector-agua/images/books/y2v11/index-216_1.png" loading="lazy" decoding="async" alt="Image 235" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-216_2.jpg" loading="lazy" decoding="async" alt="Image 236" /></p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p217"></a><img src="/hola-lector-agua/images/books/y2v11/index-217_1.png" loading="lazy" decoding="async" alt="Image 237" /></p>
+<p class="P_Prose_Formatting">“I see. . Well, that's very good.” </p>
+<p class="P_Prose_Formatting">“Chabashira-sensei, you've changed quite a bit too.” </p>
+<p class="P_Prose_Formatting">My hand, which had been typing on the tablet, stopped. </p>
+<p class="P_Prose_Formatting">I felt as if Ayanokōji was interviewing me, which was strange. </p>
+<p class="P_Prose_Formatting">“I don't think I've changed. But I might’ve become more honest than before.” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">The student in front of me is a whole generation younger than me. Yet, why</i> <i class="calibre3">does he sometimes seem like someone who’s lived as long or even longer than me? </i> </p>
+<p class="P_Prose_Formatting">It took courage for me to accept this feeling. </p>
+<p class="P_Prose_Formatting">If someone was in trouble, I would lend a hand, and if someone was wrong, I'd correct them. </p>
+<p class="P_Prose_Formatting">A teacher's gaze upon the children in the class must always be equal. </p>
+<p class="P_Prose_Formatting">But... </p>
+<p class="P_Prose_Formatting">Ayanokōji would casually cross that boundary. </p>
+<p class="P_Prose_Formatting">There were times when I felt like I wanted him to know my weaknesses. </p>
+<p class="P_Prose_Formatting">Though, this was originally the feeling that we wanted students to have toward their teachers. </p>
+<p class="P_Prose_Formatting">“. . Anyway. If there's anything you're concerned about in your school life, don't hesitate to tell me.” </p>
+<p class="P_Prose_Formatting">I cleared my throat to dispel unnecessary thoughts. </p>
+<p class="P_Prose_Formatting">The person in front of me now was an important student. </p>
+<p class="P_Prose_Formatting">Nothing more, nothing less. </p>
+<p class="P_Prose_Formatting">“I'd like to know whether you're hoping to go on to higher education or get a job. If you've made up your mind, please tell me.” </p>
+<p class="P_Prose_Formatting">I decided to move the conversation forward to distract myself from that strange feeling. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p218"></a><img src="/hola-lector-agua/images/books/y2v11/index-218_1.png" loading="lazy" decoding="async" alt="Image 238" /></p>
+<p class="P_Prose_Formatting">Ai Morishita’s Short Story: </p>
+<p class="P_Prose_Formatting">Please Listen in My Stead </p>
+<p class="P_Prose_Formatting">THE EXCHANGE MEETING was already on its third day. </p>
+<p class="P_Prose_Formatting">I was keeping my eye on Ayanokōji Kiyotaka to track Hashimoto Masayoshi's movements, and by chance, we happened to be in the same group. </p>
+<p class="P_Prose_Formatting">Yet, I was having trouble because I couldn't get any information. </p>
+<p class="P_Prose_Formatting">I wondered if those two had connected. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Have they decided to team up, or is it just me needlessly worrying? </i> </p>
+<p class="P_Prose_Formatting">I wanted to know. </p>
+<p class="P_Prose_Formatting">Not to protect Sakayanagi Arisu, nor to protect Class A. </p>
+<p class="P_Prose_Formatting">I did it for myself. </p>
+<p class="P_Prose_Formatting">And to satisfy the approaching needs for esteem. </p>
+<p class="P_Prose_Formatting">Surely, detectives who came across murder scenes must’ve been fighting such impulses every day. </p>
+<p class="P_Prose_Formatting">“It's almost time for the exchange meeting.” </p>
+<p class="P_Prose_Formatting">I heard a voice from behind. </p>
+<p class="P_Prose_Formatting">“Morishita?” </p>
+<p class="P_Prose_Formatting">When I didn't respond, my name was called. </p>
+<p class="P_Prose_Formatting">But I ignored it and tried to pick up the voice from the part of the tree where I had placed my hand. </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p219"></a><img src="/hola-lector-agua/images/books/y2v11/index-219_1.png" loading="lazy" decoding="async" alt="Image 239" /></p>
+<p class="P_TEXTBODY_CENTERALIGN"><img src="/hola-lector-agua/images/books/y2v11/index-219_2.jpg" loading="lazy" decoding="async" alt="Image 240" /></p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p220"></a><img src="/hola-lector-agua/images/books/y2v11/index-220_1.png" loading="lazy" decoding="async" alt="Image 241" /></p>
+<p class="P_Prose_Formatting">“Could you please be quiet? I was listening to the voice of the forest.” </p>
+<p class="P_Prose_Formatting">I shook off the disturbance from behind and focused my attention. </p>
+<p class="P_Prose_Formatting">“. .Huh? The voice of the forest? What is that?” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">How noisy. </i> </p>
+<p class="P_Prose_Formatting">It seemed he fell into the trap I set, but he was a bit of a nuisance right now. </p>
+<p class="P_Prose_Formatting">“Don't you understand? The forest is alive.” </p>
+<p class="P_Prose_Formatting">I continued to give a simple explanation. </p>
+<p class="P_Prose_Formatting">“If you touch a large tree like this, close your eyes, calm your mind, and listen, then you might understand what I'm saying.” </p>
+<p class="P_Prose_Formatting">“...I see?” </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">It seems he didn't get it. </i> </p>
+<p class="P_Prose_Formatting">Well, that was fine. It seemed I'd successfully lured him out. </p>
+<p class="P_Prose_Formatting">Ayanokōji Kiyotaka was a very interesting existence. </p>
+<p class="P_Prose_Formatting">No matter how close I got, I couldn't see his true nature as a human being. </p>
+<p class="P_Prose_Formatting">The line between how much was serious and how much was a joke wasn’t clear.  I wanted to know. I wanted to know more about him. I couldn't help but want to know. </p>
+<p class="P_Prose_Formatting"> <i class="calibre3">Let's have him listen to the voice of the forest instead of me. </i> </p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p221"></a><img src="/hola-lector-agua/images/books/y2v11/index-221_1.png" loading="lazy" decoding="async" alt="Image 242" /></p>
+<p class="P_Prose_Formatting">RoyalMTL’s Afterword </p>
+<p class="P_Prose_Formatting">Hey there everyone, Cast here again. I’ll jump straight into it by saying that this volume definitely turned out well. There were some points in the story that didn’t sit right with me like the fact that Horikita and Ibuki’s fight with Ichika was done off screen, or the lack of detail surrounding Kiyo and Nagumo’s match. </p>
+<p class="P_Prose_Formatting">Nevertheless, this was still a very good volume all around and I want to give a massive thank you to my team for helping produce the best quality translation that we could under the circumstances for this volume. As some of you may have noticed, the digital version of the Japanese release for Volume 11 came out about a week later than usual. This did throw some holes into our schedule for the translation but luckily, we were still able to complete it in a timely manner for you all. </p>
+<p class="P_Prose_Formatting">Once again, thank you so much to the author, Shogo Kinugasa, for writing this series. Everyone, please consider buying one of the official copies for Classroom of the Elite so that we may be able to support the author even more. </p>
+<p class="P_Prose_Formatting">In his postscript, Kinugasa seems to be dealing with some health issues so let’s all hope for his speedy recovery. </p>
+<p class="P_Prose_Formatting">Hope you guys enjoyed this volume and thank you for your continuous support! </p>
+<p class="P_Prose_Formatting">Keep checking in on our website to be updated on Classroom of the Elite translations and consider joining our discord events and early access! </p>
+<p class="P_Prose_Formatting">-Cast (Translator) </p>
+<p class="P_Prose_Formatting"><a href="https://royalmtls.com/">https://royalmtls.com/ </a></p>
+<p class="P_Prose_Formatting"><a href="https://discord.com/invite/royalmtls">https://discord.com/invite/royalmtls </a></p>
+<p class="P_Prose_Formatting">Also follow us on Twitter for updates and potential leaks. </p>
+<p class="P_Prose_Formatting"><a href="https://twitter.com/royalmtls">https://twitter.com/royalmtls </a></p>
+
+
+
+
+
+<p class="P_Prose_Formatting"><a id="p222"></a><img src="/hola-lector-agua/images/books/y2v11/index-222_1.png" loading="lazy" decoding="async" alt="Image 243" /></p>
+<p class="P_Prose_Formatting">Credits </p>
+<p class="P_Prose_Formatting">Yasaseru – Japanese Reader<b class="calibre6"> </b></p>
+<p class="P_Prose_Formatting">“They didn't let me cook enough on the TL Notes..  but what's more important is how Kinugasa ruined Ichika &amp; Arisu's characters even more. .” </p>
+
+<p class="P_Prose_Formatting">D3nj4l – Japanese Reader </p>
+
+<p class="P_Prose_Formatting">DoSomething – Editor </p>
+<p class="P_Prose_Formatting">“Huh? Ichika v.s. Hori/Ibuki happened? When? Where? Who even is Ichika?” </p>
+
+<p class="P_Prose_Formatting">SuperSkillz – Editor<b class="calibre6"> </b></p>
+<p class="P_Prose_Formatting">“What did I get hyped up for… I'm about to start endless yapping if I continue ranting” </p>
+
+<p class="P_Prose_Formatting">Unknown – Editor<b class="calibre6"> </b></p>
+<p class="P_Prose_Formatting">“I can feel Kinu cooking something big” </p>
+
+<p class="P_Prose_Formatting">Spoopykay – Editor<b class="calibre6"> </b></p>
+<p class="P_Prose_Formatting">“Shit better be fire next volume or this fr turning into lobotomy kaisen.” </p>
+
+<p class="P_Prose_Formatting">Meyobos – Editor<b class="calibre6"> </b></p>
+<p class="P_Prose_Formatting">“JJK manga is popping off hard rn Yuta is the GOAT, also shout out to my fellow TL team members.” </p>
+
+
+
+<p class="P_Prose_Formatting"><a id="p223"></a><img src="/hola-lector-agua/images/books/y2v11/index-223_1.png" loading="lazy" decoding="async" alt="Image 244" /></p>
+
+<p class="P_Prose_Formatting">Kall_tho – Editor<b class="calibre6"> </b></p>
+<p class="P_Prose_Formatting">“Hail the glorious king Ayanokoji… ‘Put Chabs back in the bunny suit’ - </p>
+<p class="P_Prose_Formatting">Meyobos” </p>
+
+<p class="P_Prose_Formatting">Budos – Editor<b class="calibre6"> </b></p>
+<p class="P_Prose_Formatting">“Please be kind to each other. RIP Hana Kimura 5/23/2020.” </p>
+
+<p class="P_Prose_Formatting">Reito – Editor<b class="calibre6"> </b></p>
+<p class="P_Prose_Formatting">“After reading Hiyori SS, I think that bookworm might even be more relevant than I had originally considered her to be.” </p>
+
+<p class="P_Prose_Formatting">Ash – Editor </p>
+
+<p class="P_Prose_Formatting">SnOrT NeSqUiK™ - EPUB Maker  </p>
+<p class="P_Prose_Formatting">“Brug #3” </p>
+
+<p class="P_Prose_Formatting">ZF - Illustrator<b class="calibre6"> </b></p>
+<p class="P_Prose_Formatting">“ʍɥɐʇ ıs ƃoıuƃ ou ıu ʎ2ʌ11¿” </p>
+
+<p class="P_Prose_Formatting">Reversi – Illustrator </p>
+<p class="P_Prose_Formatting">“Ichika Goddess… Akira Toriyama R.I.P.” </p>
+
+
+
+
+
+<style>
+    body {
+        color: #e5e5e5 !important;
+        background-color: transparent !important;
+    }
+    .P_Prose_Formatting {
+        font-family: serif; /* Match standard LN feel */
+        font-size: 1.08em;
+        text-align: justify;
+        text-indent: 1.50em; /* Standard indent */
+        line-height: 1.4;
+        margin-top: 0.42em;
+        margin-bottom: 0.42em;
+        color: inherit; /* Essential: Inherit theme color (white in dark mode) */
+    }
+    .P_TEXTBODY_CENTERALIGN {
+        font-size: 1.00em;
+        text-align: center;
+        text-indent: 0;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        display: block;
+    }
+    .chapter-title {
+        font-family: serif;
+        font-weight: bold;
+        font-size: 1.8em;
+        text-align: center;
+        margin-top: 1.5em;
+        margin-bottom: 1.5em;
+        page-break-before: always;
+        color: inherit;
+    }
+    a { color: inherit; text-decoration: none; }
+    img { 
+        max-width: 100%; 
+        height: auto; 
+        display: block; 
+        margin: 0 auto;
+    }
+</style>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Epilogue: Postscript","volumeId":"y2v11","chapterIndex":9,"prevChapter":{"volumeId":"y2v11","chapter":8,"title":"Chapter 7: A Settled Night"},"toc":[{"label":"Illustrations","href":"index_split_000.html#illustrations","index":1},{"label":"Prologue: Miki Yamamura’s Monologue","href":"index_split_000.html#prologue","index":2},{"label":"Chapter 1: The Elusive Two-Party Interview","href":"index_split_001.html#chapter-1","index":3},{"label":"Chapter 2: The Exchange Training Camp","href":"index_split_002.html#chapter-2","index":4},{"label":"Chapter 3: Request from Horikita & Request from Ayanokōji","href":"index_split_002.html#chapter-3","index":4},{"label":"Chapter 4: A Strange Discomfort","href":"index_split_003.html#chapter-4","index":5},{"label":"Chapter 5: The One Who Watches, The One Being Watched","href":"index_split_004.html#chapter-5","index":6},{"label":"Chapter 6: A Peaceful Resolution","href":"index_split_005.html#chapter-6","index":7},{"label":"Chapter 7: A Settled Night","href":"index_split_006.html#chapter-7","index":8},{"label":"Chapter 8: The Courage to Move Forward","href":"index_split_007.html#chapter-8","index":9},{"label":"Epilogue: Who is the Challenger?","href":"index_split_007.html#epilogue","index":9},{"label":"Epilogue: Postscript","href":"index_split_007.html#postscript","index":9}],"volumeTitle":"Light Novel 2nd Year Volume 11","detailsLink":"/select/year-2/y2v11","returnLink":"/select","currentSpineIndex":9,"nextVolumeLink":"/select/year-2/y2v12","nextVolumeTitle":"Light Novel 2nd Year Volume 12"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

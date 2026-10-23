@@ -1,0 +1,437 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T8ef4,
+      
+      <p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_top"><span style=" font-weight: bold; font-size: 1.17em;">Chapter 2:<br/>The Student Council President’s Inclination</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">E</span><span style=" font-size: 0.80em;">ARLY IN FEBRUARY,</span><span style=" font-size: 1.00em;"> after our time at the school camp was over, we returned to the Advanced Nurturing
+            High School. First-year Class A student Sakayanagi Arisu was in the student council
+            office. She placed her favorite hat upon the desk and sat face-to-face with Student
+            Council President Nagumo Miyabi, from second-year Class A. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The student council office looks a little gaudy now, doesn’t it? Nothing like how
+            it used to be,” said Sakayanagi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Putting it nicely, she was being sincere. The student council office could previously
+            have been described, at best, as being stuffy and formal. Now even the wallpaper had
+            been changed, and a large number of small items that looked like Nagumo’s personal
+            effects had been brought in. Rather than a student council office, it looked like
+            Nagumo’s own room. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Which was precisely what Nagumo wanted: to show his authority. Or so Sakayanagi mused.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t tell me that Horikita-senpai encouraged you to join the student council,” said
+            Nagumo. Sakayanagi surely didn’t have any other business with the council. Why was
+            she here?</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Unfortunately, it seems that I didn’t meet his standards,” she said. “I wasn’t invited
+            to join.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“His mistake.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Does that mean you’re different, Mr. New Student Council President?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">A faint smile crept onto Nagumo’s lips. “I am. I would gladly welcome you aboard.
+            Of course, you’d be my personal property, at best.” He lightly patted the head of
+            a stuffed rabbit that sat nearby. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Was Nagumo fond of stuffed animals? Maybe a girl who hung around him was?</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Personal property, he said. In other words, he didn’t care about her talents, but
+            was assessing her on looks alone. Sakayanagi could’ve pretended not to notice, but…why
+            not press him a little? “What would I have to do for your seal of approval, President
+            Nagumo?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Demonstrate an appropriate level of skill for me. You know, it’s not too late for
+            you to join us. You could come over to my side, Sakayanagi.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I could,” replied Sakayanagi, smiling broadly. “But I won’t. I don’t think one organization
+            could support two leaders. More importantly, I couldn’t bear the thought of crushing
+            the dignity of the upperclassmen.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Two leaders, huh?” he repeated. So this first-year thought herself to be Nagumo’s
+            equal? Or perhaps even greater? </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But Nagumo didn’t take the bait, didn’t get angry. Far from it: he smiled. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What interesting first-year students we have this year,” he said. “Ryuuen and you
+            are </span><span style=" font-style: italic; font-size: 1.00em;">quite </span><span style=" font-size: 1.00em;">unique.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Almost nobody at this school would consider making an enemy out of the student council.
+            More than a few students tried to buddy up with them to climb the ranks to Class A.
+            Others would just try to stay out of the council’s way. But Sakayanagi and Ryuuen
+            didn’t hesitate to bare their fangs at anyone…and they didn’t show a shred of mercy.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I can’t really say that’s a wise way of living,” Nagumo added.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">There probably are students who would have some respect for those who made enemies
+            on all sides, but Nagumo wasn’t like that. He esteemed those who were sometimes willing
+            to discard their pride and use their power in order to get ahead in the world.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo’s words hung in the air for a moment before his phone, sitting on a nearby
+            desk, vibrated once. Twice. Thrice—</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is this a bad time?” asked Sakayanagi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No. I choose how I spend my time, and I’m devoting it to you right now. Don’t worry
+            about it.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“My, it must be difficult being so very popular. All these incessant messages, hm?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you want to respect my time, why don’t we get down to business? You don’t want
+            to be appointed to the student council? Fine. So what business do you have with me
+            that requires clearing out the entire room? I have a prior engagement with another
+            first-year after this, so I’d appreciate it if you cut to the point.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. Then I suppose I’ll keep this brief, hm?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sakayanagi’s expression didn’t change, even though Nagumo had intentionally mentioned
+            meeting with a “first-year.” But despite her appearance, Nagumo was sure he’d piqued
+            her interest.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ve come here today to ask you for one favor,” said Sakayanagi. “It’s regarding
+            a member of the student council, Ichinose Honami, from first-year Class B. I will
+            be mounting an attack against her. It’s quite possible that things might get…</span><span style=" font-style: italic; font-size: 1.00em;">rough</span><span style=" font-size: 1.00em;">.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m aware. And?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo urged her to continue speaking. Everything Sakayanagi had said so far, she’d
+            already told him in a previous meeting between the two of them. Of course, virtually
+            no one knew that meeting had even taken place.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“She is the sole first-year serving on the student council,” Sakayanagi said. “Which
+            makes her a likely candidate for the future student council president.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo nodded. “As long as no other first-year students come forward to join the student
+            council or no exceptionally talented new faces appear, yes. She’s pretty much a shoo-in.”
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, I suppose that’s true.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In other words, losing Ichinose would be bad for the student council…and for Nagumo.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“As my way of thanking you for the other day, I thought I’d inform you of something
+            in advance. In a worst-case scenario, it is quite possible that Ichinose Honami-san
+            will be expelled. I must ask you to please pardon that,” declared Sakayanagi, showing
+            no hint of fearing Nagumo.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t recall ever giving you permission to go </span><span style=" font-style: italic; font-size: 1.00em;">that</span><span style=" font-size: 1.00em;"> far, Sakayanagi.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">For the first time since their conversation started, the smile had vanished from Nagumo’s
+            face.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, you told me to stop bullying Ichinose-san, President. However, I was thinking
+            I might play a little rough.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ichinose is my personal property, and I plan on, ah, </span><span style=" font-style: italic; font-size: 1.00em;">cherishing</span><span style=" font-size: 1.00em;"> her. I gave you permission to weaken her, no more.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m well aware. But </span><span style=" font-style: italic; font-size: 1.00em;">you </span><span style=" font-size: 1.00em;">should be aware that things don’t always go as planned.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo stared at Sakayanagi sharply. Some might even call it a glare. But Sakayanagi
+            coolly shook off his gaze.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So…you won’t mind, would you? Even if she does happen to be expelled?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo shifted slowly in his chair, moving his elbows from the armrests. “Quite a
+            bold girl. You’re not afraid of me, are you?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s just the way I am.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Tell me one thing. You could have just gone ahead and done this without getting my
+            permission. And yet you came all the way here, dutiful as you are, to ask me? You
+            don’t want to make an enemy out of me. Is that right?” asked Nagumo, not remotely
+            buying Sakayanagi’s claim that she was doing this to thank him. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Interpret it however you wish; I do not mind.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t lie to me. I want to hear your honest opinion.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo didn’t need her flattery. He wanted to know her true intentions.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The student council at this school possesses more power than I’d thought. If the
+            student council…” She paused. “No, </span><span style=" font-style: italic; font-size: 1.00em;">if Student Council President Nagumo</span><span style=" font-size: 1.00em;"> took direct action to protect Ichinose-san, that would be troublesome. Even for me.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ah. So Sakayanagi didn’t want him to protect Ichinose. Nagumo flashed his bright white
+            teeth in a grin, seemingly satisfied. Even though she’d expressed it in an indirect
+            way, she was saying that she didn’t want to make Nagumo her enemy.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Seems like the information I gave you has been useful,” he said.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes. Thanks to you, I was able to strike Ichinose-san where she was weakest. I’ll
+            be making even more effective use of that information moving forward.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“All right, then,” said Nagumo. “The student council will… tolerate everything that
+            you’re going to do from here on out.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“When you say that the student council will tolerate my actions, is it safe to assume
+            that includes you?” Sakayanagi hadn’t missed the fact that Nagumo had deliberately
+            omitted some words when he made his promise. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…Heh. Well, there’d be no way for me to back out if I specifically said that I, too,
+            was part of that, as someone on the council. What are you planning to do?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’ll just have to look forward to finding out. That’s all I’ll say.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">No, revealing her strategy to Nagumo would do her no good—Sakayanagi was sure of it.
+            The man who sat before her was a weasel. Even now, he was ready to throw one of the
+            student council’s major players under the bus.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“By the way,” she continued, “I don’t have too many opportunities to speak with you
+            one-on-one, so there’s something else I’d like to ask you”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What’s that?” asked Nagumo.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m not saying it’s likely, but…let’s say the situation worsens. Let’s say </span><span style=" font-style: italic; font-size: 1.00em;">drastic measures</span><span style=" font-size: 1.00em;"> become necessary. Why, a student might try to resolve things with brute force, President.
+            What do you think of that?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sakayanagi knew how to deal with resourceful types like Katsuragi, Ichinose, or Horikita.
+            An act of violence, on the other hand…that would be a problem. Sakayanagi would be
+            helpless against such a thing. She wouldn’t stand a chance. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re not well-equipped to deal with the kind of person who’d make a last-ditch
+            attempt to overpower their opponent through force, huh?” asked Nagumo.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s not my forte.” She did suffer from a physical handicap—that couldn’t be helped.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Unfortunately, I don’t particularly dislike the use of force, myself. And fighting
+            is entirely unavoidable for us students, don’t you think? I have no intention of cracking
+            down on it like Horikita-senpai did. Really, now, why can’t we just laugh off a little
+            skirmish now and then?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Surely this would put Sakayanagi, who couldn’t fight, at a bit of a disadvantage…but
+            no, her concerns were about something else entirely.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hm. In that case, President Nagumo, I’d like to ask you about an issue from some
+            time ago. The fight that broke out between first-year Class D and Class C. If you’d
+            been in power at the time, would have you handed down a different judgment than the
+            previous student council president?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The business with Sudou, Ishizaki and his guys. Which side threw punches? And which
+            got beat up? The case had been fought over whether there were security cameras there
+            to pick up what happened. Nagumo hadn’t been directly involved in that incident, but
+            he had to know about it, given how closely he always shadowed Horikita Manabu.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Let’s see…well, I wouldn’t let the people involved off the hook after they dragged
+            our entire school into their mess, but I don’t think I’d go so far as to call for
+            expulsion. I wouldn’t push for class points or private points to be docked either.
+            My choice of punishment would be suspension.,” said Nagumo. “That is, ah, just my
+            opinion as a representative of the student council.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">No matter how tolerant the student council chose to be, the school had the final say
+            in the matter. Sakayanagi probably was fully aware of that fact, too. They might wield
+            significantly more power than your average student council, but they were still students,
+            at the end of the day. They couldn’t forget that part.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. How magnanimous of you,” said Sakayanagi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">And that magnanimity would just so happen to make intimidation and violence a school-wide
+            reality in the future. Sakayanagi would have to take that into account.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you’re feeling uneasy about that, I can always get some second-years to accompany
+            you.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In other words, the second-years in question would overwhelm the first-years by force.
+            The student council president’s proposal essentially endorsed such a course of action.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“My thanks, but that won’t be necessary. I prefer to fight my battles with only the
+            pieces I hold in my hands.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">What Sakayanagi wanted to know was how far she could go before it wasn’t safe anymore.
+            Just knowing that she could counterattack after being targeted was enough for her
+            to go on.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Satisfied?” asked Nagumo.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Quite.” Sakayanagi slowly stood, grasping her cane. “Ah, that reminds me—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You still have something you want to talk about?” asked Nagumo, adding that he couldn’t
+            give her much more time. Ignoring him, Sakayanagi kept going.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“This is merely me rambling now, but I happened to hear something quite interesting.
+            Something about a student who was thinking of purchasing private points from third-years
+            who are about to graduate, I believe. Purchasing the points that the school was going
+            to collect and convert into currency after graduation. A powerful strategy, don’t
+            you think? A </span><span style=" font-style: italic; font-size: 1.00em;">winning </span><span style=" font-size: 1.00em;">strategy.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The idea had come up during a conversation between Kouenji and Nagumo a few days ago,
+            at the school camp. Although only boys had been around to hear it, Sakayanagi certainly
+            could’ve heard it from one of the guys. In fact, it was almost inevitable they would
+            want to share that information with her. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I made sure that strategy can’t be used anymore…not that it’s some novel concept
+            that only Kouenji came up with or anything. More than a few students have thought
+            about buying off surplus points from third-year students nearing graduation.” Nagumo
+            sneered. “It’s been done many times before, yes. Which is exactly why the school announces
+            the limited-time rule for ‘purchasing their remaining private points upon graduation’
+            from students in their third year. It’s customary.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is that so? According to what I and others are told of the rules, private points
+            are forfeited upon graduation. They become worthless. If that’s the case, no wonder
+            some third-year students consider entrusting their private points to an underclassman
+            they’re close to.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Many drops made an ocean. Even just inheriting private points from a few individuals
+            would allow certain students to collect quite a hefty sum. It was no wonder that Nagumo
+            had caught on to what Kouenji was doing, even at such an early stage. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Normally,” she continued, “this information is only disclosed to third-year students.
+            Ignoring the matter of how you, President, came to know about it in your second year…
+            I know why you discussed it so brazenly in front of all those first-years. You intend
+            to have this limited-time rule changed, no?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I only did that because Kouenji seemed capable of paying more than the school itself
+            offers. He was trying to monopolize points. That’s foul play.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Openly announcing it in front of a group of boys from all grade levels made the school
+            aware of the problem. A loophole in the rules. It was highly likely that additional
+            rules would be put in place to discourage students from transferring private points.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Normally, no matter how wealthy a family someone came from, there was no guarantee
+            they could cough up that much cash for points at graduation. Kouenji, however, was
+            a rare exception. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was clearly stated on the official website of the Kouenji conglomerate that Kouenji
+            Rokusuke had accumulated an obscene amount of personal assets by his first year in
+            high school. Even if he could go back on his deals, many would think it well worth
+            the gamble with that much money on the line.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“However,” said Sakayanagi, “the wealth he was born into could be considered one of
+            the abilities at his disposal. Is he not allowed to put it to use?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“By that logic, wouldn’t anticipating his actions and forestalling them also be an
+            exercise of abilities?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sakayanagi chuckled, lightly tapping her cane with every laugh. “I suppose so.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“From the beginning, I’ve never liked the school’s rule about being able to move up
+            to Class A with twenty million points. I’d like to have them revise it, if possible.
+            But then again…even if the system were to disappear in the future, I suppose it wouldn’t
+            apply to you first-years.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The school had clearly already informed Sakayanagi and the other first-year students
+            of the rule’s existence. They couldn’t just withdraw the rule now that students were
+            putting so much strategic thought into accumulating 20 million points.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But there’s never been a student who managed to accumulate 20 million points all
+            by themselves, has there? If the rule is nothing more than a formality, then there’s
+            no need to worry about it, is there?” asked Sakayanagi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It just means that you can’t save up the points by </span><span style=" font-style: italic; font-size: 1.00em;">yourself</span><span style=" font-size: 1.00em;">.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, but saving up as a class also seems rather meaningless. Some students feared
+            another class might send their spies to infiltrate their own, but that’s not realistic.
+            Even if a student from a lower class were somehow sent up to infiltrate Class A, they
+            would naturally just betray their original, lower class after joining the superior
+            one.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“True, there’s no real benefit in deliberately trying to drag down a strong class.
+            But who knows? There could be students out there with a strong sense of justice who’d
+            stay loyal to their allies.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But even so,” said Sakayanagi, “it’s not like the upper-ranked classes would simply
+            hand information over to a new student who suddenly joined them. And the way this
+            school is set up, any trouble you cause tends to come back to haunt you. If you intentionally
+            sabotage your own class, you’ll be expelled yourself. Am I right?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sakayanagi knew her stuff. Nagumo granted her a satisfied nod. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ll give you one friendly bit of advice. I don’t exactly</span><span style=" font-style: italic; font-size: 1.00em;"> dislike</span><span style=" font-size: 1.00em;"> your aggressive attitude, but if you start making enemies on all sides now, you’re
+            going to have a tough time later. Don’t you think it’d be wiser for you to earn the
+            trust of the people around you? It’s not too late.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“And then use that trust as a weapon to achieve victory?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s a far more efficient strategy.” After all, nothing cut so deep as a knife in
+            the back from a trusted friend. That was a fatal blow right there.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hmm. If you’re telling </span><span style=" font-style: italic; font-size: 1.00em;">me</span><span style=" font-size: 1.00em;"> to build trust, then perhaps you’ve been too quick to toss aside the trust that you’ve
+            so carefully built up yourself. As you just said, wouldn’t it be far more effective
+            to save that to use at the last minute?” asked Sakayanagi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">That declaration of war against the former student council president, made at the
+            school camp …that had been a betrayal of trust.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I threw away that trust?” asked Nagumo, looking as though he was holding back laughter.
+            “I certainly lost the trust of Horikita-senpai and the students of third-year Class
+            A. But nothing has changed with the second- or third-years from the other classes.
+            The first-years will come to understand that soon too.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">All of this was bluffing and hubris from Nagumo, Sakayanagi thought for a moment,
+            but…perhaps not. Even breaking the rules that were established under Horikita Manabu
+            had been part of his plan from the beginning. The second-years might’ve come to a
+            consensus on the matter beforehand.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“And I </span><span style=" font-style: italic; font-size: 1.00em;">would </span><span style=" font-size: 1.00em;">like to set the record straight, Sakayanagi. I recognize your ability. If you wish
+            to join the student council at any time, I will allow it.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Thank you very much. I’m glad I came here today. I think I understand you now, President
+            Nagumo. At the very least, I’m relieved to see that we seem to be more compatible
+            than I was with the former student council president.” She bowed her head politely
+            and stepped out of the student council office. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo followed. “You forgot your hat.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, my. Thank you very much.” Sakayanagi bowed her head once again. “Now, if you’ll
+            please excuse me—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sakayanagi, what do you know about Ayanokouji?” asked Nagumo suddenly.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ayanokouji…? I believe I’ve heard that name before. A first-year student, correct?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah, I—it’s nothing. Never mind,” said Nagumo. If Sakayanagi didn’t know, there
+            was no point in talking.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sakayanagi took a bold step forward. “I can do some investigating, if necessary. Hm?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nah, I said too much. Forget it.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">On her way off from the student council office, Sakayanagi ran into a lone female
+            student. Someone whom even a loner like Sakayanagi knew quite well. It was Kushida
+            Kikyou, from first-year Class C. “Hello, Sakayanagi-san.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“My, what a coincidence. Do you happen to have some business in the student council
+            office?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Mm. I was thinking about applying to join them. Were you thinking of doing the same
+            thing, Sakayanagi-san?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Something like that. Now, if you’ll please excuse me…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“See you later.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sakayanagi found it strange that Kushida would want to join the student council now,
+            of all times. It </span><span style=" font-style: italic; font-size: 1.00em;">would</span><span style=" font-size: 1.00em;"> normally make sense for an honor student like her to join the council, but the timing
+            made her suspicious. What Nagumo had done during the special exam was widely known,
+            even among the girls. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The senior students knew the student council president well, and it wasn’t surprising
+            in the least that first-year students would have their suspicions about Nagumo’s actions.
+            If she knew about Ayanokouji Kiyotaka’s true, hidden nature—if she were cooperating
+            with him—it was possible she’d been sent here to investigate Nagumo.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But then again, considering Ayanokouji’s personality, he probably wouldn’t get so
+            carelessly involved with Nagumo. Not at this stage. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kushida Kikyou. She of the spotless reputation, that paragon of virtue.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“E he he he he. It’s people like that, though, who always shock everyone by turning
+            out to be the villains,” muttered Sakayanagi. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">At the very least, she didn’t believe that Kushida was purely benevolent.</span></p>
+      
+   0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 2: The Student Council President’s Inclination","volumeId":"v9","chapterIndex":8,"prevChapter":{"volumeId":"v9","chapter":7,"title":"Chapter 1 - Prologue : Ichinose Honami’s Soliloquy"},"nextChapter":{"volumeId":"v9","chapter":9,"title":"Chapter 3: Changing Relationships"},"toc":[{"label":"Table of Contents","href":"TableOfContents.html#tableofcontents","index":2},{"label":"Character Gallery","href":"section-0001.html#auto_bookmark_toc_top","index":3},{"label":"Table of Contents Page","href":"section-0002.html#auto_bookmark_toc_top","index":4},{"label":"Title Page","href":"section-0003.html#auto_bookmark_toc_top","index":5},{"label":"Copyrights and Credits","href":"section-0004.html#auto_bookmark_toc_top","index":6},{"label":"Chapter 1 - Prologue : Ichinose Honami’s Soliloquy","href":"section-0005.html#auto_bookmark_toc_top","index":7},{"label":"Chapter 2: The Student Council President’s Inclination","href":"section-0006.html#auto_bookmark_toc_top","index":8},{"label":"Chapter 3: Changing Relationships","href":"section-0007.html#auto_bookmark_toc_top","index":9},{"label":"Chapter 4: Unchanging Intent","href":"section-0008.html#auto_bookmark_toc_top","index":10},{"label":"Chapter 5: Ichinose’s Secret, Kamuro’s Secret","href":"section-0009.html#auto_bookmark_toc_top","index":11},{"label":"Chapter 6: Rumors Running Rampant","href":"section-0010.html#auto_bookmark_toc_top","index":12},{"label":"Chapter 7: Ambiguous Things","href":"section-0011.html#auto_bookmark_toc_top","index":13},{"label":"Chapter 8: All the Tricks","href":"section-0012.html#auto_bookmark_toc_top","index":14},{"label":"Chapter 9: Return","href":"section-0013.html#auto_bookmark_toc_top","index":15},{"label":"Epilogue: Postscript","href":"section-0014.html#auto_bookmark_toc_top","index":16}],"volumeTitle":"Light Novel Volume 9","detailsLink":"/select/year-1/v9","returnLink":"/select","currentSpineIndex":8,"nextVolumeLink":"/select/year-1/v10","nextVolumeTitle":"Light Novel Volume 10"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

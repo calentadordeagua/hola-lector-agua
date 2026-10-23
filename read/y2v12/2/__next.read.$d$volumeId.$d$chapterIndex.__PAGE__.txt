@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T6ed,
+  <p class="P_TOC_Heading" id="tableofcontents">Table of Contents</p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/3">Character Gallery</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/8">Title Page</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/9">Copyrights and Credits</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/10">Table of Contents Page</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/11">Chapter 1: Hoshinomiya Chie’s Soliloquy</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/12">Chapter 2: The Unusual End-of-Year Special Exam</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/13">Chapter 3: What Ought to Be Finished</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/14">Chapter 4: The End-of-Year Special Exam Begins</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/15">Chapter 5: The Battle of the Vanguards</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/16">Chapter 6: Katsuragi’s Counterattack</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/19">Chapter 7: Bitter Tears</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/27">Chapter 8: Ayanokouji’s Scheme</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/30">Chapter 9: An Awaited Opponent</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/37">Chapter 10: The Truth Is…</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/40">Postscript</a></p>
+
+  <p class="P_TOC_Entry_1"><a href="/read/y2v12/41">Newsletter</a></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="COLORGALLERY_01" src="/hola-lector-agua/images/books/y2v12/OEBPS/Images/COLORGALLERY_01.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Table of Contents","volumeId":"y2v12","chapterIndex":2,"nextChapter":{"volumeId":"y2v12","chapter":3,"title":"Character Gallery"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Hoshinomiya Chie’s Soliloquy","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: The Unusual End-of-Year Special Exam","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: What Ought to Be Finished","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: The End-of-Year Special Exam Begins","href":"Text/section-0013.html#auto_bookmark_toc_13","index":14},{"label":"Chapter 5: The Battle of the Vanguards","href":"Text/section-0014.html#auto_bookmark_toc_14","index":15},{"label":"Chapter 6: Katsuragi’s Counterattack","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 7: Bitter Tears","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 8: Ayanokouji’s Scheme","href":"Text/section-0026.html#auto_bookmark_toc_26","index":27},{"label":"Chapter 9: An Awaited Opponent","href":"Text/section-0029.html#auto_bookmark_toc_29","index":30},{"label":"Chapter 10 - Epilogue : The Truth Is…","href":"Text/section-0036.html#auto_bookmark_toc_36","index":37},{"label":"Postscript","href":"Text/section-0039.html#auto_bookmark_toc_39","index":40}],"volumeTitle":"Light Novel 2nd Year Volume 12","detailsLink":"/select/year-2/y2v12","returnLink":"/select","currentSpineIndex":2,"nextVolumeLink":"/select/year-2/y2v12.5","nextVolumeTitle":"Light Novel 2nd Year Volume 12.5"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

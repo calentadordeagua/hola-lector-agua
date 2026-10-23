@@ -1,0 +1,217 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[98168,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js"],"default"]
+4:I[37457,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+5:I[36768,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/b7415f7eaafec72a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+6:I[43880,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js"],"Analytics"]
+8:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[32268,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+c:I[5789,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+d:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","style"]
+:HL["/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","style"]
+:HL["/hola-lector-agua/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/8c2eb9ceedecfc8e-s.p.21935807.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/ce62453a442c7f35-s.p.124b2306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"xTs_Uh3z_t9CBVjB8m3b9","c":["","read","v9","15",""],"q":"","i":false,"f":[[["",{"children":["read",{"children":[["volumeId","v9","d"],{"children":[["chapterIndex","15","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":["$","body",null,{"suppressHydrationWarning":true,"className":"inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG__variable merriweather_b1e99710-module__84TlHG__variable roboto_4304287d-module__gQrF4G__variable lora_c06265ab-module__hGs1mq__variable font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{"children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]],"notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},[["$","$Lb","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false]},null,false,false]},null,false,false]},[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+12:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+13:T3b08,
+      
+      <p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_top"><span style=" font-weight: bold; font-size: 1.17em;">Chapter 9:<br/>Return</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">A</span><span style=" font-size: 0.80em;">T LONG LAST</span><span style=" font-size: 1.00em;">, the day of the year-end exam had come. We’d each done what we could to prepare,
+            based on the practice test we had taken. According to Horikita, Sudou, Ike, and Yamauchi
+            were all expected to perform quite well. Apparently, they’d done everything possible
+            to cram during the week before the test. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Then there was Akito, Haruka, Airi, and Kei. The students in my group had all done
+            quite well at raising their personal bars. The other students, meanwhile, had been
+            getting help from Hirata. There were no signs of any students really struggling, so
+            as long as everyone made sure to keep an eye on their health, the whole class should
+            make it through this exam just fine.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Just then, I heard the sound of footsteps. Someone was hurrying up behind me, trying
+            to catch up, and then slowing down to match my pace.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Good morning, Ayanokouji-kun!” Ichinose approached me, a broad smile on her face.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Good morning, Ichinose.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Today’s finally the day, huh? The year-end exam. Did you study hard?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“More or less, yeah. But I guess… I don’t even need to ask, in your case.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I didn’t even need to think about it. Class B was far more coordinated than our class,
+            and I was sure they’d were much better prepared for the test. Even Ichinose, who’d
+            been absent until just the other day, probably had nothing to worry about as far as
+            academics.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You were really cool yesterday, Ichinose. Cool enough to charm even a guy like me,”
+            I told her.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“R-really…? I suppose it’s just like Sakayanagi-san said, though… that was just me
+            being shameless.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose hadn’t </span><span style=" font-style: italic; font-size: 1.00em;">really</span><span style=" font-size: 1.00em;"> committed a crime in the first place, though. Everything had been resolved after
+            her mother took appropriate measures to handle it. It was a non-issue. She’d been
+            carrying a completely unnecessary burden. Nothing more.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s all thanks to you that I was able to get back on my feet, Ayanokouji-kun.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I can’t be a shoulder to lean on and worry about you like the students of Class B
+            can, though. I just thought I’d try to listen, is all. It’s nothing you need to thank
+            me for.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, that’s not true… If you weren’t there, Ayanokouji-kun, I think I would definitely
+            have ended up self-destructing and falling apart, just like last time. In that sense,
+            Sakayanagi-san completely defeated me this time.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sakayanagi had manipulated Ichinose with devastating success, driving her to the brink
+            of self-destruction. It was certainly true there was no telling what would have happened
+            had I not gotten involved. But I wanted to make something clear.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t want you to feel like you owe me too much, though. I was nothing more than
+            the catalyst. In the end, you’re the only one who was able to overcome your own past,”
+            I told her.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…Yeah, I suppose you’re right. I can’t ever undo what I did. No matter how much time
+            passes, there may never come a day where I feel like my sins have truly disappeared.
+            But…from this point onward, I can face life head-on. I’m sure of it.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Everything should be all right now. No matter who tried to blame her, Ichinose would
+            be able to stand her ground. She’d grown strong—stronger than anyone else. I expected
+            she’d grow into an even more formidable rival in the future. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Even so, there were no guarantees in life.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you’re ever feeling like you’re about to lose sight of yourself, you can talk
+            to me again.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh…?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“When that time comes… Yeah. I should be able to at least listen.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose stopped and stood completely still. “Is it okay for me to depend on you…?”
+            she asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“If you’re okay with someone like me.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Really?” she asked again.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…Yeah, really.” I nodded, though I was somewhat confused by the question.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…Th-thank you…” she said quietly. A rather unusual reaction from Ichinose, who was
+            usually so upbeat. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Then she quickly shook her head, maybe because she, too, realized her reaction had
+            been out-of-character.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“B-but… won’t you come to regret it someday?” she asked, gazing deeply at me.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hm, I guess you’ve got a point. I mean, our class might get stuck in B. If you and
+            your class graduate from A, then my classmates might end up blaming me for it.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“R-right?” she answered, scratching her cheek with a wry smile.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, if that time comes, just don’t tell Horikita.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-style: italic; font-size: 1.00em;">“…</span><span style=" font-size: 1.00em;">heh heh. Yeah, okay. I’ll make sure to do that.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose, walking alongside me once more, stretched her shoulders. She looked bright
+            and cheery again, as if she’d just been reborn. Well, then. All that remained was
+            to get through the year-end exam. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">She was still quietly looking over at me.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What is it?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“H-huh?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’ve been staring at me for a while now. If there’s something you want to say,
+            I’m all ears.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, to tell you the truth, I… Ah! Sorry, Ayanokouji-kun. Can you please wait a
+            little bit?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Just as Ichinose was about to say something, her attention shifted to another student
+            in front of us. A brief glance in the direction of that student, and the people surrounding
+            them, made it obvious what was up.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m sorry. I’m going to head over there for just a sec,” said Ichinose, leaving my
+            side and running to catch up to the student in front of us. “Good morning, Nagumo-senpai.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, Honami. You’re looking cheerful this morning.” Nagumo might have been surprised
+            by the sight of Ichinose’s restored smile. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Because that’s just the way I am.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t you resent me, Honami?” he asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Resent you?” replied Ichinose, tilting her head to the side in apparent confusion.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Immediately afterward, though, she seemed to understand the meaning behind his question.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t resent you at all, Nagumo-senpai. All I am is grateful to you. Really, thank
+            you so much for bringing me onto the student council. I’ll do my best from here on
+            out, so I’m looking forward to working with you.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. Well, it would seem like you’re going to exceed my expectations.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nagumo looked over at me for just an instant, then immediately turned around and walked
+            away. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It wasn’t difficult to intuit what he was saying with that look. He had wanted to
+            break Ichinose Honami down and build her back up with his own hands. He had intended
+            to completely tame her and make her his pawn. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The look he’d just given me conveyed his displeasure that I’d thrown off his plans—which
+            meant he understood that I’d been involved in this incident in some capacity. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose bowed to Nagumo and then came back over to me once again.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey!” she called, her voice noticeably loud. She opened her mouth wide and continued
+            speaking. “Um, hey, so, listen.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">While she spoke, she reached into her school bag. Then she froze.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What is it?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Umm, well, it’s… Th-this is odd. It’s just, well, I had planned to just be like ‘Here
+            you go!’ but…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Ichinose seemed to hesitate, still digging around inside her bag, but then seemingly
+            made up her mind and took something out. She handed it over to me.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“This is a little bit late, but…will you accept these Valentine’s chocolates from
+            me? It’s just, well, I’ve never given anyone chocolates like this before, and… This
+            is the only way that I can express my gratitude, so…” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You don’t have to force yourself to pay me back by giving me something, you know?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The 14th had already passed, but I certainly wasn’t upset to be given more chocolate
+            by a girl. That said, I hadn’t done what I had for the purposes of getting chocolate
+            from her. She didn’t need to feel obligated to give me any.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I-I-I’m not forcing myself, though! Y-you don’t want it?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, I do… Thank you.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The chocolates might start to melt if we stayed out too long. Not to mention people
+            would notice us. And so, I gratefully accepted Ichinose’s gift.</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><img alt="" height="100%" id="ClassroomElite-Vol9_INTERIORIMAGES_10" src="/hola-lector-agua/images/books/v9/OPS/ClassroomElite-Vol9_INTERIORIMAGES_10.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></p>
+      
+   7:["$","$L12",null,{"content":"$13","title":"Chapter 9: Return","volumeId":"v9","chapterIndex":15,"prevChapter":{"volumeId":"v9","chapter":14,"title":"Chapter 8: All the Tricks"},"nextChapter":{"volumeId":"v9","chapter":16,"title":"Epilogue: Postscript"},"toc":[{"label":"Table of Contents","href":"TableOfContents.html#tableofcontents","index":2},{"label":"Character Gallery","href":"section-0001.html#auto_bookmark_toc_top","index":3},{"label":"Table of Contents Page","href":"section-0002.html#auto_bookmark_toc_top","index":4},{"label":"Title Page","href":"section-0003.html#auto_bookmark_toc_top","index":5},{"label":"Copyrights and Credits","href":"section-0004.html#auto_bookmark_toc_top","index":6},{"label":"Chapter 1 - Prologue : Ichinose Honami’s Soliloquy","href":"section-0005.html#auto_bookmark_toc_top","index":7},{"label":"Chapter 2: The Student Council President’s Inclination","href":"section-0006.html#auto_bookmark_toc_top","index":8},{"label":"Chapter 3: Changing Relationships","href":"section-0007.html#auto_bookmark_toc_top","index":9},{"label":"Chapter 4: Unchanging Intent","href":"section-0008.html#auto_bookmark_toc_top","index":10},{"label":"Chapter 5: Ichinose’s Secret, Kamuro’s Secret","href":"section-0009.html#auto_bookmark_toc_top","index":11},{"label":"Chapter 6: Rumors Running Rampant","href":"section-0010.html#auto_bookmark_toc_top","index":12},{"label":"Chapter 7: Ambiguous Things","href":"section-0011.html#auto_bookmark_toc_top","index":13},{"label":"Chapter 8: All the Tricks","href":"section-0012.html#auto_bookmark_toc_top","index":14},{"label":"Chapter 9: Return","href":"section-0013.html#auto_bookmark_toc_top","index":15},{"label":"Epilogue: Postscript","href":"section-0014.html#auto_bookmark_toc_top","index":16}],"volumeTitle":"Light Novel Volume 9","detailsLink":"/select/year-1/v9","returnLink":"/select","currentSpineIndex":15,"nextVolumeLink":"/select/year-1/v10","nextVolumeTitle":"Light Novel Volume 10"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+14:I[27201,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+a:null
+10:[["$","title","0",{"children":"Classroom of the Elite Reader"}],["$","meta","1",{"name":"description","content":"A premium reader experience for Classroom of the Elite light novels."}],["$","meta","2",{"property":"og:title","content":"Classroom of the Elite Reader"}],["$","meta","3",{"property":"og:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","4",{"property":"og:url","content":"https://classroom-of-the-elite-reader.vercel.app"}],["$","meta","5",{"property":"og:site_name","content":"COTE Reader"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Classroom of the Elite Reader Preview"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Classroom of the Elite Reader"}],["$","meta","14",{"name":"twitter:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","link","16",{"rel":"icon","href":"/hola-lector-agua/icon.svg?icon.ae5abf30.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","17",{}]]

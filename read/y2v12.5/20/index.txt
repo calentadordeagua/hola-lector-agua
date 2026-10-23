@@ -1,0 +1,471 @@
+1:"$Sreact.fragment"
+2:I[39756,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[98168,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js"],"default"]
+4:I[37457,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+5:I[36768,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/b7415f7eaafec72a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+6:I[43880,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js"],"Analytics"]
+8:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[32268,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+c:I[5789,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js"],"default"]
+d:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
+f:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
+11:I[68027,[],"default"]
+:HL["/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","style"]
+:HL["/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","style"]
+:HL["/hola-lector-agua/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/8c2eb9ceedecfc8e-s.p.21935807.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hola-lector-agua/_next/static/media/ce62453a442c7f35-s.p.124b2306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"xTs_Uh3z_t9CBVjB8m3b9","c":["","read","y2v12.5","20",""],"q":"","i":false,"f":[[["",{"children":["read",{"children":[["volumeId","y2v12.5","d"],{"children":[["chapterIndex","20","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/a4cad367d84af0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/hola-lector-agua/_next/static/chunks/9f8839f483c6bc14.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":["$","body",null,{"suppressHydrationWarning":true,"className":"inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG__variable merriweather_b1e99710-module__84TlHG__variable roboto_4304287d-module__gQrF4G__variable lora_c06265ab-module__hGs1mq__variable font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{"children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/8b432411edf64251.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]],"notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},[["$","$Lb","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/2c072b78c69cd4d0.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false]},null,false,false]},null,false,false]},[["$","$Lc","l",{}],[],[["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/6ea0f227b0e5617a.js","async":true}],["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]]],false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+12:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+13:Td131,
+  <p class="P_Chapter_Header" id="auto_bookmark_toc_19"><span>Chapter 6:<br/>Illusion</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">M</span><span style=" font-size: 0.80em;">ARCH 30,</span><span class="C_Current__And__Times_New_Roman"> an especially important day, had arrived. It was also the day that I had promised to take Kei out on a date to see a movie that she’d been wanting to see. After checking to see if a certain person had read a message or not, I opened my chat with Kei. Then, I scrolled a bit back to a previous conversation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“I got reservations for seats for the movie that you wanted to take me to on March 30. Is around ten on that day okay?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was my message to Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Of course! I’m super excited for it!”</span><span class="C_Current__And__Times_New_Roman"> was her innocent, simple-minded response.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The movie had come out a little while ago, on the twenty-sixth, but I had to delay seeing it due to a number of things: the end of the End-of-Year Special Exam, the matter of Hoshinomiya-sensei, my personal thoughts, and so on. I had turned on the television early in the morning, and once the long morning news program ended, there were some characters playing rock-paper-scissors toward the screen.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I casually watched it, and soon after, a commercial for the movie I was going to go see started playing. It was the third commercial for it since I’d turned the set on. I could see how much effort that they put into this film. Kei wanted to sit in the fifth row from the front. Our seats were the two that were in the exact middle of the entire auditorium. Apparently, she couldn’t settle down if she were too far toward the front or back, and she preferred to watch movies from the middle row.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It would have been simple if we had gone together from the dormitory, but Kei apparently wanted to enjoy the vibe of a real date, so she purposefully asked to meet me out in front of the theater instead. Was that what they meant when they referred to a maiden’s heart or something? Normally, it should’ve been a day that was topped off by a little bit of bliss between lovers, however…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Today, after we finished enjoying the movie, I was going to tell Kei that we were breaking up.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I’d been planning this since I started dating Karuizawa Kei a year ago.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The horrific abuse that she had suffered during her junior high school days had cast a looming shadow over her life. Unlike adults, students have to survive in the small world of school. Technically speaking, she could have escaped at any time, but it’s not like everyone can make that choice. Often, your only option would be to face the solitude and despair and continue to fight. Kei, with her past rooted in such a harsh environment, had to change her way of life when she entered high school.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She sharpened her survival instincts and thought about how she could avoid repeating the same mistakes. She learned how to latch on to a stronger individual and survive by making herself look bigger and stronger. She chose to parasitize Yousuke Hirata, who was warmly revered at the top of the class. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The choice of host was vital to a parasite. No matter how strong, if the host did not allow parasitism, the parasite would be eliminated. It was a coincidence that Yousuke just so happened to have a savior complex, and it could be said that this made him the best partner for Kei. However, Kei was once again put to the test.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Manabe, Yabu, Yamashita, and Morofuji from Ryuuen’s class had learned about Kei’s experience of being bullied. If she had been left alone, it was highly likely that Kei would’ve fallen into darkness once again, but I had reached out to her and managed to save her. Though she took some risks, this time, she had become a parasite to me. Although, it would be more accurate to say that I had guided her into parasitizing me. That was because I thought that, if I could manipulate Kei, who was enjoying the upper echelon in Horikita’s class, it would be convenient for me in many aspects of my life at school in the future.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, my school life experience began to change even my thinking, little by little. I began to think not only about making use of my surroundings but also about promoting growth of the students in the process. And it didn’t just have to be my classmates, like Horikita and Yousuke, but those in the other classes, like Ryuuen’s and Ichinose’s classes. Kei was nothing more than just one of those students. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Being a parasite and latching onto someone else was not the only way for her to survive. If she could break the spell and stand on her own, she could grow in a big way as a human being. The alignment in our interests would be clear to anyone. In exchange for giving Kei a chance to grow, I would learn from her. Namely, to know the opposite sex, to know love, and to know parting.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I would soon reach the final page of the textbook on romantic love that I had been reading.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Of course, Kei, who felt safe as long as she was a parasite, would probably not welcome such a favor. There was no guarantee whatsoever that she would survive after being forcibly removed from her host. I had my predictions for next year, but there was no way to be absolutely certain. It was up to an individual whether they could make the right decision in the end. When you fail, that’s when you fail.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kei had the makings, but she couldn’t blossom into a real person on her own. That was all there was to it. Would she choose to stop attending class, voluntarily drop out of school, or reject the world itself? There were several cruel outcomes that I could conceive of, but that’s what made every choice both vital and interesting. Dead or alive. Today, the battle for Kei’s survival was going to begin. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">But just as I was about to make my way to the front entrance, I couldn’t take that first step. A foreign contaminant was mixed in my thoughts.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s just—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Yes, that’s right. Even so, that didn’t mean that I wouldn’t give it any consideration. Namely, that this long process of love over this past year had produced some unexpected byproduct. I wondered if I would feel some strange new emotion over the idea of dumping Karuizawa Kei. Would my thoughts be shaped by the time we spent as lovers?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even though I had a premonition that nothing would come of it, I hoped that my instincts would prove incorrect. It might change at the very last moment, when I was face-to-face with the person in question. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">No, I was hoping it would change. I had a strong feeling of wanting to disprove my thoughts and future predictions. There was not a definite future for everything.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I pondered whether I could really say goodbye to Kei. I was convinced that I could, but I hesitated, and I wondered if there was any possibility that I could embrace her. I was hoping, hoping that there was an incalculable emotion within me. Even in this moment, on this day that I had decided would be the last, I was praying for that. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I took that step and left my dorm so that I wouldn’t be late for my date.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>6.1</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">I</span><span style=" font-size: 0.80em;"> WAS GREETED</span><span class="C_Current__And__Times_New_Roman"> by her bubbly smile. If I were a normal male student, I’m sure that the corners of my mouth would have reflexively lifted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Good morning, Kiyotaka!” she exclaimed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Keyaki Mall had just opened at ten o’clock in the morning. Kei, who had been waiting for me already at the designated meeting place, waved to me and beckoned me over. From the looks of it, she was no different from usual, but that made total sense. I had only just one-sidedly decided that we would break up; there was no way that Kei would know about that. However, was it possible that she had sensed that something was off?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I took that possibility into account as I got ready to head out, little by little. Even so, it was unclear if that uneasy feeling was present with Kei as she stood before me today. As soon as we met up, her smile changed to a dejected look, and she placed her hand on her stomach.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I haven’t eaten anything since this morning, so I’m starving,” said Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re the same as ever, I see,” I replied. “You should have at least eaten a little.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I can’t help it!” she protested. “It’s because I tend to eat way, way too much popcorn without thinking when I watch movies.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">While it wasn’t like we went to the movie theater very frequently before now, I did have a grasp on what Kei’s tastes were like. She always got a big bucket, half salt and half caramel, and then ate too much of the caramel, leaving me to eat a lot of the salty popcorn. Then, we would put about half of the leftover popcorn in a clear plastic bag, close it lightly, and take it back to the dorms. Later, we would eat it while watching television and talking about how it just wasn’t as delicious when it wasn’t fresh. You could say that was our routine, our established custom when we went to the movies. As soon as we were side by side, she took my hand. It was a little cold out, but my hand suddenly heated up and became warm.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Shall we?” said Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kei must have been feeling impatient, because instead of waiting for me to take the initiative, she started pulling me along, almost a half step ahead of me. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Has anyone been condemning you or anything because of me?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh? Why?” asked Kei. “Was there something people would blame us for?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because I’m responsible for Maezono getting expelled. I was worried whether you’d get mixed up in it,” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, no, not at all. There hasn’t been any of that,” said Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She wasn’t just saying that to cover for me; she answered without hesitation. Apparently, it really didn’t seem to have any effect on Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After pondering for a little bit, Kei said, “I wonder if maybe the kids who misunderstand you—or, like, don’t quite understand you, rather—are slowly starting to realize that maybe things aren’t the way you said they are. Some of them are even saying things like you might have gotten Maezono-san expelled on purpose to punish her for her betrayal and stuff.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That wasn’t surprising. After all, Kushida noticed it immediately. It was just a matter of how much a student could read into things, and it was natural that some of them would come to that conclusion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. What do you think, Kei?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“About whether you got Maezono-san expelled on purpose or not?” she asked in return.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah,” I replied with another question, out of genuine curiosity.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, I guess I think…” she trailed off for a moment before answering properly. “It might have been intentional, yeah.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“And what’s your basis for that?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because you’ve got enough power to win, no matter who you’re up against, Kiyotaka. Besides, spending time with you has taught me how to think. If you got Maezono-san expelled, it means that you had some other goal aside from winning, right? In that case, it’d probably be something like, well, making her pay the price for betraying the class, or something. Still, it’s pretty shocking when someone gets kicked out of school, right? So, like, I was thinking that regardless of what your abilities or intentions were, Kiyotaka, you had, like, painted over that shock. I wondered if it was a camouflage to keep people from realizing the truth at the same time.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kei responded with her own summary of what happened, not particularly bothered by any of it. Like Kushida, her guess as to what I was after was adequate. However, the instant I was about to evaluate her, Kei looked at my face and told me to wait.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, wait, I think there might be a little more. I thought that my guess before was pretty much right, but, like… For example, if Ichinose-san were a stronger opponent than I thought she’d be, maybe you used Maezono-san as a surefire move to make your 99 percent chance of winning into a 100 percent chance. Or maybe you were looking beyond just this one time, and you, like, wanted to thoroughly beat her in this exam.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I would have given her only seventy points for her first answer, but that added more points to her score.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I guessed right, didn’t I?” asked Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I wasn’t aware of my facial expression changing or anything, but the look Kei gave me said that she was convinced she was correct. Since we had arrived at the movie theater just in time, I quickly took care of picking up our tickets, which I had booked in advance.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m honestly impressed. Your answer was closer to the mark than anyone else’s in class,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I was right after all?! Heh heh! Well, it’s okay for you to be even more impressed with me.” She giggled and put her hands on her waist triumphantly, acting like it was only a matter of course she got it. “Come to think of it, yeah. I think that my anxieties might have disappeared too.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Anxieties?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You know, about Ichinose-san. You were being, like, super suspicious. I was kinda wondering if you were going to go easy on her when you were fighting each other.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh, I get it. You didn’t say anything, though.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, if I had the wrong idea, then I’m not going to hound you over it anymore. But, y’know, I thought you made a really, really conspicuous move this time around.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It was an undeniably conspicuous action, but thankfully it didn’t attract as much attention as I had anticipated.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah. The fact that Sakayanagi-san’s expulsion from school was at stake and Class A lost behind the scenes is, like, major. It was hard to say anything about Maezono-san’s expulsion, so it felt like all the talking shifted to the topic of other classes instead. Ever since that day we had that discussion, not a day goes by that I don’t hear about it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Taking that into consideration, the teachers who helped me with the matter of Hoshinomiya-sensei were admirable. Especially Mashima-sensei, who, despite looking like he was terribly depressed about the demotion of his class and the withdrawal of his leader, never showed the slightest hint of that in his behavior toward his students.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You really didn’t show any mercy to Ichinose-san, huh?” added Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The conversation should have moved along to another topic, but Kei once again dragged it back to Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Didn’t you say you weren’t going to hound me too deeply about it?” I asked. “What’s with that suspicious look in your eyes?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Nothiiiiiing?” said Kei, squinting at me with a teasing look in her eyes.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, that look soon gave way to a smirk. Apparently she was quite pleased that I had crushed Ichinose in earnest.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s natural to take things seriously for the sake of the class, right?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whoa, that totally smells like BS!” said Kei. “I think there’s </span><span class="C_Current__And__Times_New_Roman__And__Italic">definitely</span><span class="C_Current__And__Times_New_Roman"> something behind it because that’s your thing, Kiyotaka.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Brilliant, once again. She didn’t seem to know what exactly I was after, of course, but she had guessed that there were other factors at play. We went to the concessions counter, bought popcorn as planned, and got two combos with oolong tea.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m excited for the movie,” said Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I bet,” I replied, and handed our tickets over to the clerk.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As Kei and I were having that exchange, the student in front of us turned around, probably because she recognized our voices.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ugh, Ayanokouji and Karuizawa!” she exclaimed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The person making a face of open disdain was none other than Ibuki. She walked away as though she were trying to escape, but it soon became clear that we were headed to the same screening room. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Wait, are we seeing the same movie? Ugh, you suck…” she groaned.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">I don’t think there’s any reason for you to treat me like the worst person ever just because we’re seeing the same movie, though.</span><span class="C_Current__And__Times_New_Roman"> </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ibuki, after hurling abuse my way, hurriedly opened the doors to the auditorium and disappeared inside.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What was that about?” asked Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Who knows?” I replied. “We don’t need to worry about it, do we?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kei and I exchanged looks before we entered the auditorium ourselves and made our way to the middle of the fifth row.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ugh,” spat the person one seat over. “Why the hell are you two sitting </span><span class="C_Current__And__Times_New_Roman__And__Italic">here</span><span class="C_Current__And__Times_New_Roman"> of all places?!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Apparently, Ibuki’s seat was next to Kei’s. Which meant that Ibuki, Kei, and I were all seated in a row.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, who are you to talk? I don’t even care who got the seat next to me. Right?” said Kei, turning to me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Right,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The chemistry between Ibuki and me wasn’t good, but the vibe was even worse between Kei and Ibuki. That was only natural, since Ibuki had been one of the people who made Kei suffer such a terrible experience last year. Even so, I supposed that Kei was just letting bygones be bygones with a magnanimous heart, since she wasn’t saying anything about that incident herself.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I guess you must like movies too, Ibuki-san,” remarked Kei, perhaps because she would feel bad if she didn’t at least try to say something to her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whatever. I just happened to come,” said Ibuki. Then she looked in the other direction and grumbled, “Why don’t you just leave me alone?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay, fine. Oh, but if you want, you can have some popcorn. Want some?” asked Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No,” Ibuki answered shortly. “Don’t need any.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Not only was Ibuki not looking at us, but she was even looking away from the screen, which must have been making her neck uncomfortable.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“By the way, how come Sakayanagi-san couldn’t identify the traitor in her class, anyway?” wondered Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What? What the hell’re you askin’ me that for all of the sudden?” snarled Ibuki. “You can just ask the idiot next to you.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“’Cause I’m not asking him. I’m asking you, Ibuki-san,” Kei replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Are you trying to pick a fight with me?” asked Ibuki, turning to show us an annoyed expression.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Kei laughed, teasing the fidgety Ibuki. I’m sure that there must’ve been some pent-up feelings deep down that she hadn’t processed yet. However, the fact that Kei was able to act so naturally around Ibuki, ignoring those pent-up feelings, was probably because she had gained strength of mind, and because time had given her resolution and composure.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“How the hell would I know? Do </span><span class="C_Current__And__Times_New_Roman__And__Italic">you</span><span class="C_Current__And__Times_New_Roman"> know?” asked Ibuki, looking past Kei to glare directly at me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No idea. It was a test where we couldn’t check on other classes. There’s no way I would know,” I answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah…” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Since Sakayanagi hadn’t said anything to anyone about the message that I gave through Hashimoto, the only information anyone else had is that Sakayanagi didn’t identify the traitor and lost, so that was getting spread around and picked apart. When I met with Morishita and Yamamura, I casually asked them about the situation with respect to that issue, and they told me that Hashimoto has still been sitting in class with a nonchalant look of innocence on his face, even though his classmates are pointing fingers at him behind his back. That’s because the traitor acting in such a way that they would not be detected by the representative was in accordance with the rules, after all. Which meant that it was purely Sakayanagi’s fault for failing to detect him. That discussion out of the way, the three of us quietly stared at the screen as the trailers began to play.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Chapter_Header"><span>6.2</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">A</span><span style=" font-size: 0.80em;">FTER THE MOVIE </span><span class="C_Current__And__Times_New_Roman">was over and Kei and I watched the entirety of the end credits, we both left the theater, hand in hand. The movie hadn’t exceeded my expectations, perhaps because the film’s catchphrase, “It will change the history of Japanese cinema,” was far too strong, but it was still passably interesting. By the way, the person next to us who had been glaring at me for a long time left in the middle of the end credits. I figured that she utterly detested the idea of leaving at the same time as Kei and me. If possible, I had wanted to ask her about her impressions of the film, but oh well. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Then, I looked over at my significant other with a sidelong glance as we walked together, our fingers intertwined. She was beautiful even in profile. Her gaze was directed straight ahead, her attention focused on the cell phone in her hand. Time passed slowly. As we moved forward step-by-step, my thoughts unexpectedly wandered. We had met up on a day off, sat down next to one another, and happily watched a movie together. It was the typical kind of date that you could find anywhere in the world.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Although it was an orthodox choice, it was strange when you really took the time to think about it. Movie screenings were generally around two hours long, give or take, and 99 percent of that time was spent looking at the screen instead of conversing with your partner. If lovers looked at one another during a memorable scene, they might happen to make eye contact or whisper into each other’s ears on rare occasion, but most of the time, they would be concentrating on the film. Depending on how you looked at it, those two hours were spent with the partners not interacting directly with each other.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I wondered why, despite that, this has become the established standard for dates. I understood that if you had just started going out, or if you weren’t officially dating yet, there wasn’t any need to force a conversation, and that it was easy to use the movie as a date idea because you could use it as a shared topic of conversation afterward. However, for couples who were already familiar with one another and were in love, there should be no need for that, and yet it was still one of the standard date activities.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I thought that was rather strange. Even though I had a myriad of questions about movie dates, the real appeal of it was that it provided an easy, shared conversation topic.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, if you asked me if the movie was interesting, I’d say yeah, it was fun, but I think it would’ve been better if we hadn’t set the bar too high when we went in. How was it for you, Kiyotaka?” asked Kei.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I feel the same about that high bar, but even accounting for that, it wasn’t bad. Actually, I’d say it leaned more toward being an enjoyable watch,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">A movie date is partly a test for the person who gave the invitation, to show off what kind of eye they have for movies. If the movie was interesting enough to discuss, even if it wasn’t a perfect score, that was something to be plenty happy about.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see,” she said. “I’m glad. By the way, which part did you find interesting? Personally, I…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">My mind wandered as she kept chatting. We had spent much of our private time together in this small, cramped school life, which was why we could expand the conversation in many ways if we had a topic to start from. If there was no movie to talk about, we could talk about yesterday or today. Or we could talk about last month or half a year ago, or even about next year.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">What you couldn’t talk about with family or friends, you could talk about with a partner. If I were to let myself wax sentimental about it, I could say that the time was irreplaceable—most definitely not a waste. Still holding hands the whole time, the two of us then headed to karaoke in Keyaki Mall. This was another one of those features of typical dates. As soon as we entered the establishment, we sat close together on the wide sofa. Then we proceeded to scramble for the microphone, press it against our faces, and sing our favorite songs, both solos and duets.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">We’ve had this kind of date many times now, over and over. They were happy times, without a doubt, and it was only natural to wish for it to last forever. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">It would be fine if it went on forever</span><span class="C_Current__And__Times_New_Roman">. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That wasn’t just my own self-centered feeling. I’m sure that my partner felt the same. It should never end.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">A bright future that went on forever.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Still, before we knew it, the two of us found ourselves together in silence. Although we were supposed to have been nuzzling up against each other and feeling each other’s body heat, there was instead a sensation of cooling down somehow. That was the signal. The distance between us had grown, and the time had come. Emotions that had been hidden inside the heart for a long time were what separated the two of us. My thoughts went to that as I followed this person’s gaze.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It had already been decided long ago that words of farewell would be said aloud soon. While I was busy fighting with the feeling of wanting to resist it, this day had arrived—the time of destiny. With that looming ahead, I couldn’t help but feel like I was going to break out in an unpleasant sweat.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I couldn’t believe it myself. I was confused. Despite the fact that I’ve traversed this kind of harsh battlefield many times before now, it was the first time for this: A violent, steady throbbing that I had never once felt before at all, let alone in any of the situations like this. As that time drew near, an incredible sense of regret washed over me. </span><span class="C_Current__And__Times_New_Roman__And__Italic">What in the world is this? </span><span class="C_Current__And__Times_New_Roman">I wondered. I was embarrassed at myself for being so calm and composed up until just moments ago. I had thought that those words of farewell would be easy to say.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I could see that it wasn’t an easy task at all.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Yes, that’s right.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I was able to realize, right on the verge.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">True feelings.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">I don’t want to break up</span><span class="C_Current__And__Times_New_Roman">.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I didn’t want to break up with the girl before me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I realized that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">I like you.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That feeling began to well up from the very bottom of my heart, without warning.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Until now, I had hardly noticed it. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Their charms.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Their face, voice, body—everything was lovely.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Their adorable mannerisms that I hadn’t seen, even though I thought I was looking.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">My voice wasn’t coming out.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Let’s break up.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even though I had planned to just toss those words out when the time came.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">One more time.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Once again, I tried to speak.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I looked them in the eyes and tried to force out those words: “Let’s break up.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I couldn’t.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">And I understood.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I wondered exactly when they had become a truly precious person.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">This was love. There was no way I could have said it, from the very beginning.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was because I knew that actually, I had really loved them, for a long time…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Yes. I’m gl—</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Let’s break up.”</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That’s right.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The two of us felt the same way.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If we each knew that we were thinking of each other, we would be fine.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">They are thinking about me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Up until yesterday, today, tomorrow, or next year.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Words like farewell would never come.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">There was no way something like that could happen…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I” always believed that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">But all of these thoughts were just delusions.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was just a wish, that I wanted things to be this way.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Cold, inhuman eyes were looking at me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The slow movement of his lips as he said, “Let’s break up.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">I don’t understand what he’s thinking. No, that’s not right. I don’t want to know.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do we have to?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I couldn’t believe how calmly those words came out of my throat. While the karaoke booth we occupied remained quiet, in the next room, someone was enthusiastically belting out an anime song. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes. I’m not looking to discuss whether we should or shouldn’t. Let’s just end this whole relationship right here and now,” answered Kiyotaka, saying those cruel words with the same look on his face that he always had.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I-I see…” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I was thirsty.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I wanted to drink some water.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">But my body just wouldn’t move.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">All I could manage to do was force an insincere, ingratiating smile, pretending that it didn’t affect me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You don’t seem surprised,” said Kiyotaka.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">When did I start liking him?</span><span class="C_Current__And__Times_New_Roman"> I wondered. I couldn’t recall the exact moment.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Somehow, I guess, I just, I knew. At least, I knew that your feelings were distant,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">No, that’s not true. I didn’t know. I had suspected that Kiyotaka didn’t have any feelings for me at all, from the very beginning. Any measure of love and affection between us was always one-sided. I had only fully realized that recently, but I probably already knew it deep down. That Kiyotaka had never once loved me. I had just continued to pretend that I was unaware of that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Then, why did he go out with me? I wasn’t going to ask him that question. I knew what Kiyotaka was thinking. Half of it was for my sake, and half of it was for himself, but it wasn’t a choice between left or right; Kiyotaka always took his own ideas as absolute. Which was why this must have been decided at the very beginning. It was just like how Cinderella’s magic was broken at midnight, no matter what she did. The time when my relationship with Kiyotaka would end had been decided from the start.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was just that the time had finally come. I really, really wanted to bawl my eyes out, cling onto him, and say I’d do anything. I wanted to plead that I would do whatever he wanted. Most likely, that’s what the me from a little while ago would have done, but not now. I couldn’t. Because even just resisting would have betrayed Kiyotaka’s expectations.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Is it necessary for me to explain why?” he asked, and pulled out his phone for some reason.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, that’s okay,” I replied. I wasn’t able to think straight, but I managed to maintain my smile as I shook my head from side to side.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“All right,” said Kiyotaka as he put his phone away. “Sorry I didn’t live up to your expectations.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s okay. I kinda had, um, well, a feeling like… To be honest, I was feeling like, well, things were a little, um, heavy.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I put on a false show of courage, continuing to pretend that everything was fine. What I said wasn’t true. My heart had always been with Kiyotaka. Like today, I had been trying to enjoy myself as much as I possibly could, so that I could forget my anxieties. Even at this moment, I wished I could tell him that I was lying, and that I wanted him to hold me, but there was a reason I was putting up a tough front like this.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That might be so,” answered Kiyotaka in a matter-of-fact tone, as though he were talking to a stranger.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I guess it’s just, like, um…how do I put it? It’s like our romance has kinda cooled off, like we’re not in love anymore. I mean, I don’t especially dislike you or anything, Kiyotaka. It’s just, well, maybe we could get along better if we went back to being, you know, friends.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">You can’t even imagine just how much courage I’m mustering right now as I’m talking to you, can you?</span><span class="C_Current__And__Times_New_Roman"> I thought. No matter how much I could feel Kiyotaka’s cold, hard emotions close to me, I pretended not to notice.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah. Going back to being just friends would be the most natural thing,” said Kiyotaka.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, I figured. I kinda… I mean, had the vague idea that we’d have to do that, and, uh…” I replied, nodding my head as I muttered. “Yeah, yeah…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">No… No, not like this. At this rate, we’ll…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Thanks for everything,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It had ended. With a big, foolish smile on my face, that I myself didn’t even understand. This last moment was about to come to an end.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If people ask you why we broke up, you can just say that you were the one who dumped me. That’s fine,” said Kiyotaka.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh? Are you sure? Don’t you think that might be a little embarrassing, though?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s fine,” he replied. “Of course, you can give any reason you want. I don’t care. If anyone asks me, I intend to tell them that I was dumped.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Then don’t say that you’re breaking up with me! Please, stay with me, forever and ever. Say that… Say that we’ll always be with each other and—</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“See you later. Karuizawa.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I reacted with a start for just a moment when he called me by my last name. From friends to lovers. From lovers to just friends. Regressing meant that everything that has happened until now had to be rewound, right? Kiyotaka, holding the slip for the cashier, got up and left the room. Without looking back at all.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">He showed no hesitation. He wasn’t stopping. The door he opened was immediately closed behind him, and I was left all alone.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“See…” I began.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I gulped unconsciously, swallowing my saliva. I didn’t want to say these words, but I had to spit them out…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“See… See you later. Ayanokouji…kun…” I muttered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The person I was smiling and waving at was no longer in sight, but that was fine. Because this was what Kiyotaka wanted, right? For me, who couldn’t live without relying on someone else, to learn how to live alone.</span><span class="C_Current__And__Times_New_Roman__And__Italic"> </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">I’m not much of a big deal as a person, but there are things that only I can do. I can at least read your feelings somewhat, which no one else can understand, right?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">That’s right, isn’t it?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Hey…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even if I wished for a miracle, it wasn’t going to open a closed door. In that silent space, I crumbled, all alone.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">I wonder if I did a good job in front of you, until the end?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Was I able to show you that I can stand on my own two feet?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Kiyotaka…</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Help me…</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_03" src="/hola-lector-agua/images/books/y2v12.5/OEBPS/Images/INTERIORIMAGES_03.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+7:["$","$L12",null,{"content":"$13","title":"Chapter 6: Illusion","volumeId":"y2v12.5","chapterIndex":20,"prevChapter":{"volumeId":"y2v12.5","chapter":19,"title":"Chapter 5: Anticipating"},"nextChapter":{"volumeId":"y2v12.5","chapter":22,"title":"Chapter 7: Even After Graduation"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Behind the Curtain","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Checking Each Answer","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Another Time","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: Vacant Throne","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 5: Anticipating","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 6: Illusion","href":"Text/section-0019.html#auto_bookmark_toc_19","index":20},{"label":"Chapter 7: Even After Graduation","href":"Text/section-0021.html#auto_bookmark_toc_21","index":22},{"label":"Chapter 8: Parent and Child, Child and Parent","href":"Text/section-0024.html#auto_bookmark_toc_24","index":25},{"label":"Chapter 9: Celebration","href":"Text/section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 10: The Promised Night","href":"Text/section-0030.html#auto_bookmark_toc_30","index":31},{"label":"Chapter 11: Goals","href":"Text/section-0037.html#auto_bookmark_toc_37","index":38},{"label":"Chapter 12: The Curtain Rises Once Again","href":"Text/section-0041.html#auto_bookmark_toc_41","index":42},{"label":"Postscript","href":"Text/section-0042.html#auto_bookmark_toc_42","index":43}],"volumeTitle":"Light Novel 2nd Year Volume 12.5","detailsLink":"/select/year-2/y2v12.5","returnLink":"/select","currentSpineIndex":20,"nextVolumeLink":"$undefined","nextVolumeTitle":"$undefined"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]
+14:I[27201,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+a:null
+10:[["$","title","0",{"children":"Classroom of the Elite Reader"}],["$","meta","1",{"name":"description","content":"A premium reader experience for Classroom of the Elite light novels."}],["$","meta","2",{"property":"og:title","content":"Classroom of the Elite Reader"}],["$","meta","3",{"property":"og:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","4",{"property":"og:url","content":"https://classroom-of-the-elite-reader.vercel.app"}],["$","meta","5",{"property":"og:site_name","content":"COTE Reader"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Classroom of the Elite Reader Preview"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Classroom of the Elite Reader"}],["$","meta","14",{"name":"twitter:description","content":"Read Classroom of the Elite light novels with a premium, immersive experience."}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/assets/preview-hero.png"}],["$","link","16",{"rel":"icon","href":"/hola-lector-agua/icon.svg?icon.ae5abf30.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","17",{}]]

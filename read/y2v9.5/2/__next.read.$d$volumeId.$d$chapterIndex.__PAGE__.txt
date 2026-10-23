@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T963,<div xmlns="http://www.w3.org/1999/xhtml" id="book-columns"><div xmlns="http://www.w3.org/1999/xhtml" id="book-inner">
+<p id="tableofcontents" class="P_TOC_Heading"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.1.1">Table of Contents</span></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/3"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.2.1">Character Gallery</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/8"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.3.1">Title Page</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/9"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.4.1">Copyrights and Credits</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/10"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.5.1">Table of Contents Page</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/11"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.6.1">Chapter 1: Irreplaceable Today</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/12"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.7.1">Chapter 2: Song of Loneliness</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/15"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.8.1">Chapter 3: Just A Hunch</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/18"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.9.1">Chapter 4: Casing Each Other Out</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/21"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.10.1">Chapter 5: Signs of Quiet</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/28"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.11.1">Chapter 6: Remaining Time</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/35"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.12.1">Chapter 7: Changing Relationships</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/38"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.13.1">Postscript</span></a></p>
+<p class="P_TOC_Entry_1"><a href="/read/y2v9.5/39"><span xmlns="http://www.w3.org/1999/xhtml" class="koboSpan" id="kobo.14.1">Newsletter</span></a></p>
+</div></div>0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Table of Contents","volumeId":"y2v9.5","chapterIndex":2,"nextChapter":{"volumeId":"y2v9.5","chapter":3,"title":"Character Gallery"},"toc":[{"label":"Table of Contents","href":"section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"section-0002.html","index":3},{"label":"Title Page","href":"section-0007.html","index":8},{"label":"Copyrights and Credits","href":"section-0008.html","index":9},{"label":"Table of Contents Page","href":"section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Irreplaceable Today","href":"section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: Song of Loneliness","href":"section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: Just A Hunch","href":"section-0014.html#auto_bookmark_toc_14","index":15},{"label":"Chapter 4: Casing Each Other Out","href":"section-0017.html#auto_bookmark_toc_17","index":18},{"label":"Chapter 5: Signs of Quiet","href":"section-0020.html#auto_bookmark_toc_20","index":21},{"label":"Chapter 6: Remaining Time","href":"section-0027.html#auto_bookmark_toc_27","index":28},{"label":"Chapter 7 - Epilogue : Changing Relationships","href":"section-0034.html#auto_bookmark_toc_34","index":35},{"label":"Postscript","href":"section-0037.html#auto_bookmark_toc_37","index":38}],"volumeTitle":"Light Novel 2nd Year Volume 9.5","detailsLink":"/select/year-2/y2v9.5","returnLink":"/select","currentSpineIndex":2,"nextVolumeLink":"/select/year-2/y2v10","nextVolumeTitle":"Light Novel 2nd Year Volume 10"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

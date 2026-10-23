@@ -1,0 +1,987 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T13db2,
+      
+      <p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_top"><span style=" font-weight: bold; font-size: 1.17em;">Chapter 3:<br/>Changing Relationships</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">A</span><span style=" font-size: 0.80em;">N UNUSUAL SPECTACLE</span><span style=" font-size: 1.00em;"> presented itself early one morning in Class C. A circle of girls seemed to have formed
+            around Karuizawa Kei, all making so much noise that it bordered on total pandemonium.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re awfully late today, Ayanokouji-kun,” said Horikita Suzune, my neighbor. We
+            had only about five minutes left until the morning bell rang to signal the start of
+            class.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I overslept.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“</span><span style=" font-style: italic; font-size: 1.00em;">Hm</span><span style=" font-size: 1.00em;">,” replied Horikita, disinterested. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Compared to our totally emotionless conversation, Kei’s group was practically on fire.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It sounds like Karuizawa-san broke up with Hirata-kun,” said Horikita.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is that why they’re all riled up today? A well-known couple broke it off?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“They were polite enough to talk so loud the whole class could hear. So the information’s
+            been drilled into my head, whether or not I wanted it.” She let out a heavy sigh,
+            sounding annoyed. “You seem to be close with Hirata-kun and Karuizawa-san. Didn’t
+            you know?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s not like I knew anything. It’s their private business.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It hadn’t seemed like she’d broached the topic yet back at the school camp, but I
+            guess she’d gone ahead and done it after all. They’d been a well-known couple all
+            through the whole school, so the news had really made some waves. Any third party
+            hearing about it had to have been shocked. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Still, all this really meant was that Kei’s and Hirata’s connection had ostensibly
+            severed. It didn’t necessarily mean Kei had lost her position as the queen bee of
+            the girls–though that might happen if someone else won Hirata’s heart and became his
+            one true love. Even then, I couldn’t see Kei being pushed out of her position. If
+            the other girls tried to disrespect her, Hirata himself would be the first person
+            to put a stop to it. If not, there would have been no point in him going so far to
+            save Kei as entering into a fake relationship with her.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So who dumped who?” I asked Horikita. I didn’t know the answer to that myself, so
+            there was nothing for Horikita to be suspicious about.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Seems like Karuizawa-san was the one who did the dumping.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s unexpected. She always seemed like the sort who’d want to date a good guy,
+            like as a status thing.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I suppose. That’s what I thought, at the very least…” Horikita eyed me for a moment
+            like she was suspicious of me, but looked away a moment later. She couldn’t read my
+            poker face, and the fact that she’d looked away was proof she was beginning to understand
+            that, too. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Still…Kei broke up with Hirata, huh? Made sense, considering she’d started the whole
+            fake relationship in the first place, and it didn’t </span><span style=" font-style: italic; font-size: 1.00em;">really </span><span style=" font-size: 1.00em;">matter who dumped who. It was probably Hirata who’d suggested that this arrangement
+            would be better for Kei. If he’d been the one to dump Kei, it might’ve posed a danger
+            to her status, suggesting there was something wrong with her. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Regardless, just looking around me made it obvious what a huge shock their breakup
+            had been for Class C. What I really found incredible, though, was how openly the girls
+            were discussing romantic affairs.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh, what? You broke up with him, and you don’t even have a new boyfriend lined up,
+            Karuizawa-san?!” asked Shinohara, her words carrying loud and clear across the room.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Even though Ike, Sudou, and the other guys were chatting amongst themselves, they
+            were clearly listening in on the girls’ conversation. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t know. I just think I need to step things up and move on. It would be easy
+            to just let Yousuke-kun pamper me, but I’ve got a lot I want to think about on my
+            own, you know?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The catastrophic breakup of </span><span style=" font-style: italic; font-size: 1.00em;">the</span><span style=" font-size: 1.00em;"> couple obviously had an impact on Class C, but it might’ve had an impact on the other
+            classes, too. If nothing else, the girls would certainly be fighting over who got
+            Hirata next.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I wonder how they can even think about things like romance. Considering the rules
+            of this school, you’d think there’d be no guarantee what tomorrow brings.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Maybe it’s exactly because there’s no guarantees that they’re enjoying the present
+            as much as they can.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I have no reason to deny that, as long as they’re not robbing someone else of their
+            future…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hirata Yousuke, the other subject of this conversation, sat surrounded by guys and
+            girls from our class, wearing his usual gentle expression. Even though he’d supposedly
+            just been dumped by his girlfriend, he didn’t look miserable at all. The clearest
+            proof of that was that Ike and Sudou weren’t heading on over to tease him.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">No… It might be more accurate to say they’d graduated from that sort of behavior.
+            They did look interested in the conversation, but didn’t seem to be whispering gossip.
+            Actually, if anything, it was Horikita and I who were having a tasteless conversation.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">After all the special exams and the training camp, those immature guys were starting
+            to change, little by little. Of course, it wasn’t as though everyone was maturing
+            at the same rate.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yo, Hirata! I heard you got dumped by Karuizawa? Don’t stress over it, dude! It’s
+            all good!” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I’d thought they were all capable of reading the room, but apparently, Yamauchi was
+            the exception. He approached Hirata, all smiles, smacking him on the shoulder. The
+            sight clearly made Ike and Sudou a bit uncomfortable, because they approached, flanking
+            Yamauchi and grabbing him from the sides.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, what’s the big deal? Come on, dudes, let’s all console Hirata together!” said
+            Yamauchi. “Even pretty boys can get dumped!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s not cool, man,” said Sudou. “Knock it off.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? But we’re talking about the big heartthrob getting dumped. Extra spicy, extra
+            rare!” Yamauchi just argued back, ignoring Sudou’s attempt to chastise him.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sorry, Hirata. I’ll get him outta here,” said Sudou.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s okay,” said Hirata. “It’s the truth, isn’t it?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He would have been well within his rights to look displeased, but he didn’t seem to
+            mind at all.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">From her seat beside me, Horikita spoke up suddenly. “That reminds me…what do you
+            know about Ichinose-san? I’ve been hearing some things about her that sound like slander
+            lately.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">A question about Class B, out of the blue? Hmm.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Maybe someone’s spreading rumors because they’re jealous of her? She’s popular. Or
+            maybe it’s part of a strategy to bring down Class B. What do these slanderous rumors
+            say?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m…” Horikita glanced around. “a little hesitant to say them out loud.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">She passed me her notebook under the desk. Scrawled on the page was a whole list of
+            things. Things like “She has a history of violent outbursts,” “She’s engaged in paid
+            dating,” “She’s committed theft and robbery,” and “She has a history of drug usage.”
+            Even the delinquents over there hadn’t checked off all the items on this list. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Those are some terrible rumors,” I said.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“She doesn’t seem like that kind of person at all, though…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, even if someone is starting rumors, I suppose they can’t be charged with a
+            crime.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s not true. Regardless of whether or not the defamatory statements are true
+            or false, if they’re spread publicly, and to enough people… it’s defamation of character.
+            You could sue,” said Horikita.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sure, out in the real world.” But this was high school. This was a self-contained
+            space filled with students who were minors. It wasn’t like these rumors were posted
+            on the internet for the whole world to see.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re saying that it doesn’t count as a crime at all, then?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Well, even if it couldn’t be punished through legal action, the school might still
+            choose to issue some form of punishment at its own discretion. But it would probably
+            be difficult to pinpoint precisely who had started the rumors. You could simply claim
+            that you’d heard it from someone else, and that would be the end of it. The school’s
+            attempts to investigate would only go so far, and in the end, the problem would remain
+            unresolved. All the school could really do was warn students not to thoughtlessly
+            spread more rumors.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">At any rate, it was clear that someone had been working to crush Ichinose for a while
+            now. It was most likely Sakayanagi pulling the strings here, but barely anyone seemed
+            to realize that. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What has Ichinose been doing in response?” I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No idea. It’s not like we’re close. And if I carelessly step forward, suspicion might
+            fall on us.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, it’s true that watching closely from the sidelines is the wisest option,” I
+            told her.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Still…I have to wonder if a strategy this cliched will really work against Ichinose-san,”
+            mused Horikita.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you mean?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No matter how bad the rumors are, the damage they can do is limited. Even I know
+            what kind of reputation Ichinose-san has in this school. This kind of harassment is
+            too vicious to be about something as everyday as envy, like you suggested.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re saying the culprit messed up?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I suppose. But, as the saying goes, ‘where there’s smoke, there’s fire,’” she replied.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, you’re saying that Ichinose has a history of violence, or did drugs, or something?”
+            I asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Even if the rumors are mostly baseless, maybe there’s one in the mix that’s true?”
+            said Horikita, before adding, “Well, it’s extremely unlikely, of course, but…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hmm. I guess there was no way to know yet whether everything was lies or nothing more
+            than rumors, just as Horikita said. And Sakayanagi had hinted that there might be
+            some truth to the rumors, even if just a shred of it.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well… it’s not like we’ll come up with answers just sitting here thinking about it.
+            Enough about that. It seems the school has released updated class rankings based on
+            the results of the school camp . Care to take a look?” asked Horikita.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Meh, I don’t really—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yes, I’m aware you don’t really care. But you really should know, just in case.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Fine, fine.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I flipped through the pages of the notebook she’d forced me to look at.</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.1</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">T</span><span style=" font-size: 0.80em;">HE UPROAR SURROUNDING</span><span style=" font-size: 1.00em;"> Hirata and Kei’s breakup that morning was still fresh in everyone’s minds when Class
+            C was rocked by yet more romantic drama. Classes had come to an end for the day, and
+            some students were heading off to their clubs, while others went back to their dorms.
+            In the midst of all that came an extremely unexpected visitor.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Please excuse me,” said the visitor. “Would Yamauchi Haruki-kun happen to be here?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The students still in the classroom turned toward Yamauchi in unison, shock plain
+            on their faces. As for Yamauchi, he’d probably been planning to head back to the dorm
+            with Ike and play a game, because he’d just cracked open a strategy guide.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh. Yeah, that’s me,” said Yamauchi, “but…what do you want?” He usually got excited
+            when he saw a cute girl, but this time? He seemed completely thrown.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The visitor was Sakayanagi, leader of the first-year Class A. And here she was, asking
+            for Yamauchi by name. “Would you mind giving me a moment of your time?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“O-of course! Uh, I don’t mind. I’m free.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hm. But you know, I’m afraid that this isn’t quite the place for this conversation.
+            Why don’t you meet me in the hallway by the stairs?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Perhaps she was concerned about the looks she was getting from other students. Sakayanagi
+            disappeared into the hall, her eyes cast downward. Silence fell upon Class C once
+            more.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, no, no, </span><span style=" font-style: italic; font-size: 1.00em;">no</span><span style=" font-size: 1.00em;">! This can’t be happening!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was Ike—standing next to Yamauchi—who broke the silence. If Sudou were here, there
+            probably would’ve been an even greater uproar, but he’d already left for basketball
+            practice. Everyone in the room, including Yamauchi himself, struggled to wrap their
+            heads around Sakayanagi’s bold entrance and invitation.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Suddenly, as if moving purely on instinct, Yamauchi snatched up his bag. “Sorry! Got
+            a little something to take care of!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Y-yeah, sure…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But just as he was about to bolt from the classroom, Horikita blocked the exit, as
+            if telling him to stop and think. “Wait, Yamauchi-kun—”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wh-what is it, Horikita?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Maybe she’s trying to bring Class C down.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? Why do ya think that?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I could say that the fact that </span><span style=" font-style: italic; font-size: 1.00em;">you’re</span><span style=" font-size: 1.00em;"> the one being invited out is abnormal, in and of itself.” Horikita’s face was serious,
+            and her words were as pointed as knives. This was taking bluntness a bit too far.
+            You couldn’t blame someone for thinking she was insulting them.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But, on the contrary, Yamauchi was rather positive about the whole thing.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You know that whole thing where you, like…fall in love with the transfer student
+            after crashing into her at the street corner, and she falls over all cute, and she’s
+            holding toast corners in her mouth? Yeah. You know, right?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Toast…corners?” repeated Horikita. She furrowed her brow, confused. Who </span><span style=" font-style: italic; font-size: 1.00em;">wouldn’t </span><span style=" font-size: 1.00em;">be confused, with just Yamauchi’s words to go on? But I’d seen him crash into Sakayanagi
+            back at the school camp, so I figured that was the incident he was referring to.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m going. Because Sakayanagi-chan is waiting for me.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Nothing Horikita could say was going to stop him. Yamauchi began walking off.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you plan to do if this does happen to be a trap?” she asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nah, no way.” He wasn’t even considering the possibility. “I’m definitely our class’s
+            ultimate weapon, but that’s why it’s all going to be fine. If it’s a trap—and that’s
+            a one-in-a-million chance—I’ll just handle it, okay?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He’d “handle it,” huh? Handle it how? I bet he didn’t even have a plan.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…I understand,” said Horikita. “I can’t stop you. But please, don’t get careless
+            and leak any valuable information related to our class’s internal affairs.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t worry ’bout it. I know.” And with that, Yamauchi left the classroom with a
+            huge grin on his face. Some of the students, Ike included amongst them, hurriedly
+            followed.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We should go too,” said Haruka, glancing not just at me, but at Keisei and Airi,
+            who’d been sitting with her. I couldn’t think of a reason </span><span style=" font-style: italic; font-size: 1.00em;">not </span><span style=" font-size: 1.00em;">to go, so I nodded and got up from my seat.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Out in the hallway, we immediately ran into Ike and a few of the boys.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ah, stop, stop! Over here!” The Professor called out to us before we could move on.
+            “Those two are talking over there, right now.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? What’s up with the way he’s talking?” Haruka muttered, noticing the Professor
+            no longer spoke in the bizarre, archaic way that he used to.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Seems like he got straightened out at the school camp,” I answered, offering an explanation
+            for the Professor’s newly serious manner of speaking.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It just feels like…I don’t know, he’s just less interesting. Ehh, who cares,” said
+            Haruka, almost immediately losing interest. We all focused our attention on Yamauchi
+            and Sakayanagi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Umm, so. Uh. What did you wanna…talk about?” asked Yamauchi nervously. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">As for Sakayanagi, she was running her left hand through her hair, looking somewhat
+            embarrassed. If I had to analyze this situation from a psychological perspective,
+            I’d say the hair thing was probably unconscious, meant to make her more attractive
+            to the member of the opposite sex whom she was interested in.</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P_TEXTBODY_CENTERALIGN_PAGEBREAK"><img alt="" height="100%" id="ClassroomElite-Vol9_INTERIORIMAGES_2" src="/hola-lector-agua/images/books/v9/OPS/ClassroomElite-Vol9_INTERIORIMAGES_2.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P_Prose_Formatting__And__Page_Break"><span style=" font-size: 1.00em;">“Wait,” muttered Ike, sounding frustrated, “maybe Sakayanagi seriously does have a
+            thing for Haruki?” He’d probably instinctively sensed that from Sakayanagi’s expressions
+            and gestures.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In this particular instance, however, I should probably assume that Sakayanagi was
+            deliberately trying to give off that impression. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In contrast to my calm, collected analysis—</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No, no, this is way too stupid,” Haruka spat. She looked sick to her stomach. “She’s
+            playing him. No way in hell that she could like Yamauchi-kun.” A woman’s intuition,
+            maybe?</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Y-yeah, I think you’re right,” said Airi, perhaps because she could sense the same
+            thing.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Come on! Men are </span><span style=" font-style: italic; font-size: 1.00em;">so</span><span style=" font-size: 1.00em;"> simple. How could someone be fooled by that obvious act?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Is she…</span><span style=" font-style: italic; font-size: 1.00em;">really</span><span style=" font-size: 1.00em;"> acting?” asked Keisei uncertainly. I guess I wouldn’t have noticed either if I hadn’t
+            looked carefully…</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“</span><span style=" font-style: italic; font-size: 1.00em;">Definitely</span><span style=" font-size: 1.00em;"> an act,” said Haruka, with absolute certainty.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Maybe she’s trying to get information about Class C, just like Horikita-san said?”
+            said Ike.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I don’t know, seems a bit obvious,” said Keisei. “You’d think there’s a better way
+            to do that. If she’d met up with Yamauchi in secret, it wouldn’t put us on our guard
+            like we are now. It would’ve made things way easier for her.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah, I suppose that’s true…” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Keisei was exactly right. Even if she were planning to lure Yamauchi into a trap,
+            there were plenty of ways to make contact with him without raising our suspicions.
+            Deliberately making the entirety of Class C aware of her actions would do her more
+            harm than good, implicating her in any problems that arose as a result. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">So maybe she actually did have a thing for Yamauchi, just like Keisei and Ike had
+            said. That would make more sense. But then again, Sakayanagi was aggressive and bold
+            in general, so it really could be either one. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“To tell you the truth,” said Sakayanagi, “I’ve been wanting to talk to you for a
+            while now.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“F-f-f-for real?” sputtered Yamauchi. “Like, for real for real?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, I don’t exactly have the kind of free time to lie about something like this,
+            do I?” she replied.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I watched them carefully as they talked, conducting my own analysis.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m afraid I can’t quite calm myself down here, Yamauchi. Maybe we should…go somewhere
+            else?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I-I see! Yeah, okay. Sure, let’s!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, then, come along now, please.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The two of them walked side by side, Yamauchi trying to match Sakayanagi’s slow pace.
+            It seemed like he </span><span style=" font-style: italic; font-size: 1.00em;">was</span><span style=" font-size: 1.00em;"> capable of showing the bare minimum of consideration. The other students watched
+            the pair walk away—they probably knew that trying to follow any longer would be difficult.</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.2</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">A</span><span style=" font-size: 0.80em;">LL OF THE MEMBERS</span><span style=" font-size: 1.00em;"> of the Ayanokouji Group had assembled in the café except for Akito, who’d headed
+            to his club activities.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Haruka kicked things off at once. “Okay, so what do you think is </span><span style=" font-style: italic; font-size: 1.00em;">really</span><span style=" font-size: 1.00em;"> going on with that whole farce earlier? What’re Yamauchi-kun and Sakayanagi-san </span><span style=" font-style: italic; font-size: 1.00em;">doing</span><span style=" font-size: 1.00em;">?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Can we really say that it was a farce for certain though?” asked Keisei.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s…of course it was! Anyone would know. Right, Airi?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, um.” Airi blushed. “I suppose. I think maybe it </span><span style=" font-style: italic; font-size: 1.00em;">could</span><span style=" font-size: 1.00em;">…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? But come on, it was so </span><span style=" font-style: italic; font-size: 1.00em;">obviously </span><span style=" font-size: 1.00em;">put on, right? As a show? Right?” said Haruka.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yeah, I suppose that the gestures she made did make it look one way… but like as
+            Keisei-kun said, do you really think she’d come right out and do something bad by
+            coming to visit Class C?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Come on,” said Haruka, “use your head. That’s part of the play; she wants to get
+            us all mixed up with reverse psychology.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hmm. So Haruka thought that by being so overt, Sakayanagi would make us think that
+            it was way too obvious to be a trap in the first place. It was possible.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you think, Kiyopon? Yukimuu? Do you seriously think there could be…romance?”
+            asked Haruka.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“This is a topic that I’m not very well versed in,” said Keisei. “I’ll pass on further
+            questions, thank you.” He clearly didn’t want to talk about romance any further. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Of course, now Haruka and Airi turned their gazes toward me.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“To be honest,” I said, “Yamauchi and Sakayanagi haven’t really interacted at all
+            until now. This is way too sudden for something so basic to turn into romance, don’t
+            you think?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Quite the level-headed opinion, Kiyopon,” said Haruka. “But falling in love doesn’t
+            always follow the same pattern or pace. People like Hirata-kun are one thing, I guess,
+            but I doubt Yamauchi-kun is the kind who needs a while to fall for someone.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In the end, the conversation stalled out due to our lack of further information. Eventually,
+            the topic changed from Yamauchi and Sakayanagi’s romance to what was going on within
+            Class C.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, speaking of Hirata-kun,” said Airi, “didn’t he break up with Karuizawa-san?”
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I can’t really say I’m surprised,” said Haruka. “Honestly, it seemed like they’d
+            break up for sure someday.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“R-really, Haruka?” sputtered Airi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I guess if you look at it as the leader of the boys going out with the leader of
+            the girls, then they make sense as a couple. But they’re not really a good match for
+            one another, y’know? It’s just like, how do I put it…? Hirata-kun seems like he’d
+            like a cute, gentle girl.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But I think that Karuizawa-san is really cute,” said Airi. “Don’t you think so, Kiyotaka-kun?”
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">She was asking me? It was a difficult question. Perhaps she asked me that because
+            she specifically wanted to hear </span><span style=" font-style: italic; font-size: 1.00em;">my</span><span style=" font-size: 1.00em;"> thoughts on that matter.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Dunno,” I said. “I’ve never really paid much attention to Karuizawa.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I didn’t know how Airi felt about that, but it was the only answer I could give.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hmm, well, I </span><span style=" font-style: italic; font-size: 1.00em;">suppose</span><span style=" font-size: 1.00em;"> that’s true.” said Haruka. “Anyhow, Karuizawa-san aside, the problem is that Hirata-kun
+            has become a free agent.” Thankfully, she was shifting the topic of conversation back
+            to Hirata. “It seems like there are quite a few girls in class who like Hirata-kun.
+            I wonder what’ll happen.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Really?” asked Airi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? You mean you never noticed? I mean…for example, Mii-chan definitely has a thing
+            for him.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well… now that you mention it, she certainly does look over at Hirata-kun now and
+            again.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I know, right?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Keisei took out his notebook, perhaps because he was getting fed up with all this
+            talk of romance. “I’d like to study for a bit, I think.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, that’s right, the year-end exam’s coming up soon… Well, that’s a depressing thought,”
+            said Haruka.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ll need to put together some study guides for you guys too,” said Keisei.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Haruka let out a little laugh before lowering her head down on the table, like she
+            was trying to make a full bowing motion. Chabashira hadn’t given us any special instructions
+            about the year-end exam, so it was probably going to be your standard written test.
+            If a student got a failing grade, they’ll be expelled at once. That was my guess,
+            anyway.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So when are we going to start our study group?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Let’s see,” said Keisei. “Hmm…how about after we’ve finished with the practice test
+            on the 15th? That’ll leave us about ten days until the final. If we focus on questions
+            that have cropped up in the past and the trends we’ve been seeing in class, we should
+            be good.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, ho!” Just like that, Haruka’s mood seemed to lift, probably because this meant
+            she could put off studying a little longer. “Just what I’d expect from you, Yukimuu!
+            A perfect plan. Completely agree, let’s roll with it.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The last special exam of the school year will probably be held after the year-end
+            final. In March, I expect,” said Keisei.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The last special exam of the year…” Airi echoed. “Wow, so our first year is already
+            almost over, huh?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We’ve certainly been through a lot,” said Haruka, “but it’s really gone by so fast,
+            hasn’t it?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Airi and Haruka both reflected back on the year for a moment…but Keisei brought them
+            out of their reverie at once. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s way too early to be reminiscing. If you fail the year-end final exam, you’ll
+            get expelled. Not to mention what’s in the special exam, too…” He probably didn’t
+            want them to lose focus.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Soon enough, Keisei was nose-deep in studying…and Haruka noticed something.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I followed her line of sight, spotting Ichinose with what looked like several guys
+            and girls, all Class B students. Unlike our own gathering, they all looked stiff and tense.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">If I had to guess, they were trying to come up with ways to protect Ichinose from
+            the defamation and slander currently directed her way. Ichinose herself, however,
+            probably didn’t want anything of the sort. She was behaving exactly the same as she
+            always did: chatting with her friends, engaging cheerfully with people everywhere
+            she went.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">What concerned me was that Kanzaki wasn’t around. He was Ichinose’s close confidant,
+            so I got the idea that they were together pretty frequently…</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It looks like she’s in quite a bit of trouble right now,” said Haruka, watching Ichinose
+            with mild indifference, “doesn’t it?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Some strange rumors are going around, I hear,” said Airi. “I don’t know who is spreading
+            them, but they really are awful…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s not really all that unusual though, is it?” asked Haruka. “I mean, yeah, this
+            time things have gone a little too far, but I’ve seen similar stuff pretty often.
+            You could say popular girls are just doomed to that fate, right?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You think so?” said Airi, a puzzled look on her face. “I didn’t know that at all…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sure. If you were more assertive and positive like Ichinose-san, you’d probably have
+            a ton of people getting jealous of you. Don’t you think, Airi?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was certainly possible. That being said, it didn’t seem like Airi was even capable
+            of picturing herself as the assertive type, no matter how hard she tried to envision
+            it.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ehh, probably best not to worry about it,” Haruka continued. “I bet Ichinose understands
+            that too.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I just listened to them talk, not really participating in the conversation myself.</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.3</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">A</span><span style=" font-size: 0.80em;">BOUT TWO HOURS LATER,</span><span style=" font-size: 1.00em;"> the girls were chatting amongst themselves while Keisei pored over his notebook.
+            I dipped in and out of the girls’ conversation while I fiddled with my phone. And
+            then, Haruka’s phone vibrated where it sat on the table.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, it’s from Miyacchi.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Haruka fiddled with the touchscreen options and answered the call on speaker phone.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You finished with club stuff?” she asked.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sorry, think I’ll be a little late.” It was Miyake Akito, and he sounded nervous.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh? Is practice running late or something?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“No…no, I think some trouble’s about to go down.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wait, trouble? What kind of trouble? Explain it to me so I can understand what’s
+            going on.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Class A and Class B are going at it. If the worst-case scenario happens and a fight
+            breaks out, I’ll probably need to step in and stop it.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Sounded like Akito hadn’t really gotten involved yet, but…Class A and Class B? The
+            faces of the core members of Class B flashed through my mind. Would Ichinose really
+            be so careless as to let a fight break out? </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Probably better to just leave it be,” said Haruka. “It doesn’t have anything to do
+            with </span><span style=" font-style: italic; font-size: 1.00em;">our</span><span style=" font-size: 1.00em;"> class.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Could be our problem tomorrow though,” said Akito, before ending the call. Although
+            normally a man of few words, he had a surprisingly passionate side to him. Like when
+            he’d welcomed Ryuuen into our group at the school camp, despite no one else wanting
+            anything to do with him.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I wonder who’s fighting…?” said Airi, sounding concerned.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s usually </span><span style=" font-style: italic; font-size: 1.00em;">that</span><span style=" font-size: 1.00em;"> class always starting fights. But not this time, I guess,” said Haruka. She was referring,
+            of course, to Ryuuen’s class, now demoted to D.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Me neither, now that I think about it,” said Airi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">The two girls titled their heads to the side in apparent contemplation, thinking about
+            this unexpected confrontation between Class A and Class B. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, Airi, Kiyopon, how about we head out and look for Miyacchi?” asked Haruka.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“B-But won’t that be dangerous?” asked Airi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well, sure, if things start to go down, our class might wind up getting dragged in
+            as collateral damage,” said Haruka with a teasing grin.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Airi shrunk back, looking a little frightened.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But don’t worry!” Haruka added. “Look, if something happens, I’m sure Miyacchi will
+            do something, right? He used to be a pretty bad dude in the past, they say.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“B-bad? Really?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well…by ‘</span><span style=" font-style: italic; font-size: 1.00em;">they </span><span style=" font-size: 1.00em;">say,</span><span style=" font-style: italic; font-size: 1.00em;">’ </span><span style=" font-size: 1.00em;">I pretty much just mean </span><span style=" font-style: italic; font-size: 1.00em;">he </span><span style=" font-size: 1.00em;">says.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hmm. Maybe that was why he didn’t fear dealing with someone like Ryuuen—because he
+            was confident in his own skills.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Anyway, Airi,” said Haruka, “if you get in trouble, I’m sure that Kiyopon will come
+            save you. Right?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…I’ll do the best I can,” I said. “But I’d really rather not be in any fights.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Aha ha ha! Well, no worries, right? It’s not like things are going to ever get that
+            violent here at this school. Uh. Probably…” Haruka trailed off vaguely, remembering
+            the several instances of violence that </span><span style=" font-style: italic; font-size: 1.00em;">had </span><span style=" font-size: 1.00em;">happened so far this school year. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Still, there wasn’t really any reason to not</span><span style=" font-style: italic; font-size: 1.00em;"> </span><span style=" font-size: 1.00em;">look for Akito, so we decided to do just that.</span></p>
+      
+      <div style="page-break-after: always;"/>
+      
+      <p class="P__STAR__STAR__STAR__page_break__And__Page_Break"><span style=" font-weight: bold; font-size: 1.17em;">3.4</span></p>
+      
+      <p class="P_Prose_Formatting"> </p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 3.00em;">W</span><span style=" font-size: 0.80em;">E DIDN’T SEE</span><span style=" font-size: 1.00em;"> any sign of Akito as headed for the archery club. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huuuh? Where is Miyacchi, anyway?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">We were certain he’d been heading to the café, meaning he’d probably changed direction
+            once he saw a fight brewing. We kept looking, and a few minutes later, we got some
+            reliable information from a classmate who was heading back to the dorms from club
+            activities. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">And so we arrived at a spot by the side of the gym, a short distance from the school
+            building, where we found two male students facing off against one another. Neither
+            of them appeared to be the people whom Haruka and Airi had been expecting.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">One of them was Hashimoto, from first-year Class A. The other was Kanzaki, from first-year
+            Class B. Akito stood between them, as if trying to keep a handle on the situation.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You guys aren’t really going to fight, are you?” asked Akito.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re real persistent, Miyake. Besides, I wasn’t the one trying to pick a fight
+            here in the first place. Kanzaki dragged me into this,” said Hashimoto. At that, my
+            eyes met his. “Looks like your friends have arrived, huh?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">When he said that, Akito and Kanzaki looked over in our direction at almost the exact
+            same time.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“…You guys came?” Akito didn’t sound thrilled to have us sticking our noses in this.
+            Well, I suppose there wasn’t anything to be gained by getting the girls involved in
+            this mess.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But Haruka spoke up, snapping back at Akito. “You’re the one who stuck your nose into
+            something weird, Miyacchi. We just came to save you.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Save me…” Akito looked to the sky regretfully. “Of course.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“So, what’s up? These two fighting?” asked Haruka.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Realizing there was no point arguing, Akito changed gears. “I was wrong about that.
+            But it does seem like the situation is rather hostile.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Kanzaki is the only hostile one,” said Hashimoto. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was certainly true that Hashimoto didn’t seem to be acting any differently than
+            usual. But Akito wasn’t taking Hashimoto’s word for it. “I sure hope you’re right
+            about that.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Akito didn’t seem like he was about to leave. Was a fight going to break out? He didn’t
+            seem sure either. Kanzaki, on the other hand, looked embarrassed to see us here, which
+            suggested he didn’t want anyone butting in.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Of course, he also knew he couldn’t exactly just ask us to leave. In the end, he didn’t
+            say a word to us, but he turned back to Hashimoto once again.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Picking up from where we left off before, Hashimoto,” said Kanzaki. “What have you
+            been doing after class? You’re not in any clubs. Why are you hanging around so late?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Does not being in a club mean I gotta head back to the dorm right away? I’m free
+            to do whatever I like after class. Besides, I think the only person present here who
+            actually belongs to a club is Miyake. Right?” replied Hashimoto. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He assertively roped us into the situation, using us to poke a hole in Kanzaki’s argument.
+            Unlike Kanzaki, it seemed Hashimoto found our presence quite convenient. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">We, the members of Ayanokouji Group, briefly exchanged looks. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">We couldn’t really say we were allies of Class A </span><span style=" font-style: italic; font-size: 1.00em;">or</span><span style=" font-size: 1.00em;"> Class B. Still, if we had to choose a side, it would inevitably be Class B because
+            of the truce between Horikita and Ichinose.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hashimoto grinned. “Ha! Can’t give me an answer, Kanzaki, can you?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“It’s not as though you’re here to meet with anyone,” said Kanzaki. Though his expression
+            remained as calm as ever, you could feel the force of personality behind his words.
+            “You’re just trying to grab random people and spread those rumors around, aren’t you?”
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">So he’d been pressing Hashimoto about the Ichinose rumors, and it had made Akito worry
+            they were going to come to blows. And now here we were. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hashimoto seemed to sense that Kanzaki knew what he was up to, because he nodded.
+            “Rumors? Oh, you mean the ones about Ichinose doing all kinds of bad stuff? What do
+            those have to do with me?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Playing dumb is just a waste of time,” said Kanzaki. “I’d like to make something
+            clear to you, here and now: your actions are so underhanded that I see little difference
+            between them and Ryuuen’s.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay, but even if you say that, I don’t really know how I can answer you.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hashimoto was being slippery and evasive in the face of Kanzaki’s attempts to corner
+            him. Akito, apparently having determined that they weren’t immediately about to start
+            throwing punches, came over to stand with us.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hey, what do we do now?” asked Haruka, directing her question to Akito in a low voice.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Nothing. For the time being, we watch. If they go their separate ways without anything
+            coming of it, that’ll be that.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“But… Is it okay for us to listen to this?” asked Airi anxiously. I got where she
+            was coming from; Class C had nothing to do with this discussion, and Kanzaki didn’t
+            seem happy that we were here.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What do you think, Kiyotaka?” Akito asked me.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Hmm. It’s probably fine if we listen until they tell us to go, right? If it turns
+            into a fight later, a third party like us could assert the legitimacy of the situation.
+            Which should help Kanzaki, if he needs it,” I reasoned.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Akito nodded in response, seemingly convinced.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">But Hashimoto went on about the rumors, taking it a step further. “Hey, Kanzaki. These
+            </span><span style=" font-style: italic; font-size: 1.00em;">rumors </span><span style=" font-size: 1.00em;">about Ichinose…are you really sure they’re just that? Just…rumors?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You know how it goes: ‘Where there’s smoke, there’s fire.’ You can’t blame somebody
+            for looking for the fire, can you?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Rumors don’t need a fire. Not if there’s some sneak blowing smoke all over the place.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hashimoto leaned back against a nearby wall. “I see. Well, it’s certainly true that
+            fires and rumors are separate things.” Proverbs didn’t always hold true in the real
+            world. “But can you say with absolute certainty that Ichinose doesn’t have a dark
+            past, Kanzaki?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“One year, Hashimoto. We’ve struggled together in Class B for about one year, through
+            thick and thin. So…yes, I </span><span style=" font-style: italic; font-size: 1.00em;">am </span><span style=" font-size: 1.00em;">certain.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh, please! Enough already, Kanzaki. You’re so corny, I can’t even look you in the
+            eye.” At that, Hashimoto lowered his gaze mockingly.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Of course, I’ve also asked Ichinose directly.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Oh? And what did she say?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“She told me not to worry, and not to be misled by all these rumors.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“In other words, that means she neither confirmed nor denied anything?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s true. That’s why I decided to believe her.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Dude, come on. Seriously? How much of a bleeding heart can you possibly be?” sneered
+            Hashimoto. He kept going. “No one </span><span style=" font-style: italic; font-size: 1.00em;">wants</span><span style=" font-size: 1.00em;"> to talk about their own dark past, and nobody’s going to tell the whole truth just
+            because a friend asks. Of course she wouldn’t</span><span style=" font-style: italic; font-size: 1.00em;"> </span><span style=" font-size: 1.00em;">tell her classmates the truth. Or what, do you think that just because she’s a good
+            person now, she was a good person in the past?” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Kanzaki didn’t appear to be shaken at all by his words. No, the look in his eyes was
+            of complete trust in Ichinose.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Hashimoto didn’t stop. “Just because you’re Ichinose’s right-hand man, you think she’s
+            gonna tell you everything? Come on, how naïve can you be?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Undisguised disgust at Kanzaki’s blind faith dripped from every word. That, or he’d
+            decided that there was no point in dragging out this confrontation.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’m not talking about that,” said Kanzaki. “I want you to tell me about yourself.
+            About what you’ve been doing today.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“All right, fine. I’ll tell you. Yeah, I’ve been spreading rumors about Ichinose,”
+            Hashimoto admitted. “Look, Kanzaki…you’re smart. You’re a caring guy. But that’s why
+            you shouldn’t get so involved in this. You can only blindly believe others, you know?
+            This just…isn’t your place.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“You’re saying you have no intention of retracting those rumors, then.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Retract the rumors? C’mon, don’t you think you’re getting it twisted? There’s no
+            </span><span style=" font-style: italic; font-size: 1.00em;">retracting </span><span style=" font-size: 1.00em;">rumors. They spread wherever they will. I just happened to encounter them along the
+            way and help pass them on,” said Hashimoto.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">So he admitted to spreading the rumors but flatly denied being their source. Still,
+            Kanzaki wasn’t backing down.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">No…he seemed to already know that Hashimoto wasn’t the source. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ve been conducting a thorough investigation of the students of Class A over the
+            last few days.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“And?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I’ve traced the source of all of the rumors back to a number of guys and girls from
+            first-year Class A. When I pressed those students about where they’d heard the rumors,
+            they responded with vague answers like ‘I don’t remember’ or ‘I heard them from somewhere.’
+            Much like the answer you just gave me right now. Every one of them. I’m sure that
+            you, of all people, must understand what that means, Hashimoto.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Someone had given instructions to those students.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Sorry, Kanzaki,” said Hashimoto, “but I haven’t got the faintest clue. If you don’t
+            mind, why don’t you say it outright?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“The rumors meant to defame Ichinose were almost certainly spread by first-year Class
+            A.” </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Don’t try to weasel out of it. I didn’t just ask the first-year students—I asked
+            the second-years and third-years too. They said they heard the rumors from </span><span style=" font-style: italic; font-size: 1.00em;">your</span><span style=" font-size: 1.00em;"> class. Exactly where I’d traced them back to. If necessary, I can call those students
+            and have them confirm the facts in person.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Apparently, Kanzaki and the rest of Class B had thoroughly investigated the source
+            of the rumors. He was convinced first-year Class A had spearheaded their creation,
+            which was why he was now confronting Hashimoto. The fact that he was working alone
+            probably meant that he was trying to avoid causing trouble for Ichinose. If a large
+            number of students caused a commotion, it would get the attention of students who
+            hadn’t initially been interested in the rumors. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Then again, it was entirely possible that Kanzaki was just handling this case entirely
+            on his own.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I see. So that’s why you’ve been stalking me again today.” Hashimoto shrugged and
+            let out a sigh.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Again,” huh? So he’d noticed Kanzaki tailing him some time ago. Although it didn’t
+            seem like he really cared about being followed, probably because he didn’t see it
+            as a real threat. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Was it Sakayanagi who told you to spread those rumors?” asked Kanzaki.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Uh, no?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay, then who? The only other person who could give out orders to Class A would
+            be Katsuragi.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Who knows? I’ve just been hanging out with other students. I picked up the rumors
+            somewhere along the way. Even if you say that the rumors came from Class A, what am
+            I supposed to do with that? Maybe it’s Ryuuen’s handiwork. Maybe he’s just been pretending
+            to be in retirement?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">After hearing that, Kanzaki changed his approach. “So you took stories without knowing
+            whether or not they were actually true, accepted them at face value, and just…spread
+            them around?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“That’s just how people work, isn’t it? It doesn’t matter if they’re true or made-up;
+            if the rumor is interesting, people are going to talk. Besides, us guys are nothing
+            compared to the girls in that department, eh?” Hashimoto directed his gaze over at
+            Haruka and Airi.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well… I certainly do like rumors, but…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“And sadly, the juicier the rumors, the more exciting they become. Try to think this
+            through a little more objectively, Kanzaki. Ichinose neither confirmed nor denied
+            the rumors. And she’s not asking anyone to help her, either. Don’t you think that’s
+            strange? If they’re a complete fabrication, then you’d think she’d be asking for help
+            finding their source, right?” said Hashimoto.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Ichinose has an extreme aversion to conflict,” said Kanzaki. “I believe she could
+            find it in her heart to show compassion to everyone…even those who spread vicious
+            rumors about her.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Since she wasn’t taking a stance of her own on the subject, Kanzaki couldn’t do anything
+            but choose to believe in her.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“God, you Class-B people…”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">In any case, Hashimoto’s words and behavior had led me to one conclusion: the rumors
+            being circulated about Ichinose…weren’t all lies, after all.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">I put aside my position as a student for a moment, examining this case from a social
+            perspective. Ichinose could probably sue the person(s) who’d started the rumor for
+            defamation of character. Regardless of whether the rumors were true, they’d damaged
+            her reputation, which gave her grounds to sue. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">…Unless, of course, the rumors involved facts that were already public knowledge.
+            If this </span><span style=" font-style: italic; font-size: 1.00em;">was</span><span style=" font-size: 1.00em;"> Sakayanagi’s handiwork, then it was all going according to plan. Ichinose’s silence
+            was proof it was working as intended.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">After giving Kanzaki a pat on the shoulder, Hashimoto thrust his hands into his pocket
+            and tried to walk off.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“We aren’t done talking,” said Kanzaki.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Come on, man, isn’t this enough? Even if we continue this conversation, it’s not
+            like we’re going to see eye-to-eye,” said Hashimoto.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">He gave Haruka and Airi a gentle wave, then headed off in the direction of the school
+            building. Something was off, here. My gut told me Hashimoto was acting differently
+            around me than he had when we were at the school camp. </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">It was nothing more than a hunch, though. I couldn’t put a finger on what, specifically,
+            had changed.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Please excuse me.” Kanzaki offered us a slight bow, and then walked back toward the
+            dorms rather than the school building.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Wow, okay,” said Haruka. “That right there? That was </span><span style=" font-style: italic; font-size: 1.00em;">awesome.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“What on earth,” said Akito, “was </span><span style=" font-style: italic; font-size: 1.00em;">awesome</span><span style=" font-size: 1.00em;"> about that?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Haruka stuck out her tongue. “Come on! It’s like, you know, we were on the verge of
+            things getting exciting. Besides, even in the off chance that we got attacked, you
+            could’ve totally taken the dude, right, Miyacchi?” She made a few quick jabbing motions
+            in the air to demonstrate.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I hear you used to be a delinquent?” I asked, following the flow of the conversation.
+            </span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Akito let out a heavy sigh. “Don’t tell people that, Haruka. I don’t really want it
+            getting around.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Come on, what’s the big deal?” she asked. “You’re different now, anyway. You were
+            really strong then, huh?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“I…I wasn’t some famous delinquent or anything, okay? Someone else was top dog at
+            the junior high I went to. That guy was way stronger than me.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Huh. Was it a pretty rough school?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Well yeah. That’s just how people were in my hometown. I mean, the adults, too. And
+            when they had kids, they’d raise ’em to be the same. Oh, by the way, Ryuuen from Class
+            D? He used to go to a junior high next to mine,” said Akito.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Whoa, seriously?!”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Yep. We ran into each other a few times when fights broke out between the schools.
+            I don’t think the guy really paid me any mind, though.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">Akito probably knew how to handle those kinds of situations because he’d had experience
+            brawling.</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay,” he said, “the conversation ends here. And don’t spread this outside the group,
+            okay?”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Okay, okay, I get it,” said Haruka. “How about we head back to the café? Yukimuu
+            is waitin’ for us.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">“Gotcha.”</span></p>
+      
+      <p class="P_Prose_Formatting"><span style=" font-size: 1.00em;">At the end of the day, this was Akito’s business, after all. If I was sure of anything,
+            it was that it was best not to dig any deeper.</span></p>
+      
+   0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 3: Changing Relationships","volumeId":"v9","chapterIndex":9,"prevChapter":{"volumeId":"v9","chapter":8,"title":"Chapter 2: The Student Council President’s Inclination"},"nextChapter":{"volumeId":"v9","chapter":10,"title":"Chapter 4: Unchanging Intent"},"toc":[{"label":"Table of Contents","href":"TableOfContents.html#tableofcontents","index":2},{"label":"Character Gallery","href":"section-0001.html#auto_bookmark_toc_top","index":3},{"label":"Table of Contents Page","href":"section-0002.html#auto_bookmark_toc_top","index":4},{"label":"Title Page","href":"section-0003.html#auto_bookmark_toc_top","index":5},{"label":"Copyrights and Credits","href":"section-0004.html#auto_bookmark_toc_top","index":6},{"label":"Chapter 1 - Prologue : Ichinose Honami’s Soliloquy","href":"section-0005.html#auto_bookmark_toc_top","index":7},{"label":"Chapter 2: The Student Council President’s Inclination","href":"section-0006.html#auto_bookmark_toc_top","index":8},{"label":"Chapter 3: Changing Relationships","href":"section-0007.html#auto_bookmark_toc_top","index":9},{"label":"Chapter 4: Unchanging Intent","href":"section-0008.html#auto_bookmark_toc_top","index":10},{"label":"Chapter 5: Ichinose’s Secret, Kamuro’s Secret","href":"section-0009.html#auto_bookmark_toc_top","index":11},{"label":"Chapter 6: Rumors Running Rampant","href":"section-0010.html#auto_bookmark_toc_top","index":12},{"label":"Chapter 7: Ambiguous Things","href":"section-0011.html#auto_bookmark_toc_top","index":13},{"label":"Chapter 8: All the Tricks","href":"section-0012.html#auto_bookmark_toc_top","index":14},{"label":"Chapter 9: Return","href":"section-0013.html#auto_bookmark_toc_top","index":15},{"label":"Epilogue: Postscript","href":"section-0014.html#auto_bookmark_toc_top","index":16}],"volumeTitle":"Light Novel Volume 9","detailsLink":"/select/year-1/v9","returnLink":"/select","currentSpineIndex":9,"nextVolumeLink":"/select/year-1/v10","nextVolumeTitle":"Light Novel Volume 10"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

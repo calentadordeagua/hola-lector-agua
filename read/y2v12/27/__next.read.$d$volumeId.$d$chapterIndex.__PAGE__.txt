@@ -1,0 +1,485 @@
+1:"$Sreact.fragment"
+2:I[15978,["/hola-lector-agua/_next/static/chunks/59dcd84a1352a67c.js","/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js"],"HtmlReader"]
+9:I[97367,["/hola-lector-agua/_next/static/chunks/ff1a16fafef87110.js","/hola-lector-agua/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T10dc4,
+  <p class="P__STAR__STAR__STAR__page_break" id="auto_bookmark_toc_26"><span>Chapter 8: Ayanokouji’s Scheme</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span style=" font-weight: bold; font-size: 2.40em; letter-spacing: 0.60mm;">O</span><span style=" font-size: 0.80em;">NCE I ENTERED</span><span class="C_Current__And__Times_New_Roman"> the classroom, Ichinose, still seated, gave me a kindhearted wave with a small motion of her hand, in a gesture of welcome.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I didn’t think you’d completely shut Horikita down. Looks like you were able to fight a perfect battle,” I remarked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I got lucky is all. Everything was just going my way,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I sat down in an empty seat, gazing sidelong at my humble opponent.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Guess we’ve got about four minutes or so left in our break. Would you mind having a little chat?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Not at all. That’d be more than okay. Actually, I’d like to chat with you too, Ayanokouji-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I couldn’t feel any enthusiasm for the upcoming battle from her at all. That was proof that you could create a feeling of just doing whatever it is you can do, regardless of who the opponent is.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“First, let me apologize for lying to you. Even though I said I wasn’t going to participate in the exam, I ultimately ended up appearing as a general,” I told her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s okay, that never bothered me. We’re enemies, so we can’t really talk honestly about everything, after all,” said Ichinose, readily handing me not just understanding but forgiveness.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I really appreciate it.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But may I ask you one question? What’s on your mind right now, Ayanokouji-kun?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If anything, I’d say my mind is going every which way, thinking about how I can fight against the powerful enemy before me right now. I talked briefly with Horikita before I came here, but she was totally worn out,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Really, I totally just got lucky though, that’s all. I have no idea if things will work out that well for me again,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I sure hope so.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji-kun, it…doesn’t seem like you’re feeling enthusiastic or nervous at all, or anything like that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You’re looking calm too, Ichinose. We’re the same.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I…am nervous, though. Extremely nervous. I naturally start feeling like that just from being around you, Ayanokouji-kun.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was a statement that would make anyone do a double take if they heard it. In fact, even the examiner, who was standing erect with a straight face, had a puzzled look for an instant.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But at the same time, I strongly feel a sense of security, too. I feel like it’s as if you’re supporting me, even though you’re the one I’m fighting. It’s strange, isn’t it? It’s contradictory, don’t you think?” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Which meant that my presence wasn’t a hindrance, but rather a help. There were less than three minutes left in the interval. I needed to make the most of the limited time.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“This is probably just my imagination, but I get the feeling that you don’t think you can lose, no matter who you face now. Do you?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I don’t know about all that. But I guess it’s not like I have </span><span class="C_Current__And__Times_New_Roman__And__Italic">no</span><span class="C_Current__And__Times_New_Roman"> confidence,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah, that makes sense. But at the same time, I know that there’s one element you’re anxious about. No matter how confident you are in your superiority here, there is a possibility of a sudden upset in this special exam.” I spoke a bit vaguely, thinking it would be easy for her to understand what I was trying to say.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes, you’re right. I think I probably don’t have any idea how to handle the traitor,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The system of having a traitor was something conceived and introduced based on the premise of how the school could incorporate it in a balanced manner, to leave the possibility of a sudden turnaround. The assumption was that, if possible, a traitor would want to lie for their own sake and their class. However, that didn’t necessarily mean that would increase the risk of expulsion. Even if someone with brash, shameless nerves risked expulsion and persisted in lying, could a representative come to a conclusion so easily? The answer to that would be “no.” The moment a representative declared a student was a traitor after they’d confessed to lying, that student would be expelled.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In other words, one student would be forcibly removed from your class. Few leaders would welcome such a thing. The rewards for the traitor were nothing but a sham; the role should be seen only as a job meant to provide uncertainty in the battle between representatives, to give even a disadvantaged side at least some chance. Ichinose, who had a keen eye for observation, might notice the existence of the traitor immediately, but even if she did, there was no hard guarantee that it wouldn’t lead to a development where that student was expelled from school. Even if it was 99 percent safe, it wasn’t 100 percent safe. </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The traitor system. That was why she was wary.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“As we’re about to head into the competition, I have one suggestion for both of us before we do,” I offered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“A suggestion? What is it?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s about the traitor, which you just brought up. Since we’re running out of time before the discussion begins, I wanted to make this clear: Only the student who is cast as the traitor in this special exam carries the risk of being expelled. And that’s fairly reasonable, since there’s such a big payoff for that role,” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yes, that’s true,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“This pointlessly places a heavy burden on the traitor. It’s a nasty rule that makes them try to fight harder for the sake of Class Points, even if they intend to confess. And I honestly think that this rule is a useless option for this battle,” I said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’d have to agree with that. I’m terrified of being deceived by the system of having a traitor, and I’d like to avoid a situation that could cause trouble for everyone, if possible,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“But, as long as both of us recognize that it’s a powerful weapon, we’ll use it if we’re put at a disadvantage. If you don’t mind, Ichinose, then how about we agree to tell each other who the respective traitors are and exhaust our rights with dialogue so that they’ll be used up? That would be one less unnecessary thing to worry about, for both of us. By that, I mean that we won’t fight each other in the first discussion, but instead we’ll discard our nominations and use up our traitors,” I offered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s not a bad suggestion. But…the right of being able to use your traitor is important too. Are you okay with giving that up, Ayanokouji-kun? They’re indispensable for turning a situation completely around.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was also a mechanism that could allow the side that thought they were at a disadvantage recover from a hopeless situation. It was only natural for Ichinose to have her doubts about me trying to throw that away.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Besides, is it even allowed under the rules for us to tell each other our traitors?” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There shouldn’t be any problem with that, of course. If I opened my tablet and showed it to the other class to let them know who the traitor is, that shouldn’t be a problem as far as the rules are concerned, right?” I asked, calling out to the examiner who was watching us from the corner of the classroom.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Y-yes, that’s correct. I don’t believe that would be a violation of any rules,” stammered the examiner.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I wondered for a moment if the examiner hadn’t expected anyone would try to take advantage of the rules in such a way, or if they simply didn’t expect to be addressed directly. The attending teacher nodded as well, though looking somewhat bewildered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Please check to be sure, just in case. I’m assuming it’s not an issue, but still,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When I urged the examiner to check, they began to ask for detailed confirmation via the intercom on their ear.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s not an issue,” reported the examiner.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, we’re both waiving our right to use the traitor, hmm. I never thought you’d propose something like that,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Normally, a development like this should have been a welcome thing for Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There is only one reason I want to abandon the system of using a traitor. It’s because I want to make sure that, if at all possible, no one is expelled from my class or from your class, Ichinose,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah. If there aren’t any traitors, then we won’t need to worry about that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With less than thirty seconds remaining in the countdown, I wondered what her answer would be.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What if I ask for a few conditions? I certainly agree that the right to use a traitor isn’t necessary. But if we manage to reach the end of the discussion with the traitor still remaining, they’ll get a reward. So, instead of waiving it, could you instead make it so that we’ll overlook it? I think that would probably be better for my class and your class, Ayanokouji-kun, because that way, we would be able to safely get fifty points,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If the proposal I was making was based on collusion, then it would be preferable to end the discussion with the traitor remaining. There were two options for rewards, Private Points or Class Points, but all we needed to do was pick a safe, smart student who would always choose Class Points. I deliberately refrained from mentioning that myself, but I figured that Ichinose would pick up on it. For Ichinose, who believed that she wouldn’t lose if she took me head-on and fought with a frontal attack, the traitor was her sole concern. The ideal development would be for both of us to be able to each use up our traitor rights in a mutually satisfactory manner.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“The discussion will begin starting now.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">An announcement was made. But I didn’t pay it any mind and continued speaking.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Got it. I’m fine with accepting that condition. I just want to make sure we have our stories straight so that other students won’t find out about this. Colluding so that we throw away our right to use the traitor means we are foregoing a precious means of turning things around. If I ended up losing as a result, I’m sure it wouldn’t be a laughing matter. I just don’t want to have the process occur from something like ‘Oh, I just couldn’t find the traitor,’ basically,” I told her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So that’s why you wanted to find out through dialogue, and wanted it to be, like, our right to use the traitor just got used up, right?” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Right. So I’m planning to call the traitor out for dialogue during in the middle of the discussion,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I told Ichinose that there were some priorities greater than Class Points, and we were headed to an agreement on our proposal.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“We have different goals, but we’ll exercise our right to use traitors based on our mutual interests. Is that okay with you?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay. But still, do you really want to nullify your right to use a traitor so much that you’d offer me a proposal like this?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">She probably asked me that because I was showing no aversion to the idea of her gaining fifty Class Points despite being her opponent.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Unlike your class, which is more cohesive, Horikita’s class still has some weak links. I’m sure that you have some ideas in mind as to who, but let’s say if, for example, Kouenji were the traitor, then he might betray us without batting an eye. And for his own benefit, of course. Besides, engaging with Kouenji in one-on-one dialogue is likely to be a nasty negotiation. Also, students like Ike and Hondou could get swept up by the sweet temptations the role offers and end up succumbing to it. If such a situation were to arise in the middle of a serious competition, we’d be forced to make a weighty decision, in the worst-case scenario,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">We wanted to eliminate the traitor system precisely so that we could protect our allies. Ichinose nodded strongly as she imagined such a situation, as if to say she understood what I was trying to say, and painfully so.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I can trust you to keep your promise that we won’t fight in this round then, right?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Of course. Even when it comes to entering the choices into my tablet, I’ll show you all of the steps directly,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“All right, that sounds good to me. Let’s go ahead and get rid of the right to use the traitor then,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">When the time came for us to decide upon our groups, I stood up with my tablet and went over to show it to her. While I disclosed what all five of my groups were, I made a suggestion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Let’s throw out the initial discussion so that we can eliminate the traitor system. So you can go ahead and choose any student you want to be the traitor. It should help make the dialogue go more smoothly,” I offered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay then, I’ve got it,” said Ichinose. “I think I’ll have Mako-chan do it, then.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Following her request, I exercised my right to send in a traitor. I selected Amikura Mako and confirmed my selection right in front of Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay, now you should be 100 percent clear on who the traitor is,” I told her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yep. All right, then, what should I do?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With that, Ichinose showed me her tablet, and I indicated the student that I wished to designate, then had her confirm. Now we were going to go into the discussion while knowing each other’s traitors. After returning to my seat, I grabbed on the backrest of the chair and lifted it up to place it directly in front of Ichinose, and sat down. The monitor was behind me, which meant that I would be entering a debate where I couldn’t see the discussion on the screen. From Ichinose’s perspective, my body would also be in the way of her view of the monitor, as well.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Return your seat immediately. This is an act of sabotage,” ordered the examiner.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Whether it’s interpreted as sabotage is up to my opponent. As I’m sure you’ve heard, I intend to disregard this discussion so that I can eliminate the traitor. I decided that, to be on the safe side, I needed to show that I wasn’t going to watch the discussion, to prove that I wouldn’t betray my opponent, which was why I moved my chair. So, Ichinose, is there a problem here?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, not at all. I’m not going to do anything in this discussion either. This makes us equal,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">A student turned his back on the monitor, which everyone was supposed to have been staring at with rapt attention, no matter who they were. A student who accepted his proposal and looked only at me, not at the monitor. I was sure that for the examiner, such a turn of events must have been outside of the realm of imagination. A discussion began among the participants alone, with no designation by the representative.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ichinose, even for someone like you, for whom it’s a given that you’d figure out who the traitor is normally, you ought to exercise your right to engage in dialogue a few times, where it feels appropriate. It’d come off as unnatural for a representative to act in such a way to eliminate the traitor, after all,” I offered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What about you, Ayanokouji-kun?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m going to call out the real traitor somewhere around round three,” I replied. “I’m going to set up dialogue with unrelated students in the first and second rounds, to make it look like I’m having some difficulty finding the traitor.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">You wouldn’t be penalized Life Points when you called up someone who wasn’t a traitor, anyway.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Then, to keep things fair, I’ll give you every last bit of information I have,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You don’t have to go that far. I trust you,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No, I won’t be satisfied otherwise.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">And so, after the five-minute discussion ended, Ichinose and I both chose to pass, while showing each other our tablets. I had called out an unrelated student, Okiya, as did Ichinose. We both left the classroom briefly and headed to separate rooms. The first male examiner I saw today had joined up with me and went into the other room with me. I figured he must have been the observer for dialogue.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Inside the other room, there were only two chairs, placed so that they were facing each other. Aside from that, it was just a simple area, with a teacher’s podium, like a normal classroom. Okiya, who had been summoned, arrived as well. Afterward, nothing special happened. I told Okiya that I had called him here because I suspected him of being the traitor, but he denied it, naturally. Obviously, since I knew who the traitor was, I concluded that he wasn’t the traitor.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Because Ichinose-san and Ayanokouji-kun were not able to discover the traitor, the traitor remains for both.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That announcement was made once I returned to the playing field. Neither the students participating in the discussion nor the other representatives on standby in the waiting room had any conceivable way of knowing that Ichinose and I were doing something so inconceivable.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh… Huh, so this is how they contact you. Here, I just got this message on my tablet,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With that, Ichinose showed me a message she received notifying her of the effects of the traitor, which said that Mitarai was an average student. I showed Ichinose my tablet as well. The second round played out similarly. We each called up irrelevant students and had them speak with us. Then we each asked them whether they were the traitor or not. Then, when they claimed to be innocent, we made the determination that yes, they were innocent, and after hearing the announcement, we returned to the room.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Welcome back, Ayanokouji-kun. An announcement was made while I was waiting for you,” reported Ichinose, since she had returned to the room before I did.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It seems like the announcements are played in other rooms as well,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Then, Ichinose told me the second role, and we went into the third round. I could only hear the audio, but the discussion seemed to be going well and getting lively. Nevertheless, the students from Class B probably wouldn’t be able to settle down as long as the traitor remained in the game. After the five minutes of discussion ended and Ichinose and I both passed, I got up out of my seat.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m going to go ahead and take care of the right to use a traitor now,” I announced.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay. I’ll be waiting,” said Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If I can declare the traitor in this third round, and then see the discussion to its end, that’ll be when things really start. But first, I need to take care of what needs to be handled. I left the classroom for a third time and went to the classroom dedicated for dialogue. Maezono, the traitor, stood before me, having arrived before I did and waited for me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So now it’s my turn, then?” asked Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry. I’ve got no idea who the traitor is, so my mind’s just going all over the place,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Maezono sat down in the seat reserved for her, looking somewhat uncomfortable.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sure you’ve probably got a lot of things you want to ask, but for now, let’s focus on the dialogue. That’s what we’re here for,” I told her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sure, that’s all well and good, but…don’t forget the fact that we participants have no clue what’s going on here at all, so we’re all feeling totally anxious while we’re fighting this battle. Oh, and I’m not the traitor, either. So don’t go declaring I am, even by mistake, okay?” said Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The traitors didn’t know exactly to what extent their presence was a hindrance to the representatives. They only knew about the danger of expulsion they faced if they lied in the dialogue and were declared a traitor.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I know that. I haven’t doubted you from the beginning, Maezono, and I’m not going to make a declaration. I’m just calling up my classmates haphazardly because I basically have no clues whatsoever. I hope you’ll forgive me for that. Anyway, I had engaged in dialogue with Hondou before, and he said that you’re suspicious,” I told her.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh? Hondou-kun said that? What the hell? That really pisses me off</span><span class="C_Current__And__Properties__And__Times_New_Roman">,</span><span class="C_Current__And__Times_New_Roman">” snapped Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Can you think of any reason why he would say something like that?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hmm… Well, maybe, but… No, I’m sorry. I don’t know,” she answered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. In that case, I guess I’ll just keep searching patiently, and go onto the fourth person.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I think that’s a good idea. Well, to be honest, if we can get Class Points from the traitor not being discovered and making it to the end, and our class doesn’t lose the exam, then it might be better to just leave things be, actually,” said Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah. Still, let me just formally confirm it, for the sake of keeping things moving. The dialogue can’t end if the participant doesn’t make a confession. You’re not the traitor, are you, Maezono-san?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I repeated the same words I had spoken to Okiya and Hondou just a little earlier, word for word.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Hey, um… So if I were the traitor, and I lied, what would happen to you, Ayanokouji-kun? You wouldn’t lose, would you?” asked Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“While it would put me at a slight disadvantage, it’s not a major impediment for me, and there’s no liability whatsoever. Actually, wait, in fact, it might be even more convenient to have the traitor lie, if possible,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“So, what I said earlier about Class Poi—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah. But we shouldn’t talk about that too much,” I said, cutting her off. “The rules of the dialogue probably prohibit diving too deeply into this exam’s rules.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Yeah…” said Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“At any rate, you’re innocent, Maezono. You can be sure that I will say what I think, without hesitation,” I remarked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">As if to confirm my intentions, the school made an announcement.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Maezono-san, please make your confession.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“’Kay. I’m not the traitor. So, Ayanokouji-kun, do your best as a representative, okay?” said Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">With that, the pledge from the participant side was officially made. Maezono took a breath, got up from her seat, and turned her back to me. At the same time, the examiner also began to prepare to leave the room. I took a deep breath, as I sat there, staring at the now empty chair.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I am convinced that Maezono is a traitor to the class. I’m declaring as such,” I announced.</span></p>
+
+  <p class="P_Prose_Formatting">&#160;</p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was my reply.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Silence fell over the room.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh…?” blinked Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Maezono, who hadn’t expected to even bother listening to what I would say next since it would be so obvious, looked back at me with a confused expression.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh? What…? What did you say?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Did you not hear me? I said that you are the traitor, Maezono,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Wha—huh…? No, hold on, I told you that’s wrong. Why? I wasn’t acting suspicious or anything, was… Wait, no, hold on. Huh? If I remember right, if someone’s declared the traitor, they get expelled, right? Huh? What? I’m not wrong, am I? That’s not what’s going to happen now, is it?” stammered Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It was understandable that Maezono was upset. If the traitor hid their identity and was declared to be the traitor by the representative, then serious punishment from the school awaited them: expulsion. Therefore, lying wasn’t something that they could do lightly. The representative, if they wanted to protect their classmates, absolutely could not do something like conclude that one of their fellow students was suspicious, so this was all a bit of a contradiction. There were appealing rewards available for the traitor, and there was still the desire to lie.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Therefore, it was to the traitor’s advantage to lie if they knew that they absolutely wouldn’t be declared as such. That rule was a “major flaw” that could be said to be based on the assumption of the belief that human nature is fundamentally good. If you wanted to abuse that, you could use it for unjust and fiendish means.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Don’t worry. You’re not wrong. Your expulsion has now been made definite,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Stopping and looking back at me, Maezono was instantly overwhelmed with emotion.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Wh-what?! This doesn’t make any sense! I only lied for the sake of the class, because you said that you didn’t suspect me, Ayanokouji-kun! Don’t you get that?! You said you </span><span class="C_Current__And__Times_New_Roman__And__Italic">wouldn’t</span><span class="C_Current__And__Times_New_Roman"> declare I was the traitor in the first place!” shouted Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Participants are given the prior right to confess whether they are the traitor or not and make that determination. The representatives then must choose whether to declare that they are the traitor or innocent. Those are the rules of the dialogue,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">It didn’t matter what I said before Maezono confessed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Huh? What? Huh? What? O-okay. Then, I’ll confess!” said Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There’s no point in confessing now. Examiner, could you please escort Maezono from the room?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I urged the examiner, who was left too dumbstruck to take action, but instead, he said something unexpected.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Are you really sure you’re okay with this? Do you realize that if you continue, your classmate is going to be expelled? This special exam was suddenly modified in order to prevent such a thing happening in the first place, and—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The examiner, who by all accounts wasn’t supposed to have been allowed to interject, let his protests slip before restraining himself. Distraught like a child, he covered his mouth and seemed to be struggling desperately to hold back the rest of what he had to say. The examiner glanced over at the camera installed in the room and bowed his head as if to apologize for his impoliteness. Judging from the way he panicked, I figured that the way I used this system was unexpected.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Also, considering that bit of information that he had let slip like an idiot, I wondered if there were any special circumstances involved in this End-of-Year Special Exam. There was the fact that the rules were not disclosed to the students until the very last minute, as well as the complete isolation between representatives and participants and the lack of information sharing. Moreover, what stuck out to me was the fact that it was a lenient system, one where no one would get expelled if they did things normally.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Well, let’s just shelve that issue for now</span><span class="C_Current__And__Times_New_Roman">, I thought to myself. I needed to proceed with the matter before me.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“We will confirm with you once more, Ayanokouji-kun. Are you sure you do not wish to have Maezono-san do her confession over again?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Surprisingly enough, the school was apparently willing to give her a chance to do it over again. How kind.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. All right, then, would you return to your seat, Maezono? It would seem that I can decide whether or not to give you the right to confess again, so in that case, we can consider starting over,” I remarked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Though Maezono was angry, she hurried back to her chair and sat down. She turned to look at me, her anger-filled eyes seemingly saying, “</span><span class="C_Current__And__Times_New_Roman__And__Italic">What the hell are you playing at? I’m going to kill you!” </span><span class="C_Current__And__Times_New_Roman">She didn’t appear to be upset with herself about lying without thinking about the matter too deeply. If it had been either Ryuuen or Sakayanagi sitting in front of her instead of me, I’m sure she probably would’ve confessed no matter what anyone said.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“To tell you the truth, there actually is a reason I want to have you expelled, Maezono. I had told my fellow classmates in advance that I was going to take part in this special exam as the general of the representatives, but I had asked you all not to leak that information outside. However, it turned out that that information, which should have been kept secret, had reached Ichinose’s class. How do you think that happened?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“W-well, that’s…” she stammered.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It was because someone leaked that information. And it was you, Maezono. Wasn’t it?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">There was absolutely no benefit in lying here. It was clear as day that if she displeased me, she would not be given the right to confess again.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Well, yes, it’s true that…I probably…did leak…it. B-but I didn’t think that it would get all the way to Ichinose-san’s class! Really!” wailed Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Who did you leak it to?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s—!” she squeaked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You want me to tell you the name of the person that you leaked it to? Class 2-A’s—”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">After realizing that I had already identified the specific class that the person was from, Maezono exclaimed the name, like she was resigned to her fate.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“M-Masayoshi! I told Masayoshi!” she shouted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. Hashimoto. It doesn’t matter who you choose to date. But as long as you’re in different classes, there are lines you shouldn’t cross, even if your significant other asks you. Am I wrong?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I-I get that… But, but, it wasn’t like it was a major piece of info in this case! Besides, I have absolutely no idea why Masayoshi would’ve leaked it to them!” she exclaimed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">From Hashimoto’s point of view, if someone were to ask him whether he’d prefer that Horikita’s class were to win or lose, then naturally he’d hope for her to lose. In the unlikely event that Horikita had broken through and made it to Class A, then that would mean Hashimoto would simply have a new obstacle even if he did manage to knock Sakayanagi off her pedestal, and he’d likely determined that the chances of me transferring to another class would go down as well. I’m sure that Hashimoto must have managed to successfully get in touch with students from Class D and told them the news, so that they wouldn’t be too shaken on the day of the exam when I came forward as a representative. There wouldn’t be any harm for Hashimoto in doing at least that much.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You aren’t the one who gets to decide whether it’s major or not, or what the value of that information is. At the very least, I’m sure that Horikita must have conveyed that it was extremely important information,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I’m sorry! I’m sorry!” Maezono wailed. “I won’t do it again! It was just one time! I didn’t know!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You think this is your first offense?” I countered. “So, you’re saying that you didn’t ever go out of your way to gather a select few of our classmates and spread disturbing information about me to confuse them, and that you didn’t pass the information you gained from that to Hashimoto? You’re saying that’s not true?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Wha—”</span></p>
+
+  <p class="P_TEXTBODY_CENTERALIGN"><span><img alt="" height="100%" id="INTERIORIMAGES_06" src="/hola-lector-agua/images/books/y2v12/OEBPS/Images/INTERIORIMAGES_06.jpg" loading="lazy" decoding="async" style=" top: 0px; vertical-align: top; height: 100%;"/></span></p>
+
+  <p class="P_Prose_Formatting" id="auto_bookmark_toc_28"><span class="C_Current__And__Times_New_Roman">Even though it had happened at the end of last year, it should’ve been impossible for her not to remember that Hashimoto had asked her to do that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Th-that’s… Where did you find out about that…?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Where I learned it isn’t relevant right now,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Okay, okay already! I get it! I absolutely won’t do this sort of thing anymore!” she protested.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“If Hashimoto asked you to betray the class in order to be with him in the future, you wouldn’t hesitate to do so, wouldn’t you?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I wouldn’t!” she shouted. “There’s no way I would!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Sorry, but I can’t believe that.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That’s what I said, but it was conceivable that Maezono had learned from this painful experience and grown from it. Considering which class she belonged to, she would probably show a little more maturity from now on.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I won’t do it! I’ve been honest with you, so, please, forgive me already!” she shouted.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I see. I suppose that doing this any longer would be a waste of time,” I directed my gaze toward the camera, having decided to bring the matter to a close. “My determination hasn’t changed whatsoever. It is unnecessary to re-do the confession. Maezono is the traitor.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I made things final.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“This is so unfair! What is up with you?! What right do you have to be so mean and unfair?!” she exclaimed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The participant confesses, and the representative determines whether they are innocent or guilty. Nothing more, nothing less,” I replied, once again explaining to her the rules of the dialogue.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Maezono-san, please leave the room.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">The school had given us an extension, but they had ruled that they couldn’t take any more time on this. It was a firm decision that the school would now be disposing of Maezono here. But of course, Maezono adamantly refused to budge.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Because Ayanokouji-kun has determined that Maezono-san is the traitor after she had denied it, she will be dismissed from the room and expelled from the school.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“No! I won’t leave until you take it back!” Maezono shouted after the announcement.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What you can do right now is hope that Hashimoto will get expelled in this special exam. If that happens, then there might be a way for the two of you to be together in the outside world,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">However, if I were to offer my personal opinion, there wouldn’t be much hope of a future like that. Regardless of whether Hashimoto got expelled or not, he probably didn’t view Maezono as a true love interest. He simply got in touch with her to position himself in such a way so that he could graduate from Class A. If he couldn’t extract information from her any longer, she’d become worthless, and there wouldn’t be any point in him holding on to her. People who are no longer valuable are cast aside.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Take it back!” she shouted. “Take it back right now!”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I’m sure that many people would question whether it was even necessary for Maezono to be expelled. It wouldn’t have been that difficult to persuade Maezono that she was being used by Hashimoto and to undo his brainwashing. Sure, spreading sensitive information should be condemned but not so much so that it would merit expulsion. But for me, it was convenient in a lot of ways. I was simply making good use of the tool named Maezono that just so happened to be close at hand. That was all there was to it. Nothing more.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I will never, ever forgive you!!” screamed Maezono.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Turning from Maezono as she continued shouting, I decided to leave the room and finish everything. I could see that Maezono had tried to chase after me, only to be stopped by the examiner just before the door closed.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Just as before, the results of the dialogue would surely have reached Ichinose thanks to the announcement systems. The question of whether or not she heard the announcement was obvious from the look on her face. The soft, gentle expression that she had been wearing all this time had vanished, like she was a different person.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Ayanokouji-kun… Why…did Maezono-san end up getting expelled?” she asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I was sure that, as a representative herself, Ichinose should have known exactly what happened, though. She probably just wasn’t able to envision the how, even if she understood the why.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Oh. She didn’t tell the truth. So I judged her to be guilty, and she was dealt with accordingly,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“B-but, I mean, you already knew that, didn’t you? So why did you do something like that, despite the fact…?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“‘Why,’ huh? The reason I said I was going to use up the traitor system was so that I could use it to get Maezono expelled. That’s all there was to it,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">If we hadn’t colluded, the probability that Ichinose would have chosen Maezono as the traitor on her own was extremely small. That was why I suggested that we align with one another and abandon our right to use the traitor. I also had her decide who the traitor would be for her class so Ichinose would have no choice but to do the same for me. Since the other party had done so, the same action was required in order to stay fair.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“We both made good on our promise to each other to exercise and therefore eliminate our right to use the traitor. Ichinose, you even got fifty points for your class by cooperating and not identifying the traitor, so there is no problem between you and me. And of course, it won’t get in the way with the serious competition that is going to follow,” I added.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">While there were some things I hadn’t explained, I didn’t do anything that would put Ichinose’s class at a disadvantage. Rather, you could say that my efforts put them in a better position. However, as for deciding the winner and loser between Ichinose and me, the tables were turning in a big way.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Normally, one would be happy that a student from another class got expelled, but Ichinose wasn’t like that. She would probably regret that she had been complicit, albeit unknowingly, in Maezono’s expulsion. Moreover, she had even gained Class Points out of it. However, this whole traitor business was nothing more than the beginning. The strategy that I would use in order to win was starting in earnest right now.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Thank you for your cooperation, Ichinose. Thanks to you, I was able to dispose of a defective product with ease,” I remarked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">That’s awful</span><span class="C_Current__And__Times_New_Roman">. Ichinose had probably wanted to say something like that, but she couldn’t open her mouth to speak. She couldn’t say a bad thing about me precisely because of the genuine, heartfelt feelings of affection that she undeniably had for me. Beyond the conversation the two of us were having, the discussion had resumed, but since I was abandoning this current discussion in its entirety, this round was basically free time.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“It’s going to be a while before the next discussion, so how about I tell you a little story?” I began.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“A story?” repeated Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose couldn’t get the issue of Maezono out of her mind, but for now, there was no choice but to keep moving forward. She probably wouldn’t have her spirit broken for something as trivial as that. Ichinose had become that much of a formidable person now. For special exams, there wasn’t just one ability you needed to win. It wasn’t difficult to imagine how the representatives from both of our classes had fared in their fights so far.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">They would have been watching the students’ discussion over the monitor, keeping a close eye on their friends’ and foes’ every word and every move, so that they wouldn’t fail to catch a thing. In particular, the slightest change in a classmate’s facial expression could provide a major clue to the representatives. Of course, if they didn’t do that, then none of them would have gotten anywhere. That was precisely why Horikita had perceived Ichinose’s overwhelming ability to see the students as something that made her a powerful foe. Then, Horikita and Ichinose competed, and Ichinose was defeated.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">That was basically the same for Sakayanagi and Ryuuen’s classes. But when it came to competing and winning here, that wasn’t everything. It wasn’t just about correctly identifying the model students and the position holders, as has been incorporated into the rules. You could also make your opponent nominate someone irrelevant or provoke them into self-destructing. That was why I was sure that some of the earlier representatives had tried to shake their opponents up mentally too.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">Are you really sure you want to nominate that student? Isn’t that student over there suspicious?</span><span class="C_Current__And__Times_New_Roman"> They would try to mislead with statements such as that. If you increased the number of choices from two to three, the probability of error increased accordingly. If a student wasn’t used to real competitions, words like that would probably have some effect. However, they would hardly work at all on someone like Ryuuen, Sakayanagi, or Ichinose. Instead, they would become more cautious and may even end up seeing something that they hadn’t been able to see before.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">So how could you deceive the minds of students who were such leading figures and deprive them of the ability to make normal decisions? If their minds were focused on the special exam, then the answer lay outside of that. It was vital to completely shatter their clear, levelheaded thinking by introducing a completely unrelated topic. If you knew that a part of your body was being targeted, then anyone would make sure to protect that area. However, if someone were to then go after your legs in an unexpected way, it would naturally be difficult to respond to that.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Do you remember? There was a little incident that happened in our grade last year. When it came to light that a certain class leader had shoplifted in the past,” I continued.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“About me, you mean,” replied Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose, still unable to understand the situation, found herself suddenly being dragged by her feet into the darkness.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That incident was partly caused by you, who never doubted anyone, relaxing your guard and telling Sakayanagi about it. But was the story getting revealed to the entire school actually Sakayanagi’s handiwork in the first place, truly?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What do you mean?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“The incriminating notes that were discovered in the dormitory mailboxes. Was it really Sakayanagi who planted those? Haven’t you ever wondered about that, at least once?” I asked.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose was silent, perhaps because she was thinking back to what happened then.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“There were a few rumors that circulated before that revelation, though. Terrible, awful rumors about you, Ichinose. Things about how you had a history of violence, paid dating, and theft. I think that it was probably Sakayanagi who had disseminated those rumors, but at that stage, they were simply rumors and gossip, with plenty of outright lies mixed in. That was why even you were able to endure it, Ichinose.” </span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose’s eyes were downcast, but I kept speaking without hesitation.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What if I had been working behind the scenes, to give things just one more push, at that time? What if I was the one who planted the letter in the mailbox, mentally pushing you toward confessing the truth?”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“What are you saying?” asked Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Even when I explained it in plain terms, Ichinose seemed unable to understand. That was understandable, though. It wasn’t just Ichinose; other students had also believed that it was Sakayanagi’s handiwork. There was also the fact that Kiriyama was used to blatantly spread lies outside of Class A, including Horikita’s class.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“You seem to think this is a bad joke on my part. But can you say for certain that isn’t what happened?” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I crossed my legs, asking Ichinose that question, after she had built up strong defenses thus far. In the past few months, Ichinose had undergone a series of peculiar mental changes. That had created a kind of composure, which allowed Ichinose to move forward in this exam as one of the strong ones. However, one of the underlying reasons for that was my existence, and what if that existence was actually much more cruel than she imagined? What if she knew that I was someone who would betray others without hesitation, and even drive Maezono to expulsion?</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“Because, I mean… Ayanokouji-kun, you… There wouldn’t be any benefit for you in doing something like that…” stammered Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“That’s not true. Sakayanagi may have intended to just keep things at a level where you would take it as a warning, so that she could use it to threaten you at a later time. However, by forcefully involving myself at that point, I was able to take that away from her. And by helping you, Ichinose, your trust in me would inevitably increase. No matter how you look at it, that is a sufficient benefit,” I explained.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I can’t believe that…” muttered Ichinose.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“I understand that you don’t want to believe it, but it’s the truth. If you want, you can go ahead and ask Sakayanagi after the exam. Ask her, ‘Was it you who put those letters in the mailboxes?’ I’m sure if you told her what I told you, she’d give you an honest answer,” I replied.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Now, if I just delivered the final touches thoroughly, that would be the end.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">“For everything I have ever done with you, Ichinose, there has always been an ulterior motive. Every single thing. Whether it was that time on the uninhabited island or that night of the school trip, I only ever acted in my own interest. I was merely using you, nothing more. And the promise we made one year ago too…”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Ichinose was no longer sure what was right anymore, not even those words we spoke to each other, confirming that promise, on the bench just a little while ago. Those words had certainly been spoken, but there was no longer any belief in them. The first discussion was over, and the interval before the next discussion had begun.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Representatives, please select a new group.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">I did as the mild-mannered announcement instructed and selected a group. Ichinose operated her own tablet a moment later, but her expression was blank. But that was to be expected, when things like this special exam had already been pushed into the back of her mind. She had been dragged into a deep darkness. Even the matter of Maezono’s expulsion was now a distant memory.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">You could say that everything had gone hazy. The man in front of her wasn’t an ally. He wasn’t a supporter. The more honest and decent someone’s thinking was, the more they would be dragged into the darkness, so much so that they’d be beyond help. I pulled back my chair and put it back where it was. Ichinose’s eyes, watching the monitor next to me, didn’t have the light and vitality that they had held just moments before. Even though she was looking at the monitor, the conversation we just had was probably firmly stuck in her head.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Reality and falsehood. Truth and lies. She would end up thinking about it even if she didn’t want to. People are creatures who, even if they weren’t speaking, cannot easily empty their minds. In fact, I’m sure that the more she turned her mind toward the exam, which she needed to concentrate on, the more those thoughts would grow. I figured that, at this moment, Ichinose probably felt like she was under attack, like her mind was going blank.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Her vision certainly captured what was happening on the monitor, and her hearing was most certainly working as well. Yet, that information wasn’t reaching her brain like normal. That wasn’t magic or anything, it was just the structure and mechanisms of the human body. Her heart rate and blood pressure were elevated, and her peripheral blood vessels were constricted. Her pupils were dilated, narrowing her field of vision. And the workings of her prefrontal cortex, which controlled relative and rational functions, were degraded. Recovery from that condition would not be easy at present.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">In that case, the rest was easy. I could watch the debate quietly at my leisure, make my deductions, and find the model students. My opponent no longer had the trump card of sending in a traitor either. The debate could continue without incident. It didn’t take very long before the time came.</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman__And__Italic">“Ayanokouji-kun identified the model student, so Ichinose-san loses three Life Points. Now that Ichinose-san’s Life Points have been depleted, Ichinose-san has been defeated… We ask that you please leave the room at this time.”</span></p>
+
+  <p class="P_Prose_Formatting"><span class="C_Current__And__Times_New_Roman">Horikita’s class had won a major victory, without ­being forced into a difficult battle at all.</span></p>
+0:{"buildId":"xTs_Uh3z_t9CBVjB8m3b9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"content":"$3","title":"Chapter 8: Ayanokouji’s Scheme","volumeId":"y2v12","chapterIndex":27,"prevChapter":{"volumeId":"y2v12","chapter":19,"title":"Chapter 7: Bitter Tears"},"nextChapter":{"volumeId":"y2v12","chapter":30,"title":"Chapter 9: An Awaited Opponent"},"toc":[{"label":"Table of Contents","href":"Text/section-0001.html#tableofcontents","index":2},{"label":"Character Gallery","href":"Text/section-0002.html","index":3},{"label":"Title Page","href":"Text/section-0007.html","index":8},{"label":"Copyrights and Credits","href":"Text/section-0008.html","index":9},{"label":"Table of Contents Page","href":"Text/section-0009.html","index":10},{"label":"Chapter 1 - Prologue : Hoshinomiya Chie’s Soliloquy","href":"Text/section-0010.html#auto_bookmark_toc_10","index":11},{"label":"Chapter 2: The Unusual End-of-Year Special Exam","href":"Text/section-0011.html#auto_bookmark_toc_11","index":12},{"label":"Chapter 3: What Ought to Be Finished","href":"Text/section-0012.html#auto_bookmark_toc_12","index":13},{"label":"Chapter 4: The End-of-Year Special Exam Begins","href":"Text/section-0013.html#auto_bookmark_toc_13","index":14},{"label":"Chapter 5: The Battle of the Vanguards","href":"Text/section-0014.html#auto_bookmark_toc_14","index":15},{"label":"Chapter 6: Katsuragi’s Counterattack","href":"Text/section-0015.html#auto_bookmark_toc_15","index":16},{"label":"Chapter 7: Bitter Tears","href":"Text/section-0018.html#auto_bookmark_toc_18","index":19},{"label":"Chapter 8: Ayanokouji’s Scheme","href":"Text/section-0026.html#auto_bookmark_toc_26","index":27},{"label":"Chapter 9: An Awaited Opponent","href":"Text/section-0029.html#auto_bookmark_toc_29","index":30},{"label":"Chapter 10 - Epilogue : The Truth Is…","href":"Text/section-0036.html#auto_bookmark_toc_36","index":37},{"label":"Postscript","href":"Text/section-0039.html#auto_bookmark_toc_39","index":40}],"volumeTitle":"Light Novel 2nd Year Volume 12","detailsLink":"/select/year-2/y2v12","returnLink":"/select","currentSpineIndex":27,"nextVolumeLink":"/select/year-2/y2v12.5","nextVolumeTitle":"Light Novel 2nd Year Volume 12.5"}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/hola-lector-agua/_next/static/chunks/d548d1e4b2255406.js","async":true}]
+5:["$","script","script-1",{"src":"/hola-lector-agua/_next/static/chunks/2aeac92579e59d89.js","async":true}]
+6:["$","script","script-2",{"src":"/hola-lector-agua/_next/static/chunks/618cc3a09d79e3e5.js","async":true}]
+7:["$","script","script-3",{"src":"/hola-lector-agua/_next/static/chunks/799f0051eeffaa6b.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null
